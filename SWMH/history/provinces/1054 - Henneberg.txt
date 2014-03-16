@@ -1,0 +1,17 @@
+# 1054 - Henneberg
+# County Title
+title = c_henneberg
+
+# Settlements
+max_settlements = 3
+
+b_henneberg = castle
+#b_arnstadt = city
+#b_salzungen = castle
+#b_schmalkalden = castle
+
+
+#Misc
+religion = catholic
+culture = german
+

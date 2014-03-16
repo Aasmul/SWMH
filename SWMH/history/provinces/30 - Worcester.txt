@@ -1,0 +1,26 @@
+# 30 - Worcester
+
+# County Title
+title = c_worcester
+
+# Settlements
+max_settlements = 4
+
+b_worcester = castle
+b_evesham = temple
+#b_droitwich = city
+#b_pershore = temple
+#b_malvern = temple
+#b_kidderminster = city
+#b_bromsgrove = city
+#b_feckenham = city
+#b_elmey_castle = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+
+# History
+962.1.1 = { capital = b_evesham }
+1100.11.11 = { culture = english }

@@ -1,0 +1,22 @@
+# 1070 - Paphos
+
+# County Title
+title = c_paphos
+
+# Settlements
+max_settlements = 3
+
+b_paphos = castle
+b_peristerona = city
+
+#b_solia = temple
+#b_kykko = temple
+#b_morphou = city
+#b_agridi = castle
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+

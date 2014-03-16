@@ -1,0 +1,30 @@
+# 1524 - Vrbas
+
+# County Title
+title = c_vrbas
+
+# Settlements
+max_settlements = 2
+
+b_vrbaski_grad = castle
+#b_kozarac = city
+#b_zvecaj = castle
+#b_glaz_ukrina = castle
+#b_liplje = temple
+
+
+# Misc
+culture = croatian
+religion = catholic
+
+
+# History
+1150.1.1= { b_kozarac = city } 
+1232.1.1= { religion = bogomilist } 
+
+
+ 
+
+ 
+
+ 

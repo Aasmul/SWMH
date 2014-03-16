@@ -1,0 +1,26 @@
+# 263 - Holstein
+
+# County Title
+title = c_holstein
+
+# Settlements
+max_settlements = 4
+
+b_itzehoe = castle
+
+b_gluckstadt = city  
+#b_pinneberg = castle
+#b_elmshorn = castle
+#b_schenfeldt = castle
+#b_brunsbuttel = city
+#b_wilster = city
+
+## Misc
+culture = german
+religion = catholic
+
+# History
+1237.1.1 = { trade_post = b_vorrade }
+
+
+

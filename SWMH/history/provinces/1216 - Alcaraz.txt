@@ -1,0 +1,17 @@
+# 1216 - Alcaraz
+
+# County Title
+title = c_alcaraz
+
+# Settlements
+max_settlements = 3
+b_alcaraz = castle
+b_barrax = city
+#b_munera = temple
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+

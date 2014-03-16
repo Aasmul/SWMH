@@ -1,0 +1,15 @@
+# 1505 - Upper Atbara
+
+# County Title
+title = c_uper_atbara
+
+# Settlements
+max_settlements = 1
+
+b_showak = castle
+
+# Misc
+culture = beja
+religion = pagan
+
+# History

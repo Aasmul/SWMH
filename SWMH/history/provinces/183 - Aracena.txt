@@ -1,0 +1,21 @@
+# 183 - Aracena
+
+# County Title
+title = c_aracena
+
+# Settlements
+max_settlements = 4
+b_merida = castle
+b_llerena = temple
+b_azuaga = city
+#b_medellin = castle
+#b_almendralejo = city
+#b_zalamea = temple
+#b_monesterio = temple
+
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1246.1.1 = { religion = catholic }
+1255.1.1 = { culture = castillan }

@@ -1,0 +1,841 @@
+###############################################################
+#  SWMH Baltic group Characters
+###############################################################
+#Range: 1000227700 - 1000227849
+###############################################################
+#
+########################################
+#Lettigallish
+########################################
+###Selonians
+1000227700 = {
+	name="Jãnis"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+	840.1.1 = {
+		birth=yes
+	}
+	899.1.1 = {
+		death=yes
+	}
+}
+1000227701 = {
+	name="Atvars"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227700
+	871.1.1 = {
+		birth=yes
+	}
+	935.1.1 = {
+		death=yes
+	}
+}
+1000227702 = {
+	name="Jãnis"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227701
+	897.1.1 = {
+		birth=yes
+	}
+	958.1.1 = {
+		death=yes
+	}
+}
+1000227703 = {
+	name="Atvars"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227702
+	931.1.1 = {
+		birth=yes
+	}
+	979.1.1 = {
+		death=yes
+	}
+}
+1000227704 = {
+	name="Jãnis"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227703
+	957.1.1 = {
+		birth=yes
+	}
+	995.1.1 = {
+		death=yes
+	}
+}
+1000227705 = {
+	name="Atvars"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227704
+	980.1.1 = {
+		birth=yes
+	}
+	1043.1.1 = {
+		death=yes
+	}
+}
+1000227706 = {
+	name="Jãnis"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227705
+	1006.1.1 = {
+		birth=yes
+	}
+	1059.1.1 = {
+		death=yes
+	}
+}
+1000227707 = {
+	name="Atvars"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227706
+	1033.1.1 = {
+		birth=yes
+	}
+	1098.1.1 = {
+		death=yes
+	}
+}
+1000227708 = {
+	name="Jãnis"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227707
+	1067.1.1 = {
+		birth=yes
+	}
+	1123.1.1 = {
+		death=yes
+	}
+}
+1000227709 = {
+	name="Atvars"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227708
+	1098.1.1 = {
+		birth=yes
+	}
+	1165.1.1 = {
+		death=yes
+	}
+}
+1000227710 = {
+	name="Jãnis"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227709
+	1131.1.1 = {
+		birth=yes
+	}
+	1192.1.1 = {
+		death=yes
+	}
+}
+1000227711 = {
+	name="Atvars"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227710
+	1163.1.1 = {
+		birth=yes
+	}
+	1202.1.1 = {
+		death=yes
+	}
+}
+1000227744 = {
+	name="Jãnis"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227711
+	1190.1.1 = {
+		birth=yes
+	}
+	1209.1.1 = {
+		death=yes
+	}
+}
+#
+1000227748 = {
+	name="Lambert" # Bishop of Selija 1224-1226 and Bishop of Zemigalia 1226-1232
+        dynasty=1000100755# von Solre
+	religion="catholic"
+	culture="german"
+	1180.1.1 = {
+		birth=yes
+	}
+	1235.1.1 = {
+		death=yes
+	}
+}
+###Talavians
+1000227712 = {
+	name="Brencis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+	839.1.1 = {
+		birth=yes
+	}
+	895.1.1 = {
+		death=yes
+	}
+}
+1000227713 = {
+	name="Zintis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227712
+	868.1.1 = {
+		birth=yes
+	}
+	922.1.1 = {
+		death=yes
+	}
+}
+1000227714 = {
+	name="Brencis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227713
+	888.1.1 = {
+		birth=yes
+	}
+	951.1.1 = {
+		death=yes
+	}
+}
+1000227715 = {
+	name="Zintis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227714
+	930.1.1 = {
+		birth=yes
+	}
+	973.1.1 = {
+		death=yes
+	}
+}
+1000227716 = {
+	name="Brencis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227715
+	955.1.1 = {
+		birth=yes
+	}
+	990.1.1 = {
+		death=yes
+	}
+}
+1000227717 = {
+	name="Zintis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227716
+	983.1.1 = {
+		birth=yes
+	}
+	1042.1.1 = {
+		death=yes
+	}
+}
+1000227718 = {
+	name="Brencis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227717
+	1008.1.1 = {
+		birth=yes
+	}
+	1059.1.1 = {
+		death=yes
+	}
+}
+1000227719 = {
+	name="Zintis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227718
+	1034.1.1 = {
+		birth=yes
+	}
+	1099.1.1 = {
+		death=yes
+	}
+}
+1000227720 = {
+	name="Brencis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227719
+	1069.1.1 = {
+		birth=yes
+	}
+	1121.1.1 = {
+		death=yes
+	}
+}
+1000227721 = {
+	name="Zintis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227720
+	1096.1.1 = {
+		birth=yes
+	}
+	1164.1.1 = {
+		death=yes
+	}
+}
+1000227722 = {
+	name="Brencis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227721
+	1133.1.1 = {
+		birth=yes
+	}
+	1175.1.1 = {
+		death=yes
+	}
+}
+##RL 
+1000227723 = {
+	name="Tãlivaldis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227722
+	1150.1.1 = {
+		birth=yes
+	}
+	1180.1.1 = {
+		religion="orthodox"  # defeated by Novgorod
+	}
+	1215.1.1 = {
+		death=yes
+	}
+}
+1000227724 = {
+	name="Rameks"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227723
+	1173.1.1 = {
+		birth=yes
+	}
+	1180.1.1 = {
+		religion="orthodox" # defeated by Novgorod
+	}
+	1215.1.1 = {
+		religion="catholic" # treaty with Riga
+	}
+	1224.1.1 = {
+		death=yes
+	}
+}
+1000227725 = {
+	name="Varibuls"
+        dynasty=1000100751 # of Tãlava
+	religion="orthodox"
+	culture="lettigallish"
+        father=1000227723
+	1182.1.1 = {
+		birth=yes
+	}
+	1215.1.1 = {
+		religion="catholic" # treaty with Riga
+	}
+	1240.1.1 = {
+		death=yes
+	}
+}
+1000227726 = {
+	name="Drivinalds"
+        dynasty=1000100751 # of Tãlava
+	religion="orthodox"
+	culture="lettigallish"
+        father=1000227723
+	1187.1.1 = {
+		birth=yes
+	}
+	1215.1.1 = {
+		religion="catholic" # treaty with Riga
+	}
+	1249.1.1 = {
+		death=yes
+	}
+}
+##RL
+###Deltuvians
+1000227727 = {
+	name="Jorûnas"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+	839.1.1 = {
+		birth=yes
+	}
+	895.1.1 = {
+		death=yes
+	}
+}
+1000227728 = {
+	name="Lizdeika"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227727
+	868.1.1 = {
+		birth=yes
+	}
+	922.1.1 = {
+		death=yes
+	}
+}
+1000227729 = {
+	name="Jorûnas"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227728
+	888.1.1 = {
+		birth=yes
+	}
+	951.1.1 = {
+		death=yes
+	}
+}
+1000227730 = {
+	name="Lizdeika"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227729
+	930.1.1 = {
+		birth=yes
+	}
+	973.1.1 = {
+		death=yes
+	}
+}
+1000227731 = {
+	name="Jorûnas"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227730
+	955.1.1 = {
+		birth=yes
+	}
+	990.1.1 = {
+		death=yes
+	}
+}
+1000227732 = {
+	name="Lizdeika"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227731
+	983.1.1 = {
+		birth=yes
+	}
+	1042.1.1 = {
+		death=yes
+	}
+}
+1000227733 = {
+	name="Jorûnas"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227732
+	1008.1.1 = {
+		birth=yes
+	}
+	1059.1.1 = {
+		death=yes
+	}
+}
+1000227734 = {
+	name="Lizdeika"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227733
+	1034.1.1 = {
+		birth=yes
+	}
+	1099.1.1 = {
+		death=yes
+	}
+}
+1000227735 = {
+	name="Jorûnas"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227734
+	1069.1.1 = {
+		birth=yes
+	}
+	1121.1.1 = {
+		death=yes
+	}
+}
+1000227736 = {
+	name="Lizdeika"
+        dynasty=1000100752 # of Deltuvaa
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227735
+	1096.1.1 = {
+		birth=yes
+	}
+	1164.1.1 = {
+		death=yes
+	}
+}
+1000227737 = {
+	name="Jorûnas"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227736
+	1133.1.1 = {
+		birth=yes
+	}
+	1175.1.1 = {
+		death=yes
+	}
+}
+1000227738 = {
+	name="Lizdeika"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227737
+	1150.1.1 = {
+		birth=yes
+	}
+	1200.1.1 = {
+		death=yes
+	}
+}
+1000227739 = {
+	name="Jorûnas"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227738
+	1180.1.1 = {
+		birth=yes
+	}
+	1230.1.1 = {
+		death=yes
+	}
+}
+1000227740 = {
+	name="Lizdeika"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+        father=1000227739
+	1200.1.1 = {
+		birth=yes
+	}
+	1264.1.1 = {
+		death=yes
+	}
+}
+####################
+#Koknese
+1000227741 = {
+	name="Vyachko" # Vesceka prince of Koknese in 1207
+        dynasty=1000100753 # of Koknese
+	religion="orthodox"
+	culture="russian" #lettigallish or Russian?
+	1150.1.1 = {
+		birth=yes
+	}
+	#1207.1.1 = {
+		religion="catholic" # forced to become vassal of Riga bishoperic
+	#}
+	1224.9.1 = {
+		death=yes # Fall of Tartu
+	}
+}
+1000227742 = {
+	name="Meinhard" # knight brother Meinhard of Koknese
+	religion="catholic"
+	culture="german"
+	1180.1.1 = {
+		birth=yes
+	}
+	1238.1.1 = {
+		death=yes
+	}
+}
+
+####################
+#Jersika
+
+1000227743 = {
+	name="Visvaldis" # Visvaldis of Jeriska
+        dynasty=1000100754 # of Jeriska
+	religion="orthodox"
+	culture="russian"
+	1180.1.1 = {
+		birth=yes
+	}
+# married the daguhter of Daugirutis of Lithuania before 1203
+	1209.1.1 = {
+		religion="catholic" # forced to become vassal of Riga bishoperic
+	}
+	1238.1.1 = {
+		death=yes
+	}
+}
+########################################
+#Semigalians #link between the three is completely specualtive. 
+1000227745 = {
+	name="Viestards" # King of Semigalians pre1205-1231ish
+        dynasty=1000100756 # Tervete
+	religion="baltic_pagan"
+	culture="lettigallish"
+	1180.1.1 = {
+		birth=yes
+	}
+	1231.12.1 = {
+		death=yes
+	}
+}
+1000227746 = {
+	name="Šabis" # Lord of Semigalians 1250ish-1272
+        dynasty=1000100756 # Tervete
+	religion="baltic_pagan"
+	culture="lettigallish"
+	1215.1.1 = {
+		birth=yes
+	}
+	1272.1.1 = {
+		death=yes
+	}
+}
+1000227747 = {
+	name="Nameisis" # Lord of Semigalians 1272-1281
+        dynasty=1000100756 # Tervete
+	religion="baltic_pagan"
+	culture="lettigallish"
+	1235.1.1 = {
+		birth=yes
+	}
+	1281.1.1 = {
+		death=yes
+	}
+}
+##Bishops of Zemigalia
+#1000227748 = {
+#	name="Lambert" # Bishop of Selija 1224-1226 and Bishop of Zemigalia 1226-1232
+#       dynasty=1000100755# von Solre
+#	religion="catholic"
+#	culture="german"
+#	1180.1.1 = {
+#		birth=yes
+#	}
+#	1235.1.1 = {
+#		death=yes
+#	}
+#}
+1000227749 = {
+	name="Baudoin" # Baldwin von Alna Bishop of Zemigalia 1232.01.28-1236
+        dynasty=1000100757# d’Aulne
+	religion="catholic"
+	culture="frankish"
+	1190.1.1 = {
+		birth=yes
+	}
+	1239.1.1 = {
+		death=yes
+	}
+}
+1000227750 = {
+	name="Arnold" # Bishop of Zemigalia 1236-1247.12.05
+	religion="catholic"
+	culture="frankish"
+	1205.1.1 = {
+		birth=yes
+	}
+	1280.1.1 = { 
+		death=yes
+	}
+}
+####
+#Kurland
+#Couronians
+1000227760 = {
+	name="Agris"
+        dynasty=100373
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=228075
+	1180.1.1 = {
+		birth=yes
+	}
+	1230.1.1 = { 
+		death=yes
+	}
+}
+1000227761 = {
+	name="Brencis" 
+        dynasty=100373
+	religion="baltic_pagan"
+	culture="lettigallish"
+        father=1000227760
+	1210.1.1 = {
+		birth=yes
+	}
+	1242.1.1 = { 
+		death=yes
+	}
+}
+###Bishops
+1000227751 = {
+	name="Heinrich" # Heinrich von Lützelburg Bishop of Zemigalia 1247.12.05-1251.03.03 Bishop of Kurzeme 1251.03.03-1263.02 and Chiemsee 1263.02-1274.02.08
+	religion="catholic"
+	culture="german"
+        dynasty=1000100758# von Lützelburg
+        #nephew of Sigfried III archbishop of Mainz
+	1205.1.1 = {
+		birth=yes
+	}
+	1274.2.8 = {
+		death=yes
+	}
+}
+#All subsequent was also priests of the teutonic order
+1000227752 = {
+	name="Edmund" # Bishop of Kurzeme 1263.02-1292.12.14
+	religion="catholic"
+	culture="german"
+        dynasty=1000100759# von Werth
+	1232.1.1 = {
+		birth=yes
+	}
+	1292.12.14 = { 
+		death=yes
+	}
+}
+1000227753 = {
+	name="Johann" # Johann I Bishop of Kurzeme 1292-1300
+	religion="catholic"
+	culture="german"
+	1240.1.1 = {
+		birth=yes
+	}
+	1300.1.1 = { 
+		death=yes
+	}
+}
+1000227754 = {
+	name="Burchard" # Bishop of Kurzeme 1300-1311
+	religion="catholic"
+	culture="german"
+	1260.1.1 = {
+		birth=yes
+	}
+	1317.7.24 = { 
+		death=yes
+	}
+}
+1000227755 = {
+	name="Paul" # Paul I Bishop of Kurzeme 1317.7.24-1328
+	religion="catholic"
+	culture="german"
+	1265.1.1 = {
+		birth=yes
+	}
+	1328.1.1 = { 
+		death=yes
+	}
+}
+1000227756 = {
+	name="Johann" # Johann II Bishop of Kurzeme 1328-1330
+	religion="catholic"
+	culture="german"
+	1268.1.1 = {
+		birth=yes
+	}
+	1330.1.1 = { 
+		death=yes
+	}
+}
+1000227757 = {
+	name="Bernhard" #  Bishop of Kurzeme 1330-1332
+	religion="catholic"
+	culture="german"
+	1274.1.1 = {
+		birth=yes
+	}
+	1332.1.1 = { 
+		death=yes
+	}
+}
+1000227758 = {
+	name="Johann" # Johann III Bishop of Kurzeme 1332-1353
+	religion="catholic"
+	culture="german"
+	1292.1.1 = {
+		birth=yes
+	}
+	1353.1.1 = { 
+		death=yes
+	}
+}
+1000227759 = {
+	name="Ludolf" # Johann III Bishop of Kurzeme 1354-1359
+	religion="catholic"
+	culture="german"
+	1310.1.1 = {
+		birth=yes
+	}
+	1359.1.1 = { 
+		death=yes
+	}
+}
+###

@@ -1,0 +1,23 @@
+# 993 - Belz
+
+# County Title
+title = c_belz
+
+# Settlements
+max_settlements = 5
+
+b_belz = castle
+b_cherven = city
+b_lubaczow = temple
+b_szcerbrzeszyn = castle
+#b_volyn = city
+#b_sokal = castle
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+989.1.1 = {culture = russian}
+989.1.1 = {religion = orthodox}
+1289.1.1 = { remove_settlement = b_cherven }

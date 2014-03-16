@@ -1,0 +1,286 @@
+
+428070 = {
+	name="Oiva"
+	dynasty=100579
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="finnish_pagan"
+	culture="finnish"
+	trait="greedy"
+	trait="cynical"
+	trait="underhanded_rogue"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+486030 = {
+	name="Mielus"
+	dynasty=100389
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+
+
+167734 = {
+	name="Viryas"
+	dynasty=9535
+	religion="finnish_pagan"
+	culture="tsuudi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+167735 = {
+	name="Kezhay"
+	dynasty=9536
+	religion="finnish_pagan"
+	culture="tsuudi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+167736 = {
+	name="Vechkas"
+	dynasty=9537
+	religion="finnish_pagan"
+	culture="tsuudi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+167737 = {
+	name="Nalka"
+	dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+167738 = {
+	name="Tyueykezhut"
+	dynasty=9539
+	religion="finnish_pagan"
+	culture="tsuudi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+#####
+#Torieda #previously 100377 Kukk,  holders of d_livs
+28023 = {
+	name="Menikko"
+	dynasty=1000053360
+	dna="qqjucwevgcy"
+	properties="giedcd0000"
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="finnish_pagan"
+	culture="livonian"
+	trait="diligent"
+	trait="tough_soldier"
+        father=1000227580
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+143150 = {
+	name="Ase"
+	dynasty=1000053360
+	religion="finnish_pagan"
+	culture="livonian"
+	father = 1000227580
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1139.1.1={
+		death="1139.1.1"
+	}
+}
+143151 = {
+	name="Menikko"
+	dynasty=1000053360
+	religion="finnish_pagan"
+	culture="livonian"
+	father = 143150
+	1119.1.1={
+		birth="1119.1.1"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+228023 = {
+	name="Parush"
+	dynasty=1000053360
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="finnish_pagan"
+	culture="livonian"
+	trait="diligent"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+####
+#Saarlane #previously 100376 Kask, holders of c_osel
+
+28021 = {
+	name="Vesa"
+	dynasty=1000053356
+	dna="maozoyrvjzx"
+	properties="ti0jbj0000"
+	martial=8
+	diplomacy=6
+	intrigue=8
+	stewardship=6
+	religion="finnish_pagan"
+	culture="tsuudi"
+	trait="skilled_tactician"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+144640 = {
+	name="Vesa"
+	dynasty=1000053356
+	religion="finnish_pagan"
+	culture="tsuudi"
+	father = 28021
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+228021 = {
+	name="Vetseke"
+	dynasty=1000053356
+	religion="finnish_pagan"
+	culture="tsuudi"
+	father=144640
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+#####
+#Ugandilane # preveiosuly 100379 Tamm, holders of c_dorpat in 1066
+28025 = {
+	name="Kettu"
+	dynasty=1000053353
+	dna="ahuyntligci"
+	properties="ej0cak0000"
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="finnish_pagan"
+	culture="tsuudi"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+#######
+#Harjulane #Previously 100380 Pärn
+#holders of d_esthonia in 1066
+
+28026 = {
+	name="Allikas"
+	dynasty=1000053350
+	dna="dylpzfhpgci"
+	properties="tbpcbd0000"
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="finnish_pagan"
+	culture="tsuudi"
+	trait="diligent"
+	trait="humble"
+	trait="martial_cleric"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+228026 = {
+	name="Vaishvilkas"
+	dynasty=1000053350
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="finnish_pagan"
+	culture="tsuudi"
+	trait="diligent"
+	trait="humble"
+	trait="martial_cleric"
+	father = 144631
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1219.1.1={
+		death="1219.1.1"
+	}
+}

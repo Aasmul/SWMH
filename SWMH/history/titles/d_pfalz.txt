@@ -1,0 +1,55 @@
+945.1.1=
+{
+liege="e_hre"
+}
+945.1.1={
+	holder = 20212
+}
+1015.1.1={
+	holder = 20208
+}
+1034.1.1={
+	holder = 20206
+}
+1045.1.1={
+	holder = 20216
+}
+1060.1.1=
+{
+	holder=20217
+}
+1085.9.20={
+	holder = 0 # End of the role of the Ezzonen and the role of count palatine of Lotharingia
+}
+1156.10.2=
+{
+liege="e_hre" # Frederick Barbarossa granted his half brother Conrad the Pfalz, title became hereditary 
+}
+1156.10.2={
+	holder=212490
+}
+1195.11.8={
+	holder = 212605
+}
+1212.1.1={
+	holder = 7401
+}
+1214.4.25={
+	holder = 212950
+}
+1231.9.15={
+	holder = 462756
+}
+1253.11.29={
+	holder = 462750
+}
+1294.2.2={
+	holder = 462736
+}
+1317.1.1={
+	holder = 462740
+}
+1323.8.1=
+{
+	holder=462749
+}

@@ -1,0 +1,19 @@
+# 103 - French Leon
+
+# County Title
+title = c_french_leon
+
+# Settlements
+max_settlements = 5
+b_st_pol_de_leon = castle
+b_brest = city
+b_st_meen = temple
+#b_roscoff = city
+#b_plougonven = temple
+#b_plourivo = temple
+
+# Misc
+culture = breton
+religion = catholic
+
+# History

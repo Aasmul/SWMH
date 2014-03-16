@@ -1,0 +1,20 @@
+1050.1.1={
+	liege="d_normandy"
+	holder=41220 #Simon II de Montfort
+       
+}
+1087.1.1={
+	holder=41222 #Amaury III de Montfort
+}
+1137.1.1={
+	holder=91201 #Amaury IV
+}
+1140.1.1={
+	holder=205822 #Simon III de Montfort
+}
+1181.1.1={
+	holder=205821 #Amaury V de Montfort
+}
+1182.1.1={
+	holder=205820 #Amaury VI de Montfort
+}

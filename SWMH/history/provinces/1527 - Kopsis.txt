@@ -1,0 +1,18 @@
+# 1527 - Kopsis
+
+# County Title
+title = c_kopsis
+
+# Settlements
+max_settlements = 3
+
+b_kopsis = castle
+b_beroe = temple
+b_ihtiman = city
+
+
+# Misc
+culture = bulgarian
+religion = bogomilist #many Paulicians were deported to here
+
+# History

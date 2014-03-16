@@ -1,0 +1,23 @@
+# 461 - Zagreb
+
+# County Title
+title = c_zagreb
+
+# Settlements
+max_settlements = 5
+
+b_medvedgrad = castle
+#b_kasina = temple
+b_gradec_zagreb = city
+b_kaptol = temple
+#b_bozjakovina = temple
+#b_vrbovec = castle
+#b_gornji_tkalec = temple
+#b_caszma = city
+b_sisak = temple
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History

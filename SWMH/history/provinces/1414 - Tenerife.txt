@@ -1,0 +1,17 @@
+# 1414 - Tenerife
+
+# County Title
+title = c_tenerife
+# Settlements
+max_settlements = 3
+b_lanzarote = castle
+b_tenerife = city
+b_lagomera = temple
+
+
+
+# Misc
+culture = zanata
+religion = west_african_pagan
+
+# History

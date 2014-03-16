@@ -1,0 +1,41 @@
+1035.1.1 = {
+	holder = 1000226301 # Wigod Thane of Wallingford
+        liege = "k_england"
+}
+1067.5.1 = {
+	holder = 1000227351 # Robert d'Oilly         
+}
+1071.1.1 = {
+	liege = "c_berks"       
+}
+1092.9.1 = {
+	holder = 1000227359 # Miles Crispin (first husband of Maud d'Oilly)
+}
+1107.1.1 = {
+	holder = 1000227360 # Brian fitz Count (second husband of Maud d'Oilly)
+}
+#### Reverted to the Crown
+1149.1.1={
+	holder=205851 #Stephen
+}
+1154.10.25={
+	holder=204500 #Henry II
+}
+###To the Earls of Cornwall
+1231.1.1={
+	holder=232682 #Richard of Cornwall
+}
+1272.4.2={
+	holder=204573 #Edmund of Cornwall
+}
+#### Reverted to the Crown
+1300.9.25={
+	holder=454520 #Edward I Longshanks
+}
+1307.1.2={
+	holder=454510 #Edward II
+}
+1327.2.1={
+	holder=454500 #Edward III
+}
+

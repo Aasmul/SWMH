@@ -1,0 +1,28 @@
+# 830 - Lemdiyya # Achir
+
+# County Title
+title = c_lemdiyya  # Achir
+
+# Settlements
+max_settlements = 4
+
+b_achir = castle
+b_djelfa = city
+
+#b_elyourh = temple
+#b_selmana = castle
+#b_ainzmila = castle
+
+#b_relizane = city
+#b_elrhenb = castle
+#b_sidimohammed = castle
+#b_elhachem = castle
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+
+

@@ -1,0 +1,25 @@
+# 53 - Cumberland
+
+# County Title
+title = c_cumberland
+
+# Settlements
+max_settlements = 3
+
+b_carlisle = castle
+b_egremont= castle
+#b_penrith = city
+#b_keswick = city
+#b_cockermouth = city
+#b_dacre = castle
+#b_gilsland
+#b_bewcastle
+
+
+# Misc
+culture = cumbric
+religion = catholic
+
+# History
+#1068.1.1 = { culture = saxon } # held by Scotland and therefor not affected by the Harrying.
+1100.11.11 = { culture = english }

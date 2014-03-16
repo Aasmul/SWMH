@@ -1,0 +1,42 @@
+817.10.1={
+	liege="d_benevento"
+}
+854.1.1={
+	holder = 163071
+}
+#CJL78 - Conti di Boiano, after ~1100 Conti di Molise
+1053.1.1=
+{
+holder=1000167090
+liege=d_apulia
+}
+1082.1.1=
+{
+holder=1000167091
+}
+1092.1.1=
+{
+holder=1000167094
+}
+1105.1.1=
+{
+holder=1000167096
+}
+1118.1.1=
+{
+holder=1000167097
+}
+1176.1.1=
+{
+liege=k_sicily
+holder=1000167098
+}
+1200.1.1=
+{
+holder=1000167099
+}
+1241.1.1=
+{
+holder=0
+liege=k_sicily
+}

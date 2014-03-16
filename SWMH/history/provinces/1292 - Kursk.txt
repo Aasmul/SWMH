@@ -1,0 +1,18 @@
+# 1292 - Kursk
+
+# County Title
+title = c_kursk
+
+# Settlements
+max_settlements = 2
+
+b_kursk = castle
+#b_oboyan = castle
+
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

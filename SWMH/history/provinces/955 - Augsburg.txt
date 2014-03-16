@@ -1,0 +1,21 @@
+# 955 - Augsburg
+
+# County Title
+title = c_augsburg
+
+# Settlements
+max_settlements = 3
+
+b_augsburg = castle
+b_donauworth = city
+
+#b_kaufbeuren = castle
+#b_hochstadt = castle
+#b_rain = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

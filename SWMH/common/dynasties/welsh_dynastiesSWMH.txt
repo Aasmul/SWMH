@@ -1,0 +1,7 @@
+#1000100950 - 1000101000
+#free - free
+
+1000100950 = {
+	name="Elisse"
+	culture = welsh
+}

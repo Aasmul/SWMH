@@ -1,0 +1,74 @@
+853.1.1={
+	liege="d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+866.7.2={
+	holder = 168171
+}
+
+868.1.1={
+	holder=168172 # Hilgaud?
+	liege="k_france"
+}
+879.1.1={
+	holder=168173 # Herluin?
+}
+945.7.13={
+	holder=168174 # Roger?
+}
+957.1.1={
+	holder=168175 # Hugues?
+}
+980.1.1={
+	holder=168176 # Hugues I, seigneur de Ponthieu and châtelain d'Abbeville
+}
+1000.7.4={
+	holder=168177 # Enguerrand I, first comte de Ponthieu
+}
+1045.1.1={
+	holder=432 # Hugues II, Comte de Pontieu and Seigneur d'Aumale 1045-1052
+}
+1052.1.1={
+	holder=434 # Enguerrand II, Comte de Pontieu and Seigneur d'Aumale 1052-1053
+}
+1053.10.25={
+	holder=168180 # Guy I Comte de Pontieu 1053-1100 # vassal of William since 1054-1056
+}
+1054.1.1={
+	liege="d_normandy"
+}
+1100.1.1={
+	holder=168181 # Agnes comtess de Ponthieu 1100-1106ish
+}
+1106.1.1={
+	holder=168182 # William I de Bellême, de Segniur de Alencon 1119-1171 and count of Pontheiu 1106-1126
+}
+1124.1.1={
+	holder=1000227392 # Guy II de Bellême, comte de Pontheiu 1124-1147
+}
+1147.12.25={
+	holder=1000227397 #John I de Bellême, comte de Pontheiu 1140-1191
+}
+1191.1.1={
+	holder=1000227398 #William III de Bellême, comte de Pontheiu 1191-1121
+}
+1221.10.4={
+
+	holder=1000227399 # Marie de Bellême, comtess de Pontheiu 1221-1250.
+}
+####? need to finish
+1250.9.1={
+	liege="k_france"
+	holder=461744 #Alphonse de Brienne
+}
+1270.1.1={
+	holder=461745 #Jean de Brienne
+}
+1294.1.1={
+	holder=461746 #Jean de Brienne
+}
+1302.7.11={
+	holder=455850 #Raoul de Brienne
+}

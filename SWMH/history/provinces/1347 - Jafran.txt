@@ -1,0 +1,21 @@
+# 1347 - Jafran     # Jafrán
+
+# County Title
+title = c_jafran
+
+# Settlements
+max_settlements = 3
+
+b_jafran = castle
+
+#b_djadojafran = castle
+#b_tiri = castle
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+
+1171.1.1 = { religion = sunni }

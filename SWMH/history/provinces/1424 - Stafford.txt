@@ -1,0 +1,24 @@
+# 1424 - Stafford # Shropshire
+
+# County Title
+title = c_stafford
+
+# Settlements
+max_settlements = 4
+
+b_stafford = castle
+b_tamworth = city
+b_leichfield = temple
+#b_wolverhampton = temple
+#b_burton_upon_trent = temple
+#b_tutbury = castle
+#b_chartley = castle
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+
+1100.11.11 = { culture = english }

@@ -1,0 +1,25 @@
+# 196 - Calatrava
+
+# County Title
+title = c_calatrava
+
+# Settlements
+max_settlements = 4
+b_calatrava = castle
+b_caracuel = temple
+b_tomelloso = city
+#b_puertollano = city
+#b_almagro = temple
+#b_alcazardesanjuan = castle
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1162.1.1 = { culture = castillan }
+1162.1.1 = { religion = catholic }
+1210.1.1 = { culture = andalusian_arabic }
+1210.1.1 = { religion = sunni }
+1212.1.1 = { culture = castillan }
+1212.1.1 = { religion = catholic }

@@ -1,0 +1,20 @@
+# 1444 - Down
+
+# County Title
+title = c_down
+
+# Settlements
+max_settlements = 3
+
+b_downpatrick = temple
+b_bangor = temple
+#b_dromore = castle
+#b_belfast = city
+
+
+# Misc
+culture = irish
+religion = catholic
+terrain = hills
+
+# History

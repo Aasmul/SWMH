@@ -1,0 +1,18 @@
+# 1281 - Romny Ukraine
+
+# County Title
+title = c_romny_ukraine
+
+# Settlements
+max_settlements = 3
+
+b_khotyn = castle
+b_mittromneystyle_heeeeeeeeeey_wealthy_ladies = city
+#b_hlynsk = temple
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

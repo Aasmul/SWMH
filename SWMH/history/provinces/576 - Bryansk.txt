@@ -1,0 +1,21 @@
+# 576 - Bryansk
+
+# County Title
+title = c_bryansk
+
+# Settlements
+max_settlements = 5
+b_bryansk = castle
+b_vshchizh = temple
+b_starodub_chernigov = city
+#b_mglin = city
+#b_trubchevsk = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+
+

@@ -1,0 +1,25 @@
+# 1164 - Tonnerre
+
+# County Title
+title = c_tonnerre
+
+# Settlements
+max_settlements = 4
+
+b_noyers = castle
+b_tonnerre = city
+b_saintflorentin = temple
+
+#b_chaource = city
+#b_chablis = temple
+#b_ervy = castle
+
+
+culture = frankish
+religion = catholic
+
+# History
+814.1.1 = { capital = b_saintflorentin }
+954.1.1 = { capital = b_noyers } #title of comte de Tonnere seperated from the bishop see of Langres
+
+

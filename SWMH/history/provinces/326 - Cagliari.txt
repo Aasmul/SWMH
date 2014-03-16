@@ -1,0 +1,30 @@
+# 326 - Cagliari
+
+# County Title
+title = c_cagliari
+
+# Settlements
+max_settlements = 5
+
+
+b_saintmichele = castle
+b_cagliari = temple
+#b_assemini = temple
+b_ogliastra = city
+#b_sanluri = castle
+#b_santamaria = castle
+#b_villasor = castle
+#b_casteldimedusa = castle
+#b_casteldimedusa = castle
+#b_tortoli = city
+#b_dolunova = temple
+#b_iglesiassardinia = city
+
+# Misc
+culture = sardinian
+religion = catholic
+terrain = hills
+
+# History
+1066.1.1 = { trade_post = b_caetani }
+1285.1.1 = { trade_post = b_grimaldi }

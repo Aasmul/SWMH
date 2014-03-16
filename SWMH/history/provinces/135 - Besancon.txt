@@ -1,0 +1,17 @@
+# 135 - Besancon
+
+# County Title
+title = c_besancon
+
+# Settlements
+max_settlements = 2
+b_stferjeux = temple
+b_besancon = city
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+
+1290.1.1 = { capital = b_besancon }

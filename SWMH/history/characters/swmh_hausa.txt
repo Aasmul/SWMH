@@ -1,0 +1,415 @@
+# SWMH Hausa characters
+
+# Characters: 1000228650 - 1000228699
+# Dynasties: 1000101150 - 1000101199
+
+# Katsina and Hausa fathers founders
+1000228650 = {
+	name="Bayajiddah"  #grandfather of founders of Hausa city states 
+	dynasty=1000101150 #Durbawa
+	religion="west_african_pagan"
+	culture="hausa"
+	940.1.1 = {
+		birth="940.1.1"
+	}
+	990.1.1 = {
+		death="990.1.1"
+	}
+}
+1000228651 = {
+	name="Bauwo" #Katsina 990 - 1015
+	dynasty=1000101150 #Durbawa
+	religion="west_african_pagan"
+	culture="hausa"
+	father=1000228650
+	975.1.1 = {
+		birth="975.1.1"
+	}
+	1015.1.1 = {
+		death="1015.1.1"
+	}
+}
+1000228652 = {
+	name="Kumayo" #Katsina 1015 - 1066
+	dynasty=1000101150 #Durbawa
+	religion="west_african_pagan"
+	culture="hausa"
+	father=1000228651
+	999.1.1 = {
+		birth="999.1.1"
+	}
+	1067.1.1 = {
+		death="1067.1.1"
+	}
+}
+1000228653 = {
+	name="Janzama"   #Katsina 1067 - 1109
+	dynasty=1000101150 #Durbawa
+	religion="west_african_pagan"
+	culture="hausa"
+	father=1000228552
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1082.1.1={
+		add_spouse=1000228654
+	}
+	1109.1.1 = {
+		death="1109.1.1"
+	}
+}
+1000228654 = {
+	name="Kacinna" #wife of Janzama, city of Katsina bears her name, princess of Daura
+	female=yes
+	dynasty=1000101151 #Daura
+	religion="west_african_pagan"
+	culture="hausa"
+	father=1000228658
+	1066.1.1 = {
+		birth="1066.1.1"
+	}
+	1082.1.1={
+		add_spouse=1000228653
+	}
+	1128.1.1 = {
+		death="1128.1.1"
+	}
+}
+
+# Daura
+1000228655 = {
+	name="Kazuru" #Daura after 1000
+	religion="west_african_pagan"
+	culture="hausa"
+	990.1.1 = {
+		birth="990.1.1"
+	}
+	1008.1.1={
+		add_spouse=1000228656
+	}
+	1024.1.1 = {
+		death="1024.1.1"
+	}
+}
+1000228656 = {
+	name="Bulu" #Daura 1005 - 1025
+	female=yes
+	dynasty=1000101151 #Daura
+	religion="west_african_pagan"
+	culture="hausa"
+	992.1.1 = {
+		birth="992.1.1"
+	}
+	1008.1.1={
+		add_spouse=1000228655
+	}
+	1025.1.1 = {
+		death="1025.1.1"
+	}
+}
+1000228657 = {
+	name="Kazuru" #Daura 1025 - 1070
+	dynasty=1000101151 #Daura
+	religion="west_african_pagan"
+	culture="hausa"
+	father=1000228655
+	mother=1000228656
+	1012.1.1 = {
+		birth="1012.1.1"
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+1000228658 = {
+	name="Atuma" #Daura 1070 - 1109 placeholder
+	dynasty=1000101151 #Daura
+	religion="west_african_pagan"
+	culture="hausa"
+	father=1000228657
+	1043.1.1 = {
+		birth="1043.1.1"
+	}
+	1109.1.1 = {
+		death="1109.1.1"
+	}
+}
+
+# Kano
+1000228659 = {
+	name="Dala" #Kano 866 - 890 - founder
+	dynasty=1000101152 #Habe
+	religion="west_african_pagan"
+	culture="hausa"
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	890.1.1 = {
+		death="890.1.1"
+	}
+}
+1000228660 = {
+	name="Bagunda" #Kano 999 - 1063
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	990.1.1 = {
+		birth="990.1.1"
+	}
+	1063.1.1 = {
+		death="1063.1.1"
+	}
+}
+1000228661 = {
+	name="Warisi" #Kano 1063 - 1095
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228660
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+1000228662 = {
+	name="Gajemandu" #Kano 1095 - 1134
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228661
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1134.1.1 = {
+		death="1134.1.1"
+	}
+}
+1000228663 = {
+	name="Nawata" #Kano 1134 - 1136
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228662
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1136.1.1 = {
+		death="1136.1.1"
+	}
+}
+1000228664 = {
+	name="Yusa" #Kano 1136 - 1194
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228663
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1194.1.1 = {
+		death="1194.1.1"
+	}
+}
+1000228665 = {
+	name="Naguji" #Kano 1194 - 1247
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228664
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1247.1.1 = {
+		death="1247.1.1"
+	}
+}
+1000228666 = {
+	name="Gugwa" #Kano 1247 - 1290
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228665
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+1000228667 = {
+	name="Shekarau" #Kano 1290 - 1307
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228666
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1307.1.1 = {
+		death="1307.1.1"
+	}
+}
+1000228668 = {
+	name="Tsamiya" #Kano 1307 - 1343
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228667
+	1288.1.1 = {
+		birth="1288.1.1"
+	}
+	1343.1.1 = {
+		death="1343.1.1"
+	}
+}
+1000228669 = {
+	name="Usman Zamnagawa" #Kano 1343 - 1349
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228668
+	1306.1.1 = {
+		birth="1306.1.1"
+	}
+	1349.1.1 = {
+		death="1349.1.1"
+	}
+}
+1000228670 = {
+	name="Yaji" #Kano 1349 - 1385
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228669
+	1330.1.1 = {
+		birth="1330.1.1"
+	}
+	1385.1.1 = {
+		death="1385.1.1"
+	}
+}
+1000228671 = {
+	name="Bugaya" #Kano 1385 - 1390
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228670
+	1355.1.1 = {
+		birth="1355.1.1"
+	}
+	1390.1.1 = {
+		death="1390.1.1"
+	}
+}
+1000228672 = {
+	name="Kanajeji" #Kano 1390 - 1410
+	dynasty=1000101152 #Habe
+	religion="sunni"
+	culture="hausa"
+	father=1000228671
+	1374.1.1 = {
+		birth="1374.1.1"
+	}
+	1410.1.1 = {
+		death="1410.1.1"
+	}
+}
+
+# Zazzau
+1000228673 = {
+	name="Gunguma" #Zazzau 1025 - 1070
+	dynasty=1000101150 #Durbawa
+	religion="west_african_pagan"
+	culture="hausa"
+	father=1000228651
+	1008.1.1 = {
+		birth="1008.1.1"
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+1000228674 = {
+	name="Bayajiddah" #Zazzau 1070 - 1115 placeholder
+	dynasty=1000101150 #Durbawa
+	religion="west_african_pagan"
+	culture="hausa"
+	father=1000228673
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+
+1000228675 = {
+	name="Bagwariya" #Daura 860 - 890
+	female=yes
+	dynasty=1000101151 #Daura
+	religion="west_african_pagan"
+	culture="hausa"
+	845.1.1 = {
+		birth="845.1.1"
+	}
+	915.1.1 = {
+		death="915.1.1"
+	}
+}
+1000228676 = {
+	name="Bagwariya" #Daura 890 - 920
+	female=yes
+	dynasty=1000101151 #Daura
+	religion="west_african_pagan"
+	culture="hausa"
+	mother=1000228675
+	862.1.1 = {
+		birth="862.1.1"
+	}
+	920.1.1 = {
+		death="920.1.1"
+	}
+}
+
+# Gobir
+1000228677 = {
+	name="Abdullahi" #Gobir 1060 - 1090
+	dynasty=1000101153 #Gobiri
+	religion="sunni"
+	culture="tuareg"
+	1044.1.1 = {
+		birth="1044.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+1000228678 = {
+	name="Bawo" #Gobir 1090 - 1130
+	dynasty=1000101153 #Gobiri
+	religion="sunni"
+	culture="hausa"
+	father=1000228677
+	1063.1.1 = {
+		birth="1063.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+1000228679 = {
+	name="Garin Gabas" #Gobir 866 - 900
+	dynasty=1000101154 #Gabas
+	religion="west_african_pagan"
+	culture="hausa"
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+
+# free Characters: 1000228680 - 1000228699

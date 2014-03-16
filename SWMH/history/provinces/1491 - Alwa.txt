@@ -1,0 +1,18 @@
+# 1491 - Alwa
+
+# County Title
+title = c_alwa
+
+# Settlements
+max_settlements = 3
+b_alwa = castle
+b_omdurman = city
+
+#b_kadero = temple
+
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

@@ -1,0 +1,31 @@
+# 278 - Hålogaland
+
+# County Title
+title = c_halogaland
+
+# Settlements
+max_settlements = 4
+
+b_torget = castle # Torga
+#b_sandnessjoeen = castle # Sandnes
+#b_bjarkoey = castle # Bjarkøy
+b_vaagan = city # Vágar
+#b_vik = city # Víkar
+#b_bodoe = city # Boðin
+#b_steigen = city # Steig
+#b_eggum = city # Eggheimr
+#b_narvik = city  # Saltvík/Knarravík
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+
+882.1.1 = { b_sandnessjoeen = castle } # Bård Brynjulfson dies, gives everything to Torolv Kveldulvson who moves the seat to Sandenes.
+882.1.1 = { capital = b_sandnessjoeen } # Bård Brynjulfson dies, gives everything to Torolv Kveldulvson who moves the seat to Sandenes.
+900.1.1 = { b_bjarkoey = castle } #Torolv Kveldulvson slain, rest of his kin moves to Iceland
+900.1.1 = { capital = b_bjarkoey } #Torolv Kveldulvson slain, rest of his kin moves to Iceland
+900.1.1 = { remove_settlement = b_torget} #  Ketil Trout sacks Torga and slays Harek and Hrærek as revenge of the death of Torolv
+1047.10.25 = { culture = norwegian } 
+1080.1.1 = { religion = catholic }

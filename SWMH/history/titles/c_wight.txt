@@ -1,0 +1,128 @@
+790.1.1={
+	liege="d_somerset"
+	holder=1000226365 # Oslac, Earldorman of the Isles of Wight
+}
+###Part of Hampshire
+840.1.1={
+	holder=33355 # Aethelwulf
+}
+856.1.1={
+	holder=33356 # Aethelbald
+}
+860.12.21={
+	holder=33357 # Aethelbert
+}
+865.1.1={
+	holder=33358 # Aethelraed
+}
+871.4.24={
+	holder=7627 # Alfred the Great
+}
+899.10.27={
+	holder=100 # Edward the Elder
+}
+924.8.3={
+	holder=33350 # Aethelstan the Glorious
+}
+927.7.12={
+	liege="k_england"
+}
+939.10.28={
+	holder=102 # Edmund the Magnificent
+}
+946.5.27={
+	holder=33351 # Eadred
+}
+955.11.24={
+	holder=33352 # Eadwig
+}
+959.10.2={
+	holder=98 # Edgar the Peaceful
+}
+975.7.9={
+	holder=99 # Edward the Martyr
+}
+978.3.19={
+	holder=106 # Aethelraed the Unready
+}
+1013.12.25={
+	holder=101505 # Svend Tveskägg
+}
+1014.2.3={
+	holder=106 # Aethelraed the Unready
+}
+1016.4.24={
+	holder=108 # Edmund Ironside
+}
+1016.11.30={
+	holder=101510 # Knud the Great
+}
+1035.11.13={
+	holder=101513 # Harold Harefoot
+}
+1040.3.17={
+	holder=101511 # Harthacnut
+}
+1042.6.9={
+	holder=114 # Eadward the Confessor
+}
+1066.1.5={
+	holder=122 #Harold Godwinson
+}
+####### Lordship created for De Breteuil/Crepon
+1066.10.14={
+	holder=6806 #William de Crepon
+}
+1071.2.22={
+	holder=6807 #Roger de Crepon
+}
+##### To the Crown
+1074.1.1={
+	holder=140 #William the Conqueror
+}
+1087.9.9={
+	holder=146 #William II Rufus
+}
+####### Second creation, given to de Redvers future earls of Devon.
+1100.8.3={
+	holder = 41265 #Richard de Redvers
+}
+1107.9.8=
+{
+holder=204655 #Baldwin I de Redvers
+}
+1155.1.4=
+{
+holder=204657 #Richard I de Redvers
+}
+1162.1.2=
+{
+holder=204658 #Baldwin II de Redvers
+}
+1188.5.28=
+{
+holder=204660 #Richard II de Redvers
+}
+1193.8.19=
+{
+holder=204650 #William de Redvers
+}
+1217.9.10=
+{
+holder=32511 #Baldwin III de Redvers
+}
+1245.2.15=
+{
+holder=32512 #Baldwin IV de Redvers
+}
+1262.9.13=
+{
+holder=32513 #Isabel de Redvers
+}
+###### Purchased for the Crown at Isabella's death bed
+1293.11.10={
+	holder=454510 #Edward II
+}
+1327.2.1={
+	holder=454500 #Edward III
+}

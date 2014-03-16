@@ -1,0 +1,29 @@
+# 89 - Kleve
+
+# County Title
+title = c_kleve
+
+# Settlements
+max_settlements = 5
+
+b_schwanenburg = castle
+b_kleve = city
+b_moers = city
+#b_duisburg = city
+#b_wesel = castle
+#b_krinvelde = castle
+#b_anholt = castle
+#b_Xanten = city
+#b_isselburg = castle
+#b_emmerich = castle
+#b_goch = city
+#b_rees = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+

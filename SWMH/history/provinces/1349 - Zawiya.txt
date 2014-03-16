@@ -1,0 +1,20 @@
+# 1349 - Zawiya
+
+# County Title
+title = c_zawiya
+
+# Settlements
+max_settlements = 3
+
+b_zawiya = castle
+b_sabrata = city
+
+#b_surman = temple
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+1171.1.1 = { religion = sunni }

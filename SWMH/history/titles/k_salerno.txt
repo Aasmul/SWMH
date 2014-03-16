@@ -1,0 +1,18 @@
+999.10.1={
+	holder=30857
+	#law = agnatic_succession
+	#law = succ_primogeniture
+}
+1027.2.1={
+	holder=1116
+}
+1052.6.3={
+	holder=73355
+}
+1052.8.1={
+	holder=1119
+}
+1076.12.13={
+	holder=0
+}
+

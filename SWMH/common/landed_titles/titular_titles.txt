@@ -1,0 +1,348 @@
+#List of extra Titular Titles
+
+#ToG de jure stuff
+
+d_oxford = {
+	color={ 99 68 5 }
+}
+d_chester = {
+	color={ 121 29 29 }
+}
+d_gloucester = {
+	color={ 57 21 209 }
+}
+d_karvuna = {
+	color={ 89 46 200 }
+}
+b_zussow = {
+}
+b_kolbatz = {
+}
+d_yaroslavl = {
+	color={ 178 192 134 }			
+	capital = 572 # Yaroslavl
+}
+d_vitebsk = {
+	color={ 196 33 55 }			
+	capital = 417 # Vitebsk
+}
+# TITULAR SWMH
+
+
+e_ulm = { 
+	color={ 110 110 110 }
+	capital = 252 #ULM
+	title = "ULM"
+	foa = "ULM_FOA"
+	short_name = yes
+	allow = {
+		has_landed_title = c_ulm
+		independent = yes
+		prestige = 2000
+
+	}
+}
+
+e_kaleva = { 
+	color={ 144 157 181 }
+	capital = 381 #Nyland
+	allow = {
+		culture_group = finno_ugric
+		AND = {
+			has_landed_title = k_finland
+			has_landed_title = k_terra
+		}
+		independent = yes
+
+	}
+}
+
+k_geats = {
+	color={ 208 191 99 }
+	capital = 293 # Östergötland
+	
+
+	allow = {  OR = {
+			AND = {
+				has_landed_title = d_vastergotland
+				has_landed_title = d_ostergotland
+			}
+			independent = yes
+			NOT = { 
+				any_demesne_title = {
+					OR = {
+						tier = king
+						tier = emperor
+					}
+				}
+			}
+			AND = {
+				has_landed_title = k_denmark
+				OR = {has_landed_title = d_vastergotland
+					any_vassal = { has_landed_title = d_vastergotland }}
+				OR = {has_landed_title = d_ostergotland
+					any_vassal = { has_landed_title = d_ostergotland }}
+				prestige = 1500
+			}
+			AND = {
+				has_landed_title = k_sweden
+				OR = {has_landed_title = d_vastergotland
+					any_vassal = { has_landed_title = d_vastergotland }}
+				OR = {has_landed_title = d_ostergotland
+					any_vassal = { has_landed_title = d_ostergotland }}
+				prestige = 1500
+			}
+			AND = {
+				has_landed_title = k_norway
+				OR = {has_landed_title = d_vastergotland
+					any_vassal = { has_landed_title = d_vastergotland }}
+				OR = {has_landed_title = d_ostergotland
+					any_vassal = { has_landed_title = d_ostergotland }}
+				prestige = 1500
+			}
+
+		}
+	}
+}	
+d_lauenburg = {
+	capital = 1098 #Lauenburg
+	color={ 77 127 196 }
+	color2={ 255 255 255 }
+
+	allow = {
+		OR = {has_landed_title = c_lauenburg
+			any_vassal = { has_landed_title = c_lauenburg }}
+		NOT = { any_demesne_title = {tier = emperor}
+		}
+	}		                       
+	
+}
+
+d_sangermano = {
+	capital = 935 #Sangermano
+	color={ 77 127 196 }
+	color2={ 255 255 255 }
+	
+	short_name = yes			                       
+	allow = {
+		AND = { 
+			religion_group = christian
+			is_theocracy = yes
+			piety = 500	
+		}				
+	}
+}
+k_salerno = {
+	color={ 0 132 250 }
+
+	culture = langobardisch
+	capital = 336 # Salerno
+	
+	allow = {
+		culture = langobardisch
+		religion_group = christian 
+		has_landed_title = d_salerno
+
+	}
+}	
+d_austrialombardic = { 
+	color={ 4 33 122 }
+	culture = langobardisch
+	capital = 319 #Verona
+
+	allow = {
+		culture = langobardisch
+
+		religion_group = christian 
+		AND = {
+			has_landed_title = d_verona
+			has_landed_title = d_aquileia
+		}
+	}
+}	
+
+
+d_neustria
+= { 
+	color={ 4 33 11 }
+	culture = langobardisch
+	capital = 234 #Pavia
+
+	dignity = 15 # Counted as having 15 more counties than it does
+
+	allow = {
+		culture = langobardisch
+
+		religion_group = christian 
+		AND = {
+			has_landed_title = d_parma
+			has_landed_title = d_modena
+			has_landed_title = d_susa
+			has_landed_title = d_monferrato
+		}
+	}
+}	
+
+d_tuscia = { 
+	color={ 250 241 220 }
+	culture = langobardisch
+	capital = 323 #Lucca
+
+	allow = {
+		culture = langobardisch
+
+		religion_group = christian 
+		AND = {
+			has_landed_title = d_lucca
+			has_landed_title = d_toscana
+		}
+	}
+}	
+k_duklja = { 
+	color={ 224 186 36 }
+	culture = serbian
+	capital = 469 #Zeta
+
+	allow = {
+		k_serbia = {
+			has_holder = no
+		}
+		ruled_years = 5
+		war = no
+		is_adult = yes
+		NOT = { tier = emperor }
+	}
+}
+k_austria = { 
+	color={ 188 0 7 }
+	culture = german
+	capital = 449 #Österreich
+
+	title = "ADA"
+	foa = "ADA_FOA"
+	title_prefix = "ADA_OF" 
+
+	allow = {
+		culture = german
+
+		religion_group = christian 
+		AND = {
+			has_landed_title = d_osterreich
+			has_landed_title = d_carinthia
+		}
+	}
+}
+
+d_smaland = {
+	color={ 88 138 70 }
+	capital = 298 # Småland
+	
+	norse = "Smáland"
+
+	allow = { 
+		AND = {
+			OR = {has_landed_title = c_smaland
+				any_vassal = { has_landed_title = c_smaland }}
+			OR = {has_landed_title = c_tjust
+				any_vassal = { has_landed_title = c_tjust }}
+			OR = {has_landed_title = c_finnveden
+				any_vassal = { has_landed_title = c_finnveden }}
+		}
+		independent = yes
+		NOT = { 
+			any_demesne_title = {
+				OR = {
+					tier = king
+					tier = emperor
+				}
+			}
+		}
+	}
+}	
+
+e_occitania = {
+	color={ 230 0 70 } 
+	color2={ 255 255 255 }
+	
+	capital = 214 # Toulouse
+	culture = occitan
+	name_tier = king
+
+
+	dignity = 100 # Counted as having 100 more counties than it does
+
+	allow = {
+		OR = {
+			culture = occitan
+			culture = catalan
+		}
+		AND = {
+			religion_group = christian
+			independent = yes
+			OR = {
+				has_landed_title = d_toulouse
+				any_vassal = { has_landed_title = d_toulouse }}
+			OR = {
+				has_landed_title = d_aquitaine
+				any_vassal = { has_landed_title = d_aquitaine }}
+			OR = {
+				has_landed_title = d_provence
+				any_vassal = { has_landed_title = d_provence }}
+			OR = {
+				has_landed_title = d_gevaudan
+				any_vassal = { has_landed_title = d_gevaudan }}
+			OR = {
+				has_landed_title = d_foix
+				any_vassal = { has_landed_title = d_foix }}
+			OR = {
+				has_landed_title = d_septimania
+				any_vassal = { has_landed_title = d_septimania }}
+			OR = {
+				has_landed_title = d_gascogne
+				any_vassal = { has_landed_title = d_gascogne }}			
+		}
+	}
+}
+
+# Titular Darrigan
+
+
+# The county of Flanders had more autonomy than other regions under the French crown. They did lose the independence wars # in the 13th and 14th century. But what if they had won?
+k_flanders = {
+	color={ 255 120 0 }
+	color2={ 255 255 255 }
+	capital = 78 # Brugge
+
+	allow = {
+		has_landed_title = d_flanders
+		OR = {
+			has_landed_title = c_brugge
+			has_landed_title = c_gent
+			has_landed_title = c_yperen
+			has_landed_title = c_lille
+			has_landed_title = c_tournai
+		}
+		independent = yes
+		NOT = { 
+			any_demesne_title = {
+				OR = {
+					tier = king
+					tier = emperor
+				}
+			}
+		}
+	}
+}
+
+# ARKO
+d_narbonne = { #titre porté par les ducs de Toulouse pour affirmer leur pouvoir sur les vassaux de la côte mais sans succès.
+	color={ 0 20 188 }
+	color2={ 255 255 255 }
+	
+	capital = 214 # Toulouse
+	culture = occitan
+	
+	allow = {
+		always = no
+	}
+}

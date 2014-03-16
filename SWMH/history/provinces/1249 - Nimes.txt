@@ -1,0 +1,24 @@
+# 1249 - Nimes
+
+# County Title
+title = c_nimes
+
+# Settlements
+max_settlements = 4
+
+b_uzes = castle
+b_nimes = city
+b_saingilles = temple
+#b_bagnols = city
+#b_chateaudebeucaire = castle
+#b_ales = temple
+#b_chateudeportes = castle
+#b_saintchaptes = castle
+#b_aiguesmortes = castle
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+1120.1.1   = { b_chateaudebeucaire = castle }

@@ -1,0 +1,49 @@
+######################################
+#New English Dynasties
+######################################
+#
+#
+######################################
+#English dynasties
+#Range 100010150 - 1000100249
+######################################
+1000100150 = {
+	name="FitzHerbert"
+	culture = english
+}
+1000100151 = {
+	name="Murdac"
+	culture = english
+}
+1000100152 = {
+	name="Langton"
+	culture = english
+}
+1000100153 = {
+	name="de Gray"
+	culture = english
+}
+1000100154 = {
+	name="de Bovil"
+	culture = english
+}
+1000100155 = {
+	name="de Wickwane"
+	culture = english
+}
+1000100156 = {
+	name="Le Romeyn"
+	culture = english
+}
+1000100157 = {
+	name="of Newark"
+	culture = english
+}
+1000100158 = {
+	name="of Corbridge"
+	culture = english
+}
+1000100159 = {
+	name="de Melton"
+	culture = english
+}

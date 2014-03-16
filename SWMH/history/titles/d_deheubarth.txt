@@ -1,0 +1,58 @@
+1066.1.1={
+	holder=138496 #Maredudd ap Owain ap Edwin
+	#law = agnatic_succession
+	#law = succ_gavelkind
+}
+1070.1.1={
+	holder = 81815 #Rhys ap Owain ap Edwin
+}
+1076.1.1={
+	holder = 81816 #Rhys ap Tewdwr
+}
+1093.4.1={
+	holder = 152
+}
+1094.1.1={
+	holder = 41032
+}
+1098.1.1={
+	holder = 41004
+}
+1102.1.1={
+	holder = 202992
+} 
+1135.1.1={
+	holder = 214810 #Gruffyd ap Rhys
+}
+1137.1.1={
+	holder = 138498 #Anarawd ap Gruffyd
+}
+1143.1.1={
+	holder = 138500 #Cadell ap Gruffyd
+}
+1153.1.1={
+	holder = 81814 #Maredudd ap Gruffyd
+}
+1157.1.1={
+	holder = 214800 #Rhys ap Gruffyd
+}
+1197.4.28={
+	holder = 204510 
+}
+1199.4.6={
+	holder = 204514
+}
+1216.10.28={
+	holder = 454522
+}
+1272.11.16={
+	holder = 454520
+}
+1307.1.2 = {
+	holder = 454510
+}
+1327.2.1={
+	holder=454500
+}
+
+

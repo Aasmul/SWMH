@@ -1,0 +1,10 @@
+820.1.1={
+	liege="c_sogn"
+	holder=1000228033 # Bjálfa
+}
+850.1.1={
+	holder=1000228034 # Kveldulf
+}
+901.1.1={
+	holder=0
+}

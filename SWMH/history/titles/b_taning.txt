@@ -1,0 +1,32 @@
+1014.1.1={
+	holding_dynasty = 1000053172 # fan Taning - makes this a FAMILY_PALACE type Holding
+	liege="d_nordfrisland"
+	holder=1000144421
+}
+1064.1.1={
+	holder=1000144423
+}
+1103.1.1={
+	holder=1000144425
+}
+1141.1.1={
+	holder=1000144427
+}
+1162.1.1={
+	holder=1000144429
+}
+1229.1.1={
+	holder=1000144431
+}
+1241.1.1={
+	holder=1000144433
+}
+1279.1.1={
+	holder=1000144435
+}
+1321.1.1={
+	holder=1000144437
+}
+1362.1.1={
+	holder=0
+}

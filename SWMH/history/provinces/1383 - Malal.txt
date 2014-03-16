@@ -1,0 +1,16 @@
+# 1383 - Malal
+
+# County Title
+title = c_malal
+
+# Settlements
+max_settlements = 3
+b_malal = castle
+b_sankaran = city
+
+#b_do = temple
+
+# Misc
+culture = manden
+religion = west_african_pagan
+# History

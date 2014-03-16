@@ -1,0 +1,22 @@
+# 9 - Connacht #aka Mayo
+
+# County Title
+title = c_connacht
+
+# Settlements
+max_settlements = 3
+
+b_lisnatreanduff = castle
+b_killala = temple
+
+#b_mayo = temple
+#b_castlebar = castle
+#b_shrule = castle
+
+# Misc
+culture = irish
+religion = catholic
+terrain = hills
+
+# History
+

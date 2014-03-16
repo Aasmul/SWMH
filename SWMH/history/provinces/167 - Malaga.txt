@@ -1,0 +1,22 @@
+# 167 - Malaga
+
+# County Title
+title = c_malaga
+
+# Settlements
+max_settlements = 5
+b_malaga = castle
+b_antequera = temple
+b_benalmadena = city
+#b_marbella = castle
+#b_velezmalaga = city
+#b_mijas = city
+#b_estepona = castle
+#b_torremolinos = castle
+
+
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1160.1.1 = { trade_post = b_embriaco }

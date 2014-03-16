@@ -1,0 +1,33 @@
+# 1135 - Conservano
+# Renamed to c_conversano
+
+# County Title
+title = c_conversano
+
+# Settlements
+max_settlements = 5
+
+
+b_conversano = castle
+b_brindisi = city
+b_oria = city
+b_monopoli = temple
+
+#b_santostefano = castle
+#b_sanvitodeinormanni = castle
+#b_francavillafontana = castle
+#b_castellodenticedifrasso = castle
+#b_polignano = ciy
+
+
+# Misc
+culture = greek
+religion = orthodox
+terrain = hills
+
+# History
+
+1091.1.1={ culture = southern_italian }
+1091.1.1={ religion = catholic }
+
+

@@ -1,0 +1,19 @@
+# 814 - Gabes
+
+# County Title
+title = c_gabes
+
+# Settlements
+max_settlements = 3
+
+b_haddej = castle
+b_gabes = city
+
+#b_steftimi = temple
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History
+

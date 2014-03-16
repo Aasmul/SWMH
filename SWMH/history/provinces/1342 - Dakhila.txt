@@ -1,0 +1,20 @@
+# 1342 - Dakhila
+
+# County Title
+title = c_dakhila
+
+# Settlements
+max_settlements = 3
+b_dakhila = castle
+
+#b_alkalamun = city
+#b_alkasr = temple
+
+# Misc
+culture = zanata
+religion = miaphysite
+
+# History
+
+1030.1.1 = { religion = sunni }
+

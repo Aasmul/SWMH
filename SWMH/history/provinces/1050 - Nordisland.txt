@@ -1,0 +1,27 @@
+# 1050 - Norðurland
+
+# County Title
+title = c_nordisland
+
+# Settlements
+max_settlements = 3
+
+b_borgarvirki = castle
+
+#b_hrisey = castle
+#b_akureyri = city
+#b_holar = temple
+#b_goddalir = castle
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+867.1.1 = {
+	b_borgarvirki = ca_shipyard_1
+}
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norwegian } 
+

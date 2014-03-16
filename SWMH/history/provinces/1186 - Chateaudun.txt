@@ -1,0 +1,19 @@
+# 1186 - Chateaudun
+
+# County Title
+title = c_chateaudun
+
+# Settlements
+max_settlements = 3
+
+b_chateaudun = castle
+b_bonneval = temple
+#b_beaugency = city 
+#b_meung = castle
+
+
+culture = frankish
+religion = catholic
+
+# History
+

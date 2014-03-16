@@ -1,0 +1,21 @@
+# 1405 - Zawila
+
+# County Title
+title = c_zawila
+
+# Settlements
+max_settlements = 3
+
+b_zawila = city
+
+#b_zalha = castle
+#b_sabab = temple
+
+# Misc
+culture = zanata
+religion = sunni
+
+# History
+
+
+

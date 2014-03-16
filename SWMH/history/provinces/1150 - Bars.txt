@@ -1,0 +1,32 @@
+# 1150 - Bars
+
+# County Title
+title = c_bars
+
+# Settlements
+max_settlements = 5
+
+b_barsvar = castle
+b_privigye = city
+b_garamszentbenedek = temple
+#b_bajmoc = castle
+#b_kormocbanya = city
+#b_zolyom = temple
+#b_leva = castle
+#b_teplice = castle
+#b_besztercebanya = castle
+#b_berzence = castle
+#b_sasko = city
+
+
+
+
+
+# Misc
+culture = moravian
+religion = catholic
+
+# History
+
+
+

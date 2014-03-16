@@ -1,0 +1,21 @@
+# 51 - Dunbar
+
+# County Title
+title = c_dunbar
+
+# Settlements
+max_settlements = 3
+b_berwick = castle
+b_coldingham = temple
+#b_gordon = city
+
+
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History
+700.1.1 = { culture = saxon } 
+1000.1.1 = { culture = scottish } 
+

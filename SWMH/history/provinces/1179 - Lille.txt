@@ -1,0 +1,21 @@
+# 1179 - Lille
+
+# County Title
+title = c_lille
+
+# Settlements
+max_settlements = 4
+
+b_kortrijk = castle
+b_lille = city
+b_mouscron = temple
+#b_wattignies = castle
+#b_fachesthumesnil = city
+#b_bouvines = castle
+
+# Misc
+culture = dutch
+religion = catholic
+
+# History
+

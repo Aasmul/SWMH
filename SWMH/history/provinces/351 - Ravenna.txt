@@ -1,0 +1,35 @@
+# 351 - Ravenna
+
+# County Title
+title = c_ravenna
+
+# Settlements
+max_settlements = 5
+
+b_ravenna = temple
+b_cunio = castle
+b_bagnacavallo = city
+#b_cervia = city
+#b_raffanara = castle
+#b_castellocortina = castle
+#b_russi = castle
+#b_cotignola = city
+#b_lugoitaly = temple
+#b_roccaesteneseravenna = castle
+#b_roccabrancaleone = castle
+
+
+
+
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+866.1.1 = { capital = b_cunio }
+870.1.1 = { capital = b_ravenna }
+1218.1.1 = { capital = b_cunio }
+1248.1.1 = { capital = b_ravenna }
+1275.1.1 = { capital = b_cunio }

@@ -1,0 +1,31 @@
+# 335 - Benevento
+
+# County Title
+title = c_benevento
+
+# Settlements
+max_settlements = 4
+
+b_apice = temple
+b_ariano = castle
+b_benevento = city
+#b_bounalbergo = castle
+#b_montesarchio = castle
+#b_airola = city
+#b_petrapulsino = city
+#b_avellino = city
+#b_montemarono = temple
+#b_frigento = castle
+#b_trevico = castle
+#b_conza = castle
+#b_sanangelo = castle
+
+# Misc
+culture = langobardisch
+
+religion = catholic
+
+# History
+866.1.1 = { capital = b_ariano }
+870.1.1 = { capital = b_apice }
+1086.1.1={ culture = southern_italian }

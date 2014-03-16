@@ -1,0 +1,15 @@
+# 395 - North Dvina # Orlec
+
+# County Title
+title = c_north_dvina
+
+# Settlements
+max_settlements = 1
+b_ust_pinega = castle
+
+# Misc
+culture = samoyed
+religion = finnish_pagan
+
+# History
+

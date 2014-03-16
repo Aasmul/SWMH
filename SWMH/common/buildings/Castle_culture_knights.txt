@@ -1,0 +1,123 @@
+#Frankish, Occitan, Norman and German Lists (and Breton)
+castle = {
+	ca_culture_frank_norman_german_1 = {
+		desc = ca_culture_frank_norman_german_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = karantanci
+					culture = moravian
+					culture = bohemian
+                                        culture = neapolitan
+                                        culture = sicilian
+					culture = frankish
+					culture = occitan
+					culture = norman
+					culture = german
+					culture = breton
+					culture = cornish
+					culture = arpitan
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		knights = 15
+		knights_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_frank_norman_german_2 = {
+		desc = ca_culture_frank_norman_german_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = karantanci
+					culture = moravian
+					culture = bohemian
+                                        culture = neapolitan
+                                        culture = sicilian
+					culture = frankish
+					culture = occitan
+					culture = norman
+					culture = german
+					culture = breton
+					culture = cornish
+					culture = arpitan
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_frank_norman_german_1
+		build_cost = 300
+		build_time = 1095
+		knights = 20
+		knights_offensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_frank_norman_german_3 = {
+		desc = ca_culture_frank_norman_german_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = karantanci
+					culture = moravian
+					culture = bohemian
+                                        culture = neapolitan
+                                        culture = sicilian
+					culture = frankish
+					culture = occitan
+					culture = norman
+					culture = german
+					culture = breton
+					culture = cornish
+					culture = arpitan
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_frank_norman_german_2
+		build_cost = 400
+		build_time = 2190
+		knights = 25
+		knights_offensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_frank_norman_german_4 = {
+		desc = ca_culture_frank_norman_german_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = karantanci
+					culture = moravian
+					culture = bohemian
+                                        culture = neapolitan
+                                        culture = sicilian
+					culture = frankish
+					culture = occitan
+					culture = norman
+					culture = german
+					culture = breton
+					culture = cornish
+					culture = arpitan
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_frank_norman_german_3
+		build_cost = 500
+		build_time = 2190
+		knights = 30
+		knights_offensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}	
+}

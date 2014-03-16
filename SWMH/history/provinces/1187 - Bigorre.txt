@@ -1,0 +1,24 @@
+# 1187 - Bigorre
+
+# County Title
+title = c_bigorre
+
+# Settlements
+max_settlements = 3
+
+
+b_lourdes = castle
+b_tarbes = temple
+#b_montaner = castle
+#b_vicenbigorre = city
+
+
+
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History
+

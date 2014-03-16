@@ -1,0 +1,25 @@
+# 1015 - Skopje
+
+# County Title
+title = c_skopje
+
+# Settlements
+max_settlements = 5
+
+b_prilep = castle
+b_skopje = city
+#b_debar = city
+b_kicevo = castle
+#b_trescavac = temple
+#b_staro_nagoricane_monestary = temple
+b_veles = temple
+
+# Misc
+culture = bulgarian
+religion = orthodox
+
+# History
+
+
+
+

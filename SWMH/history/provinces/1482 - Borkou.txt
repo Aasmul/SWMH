@@ -1,0 +1,14 @@
+# 1482 - Borkou
+
+# County Title
+title = c_borkou
+
+# Settlements
+max_settlements = 1
+b_aingalakka = castle
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,19 @@
+# 1518 - Assab
+
+# County Title
+title = c_assab
+
+# Settlements
+max_settlements = 3
+b_assab = castle
+b_edd = city
+
+#b_halib = temple
+
+# Misc
+culture = afar
+religion = sunni
+
+# History
+
+  

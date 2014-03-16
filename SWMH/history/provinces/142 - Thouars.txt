@@ -1,0 +1,21 @@
+# 142 - Thouars
+
+# County Title
+title = c_thouars
+
+# Settlements
+max_settlements = 4
+b_bressuire = castle
+b_thouars = city
+b_lucon = temple
+
+
+#b_olonne = city
+#b_mauleon = temple
+#b_fontenay = castle
+
+culture = frankish
+religion = catholic
+
+# History
+

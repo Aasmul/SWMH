@@ -1,0 +1,22 @@
+# 1195 - Thomar
+
+# County Title
+title = c_thomar
+
+# Settlements
+max_settlements = 4
+b_tomar = castle
+b_santarem = temple
+b_abrantes = city
+#b_ourem = castle
+#b_macao = castle
+#b_ferreira_do_zezere = castle
+#b_torres_novas = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+

@@ -1,0 +1,1872 @@
+###############################################################
+#  SWMH Saxon characters
+###############################################################
+#Saxon character Range: 1000226300 - 1000226399
+#                        1000226200 - 1000226299
+###########
+1000226300 = {
+	name="Godric" #Sherrif of Berkshire( also known as the sheriff of Fyfield(today located in Oxfordshire) and Buckinghamshire 1055-1066 
+	dynasty=1000100001
+	religion="catholic"
+	culture="saxon"
+	martial=9
+	diplomacy=7
+	intrigue=11
+	stewardship=8
+	trait="lustfull"# Colourfull old Scoundrel!
+	trait="underhanded_rogue"# Colourfull old Scoundrel!
+	1001.1.1 = {
+		birth=yes
+	}
+	1066.10.14 = { # Died at Hastings
+		death=yes
+	}
+}
+1000226301 = {
+	name="Wigod" #Thane of Wallingford(Berkshire). Lord or Overlord of 23 manors in prior to 1066(mainly in Oxfordshire, Berkshire and Wiltshire). Held land in ; Middlesex, Wiltshire, Oxfordshire, Sussex, Buckinghamshire, Berkshire, Warwickshire and Gloucestershire. 
+	dynasty=1000100002
+	religion="catholic"
+	culture="saxon"
+	1008.1.1 = {
+		birth=yes
+	}
+	1067.5.1 = { 
+		death=yes
+	}
+}
+1000226302 = {
+	name="Tokig" 
+	dynasty=1000100002
+	religion="catholic"
+	culture="saxon"
+        father=1000226301
+	1038.1.1 = {
+		birth=yes
+	}
+	1067.1.1 = { 
+		death=yes # "Died heroically", fighting for William in 1067 (or 1077?)
+	}
+}
+1000226303 = {
+	name="Ældgyth"
+	# AKA: Ealdgyth
+	female=yes
+	dynasty=1000100002
+	religion="catholic"
+	culture="saxon"
+        father=1000226301
+	1043.1.1 = {
+		birth=yes
+	}
+	1099.1.1 = { 
+		death=yes
+	}
+}
+1000226304 = {
+	name="Saewold" # highsheriff of Oxford ?-1068
+	religion="catholic"
+	culture="saxon"
+	1000.1.1 = {
+		birth=yes
+	}
+	1068.1.1 = { death=yes
+	}
+}
+1000226305 = {
+	name="Edric" # highsheriff of Wiltshire ?-1066
+	religion="catholic"
+	culture="saxon"
+	1028.1.1 = {
+		birth=yes
+	}
+	1068.1.1 = { death=yes
+	}
+}
+###Wilton
+1000226306 = {
+	name="Wulfstan" # Ealdorman of Wiltshire until 802
+	dynasty=1000100003
+	religion="catholic"
+	culture="saxon"
+	735.1.1 = {
+		birth=yes
+	}
+765.1.1 = {
+		add_spouse=1000226307
+	}
+	802.1.1 = { death=yes
+	}
+}
+1000226307 = {
+	name="Alburga" # Alburga of Wilton/saint Alburga, daughter of Ealhmund of Kent
+	dynasty=1000100004
+	religion="catholic"
+	culture="saxon"
+        female=yes
+	745.1.1 = {
+		birth=yes
+	}
+	810.12.25 = { death=yes
+	}
+}
+1000226308 = {
+	name="Weohstan" # made up
+	dynasty=1000100003
+	religion="catholic"
+	culture="saxon"
+        father=1000226306
+        mother=1000226307
+	770.1.1 = {
+		birth=yes
+	}
+	845.1.1 = { death=yes
+	}
+}
+1000226309 = {
+	name="Wulfhere" # Ealdorman of Wiltshire until 878(stripped of title as a conequense of Edington). Family still kept most of its estates, thus continuing to be the most powerfull in the region.
+	dynasty=1000100003
+	religion="catholic"
+	culture="saxon"
+        father=1000226308
+	820.1.1 = {
+		birth=yes
+	}
+	890.1.1 = { death=yes
+	}
+}
+1000226383 = {
+	name="Wulfthryth" # wife of Ethelred I, likely the daughter of Wulfhere of Wiltun.
+	dynasty=1000100003
+	religion="catholic"
+	culture="saxon"
+        father=1000226309
+        female=yes
+	840.1.1 = {
+		birth=yes
+	}
+        864.1.1 = {
+		add_spouse=33358
+	}
+	890.1.1 = { death=yes
+	}
+}
+1000226310 = {
+	name="Æþelhelm" # was Ealdorman sometime after Wulfhere, but his family ties is uncertain.
+	dynasty=1000100003
+	religion="catholic"
+	culture="saxon"
+        father=1000226309
+	850.1.1 = {
+		birth=yes
+	}
+	928.1.1 = { death=yes
+	}
+}
+1000226311 = {
+	name="Wulfgar" # was Ealdorman sometime before 931, grandson of Wulfhere. Earldom also included Hampshire and Berkshire.
+	dynasty=1000100003
+	religion="catholic"
+	culture="saxon"
+        father=1000226310
+	875.1.1 = {
+		birth=yes
+	}
+	960.1.1 = { death=yes
+	}
+}
+###Devon
+1000226317 = {
+	name="Odda" # Ealdorman before 878 (family held land in Devon, Dorset, and Cornwall)
+	dynasty=1000100007
+	religion="catholic"
+	culture="saxon"
+	840.1.1 = {
+		birth=yes
+	}
+	910.1.1 = { death=yes
+	}
+}
+1000226318 = {
+	name="Odda" # Made up, the name of Ordgar's farther is unknown but he owned most of the land in Devon(hence he likely inherited Odda) and had at one point been an Ealdorman(presumably of Devon)
+	dynasty=1000100007
+	religion="catholic"
+	culture="saxon"
+        father=1000226317
+	870.1.1 = {
+		birth=yes
+	}
+	964.1.1 = { death=yes
+	}
+}
+1000226319 = {
+	name="Ordgar" # Ealdorman 964-971
+	dynasty=1000100007
+	religion="catholic"
+	culture="saxon"
+        father=1000226318
+	900.1.1 = {
+		birth=yes
+	}
+	971.1.1 = { death=yes
+	}
+}
+1000226320 = {
+	name="Ordulf" # Ealdorman 971-993
+	dynasty=1000100007
+	religion="catholic"
+	culture="saxon"
+        father=1000226319
+	920.1.1 = {
+		birth=yes
+	}
+	993.1.1 = { death=yes
+	}
+}
+1000226374 = {
+	name="Ælfthryth" # wife of Ætherlwald Eladorman of East anglia, second or third wife of Edgar of England
+	dynasty=1000100007
+        female=yes
+	religion="catholic"
+	culture="saxon"
+        father=1000226319
+	trait=grey_eminence
+        trait=attractive
+	945.1.1 = {
+		birth=yes
+	}
+	1000.1.1 = { death=yes
+	}
+}
+1000226321 = {
+	name="Odda" # Odda of Deerhurst, Ealdorman of Somerset, Dorset, Devon and Cornwall 1051-1053, maybe Ealdorman of Hwicce 1053-1056
+	dynasty=1000100006
+	religion="catholic"
+	culture="saxon"
+	trait="scholarly_theologian"
+	993.1.1 = {
+		birth=yes
+	}
+	1056.8.31 = { death=yes
+	}
+}
+##########################
+# Essex
+###Kings
+1000226322 = {
+	name="Saelred" # king of Essex 709-746 
+	dynasty=1000100035
+	religion="catholic"
+	culture="saxon"
+	690.1.1 = {
+		birth=yes
+	}
+	746.1.1 = { death=yes
+	}
+}
+1000226323 = {
+	name="Swithred" # Swithred king of Essex 746-758
+	dynasty=1000100008
+	religion="catholic"
+	culture="saxon"
+	696.1.1 = {
+		birth=yes
+	}
+	758.1.1 = { death=yes
+	}
+}
+1000226324 = {
+	name="Sigeric" # Sigeric  king of Essex 758-798 (same person as Sigeræd I king of Kent 762-764?)
+	dynasty=1000100008
+	religion="catholic"
+	culture="saxon"
+        father=1000226323
+	730.1.1 = {
+		birth=yes
+	}
+	800.1.1 = { death=yes
+	}
+}
+1000226325 = {
+	name="Sigeræd" # king of Essex(798-825 and since 812 under Mercian overlordship).
+	dynasty=1000100008
+	religion="catholic"
+	culture="saxon"
+        father=1000226324
+	780.1.1 = {
+		birth=yes
+	}
+	850.1.1 = { death=yes
+	}
+}
+####
+#Earldormen
+#1000226351 = {
+#	name="Æthelwald" # son of Æthelstan Halfking, Ealdorman of Essex(950ish?-962)and Eastanglea 957-962
+#	dynasty=1000100013
+#	religion="catholic"
+#	culture="saxon"
+#        father=1000226348
+#	905.1.1 = {
+#		birth=yes
+#	}
+#	962.1.1 = { death=yes
+#	}
+#}
+###
+#Ælfgar
+1000226375 = {
+	name="Ælfgar" # Earldorman of Essex ?-950ish
+	dynasty=1000100017
+	religion="catholic"
+	culture="saxon"
+	880.1.1 = {
+		birth=yes
+	}
+	951.1.1 = { death=yes
+	}
+}
+1000226376 = {
+	name="Æthelflæd" # Æthelflæd of Damerham, wife of Edmund the magnificent and later wife Æthelstan Rota
+	dynasty=1000100036
+	religion="catholic"
+	culture="saxon"
+        female=yes
+        father=1000226375
+	928.1.1 = {
+		birth=yes
+	}
+	975.1.1 = { death=yes 
+	}
+}
+1000226377 = {
+	name="Æfflæd" # Æfflæd wife of Byrhnorth
+	dynasty=1000100017
+	religion="catholic"
+	culture="saxon"
+        female=yes
+        father=1000226375
+	940.1.1 = {
+		birth=yes
+	}
+	1002.1.1 = { death=yes 
+	}
+}
+1000226367 = {
+	name="Byrhtnoþ" # Byrhtnoth, Earldorman of Essex ?-991
+	dynasty=1000100018
+	religion="catholic"
+	culture="saxon"
+	940.1.1 = {
+		birth=yes
+	}
+        960.1.1 = {
+		add_spouse=1000226377 # Æfflæd
+	}
+	991.8.10 = { death=yes #Died victorious at the battle of Maldon
+	}
+}
+1000226378 = {
+	name="Leofflæd" # Daughter of Byrhnorth
+	dynasty=1000100018
+	religion="catholic"
+	culture="saxon"
+        female=yes
+        father=1000226367
+        mother=1000226377
+	965.1.1 = {
+		birth=yes
+	}
+	1040.1.1 = { death=yes 
+	}
+}
+###############
+#Kent Ealdormen
+1000226221= {
+	name="Æthelmod" # Ealdorman of Kent 855-882ish
+	dynasty=1000100031
+	religion="catholic"
+	culture="saxon"
+	820.1.1 = {
+		birth=yes
+	}
+	882.1.1 = { death=yes
+	}
+}
+1000226326 = {
+	name="Beorhtweald" # Ealdorman of Kent 882ish-?
+	dynasty=1000100026
+	religion="catholic"
+	culture="saxon"
+        father=163102 # Burghred king of Mercia
+        mother=168594
+	853.9.1 = {
+		birth=yes
+	}
+	890.1.1 = { death=yes
+	}
+}
+1000226327 = {
+	name="Beorhtnoð" # Æthling of Kent
+	dynasty=1000100026
+	religion="catholic"
+	culture="saxon"
+        father=163102 # Burghred king of Mercia
+        mother=168594
+	854.8.1 = {
+		birth=yes
+	}
+	889.1.1 = { death=yes 
+	}
+}
+1000226220= {
+	name="Ceolmund" # Ealdorman of Kent ?-896ish
+	dynasty=1000100032
+	religion="catholic"
+	culture="saxon"
+	850.1.1 = {
+		birth=yes
+	}
+	896.1.1 = { death=yes
+	}
+}
+1000226328 = {
+	name="Sigehelm" # Ealdorman of Kent 896ish-902
+	dynasty=1000100004
+	religion="catholic"
+	culture="saxon"
+	871.1.1 = {
+		birth=yes
+	}
+	902.12.13 = { death=yes # died at the battle of the Holme
+	}
+}
+1000226329 = {
+	name="Eadgifu" # 3rd wife of Edward Ieldra
+	female=yes
+        father=1000226328
+	dynasty=1000100004
+	religion="catholic"
+	culture="saxon"
+	895.1.1 = {
+		birth=yes
+	}
+	966.1.1 = { death=yes
+	}
+}
+1000226330 = {
+	name="Sigebrit" # Æthling of Kent
+	dynasty=1000100004
+	religion="catholic"
+	culture="saxon"
+        father=1000226328
+	889.1.1 = {
+		birth=yes
+	}
+	902.12.13 = { death=yes # died at the battle of the Holme
+	}
+}
+###############
+#Somerset
+#
+1000226219= {
+	name="Eanwulf" # Ealdorman of Somerset pre845-?
+	dynasty=1000100033
+	religion="catholic"
+	culture="saxon"
+	820.1.1 = {
+		birth=yes
+	}
+	865.1.1 = { death=yes
+	}
+}
+1000226331 = {
+	name="Æthelnoth" # Æthelnoth earldorman of Somerset pre 875-904 # related to Eanwulf?
+	dynasty=1000100034
+	religion="catholic"
+	culture="saxon"
+	845.1.1 = {
+		birth=yes
+	}
+	904.1.1 = { death=yes
+	}
+}
+###############################################
+#Mercia
+1000226390 = {
+	name="Cuthberht" # Father of Coenwulf of Mercia, Ceolwulf of Mercia and Cudred of Kent
+	dynasty=1000100022
+	religion="catholic"
+	culture="saxon"
+	740.1.1 = {
+		birth=yes
+	}
+	785.1.1 = { death=yes 
+	}
+}
+1000226391 = {
+	name="Cænwulf" # Coenwulf king of Mercia 796(december)-821
+	dynasty=1000100022
+	religion="catholic"
+	culture="saxon"
+        father=1000226390
+	760.12.1 = {
+		birth=yes
+	}
+	821.1.1 = { death=yes 
+	}
+}
+1000226392 = {
+	name="Ceolwulf" # Ceolwulf I king of Mercia 821-823
+	dynasty=1000100022
+	religion="catholic"
+	culture="saxon"
+        father=1000226390
+	762.1.1 = {
+		birth=yes
+	}
+	823.10.18 = { death=yes 
+	}
+}
+1000226393 = {
+	name="Cudred" # subking of kent 798 – 807
+	dynasty=1000100022
+	religion="catholic"
+	culture="saxon"
+        father=1000226390
+	763.1.1 = {
+		birth=yes
+	}
+	807.1.1 = { death=yes 
+	}
+}
+1000226394 = {
+	name="Cwenthryth" # daughter of Cænwulf
+	dynasty=1000100022
+	religion="catholic"
+	culture="saxon"
+        father=1000226391
+        female=yes
+	785.1.1 = {
+		birth=yes
+	}
+	850.10.18 = { death=yes 
+	}
+}
+1000226399 = {
+	name="Ælfflæd" # daughter of Ceowulf I, wife of Wigmund king of Mercia 839-840.
+	dynasty=1000100022
+	religion="catholic"
+	culture="saxon"
+        father=1000226392
+        female=yes
+	800.1.1 = {
+		birth=yes
+	}
+	860.1.1 = { death=yes 
+	}
+}
+1000226395 = {
+	name="Beorhtweald" # Ealdorman(where?),Father of Beornwulf
+	dynasty=1000100026
+	religion="catholic"
+	culture="saxon"
+	740.1.1 = {
+		birth=yes
+	}
+	796.1.1 = { death=yes 
+	}
+}
+1000226396 = {
+	name="Beornwulf" # Beornwulf king of Mercia 823-826
+	dynasty=1000100026
+	religion="catholic"
+	culture="saxon"
+        father=1000226395
+	760.1.1 = {
+		birth=yes
+	}
+	826.1.1 = { death=yes 
+	}
+}
+1000226397 = {
+	name="Ludeca" # Ludeca king of Mercia 826-827
+	dynasty=813
+	religion="catholic"
+	culture="saxon"
+	765.1.1 = {
+		birth=yes
+	}
+	827.1.1 = { death=yes 
+	}
+}
+1000226398 = {
+	name="Wiglaf" # Wiglaf king of Mercia 827-829 and(Egbert of Wessex tried to take control 829-830) 830-839. 
+	dynasty=1000100027
+	religion="catholic"
+	culture="saxon"
+	770.1.1 = {
+		birth=yes
+	}
+        799.1.1 = {
+		add_spouse=1000226202 # Cynethryth
+	}
+	839.1.1 = { death=yes 
+	}
+}
+1000226202 = {
+	name="Cynethryth" # wife of Wiglaf king of Mercia 827-829 and 830-839
+	religion="catholic"
+	culture="saxon"
+        female=yes
+	780.1.1 = {
+		birth=yes
+	}
+	830.6.1 = { death=yes 
+	}
+}
+1000226200 = {
+	name="Wigmund" # Wigmund king of Mercia 839-840? principes of Hwicces of Hwicce
+	dynasty=1000100027
+	religion="catholic"
+	culture="saxon"
+        mother=1000226202 
+        father=1000226398 
+	800.1.1 = {
+		birth=yes
+	}
+        820.1.1 = {
+		add_spouse=1000226399 # Ælfflæd daughter of Ceowulf I
+	}
+	840.1.1 = { death=yes 
+	}
+}
+1000226201 = {
+	name="Wigstan" # Wigstan king of Mercia 840
+	dynasty=1000100027
+	religion="catholic"
+	culture="saxon"
+        father=1000226200 # Wigmund
+        mother=1000226399
+	821.1.1 = {
+		birth=yes
+	}
+        825.1.1 = {
+		add_spouse=1000226399 # Ælfflæd daughter of Ceowulf I
+	}
+	840.6.1 = { death=yes # Murderd by Beorhtwulf
+	}
+}
+1000226384 = {
+	name="Beorhtwulf" # Beorhtwulf king of Mercia 840-852
+	dynasty=1000100026
+	religion="catholic"
+	culture="saxon"
+	805.1.1 = {
+		birth=yes
+	}
+        830.1.1 = {
+		add_spouse=1000226387  #Sæthryth
+	}
+	852.1.1 = { death=yes 
+	}
+}
+1000226385 = {
+	name="Beorhtric" # oldest son of Beorhtwulf, likely died before his father.
+	dynasty=1000100026
+	religion="catholic"
+	culture="saxon"
+        father=1000226384
+        mother=1000226387
+	831.1.1 = {
+		birth=yes
+	}
+	852.1.1 = { death=yes 
+	}
+}
+1000226386 = {
+	name="Beorhtfrith" # Son of Beorhtwulf.
+	dynasty=1000100026
+	religion="catholic"
+	culture="saxon"
+        father=1000226384
+        mother=1000226387
+	838.1.1 = {
+		birth=yes
+	}
+	874.1.1 = { death=yes 
+	}
+}
+1000226387 = {
+	name="Sæthryth" # Wife of Beorhtwulf.
+	religion="catholic"
+	culture="saxon"
+        female=yes
+	810.1.1 = {
+		birth=yes
+	}
+	875.1.1 = { death=yes 
+	}
+}
+1000226332 = {
+	name="Ceolwulf" # Ceolwulf II king of Mercia 874-879. Lost Eastern part of Mercia  to the Danes in 877.
+	dynasty=1000100022
+	religion="catholic"
+	culture="saxon"
+        father=1000226200 # Wigmund king of Mercia 839-840.
+        mother=1000226399 # Ælffæld daughter of Ceolwulf I
+	828.1.1 = {
+		birth=yes
+	}
+	879.1.1 = { death=yes
+	}
+}
+# Mercia Ealdormen
+1000226333 = {
+	name="Æthelred" # Lord of the Mercians/ Edryd long hair. Powerbase in Gloucestershire. # Hwicce blood?
+	dynasty=1000100028
+	religion="catholic"
+	culture="saxon"
+	850.1.1 = {
+		birth=yes
+	}
+        883.1.1 = {
+		add_spouse=1000226334
+	}
+	902.1.1 = {
+		trait=ill
+	}
+	911.1.1 = { death=yes
+	}
+}
+1000226334 = {
+	name="Æthelflæd" # Lady of the Mercians, daughter of Alfred of Wessex
+	dynasty=100072
+        female=yes
+	religion="catholic"
+	culture="saxon"
+        father=7627
+        mother=1000226338
+	869.1.1 = {
+		birth=yes
+	}
+	918.6.12 = { death=yes
+	}
+}
+1000226364 = {
+	name="Ælfwynn" # Lady of the Mercians 12th june 918 - december 918. Replaced with Athelstan future king of England.
+	dynasty=1000100028
+        female=yes
+	religion="catholic"
+	culture="saxon"
+        father=1000226333
+        mother=1000226334
+	886.1.1 = {
+		birth=yes
+	}
+
+	960.1.1 = { death=yes
+	}
+}
+#33350 = {
+#	name="Æthelstan" # Ealdorman of Mercia 918-924(and 16 days as king of Mercia), king of the Angels 924-927, king of England 927-939
+#	dynasty=100072
+#	religion="catholic"
+#	culture="saxon"
+#	father = 100
+#	893.1.1={
+#		birth="893.1.1"
+#	}
+#	939.10.27={
+#		death="939.10.27"
+#	}
+#}
+#1000226346 = {
+#	name="Æthelfrith" #Æthelfrith of Mercia(maybe of Wessex bloodline), Ealdorman of Southern Mercia 883-915. Owned most of Berkshire and Middlesex. 
+#	dynasty=1000100013
+#	religion="catholic"
+#	culture="saxon"
+#	840.1.1 = {
+#		birth=yes
+#	}
+#        883.1.1 = {
+#		add_spouse=1000226341 # Æthelgyth, daughter of Æthelwulf of Mucel/Giani
+#	}
+#	915.1.1 = { death=yes
+#	}
+#}
+#1000226347 = {
+#	name="Ælfstan" # Ælfstan Ealdorman of Southern Mercia 930ish- 934. Also Earldorman of Wessex?
+#	dynasty=1000100013
+#	religion="catholic"
+#	culture="saxon"
+#        father=1000226347
+#        mother=1000226341
+#	884.1.1 = {
+#		birth=yes
+#	}
+#	934.1.1 = { death=yes
+#	}
+#}
+#1000226357 = {
+#	name="Ælfhere" # Ælfhere ealdorman of Mercia 957-983, maybe earldorman of Hampshire 972-983. 
+#	dynasty=1000100014
+#	religion="catholic"
+#	culture="saxon"
+#        father=1000226356
+#	918.1.1 = {
+#		birth=yes
+#	}
+#	983.1.1 = { death=yes
+#	}
+#}
+#1000226360 = {
+#	name="Ælfric" # Ælfirc Cild, brother in law of Ælfhere, earldorman of Mercia 983-985. Power base was Huntingdonsshire and Northern Northhampshire. Was closely associated with the abbey of Ely.
+#	dynasty=1000100015
+#	religion="catholic"
+#	culture="saxon"
+#       father=1000226356
+#	920.1.1 = {
+#		birth=yes
+#	}
+#        993.1.1 = {
+#		add_spouse=1000226359
+#	}
+#	985.1.1 = { death=yes
+#	}
+#}
+#1000226208 = {
+#	name="Wulfric" # Wulfric Spot, probable ealdorman of Merica 985-1004. Most important thegn of Staffordshire, Derbyshire, Lancastershire(at least the souhtern bit) and Warwickshire(especially in the wester part).
+#	dynasty=1000100029
+#	religion="catholic"
+#	culture="saxon"
+#       mother=1000226206
+#	955.1.1 = {
+#		birth=yes
+#	}
+#	1004.10.22 = { death=yes
+#	}
+#}
+#161276 = {
+#	name="Eadric" 
+#	#Eadric Streona earldorman of Mercia 1007-1017
+#	dynasty=20022
+#	religion="catholic"
+#	culture="saxon"
+#	father=161275
+#	980.1.1={
+#		birth="980.1.1"
+#	}
+#	1009.1.1={
+#		add_spouse=161277
+#	}
+#	1017.12.25={
+#		death="1017.12.25"
+#	}
+#}
+#5640 = {
+#	name="Leofric" #Earl of Mercia 1017-1057
+#	dynasty=560
+#	martial=6
+#	diplomacy=5
+#	intrigue=8
+#	stewardship=6
+#	religion="catholic"
+#	culture="saxon"
+#	trait="envious"
+#	trait="humble"
+#	trait="cynical"
+#	trait="skilled_tactician"
+#        father=1000226316 # Leofwine Ealdorman of Hwicce 997-1028
+#	968.1.1={
+#		birth="968.1.1"
+#	}
+#	1018.1.1={
+#		add_spouse=161279
+#	}
+#	
+#	1057.10.30={
+#		death="1057.10.30"
+#	}
+#}
+#5642 = {
+#	name="Ælfgar" # Earl of Mercia 1057-1062, lord of Coventry. Earl of Wast anglia 1051-1052 and 1053-1057
+#	# AKA: aelfgar
+#	dynasty=560
+#	martial=7
+#	diplomacy=5
+#	intrigue=6
+#	stewardship=4
+#	religion="catholic"
+#	culture="saxon"
+#	trait="skilled_tactician"
+#	father=5640
+#	mother=161279
+#	1019.1.1={
+#		birth="1019.1.1"
+#	}
+#	1036.1.1={
+#		add_spouse=161280
+#	}
+#	1062.1.1={
+#		death="1062.1.1"
+#	}
+#}
+#5644 = {
+#	name="Eadwin" # Earl of Mercia 1062-1071
+#	dynasty=560
+#	martial=7
+#	diplomacy=5
+#	intrigue=7
+#	stewardship=5
+#	religion="catholic"
+#	culture="saxon"
+#	trait="greedy"
+#	trait="brave"
+#	trait="slothful"
+#	trait="charismatic_negotiator"
+#	trait="ambitious"
+#	father=5642
+#	mother=161280
+#	1044.1.1={
+#		birth="1044.1.1"
+#	}
+#	1066.1.1={
+#		trait="hunter"
+#	}
+#	1071.1.1={
+#		death="1071.1.1"
+#	}
+#}
+
+###Hwicce(earldormen)
+1000226312 = {
+	name="Ingeld" # Ealdorman of Hwicce 779?-793? or were he ealdorman of a different shire?
+	dynasty=1000100005
+	religion="catholic"
+	culture="saxon"
+	730.1.1 = {
+		birth=yes
+	}
+	793.1.1 = { death=yes
+	}
+}
+1000226313 = {
+	name="Æthelmund" # Ealdorman 793ish-802
+	dynasty=1000100005
+	religion="catholic"
+	culture="saxon"
+        father=1000226312
+	750.1.1 = {
+		birth=yes
+	}
+        779.1.1 = {
+		add_spouse=1000226314
+	}
+	802.1.1 = { death=yes
+	}
+}
+1000226314 = {
+	name="Ceolburh"
+	religion="catholic"
+	culture="saxon"
+        female=yes
+	765.1.1 = {
+		birth=yes
+	}
+	807.1.1 = { death=yes
+	}
+}
+1000226315 = {
+	name="Æthelric" # Ealdorman 802-805ish # Coenwulf king of Mercia 796 – 821 assumes the title of Ealdorm of Hwicce sometime during his tenure, the title likely stuck with the Mercian kings for a while. Wiglaf's son Wigmund might have been ealdorman/princeps/subking of Hwicce
+	dynasty=1000100005
+	religion="catholic"
+	culture="saxon"
+        father=1000226313
+        mother=1000226314
+	785.1.1 = {
+		birth=yes
+	}
+	850.1.1 = { death=yes
+	}
+}
+1000226316 = {
+	name="Leofwine" # Ealdorman of Hwicce 997-1028
+	dynasty=560
+	religion="catholic"
+	culture="saxon"
+	950.1.1 = {
+		birth=yes
+	}
+	1028.1.1 = { death=yes
+	}
+}
+1000226203 = {
+	name="Northman" # oldest son of Leofwine # "Dux" possible Thegn of Northhampshire 1013ish-1017
+	dynasty=560
+	religion="catholic"
+	culture="saxon"
+        father=1000226316
+	967.1.1 = {
+		birth=yes
+	}
+	1017.1.1 = { death=yes # executed on hehest of Knud the great.
+	}
+}
+1000226204 = {
+	name="Eadwine" # son of Leofwine
+	dynasty=560
+	religion="catholic"
+	culture="saxon"
+        father=1000226316
+	969.1.1 = {
+		birth=yes
+	}
+	1039.1.1 = { death=yes
+	}
+}
+1000226205 = {
+	name="Godwine" # son of Leofwine
+	dynasty=560
+	religion="catholic"
+	culture="saxon"
+        father=1000226316
+	970.1.1 = {
+		birth=yes
+	}
+	1055.1.1 = { death=yes
+	}
+}
+########
+#Giani/Mucel
+1000226335 = {
+	name="Esne" # Ealdorman 765-814
+	dynasty=1000100010
+	religion="catholic"
+	culture="saxon"
+	745.1.1 = {
+		birth=yes
+	}
+	811.1.1 = { death=yes
+	}
+}
+1000226336 = {
+	name="Mucel" # Ealdorman 814-848
+	dynasty=1000100010
+	religion="catholic"
+	culture="saxon"
+        father=1000226335
+	775.1.1 = {
+		birth=yes
+	}
+	848.1.1 = { death=yes
+	}
+}
+1000226337 = {
+	name="Æthelred" # Ealdorman 848-895(must have gotten another earldom closer wessex after 874)
+	dynasty=1000100011
+	religion="catholic"
+	culture="saxon"
+        father=1000226336
+	820.1.1 = {
+		birth=yes
+	}
+        843.1.1 = {
+		add_spouse=1000226339
+	}
+	895.1.1 = { death=yes
+	}
+}
+1000226338 = {
+	name="Ealhswith" # Wife of Alfred of Wessex
+	dynasty=1000100011
+        female=yes
+	religion="catholic"
+	culture="saxon"
+        father=1000226337
+	844.1.1 = {
+		birth=yes
+	}
+	902.12.5 = { death=yes
+	}
+}
+1000226339 = {
+	name="Eadburh" # wife of Ætherlred
+	dynasty=813 # of royal Mercian blood
+        female=yes
+	religion="catholic"
+	culture="saxon"
+	827.1.1 = {
+		birth=yes
+	}
+	890.1.1 = { death=yes
+	}
+}
+1000226340 = {
+	name="Æthelwulf" # Ealdorman 895-903(must have been another place)
+	dynasty=1000100011
+	religion="catholic"
+	culture="saxon"
+        father=1000226337
+	846.1.1 = {
+		birth=yes
+	}
+	903.1.1 = { death=yes
+	}
+}
+1000226341 = {
+	name="Æthelgyth" # daughter of Æthelwulf
+	dynasty=1000100011
+        female=yes
+	religion="catholic"
+	culture="saxon"
+        father=1000226340
+	867.1.1 = {
+		birth=yes
+	}
+	930.12.5 = { death=yes
+	}
+}
+######
+#Tomsæte
+1000226388 = {
+	name="Humberht" #Humberht/Himberht, "Princeps" of Tomsæte(Staffordshireshire) 835-867ish
+	dynasty=1000100024
+	religion="catholic"
+	culture="saxon"
+	815.1.1 = {
+		birth=yes
+	}
+	870.1.1 = { death=yes 
+	}
+}
+######
+#Hecani/Westerna/Magonsæte(Herefordshire)
+1000226389 = {
+	name="Eadric" #Ealdorman of Magonsæte ?-1010
+	dynasty=1000100025
+	religion="catholic"
+	culture="saxon"
+	950.1.1 = {
+		birth=yes
+	}
+	1010.10.18 = { death=yes 
+	}
+}
+             
+#################################
+#House of Æthelfrith
+1000226346 = {
+	name="Æthelfrith" #Æthelfrith of Mercia(maybe of Wessex bloodline), Ealdorman of Southern Mercia 883-915. Owned most of Berkshire and Middlesex. 
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+	840.1.1 = {
+		birth=yes
+	}
+        883.1.1 = {
+		add_spouse=1000226341 # Æthelgyth, daughter of Æthelwulf of Mucel/Giani
+	}
+	915.1.1 = { death=yes
+	}
+}
+1000226347 = {
+	name="Ælfstan" # Ælfstan Ealdorman of Southern Mercia 915 or 930?- 934. Also Earldorman of Wessex?
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226346
+        mother=1000226341
+	884.1.1 = {
+		birth=yes
+	}
+	934.1.1 = { death=yes
+	}
+}
+1000226348 = {
+	name="Æthelstan" # Æthelstan Halfking, Ealdorman of Eastanglea 933ish -957(became a monk) # Alternative theory is that his father Æthelrfrith of Mercia might also have recived eastanglea around and then passed it on to his son after his death.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226346
+        mother=1000226341
+	885.1.1 = {
+		birth=yes
+	}
+	960.1.1 = { death=yes
+	}
+}
+1000226349 = {
+	name="Æthelwald" # Æthelstan, Ealdorman of Kent 940-946
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226346
+        mother=1000226341
+	886.1.1 = {
+		birth=yes
+	}
+	946.1.1 = { death=yes
+	}
+}
+1000226350 = {
+	name="Eadric" # Ealdorman of Wessex ?-949
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226346
+        mother=1000226341
+	887.1.1 = {
+		birth=yes
+	}
+	949.1.1 = { death=yes
+	}
+}
+1000226351 = {
+	name="Æthelwald" # son of Æthelstan Halfking, Ealdorman of Essex(950ish?-962)and Eastanglea 957-962.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226348
+	905.1.1 = {
+		birth=yes
+	}
+        960.1.1 = {
+		add_spouse=1000226374
+	}
+	962.1.1 = { death=yes # Murderd by Edgar
+	}
+}
+1000226352 = {
+	name="Æthelwine " # son of Æthelstan Halfking, Ealdorman of Eastanglea 962-992. first Ealdorman of the Witan from 983.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226348
+	910.1.1 = {
+		birth=yes
+	}
+	992.1.1 = { death=yes
+	}
+}
+1000226353 = {
+	name="Leofric " # son of Æthelwine. Likely the oldest since he attested some of his fathers charters.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226352
+	930.1.1 = {
+		birth=yes
+	}
+	999.1.1 = { death=yes
+	}
+}
+1000226354 = {
+	name="Edwin " # son of Æthelwine.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226352
+	931.1.1 = {
+		birth=yes
+	}
+	1005.1.1 = { death=yes
+	}
+}
+1000226355 = {
+	name="Æthelweard" # son of Æthelwine.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226352
+	935.1.1 = {
+		birth=yes
+	}
+	1010.10.18 = { death=yes # died at the battleo of Assandun fighting for Edmund Ironside.
+	}
+}
+###################
+# Family of Æthelweard
+1000226368 = {
+	name="Æthelweard" # Æthelweard the historian, Earldorman of the western provinces(aka Wessex) 973-998. First of Earldormen from 993.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226350 # Eadric earldorman of Wessex, not certain. Alternatively he might have been son of Æthelhelm, oldest son of King Æthelred I.
+	918.1.1 = {
+		birth=yes
+	}
+	998.1.1 = { death=yes
+	}
+}
+1000226216 = {
+	name="Ælfweard" # Brother of Æthelweard the historian.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226350 # Eadric earldorman of Wessex, not certain. Alternatively he might have been son of Æthelhelm, oldest son of King Æthelred I.
+	919.1.1 = {
+		birth=yes
+	}
+	986.1.1 = { death=yes
+	}
+}
+1000226369 = {
+	name="Ælfgifu" # sister of Æthelweard the historian.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226350 # Eadric earldorman of Wessex, not certain. Alternatively she might have been daughter of Æthelhelm, oldest son of King Æthelred I.
+	920.1.1 = {
+		birth=yes
+	}
+	990.1.1 = { death=yes 
+	}
+}
+1000226370 = {
+	name="Ælfwaru" # sister of Æthelweard the historian.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226350 # Eadric earldorman of Wessex, not certain. Alternatively she might have been daughter of Æthelhelm, oldest son of King Æthelred I.
+	921.1.1 = {
+		birth=yes
+	}
+	970.1.1 = { death=yes 
+	}
+}
+1000226371 = {
+	name="Æthelmær" # Æthelmær the Stout, Earldorman of the western provinces(aka Wessex) 1005-1015.
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+	trait=strong
+        father=1000226368 # Æthelweard the historian.
+	940.1.1 = {
+		birth=yes
+	}
+	1015.1.1 = { death=yes
+	}
+}
+1000226372 = {
+	name="Æthelweard" 
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226371 # Æthelmær the Stout
+	965.1.1 = {
+		birth=yes
+	}
+	1017.1.1 = { death=yes # killed by Knud den  store
+	}
+}
+1000226373 = {
+	name="Æthelnoth" # Archbishop of Canterbury 1020-1038
+	dynasty=1000100013
+	religion="catholic"
+	culture="saxon"
+        father=1000226371 # Æthelmær the Stout
+	967.1.1 = {
+		birth=yes
+	}
+	1038.10.30 = { death=yes 
+	}
+}
+##############################################
+#House of Ælfhere
+1000226356 = {
+	name="Ealhhelm" # Father of Ælfhere, Ealdorman of south west Mercia(more or less the same as Hwicce)940-955
+	dynasty=1000100014
+	religion="catholic"
+	culture="saxon"
+	900.1.1 = {
+		birth=yes
+	}
+	955.1.1 = { death=yes
+	}
+}
+1000226357 = {
+	name="Ælfhere" # Ælfhere ealdorman of Mercia 957-983, maybe earldorman of Hampshire 972-983. 
+	dynasty=1000100014
+	religion="catholic"
+	culture="saxon"
+        father=1000226356
+	918.1.1 = {
+		birth=yes
+	}
+	983.1.1 = { death=yes
+	}
+}
+1000226358 = {
+	name="Ælfheah" # Ælfheah brother of Ælfhere, Ealdorman of Hampshire 959-972
+	dynasty=1000100014
+	religion="catholic"
+	culture="saxon"
+        father=1000226356
+	919.1.1 = {
+		birth=yes
+	}
+	972.1.1 = { death=yes
+	}
+}
+1000226359 = {
+	name="Æthelflæd" # sister of Ælfhere, wife of Ælfric Cild
+	dynasty=1000100014
+        female=yes
+	religion="catholic"
+	culture="saxon"
+        father=1000226356
+	920.1.1 = {
+		birth=yes
+	}
+	972.1.1 = { death=yes
+	}
+}
+1000226360 = {
+	name="Ælfric" # Ælfirc Cild, brother in law of Ælfhere, earldorman of Mercia 983-985. Power base was Huntingdonsshire and Northern Northhampshire. Was closely associated with the abbey of Ely.
+	dynasty=1000100015
+	religion="catholic"
+	culture="saxon"
+        father=1000226356
+	920.1.1 = {
+		birth=yes
+	}
+        939.1.1 = {
+		add_spouse=1000226359
+	}
+	985.1.1 = { death=yes
+	}
+}
+1000226361 = {
+	name="Ælfwine" # son of Ælfirc Cild and Æthelflæd
+	dynasty=1000100014
+	religion="catholic"
+	culture="saxon"
+        father=1000226360
+        mother=1000226359
+	940.1.1 = {
+		birth=yes
+	}
+	991.1.1 = { death=yes # fell at the battle of Maldon
+	}
+}
+1000226362 = {
+	name="Godwine" # son of Ælfirc Cild and Æthelflæd, Ealdorman of Lindsey
+	dynasty=1000100014
+	religion="catholic"
+	culture="saxon"
+        father=1000226360
+        mother=1000226359
+	941.1.1 = {
+		birth=yes
+	}
+	1018.10.18 = { death=yes # likely fell at the battle of Ashingdon
+	}
+}
+####
+#House of Æthelstan Rota
+1000226363 = {
+	name="Æthelstan" # Æthelstan Rota, ealdorman in southern Mercia(mainly Buckinghamshire and Oxfordshire) 940-970
+	dynasty=1000100016
+	religion="catholic"
+	culture="saxon"
+	900.1.1 = {
+		birth=yes
+	}
+        946.5.26 = {
+		add_spouse=1000226376 # Æthelflæd of Damerham
+	}
+	970.10.18 = { death=yes 
+	}
+}
+#####################
+#House of Wulfrun
+#
+1000226206 = {
+	name="Wulfrun" # she owned pretty much the whole of Staffordshire, and a lot of Huntingdonshire.  
+	dynasty=1000100029
+	religion="catholic"
+	culture="saxon"
+        female= yes
+	935.1.1 = {
+		birth=yes
+	}
+        954.1.1 = {
+		add_spouse=1000226207 # matrilinear
+	}
+	1005.1.1 = { death=yes
+	}
+}
+1000226207 = {
+	name="Oslac" # made up to allow Wulfric and Ælfhem to be linked. Only thing known of their father was that he was of lower social rank than their mother(since they were "sons of Wulfrun")
+	religion="catholic"
+	culture="saxon"
+	935.1.1 = {
+		birth=yes
+	}
+	1005.1.1 = { death=yes
+	}
+}
+1000226208 = {
+	name="Wulfric" # Wulfric Spot, probable ealdorman of Merica 985-1004. Most important thegn of Staffordshire, Derbyshire, Lancastershire(at least the souhtern bit) and Warwickshire(especially in the wester part).
+	dynasty=1000100029
+	religion="catholic"
+	culture="saxon"
+        father=1000226207
+        mother=1000226206
+	955.1.1 = {
+		birth=yes
+	}
+	1004.10.22 = { death=yes
+	}
+}
+1000226209 = {
+	name="Ælfhelm" # Ælfhelm, Ealdorman of York(southern Northumbria) 994-1006
+	dynasty=1000100029
+	religion="catholic"
+	culture="saxon"
+        father=1000226207
+        mother=1000226206
+	956.1.1 = {
+		birth=yes
+	}
+	1006.1.1 = { death=yes
+	}
+}
+1000226210 = {
+	name="Ælfthryth" # sister of Ælfhelm and Wulfric
+	dynasty=1000100029
+	religion="catholic"
+	culture="saxon"
+        father=1000226207
+        mother=1000226206
+	957.1.1 = {
+		birth=yes
+	}
+	1004.10.22 = { death=yes
+	}
+}
+1000226211= {
+	name="Ealdgyth" # assumed to be either daughter of Wulfric or Ælfthryth, Wife of Morcar of Derbyshire. Maybe wife of Edmund ironside(a lot of confusion of which brothers wife Edmund married and her name) 
+	dynasty=1000100029
+	religion="catholic"
+	culture="saxon"
+        female=yes
+        father=1000226208
+	970.1.1 = {
+		birth=yes
+	}
+	1025.1.1 = { death=yes
+	}
+}
+
+#######
+#family of Morcar and Sigeferth(maybe related to Wulfric Spott)
+1000226212= {
+	name="Earngrim" # father of Morcar.
+	dynasty=1000100030
+	religion="catholic"
+	culture="saxon"
+	950.1.1 = {
+		birth=yes
+	}
+	980.10.22 = { death=yes
+	}
+}
+1000226213= {
+	name="Morcar" # Morcær thegn of Derbyshire 909(inherited Wulfric so he should recive the county already in 1004)-1015 and parts of Leicstershire.
+	dynasty=1000100030
+	religion="catholic"
+	culture="saxon"
+        father=1000226212
+	970.1.1 = {
+		birth=yes
+	}
+        995.1.1 = {
+		add_spouse=1000226211 # Ealdgyth
+	}
+	1015.1.1 = { death=yes # murderd alongside his brother by Eadric, all land reclaimed by Æthelred the unready.
+	}
+}
+1000226214= {
+	name="Sigeferth" # Sigeferth "he and his brother were chief thegns of the Seven Burghs"(the five burghs + Torksey and York), brother of Morcar. Giving him Rutland and Lincolshire ought to be suitable.
+	dynasty=1000100030
+	religion="catholic"
+	culture="saxon"
+        father=1000226212
+	971.1.1 = {
+		birth=yes
+	}
+	1015.1.1 = { death=yes # murderd alongside his brother by Eadric, all land reclaimed by Æthelred the unready.
+	}
+}
+##############################################
+#House of Wight
+1000226365 = {
+	name="Oslac" # Oslac, Earldorman of the Isles of Wight. Claimed by Asser to be of Jutish blood.
+	dynasty=818
+	religion="catholic"
+	culture="saxon"
+	770.1.1 = {
+		birth=yes
+	}
+	840.1.1 = { death=yes 
+	}
+}
+1000226366 = {
+	name="Osburh" # Wife of Æthelwulf of Wessex.
+	dynasty=818
+        female=yes
+	religion="catholic"
+	culture="saxon"
+        father=1000226365
+	812.1.1 = {
+		birth=yes
+	}
+	854.1.1 = { death=yes
+	}
+}
+###############################################
+#East Anglia
+1000226342 = {
+	name="Æthelstan" # king of East Anglia 827-840
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	790.1.1 = {
+		birth=yes
+	}
+	840.1.1 = { death=yes
+	}
+}
+1000226343 = {
+	name="Æthelweard" # king of East Anglia 840-855
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+        father=1000226342
+	810.1.1 = {
+		birth=yes
+	}
+	855.1.1 = { death=yes
+	}
+}
+#163064 = {
+#	name="Edmund" # of East Anglia
+#	dynasty=626
+#	religion="catholic"
+#	culture="saxon"
+#       father=1000226343
+#	840.1.1 = {
+#		birth="840.1.1"
+#	}
+#	
+#	866.11.2={
+#		raise_levies = {
+#			location=70 # Norfolk
+#			force_mult=2.0
+#		}
+#	}
+#	
+#	869.11.20 = {
+#		death="869.11.20"
+#	}
+#}
+#####Norse supremacy
+1000226344 = {
+	name="Oswald" # co king of East Anglia 875ish
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	838.1.1 = {
+		birth=yes
+	}
+	879.1.1 = { death=yes
+	}
+}
+1000226345 = {
+	name="Æthelred" # co king of East Anglia 875ish
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	840.1.1 = {
+		birth=yes
+	}
+	879.1.1 = { death=yes
+	}
+}
+####direct norserule, continued in norse file
+####Continued from norsefile
+#
+#1000226348 = {
+#	name="Æthelstan" # Æthelstan Halfking, Ealdorman of Eastanglea 933ish -957(became a monk) # Alternative theory is that his father Æthelrfrith of Mercia might also have recived eastanglea around and then passed it on to his son after his death.
+#	dynasty=1000100013
+#	religion="catholic"
+#	culture="saxon"
+#       father=1000226347
+#       mother=1000226341
+#	885.1.1 = {
+#		birth=yes
+#	}
+#	960.1.1 = { death=yes
+#	}
+#}
+#1000226351 = {
+#	name="Æthelwald" # son of Æthelstan Halfking, Earldorman of Essex(950ish?-962)and Eastanglea 957-962. Propable Earldorman of Wessex 949-962
+#	dynasty=1000100013
+#	religion="catholic"
+#	culture="saxon"
+#        father=1000226348
+#	905.1.1 = {
+#		birth=yes
+#	}
+#	962.1.1 = { death=yes
+#	}
+#}
+#1000226352 = {
+#	name="Æthelwine " # son of Æthelstan Halfking, Ealdorman of Eastanglea 962-992. first Ealdorman of the Witan from 983.
+#	dynasty=1000100013
+#	religion="catholic"
+#	culture="saxon"
+#        father=1000226348
+#	910.1.1 = {
+#		birth=yes
+#	}
+#	992.1.1 = { death=yes
+#	}
+#}
+1000226379 = {
+	name="Leofsige" # Earldorman of Eastanglea 993-1002(exiled)
+	dynasty=626
+	religion="catholic"
+	culture="saxon"
+	950.1.1 = {
+		birth=yes
+	}
+	1015.1.1 = { death=yes 
+	}
+}
+1000226380 = {
+	name="Ulfcytel" # "Warleader" and "Dux" of eastanglia 1002-1016
+	dynasty=1000100020
+	religion="catholic"
+	culture="saxon"
+	950.1.1 = {
+		birth=yes
+	}
+	1016.10.18 = { death=yes # fell at the battle of Ashingdon
+	}
+}
+##################################
+#Wessex
+1000226381 = {
+	name="Æthelhelm" # Æþelhelm oldest son of Ethelred I
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=33358
+        mother=1000226383
+        trait=ill #Didn't live long
+        trait=shy #Didn't put any mark.
+	865.1.1 = {
+		birth=yes
+	}
+	890.1.1 = { death=yes
+	}
+}
+1000226382 = {
+	name="Æthelwold" # Æthelwold youngest son of Ethelred I, contender for the throne of Wessex.
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+	father=33358
+        mother=1000226383
+        trait=ambitious #Went for the crown.
+        trait=proud #pressed his claim for the crown
+	866.1.1 = {
+		birth=yes
+	}
+	871.4.24 = {
+		trait=envious # Alfred gets the crown
+	}
+	902.12.13 = { death=yes # fell at the battle of the holme
+	}
+}
+1000226215= {
+	name="Edmund" # brother of Edward the Exile.
+	dynasty=100072
+	religion="catholic"
+	culture="saxon"
+        mother=1000226211 # Ealdgyth
+        father=108 # Edmund Ironside
+        trait=ill
+	1016.1.1 = {
+		birth=yes
+	}
+	1024.1.1 = { death=yes
+	}
+}
+#############
+#Dorset
+1000226218= {
+	name="Osric" # Ealdorman of Dorset 848-864+
+	dynasty=1000100037
+	religion="catholic"
+	culture="saxon"
+	830.1.1 = {
+		birth=yes
+	}
+	871.1.1 = { death=yes
+	}
+}
+#############
+#York
+1000226217= {
+	name="Bernwulf" # Thegn of Topcliffe(northyork ridding) ?-1066
+	dynasty=1000100038
+	religion="catholic"
+	culture="saxon"
+	1015.1.1 = {
+		birth=yes
+	}
+	1066.10.14 = { death=yes
+	}
+}
+1000226222= {
+	name="Osbert" # Father of Gamel
+	dynasty=1000100039
+	religion="catholic"
+	culture="saxon"
+	1000.1.1 = {
+		birth=yes
+	}
+	1040.1.1 = { death=yes
+	}
+}
+1000226223= {
+	name="Gamel" # Thegn of Cottingham(east york ridding) ?-1066
+	dynasty=1000100039
+	religion="catholic"
+	culture="saxon"
+        father=1000226222
+	1025.1.1 = {
+		birth=yes
+	}
+	1066.10.14 = { death=yes
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,631 @@
+1000226400 = {
+	name = "Dúnán" #First bishop of Dublin.
+	dynasty=0
+	martial=5
+	diplomacy=9
+	intrigue=6
+	stewardship=9
+	religion="catholic"
+	culture="norsegaelic"
+	1008.1.1={
+		birth="1008.1.1"
+	}
+	1074.5.6={  
+		death="1074.5.6"
+	}
+}
+1000226401 = {
+	name = "Mael Eóin" #Bishop of Old Leighlin
+	dynasty=1000100250
+	martial=3
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="irish"
+	1046.1.1={
+		birth="1046.1.1"
+	}
+	1125.1.1={  
+		death="1125.1.1"
+	}
+}
+1000226402 = {
+	name = "Cinaedh" #Abbot of Glendalough
+	dynasty=1000100251
+	martial=7
+	diplomacy=6
+	intrigue=3
+	stewardship=11
+	religion="catholic"
+	culture="irish"
+	1012.1.1={
+		birth="1012.1.1"
+	}
+	1068.1.1={  
+		death="1068.1.1"
+	}
+}
+1000226403 = {
+	name = "Ugaire" #Archbishop of Ferns
+	dynasty=1000100252
+	martial=2
+	diplomacy=12
+	intrigue=10
+	stewardship=4
+	religion="catholic"
+	culture="irish"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1085.1.1={  
+		death="1085.1.1"
+	}
+}
+1000226405 = {
+	name = "Domhnall Dubh" #Lord of Anghaile
+	dynasty=1000100253
+	martial=10
+	diplomacy=8
+	intrigue=5
+	stewardship=9
+	religion="catholic"
+	culture="irish"
+	1045.1.1={
+		birth="1045.1.1"
+	}
+	1095.1.1={  
+		death="1095.1.1"
+	}
+}
+1000226406 = {
+	name = "Ailill" #Abbot of Clonmacnoise
+	dynasty=1000100254
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=14
+	religion="catholic"
+	culture="irish"
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1070.1.1={  
+		death="1070.1.1"
+	}
+}
+1000226407 = {
+	name = "Celech" #Abbot of Aghaboe
+	dynasty=1000100255
+	martial=9
+	diplomacy=9
+	intrigue=6
+	stewardship=2
+	religion="catholic"
+	culture="irish"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1108.1.1={  
+		death="1108.1.1"
+	}
+}
+1000226408 = {
+	name = "Toirdhealbhach" #Lord of the castle of Dunseverick
+	dynasty=1000100276
+	martial=15
+	diplomacy=6
+	intrigue=6
+	stewardship=9
+	religion="catholic"
+	culture="irish"
+	1040.1.1={
+		birth="1020.1.1"
+	}
+	1120.1.1={  
+		death="1108.1.1"
+	}
+}
+1000226409 = {
+	name = "Maél Muire" #Bishop of Down
+	dynasty=0
+	martial=6
+	diplomacy=11
+	intrigue=9
+	stewardship=9
+	religion="catholic"
+	culture="irish"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1117.1.1={  
+		death="1117.1.1"
+	}
+}
+1000226410 = {
+	name = "Eóin" #Bishop of Raphoe
+	dynasty=1000100256
+	martial=9
+	diplomacy=4
+	intrigue=13
+	stewardship=7
+	religion="catholic"
+	culture="irish"
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1100.1.1={  
+		death="1100.1.1"
+	}
+}
+1000226411 = {
+	name = "Flann" #Abbot of Devenish
+	dynasty=1000100257
+	martial=3
+	diplomacy=12
+	intrigue=8
+	stewardship=10
+	religion="catholic"
+	culture="irish"
+	1025.1.1={
+		birth="1015.1.1"
+	}
+	1114.1.1={  
+		death="1114.1.1"
+	}
+}
+1000226412 = {
+	name = "Maol Craiobh" #King of Airigialla
+	dynasty=1000100258
+	martial=8
+	diplomacy=8
+	intrigue=12
+	stewardship=10
+	religion="catholic"
+	culture="irish"
+	860.1.1={
+		birth="860.1.1"
+	}
+	917.1.1={  
+		death="917.1.1"
+	}
+}
+1000226413 = {
+	name = "Fogarthach" #King of Airigialla
+	dynasty=1000100259
+	martial=10
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="irish"
+	880.1.1={
+		birth="880.1.1"
+	}
+	947.1.1={  
+		death="947.1.1"
+	}
+}
+1000226414 = {
+	name = "Donnacan" #King of Airigialla
+	dynasty=1000100260
+	martial=5
+	diplomacy=15
+	intrigue=8
+	stewardship=10
+	religion="catholic"
+	culture="irish"
+	900.1.1={
+		birth="900.1.1"
+	}
+	970.1.1={  
+		death="970.1.1"
+	}
+}
+1000226415 = {
+	name = "Mac Eiccnigh" #King of Airigialla
+	dynasty=1000100261
+	martial=5
+	diplomacy=9
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="irish"
+	950.1.1={
+		birth="950.1.1"
+	}
+	998.1.1={  
+		death="998.1.1"
+	}
+}
+1000226416 = {
+	name = "Mac Leiginn" #King of Airigialla
+	dynasty=1000100262
+	martial=15
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="irish"
+	970.1.1={
+		birth="970.1.1"
+	}
+	1022.1.1={  
+		death="1022.1.1"
+	}
+}
+1000226417 = {
+	name = "Cathalan" #King of Airigialla
+	dynasty=1000100263
+	martial=9
+	diplomacy=10
+	intrigue=8
+	stewardship=10
+	religion="catholic"
+	culture="irish"
+	990.1.1={
+		birth="990.1.1"
+	}
+	1027.1.1={  
+		death="1027.1.1"
+	}
+}
+1000226418 = {
+	name = "Gilla Coluim" #King of Airigialla
+	dynasty=1000100264
+	martial=8
+	diplomacy=10
+	intrigue=15
+	stewardship=7
+	religion="catholic"
+	culture="irish"
+	992.1.1={
+		birth="992.1.1"
+	}
+	1048.1.1={  
+		death="1048.1.1"
+	}
+}
+1000226419 = {
+	name = "Leathlobair" #King of Airigialla
+	dynasty=1000100252
+	martial=8
+	diplomacy=10
+	intrigue=9
+	stewardship=7
+	religion="catholic"
+	culture="irish"
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1078.1.1={  
+		death="1078.1.1"
+	}
+}
+1000226420 = {
+	name = "Mael Pátraic" #Bishop of Armagh
+	dynasty=1000100265
+	martial=8
+	diplomacy=12
+	intrigue=6
+	stewardship=10
+	religion="catholic"
+	culture="irish"
+	1024.1.1={
+		birth="1024.1.1"
+	}
+	1096.1.1={  
+		death="1096.1.1"
+	}
+}
+1000226421 = {
+	name = "Tighernach" #Abbot of Roscommon
+	dynasty=1000100266
+	martial=5
+	diplomacy=12
+	intrigue=6
+	stewardship=12
+	religion="catholic"
+	culture="irish"
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1088.1.1={  
+		death="1088.1.1"
+	}
+}
+1000226422 = {
+	name = "Diarmait" #Bishop of Emly
+	dynasty=1000100267
+	martial=10
+	diplomacy=8
+	intrigue=10
+	stewardship=5
+	religion="catholic"
+	culture="irish"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1114.1.1={  
+		death="1114.1.1"
+	}
+}
+1000226423 = {
+	name = "Finghin" #Count of Cork
+	dynasty=1000100268
+	martial=8
+	diplomacy=8
+	intrigue=10
+	stewardship=6
+	religion="catholic"
+	culture="irish"
+	1025.1.1={
+		birth="1025.1.1"
+	}
+	1106.1.1={  
+		death="1106.1.1"
+	}
+}
+1000226425 = {
+	name = "Niall" #Bishop of Lismore
+	dynasty=1000100269
+	martial=3
+	diplomacy=9
+	intrigue=10
+	stewardship=12
+	religion="catholic"
+	culture="irish"
+	1036.1.1={
+		birth="1036.1.1"
+	}
+	1113.1.1={  
+		death="1113.1.1"
+	}
+}
+1000226426 = {
+	name = "Martan" #Abbot of Clonmacnoise
+	dynasty=1000100270
+	martial=7
+	diplomacy=9
+	intrigue=4
+	stewardship=12
+	religion="catholic"
+	culture="irish"
+	808.1.1={
+		birth="808.1.1"
+	}
+	868.1.1={  
+		death="868.1.1"
+	}
+}
+1000226427 = {
+	name = "Féthgno" #Abbot and bishop of Armagh
+	dynasty=1000100271
+	martial=3
+	diplomacy=15
+	intrigue=9
+	stewardship=5
+	religion="catholic"
+	culture="irish"
+	830.1.1={
+		birth="830.1.1"
+	}
+	874.10.6={  
+		death="874.10.6"
+	}
+}
+1000226429 = {
+	name = "Aedh" #Abbot and bishop of Roscommon
+	dynasty=1000100272
+	martial=8
+	diplomacy=6
+	intrigue=2
+	stewardship=11
+	religion="catholic"
+	culture="irish"
+	800.1.1={
+		birth="800.1.1"
+	}
+	872.10.6={  
+		death="872.10.6"
+	}
+}
+1000226430 = {
+	name = "Daniél" #Abbot and bishop of Glendalough
+	dynasty=1000100273
+	martial=12
+	diplomacy=6
+	intrigue=7
+	stewardship=9
+	religion="catholic"
+	culture="irish"
+	820.1.1={
+		birth="820.1.1"
+	}
+	872.1.1={  
+		death="872.1.1"
+	}
+}
+1000226431 = {
+	name = "Dermot" #Abbot and bishop of Ferns
+	dynasty=0
+	martial=6
+	diplomacy=7
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="irish"
+	794.1.1={
+		birth="794.1.1"
+	}
+	868.1.1={  
+		death="868.1.1"
+	}
+}
+1000226432 = {
+	name = "Eógan" #Abbot of Emly
+	dynasty=1000100274
+	martial=6
+	diplomacy=15
+	intrigue=9
+	stewardship=6
+	religion="catholic"
+	culture="irish"
+	830.1.1={
+		birth="830.1.1"
+	}
+	890.1.1={  
+		death="890.1.1"
+	}
+}
+1000226433 = {
+	name = "Maelmartin" #Abbot of Aghaboe
+	dynasty=0
+	martial=9
+	diplomacy=3
+	intrigue=5
+	stewardship=11
+	religion="catholic"
+	culture="irish"
+	825.1.1={
+		birth="825.1.1"
+	}
+	885.1.1={  
+		death="885.1.1"
+	}
+}
+1000226434 = {
+	name = "Cathalán" # King of Ulster
+	dynasty=819
+	martial=9
+	diplomacy=6
+	intrigue=10
+	stewardship=11
+	religion="catholic"
+	culture="irish"
+	father=1000226438
+	820.1.1={
+		birth="820.1.1"
+	}
+	871.1.1={  
+		death="871.1.1"
+	}
+}
+1000226435 = {
+	name = "Lethlobar" # King of Ulster
+	dynasty=1000100275
+	martial=6
+	diplomacy=5
+	intrigue=12
+	stewardship=6
+	religion="catholic"
+	culture="irish"
+	father=1000226436
+	826.1.1={
+		birth="826.1.1"
+	}
+	873.1.1={  
+		death="873.1.1"
+	}
+}
+1000226436 = {
+	name = "Loingsig"
+	dynasty=1000100275
+	martial=6
+	diplomacy=5
+	intrigue=12
+	stewardship=6
+	religion="catholic"
+	culture="irish"
+	father=1000226437
+	780.1.1={
+		birth="780.1.1"
+	}
+	830.1.1={  
+		death="830.1.1"
+	}
+}
+1000226437 = {
+	name = "Tommaltach" # King of Ulster
+	dynasty=1000100275
+	martial=6
+	diplomacy=5
+	intrigue=12
+	stewardship=6
+	religion="catholic"
+	culture="irish"
+	750.1.1={
+		birth="750.1.1"
+	}
+	790.1.1={  
+		death="790.1.1"
+	}
+}
+1000226438 = {
+	name="Indrechtaig" #Father of Cathalán
+	dynasty=819
+	martial=4
+	diplomacy=5
+	intrigue=4
+	stewardship=9
+	religion="catholic"
+	culture="irish"
+	father=1000226439
+	780.1.2={
+		birth="780.1.2"
+	}
+	821.1.1={  
+		death="821.1.1"
+	}
+}
+1000226439 = {
+	name="Tommaltach" #son of Cathail from the Oengus family, claimant of Ulster
+	dynasty=819
+	martial=10
+	diplomacy=5
+	intrigue=9
+	stewardship=9
+	religion="catholic"
+	culture="irish"
+	father=1000226440
+	765.1.2={
+		birth="765.1.2"
+	}
+	789.1.1={  
+		death="789.1.1"
+	}
+}
+1000226440 = {
+	name="Cathail" #from the Oengus family
+	dynasty=819
+	martial=10
+	diplomacy=5
+	intrigue=9
+	stewardship=9
+	religion="catholic"
+	culture="irish"
+	father=6188
+	720.1.2={
+		birth="748.1.2"
+	}
+	779.1.1={  
+		death="779.1.1"
+	}
+}
+#####
+1000226428 = {
+	name = "Tergeis" #Viking founder of Linn Duachaill (Annagassan)
+	dynasty=1192
+	martial=10
+	diplomacy=6
+	intrigue=6
+	stewardship=9
+	religion="norse_pagan"
+	culture="norse"
+	811.1.1={
+		birth="811.1.1"
+	}
+	880.10.6={  
+		death="880.10.6"
+	}
+}

@@ -1,0 +1,22 @@
+# 727 - Bostra #Former Syria
+
+# County Title
+title = c_syria
+
+# Settlements
+max_settlements = 5
+
+b_suwaida = castle
+#b_nimreh = castle
+#b_ramtah = city
+b_daraa = city
+#b_aydoun = temple
+#b_izra = temple
+#b_ummqais = city
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+

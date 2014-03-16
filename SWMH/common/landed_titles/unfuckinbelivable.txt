@@ -1,0 +1,15 @@
+e_mexikha = {
+	color = { 255 127 0 }
+	
+	short_name = yes
+	
+#	capital = 1
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = nahuatl
+	religion = aztec
+}

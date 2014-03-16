@@ -1,0 +1,24 @@
+# 120 - Göttingen
+
+# County Title
+title = c_gottingen # Grone
+
+# Settlements
+max_settlements = 4
+
+b_pfalzgrona = castle
+b_adelebsen = castle
+b_corvey = temple
+#b_gottingen = city
+#b_hardenberg = castle
+
+
+
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

@@ -1,0 +1,31 @@
+# 211 - Rosello
+
+# County Title
+title = c_rosello
+
+# Settlements
+max_settlements = 4
+b_castellrossello = castle 
+b_elna = temple
+b_perpinya = city
+#b_cerdanya = castle
+#b_vallespir = castle
+#b_capcir = castle
+#b_fenolleda = castle
+#b_banyuls = city
+#b_cuixa = temple
+
+#Misc
+religion = catholic
+culture = catalan
+
+# History
+1066.1.1 = { 
+	b_castellrossello = ca_keep_1
+	b_castellrossello = ca_wall_1
+	b_castellrossello = ca_stable_1
+	b_castellrossello = ca_militia_barracks_1
+	b_castellrossello = ca_wall_2
+	b_castellrossello = ca_barracks_1
+	}
+1109.1.1 = { trade_post = b_grimaldi }

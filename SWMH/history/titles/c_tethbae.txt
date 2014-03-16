@@ -1,0 +1,7 @@
+862.11.22={
+	liege = "d_meath"
+	holder = 131502 #Flann Sinna son of Máel Sechnaill Ua Neill
+}
+1030.7.1={
+	holder = 6120 #Conchobar son of abbot Domnall
+}

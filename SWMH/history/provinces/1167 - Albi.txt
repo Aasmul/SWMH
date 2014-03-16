@@ -1,0 +1,21 @@
+# 1167 - Albi
+# County Title
+title = c_albi
+
+# Settlements
+max_settlements = 5
+
+b_fayet = castle
+b_lavaur = city
+b_albioccitiania = temple
+b_lombers = castle
+
+#b_rabastens = city
+#b_brusque = city
+#b_castres = city
+
+culture = occitan
+religion = catholic
+
+# History
+

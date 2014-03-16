@@ -1,0 +1,207 @@
+########
+#CJL78 Lombardo Italians 1.000.167.010-1.000.167.049
+########
+
+########
+#Aleramici of Savona and Finale
+########
+1000167010 = { #Marchese of Savona and Finale after Bonifazio del Vasto
+	name="Enrico"
+	dynasty=206 #Aleramici
+	religion="catholic"
+	culture="italian" #Lombardo
+	father=7737 #Boniface del Vasto (Aleramici)
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1184.1.1 = {
+		death="1184.1.1"
+	}
+}
+
+1000167011 = { #Marchese of Savona and Finale
+	name="Enrico" #Enrico II
+	dynasty=206 #Aleramici
+	religion="catholic"
+	culture="italian" #Lombardo
+	father=1000167010
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	1231.1.1 = {
+		death="1231.1.1"
+	}
+}
+
+1000167012 = { #Marchese of Finale
+	name="Giacomo"
+	dynasty=206 #Aleramici
+	religion="catholic"
+	culture="italian" #Lombardo
+	father=1000167011
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1268.1.1 = {
+		death="1268.1.1"
+	}
+}
+
+1000167013 = { #Marchese of Finale
+	name="Antonio"
+	dynasty=206 #Aleramici
+	religion="catholic"
+	culture="italian" #Lombardo
+	father=1000167012
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1313.1.1 = {
+		death="1313.1.1"
+	}
+}
+
+1000167014 = { #Marchese of Finale
+	name="Giorgio"
+	dynasty=206 #Aleramici
+	religion="catholic"
+	culture="italian" #Lombardo
+	father=1000167013
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1359.1.1 = {
+		death="1359.1.1"
+	}
+}
+
+1000167015 = { #Marchese of Finale
+	name="Lazarino"
+	dynasty=206 #Aleramici
+	religion="catholic"
+	culture="italian" #Lombardo
+	father=1000167014
+	1325.1.1 = {
+		birth="1325.1.1" #unknown; father Giorgio married in 1320
+	}
+	1393.1.1 = {
+		death="1393.1.1"
+	}
+}
+
+########
+#Additional di Parma history
+########
+
+1000167016 = {
+	name="Atto"
+	dynasty=100321
+	religion="catholic"
+	culture="italian"
+	father=1000167017 #speculative
+	995.1.1 = {
+		birth="995.1.1"
+	}
+	1060.1.1 = {
+		death="1060.1.1"
+	}
+}
+
+1000167017 = {
+	name="Bernardo"
+	dynasty=100321
+	religion="catholic"
+	culture="italian"
+	980.1.1 = {
+		birth="980.1.1"
+	}
+	1040.1.1 = {
+		death="1040.1.1"
+	}
+}
+
+########
+#Bishops of Como to 1127
+########
+
+1000167018 = {
+	name="Rainaldo"
+	religion="catholic"
+	culture="italian"
+	1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
+}
+
+1000167019 = {
+	name="Eribert"
+	religion="catholic"
+	culture="italian"
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+
+1000167020 = {
+	name="Guido Grimoldi"
+	religion="catholic"
+	culture="italian"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1125.1.1 = {
+		death="1125.1.1"
+	}
+}
+
+1000167021 = {
+	name="Ardizzone"
+	religion="catholic"
+	culture="italian"
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1159.1.1 = {
+		death="1159.1.1"
+	}
+}
+
+########
+#Conte di Bergamo - not much info available
+########
+
+1000167022 = {
+	name="Giselberto"
+	dynasty=1000064007 #di Bergamo
+	religion="catholic"
+	culture="italian" #Lombardo
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+########
+#Conte di Ferrara - not much info available
+########
+
+1000167023 = {
+	name="Alessandro"
+	dynasty=1000064008 #di Ferrara
+	religion="catholic"
+	culture="italian" #Lombardo
+	1045.1.1 = {
+		birth="1045.1.1"
+	}
+	1101.7.1 = {
+		death="1101.7.1"
+	}
+}

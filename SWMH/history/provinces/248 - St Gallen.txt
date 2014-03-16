@@ -1,0 +1,29 @@
+# 248 - St. Gallen
+
+# County Title
+title = c_st_gallen
+
+# Settlements
+max_settlements = 5
+
+b_kyburg = castle
+b_konstanz = temple
+b_zurich = city
+b_stgallen = temple
+#b_lenzburg = castle
+#b_alttogenburg = castle
+
+
+
+#b_winterthur= city
+#b_badenschweiz= castle
+#b_schanis = temple
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+

@@ -1,0 +1,135 @@
+########
+#CJL78 Langobard Italians 1.000.167.110-1.000.167.129
+########
+
+########
+#Conti di Aquino
+########
+
+1000167110 = {
+	name="Atenulf" #Atenulf IV
+	dynasty=12243 #di Aquino
+	religion="catholic"
+	culture="langobardisch"
+	1000.1.1 = {
+		birth="1000.1.1" 
+	}
+	1038.1.1 = {
+		death="1038.1.1"
+	}
+}
+
+1000167111 = {
+	name="Atenulf" #Atenulf V
+	dynasty=12243 #di Aquino
+	religion="catholic"
+	culture="langobardisch"
+	father=1000167110
+	1020.1.1 = {
+		birth="1020.1.1" 
+	}
+	1062.1.1 = {
+		death="1062.1.1"
+	}
+}
+
+1000167112 = {
+	name="Atenulf" #Atenulf II of Gaeta
+	dynasty=12243 #di Aquino
+	religion="catholic"
+	culture="langobardisch"
+	father=1000167111
+	1040.1.1 = {
+		birth="1040.1.1" 
+	}
+	1062.1.1 = {
+		add_claim="c_gaeta"
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+
+1000167113 = {
+	name="Emilia"
+	dynasty=12243 #di Aquino
+	religion="catholic"
+	culture="langobardisch"
+	father=1000167111
+	female=yes
+	1040.1.1 = {
+		birth="1040.1.1" 
+	}
+	1060.1.1 = {
+		add_spouse=30858 #Landolf di Salerno
+	}
+	1092.1.1 = {
+		death="1092.1.1"
+	}
+}
+
+#1000167114 = {}
+
+#1000167115 = {}
+
+#1000167116 = {}
+
+#1000167117 = {}
+
+#1000167118 = {}
+
+1000167119 = {
+	name="Pandolfo"
+	dynasty=12243 #di Aquino
+	religion="catholic"
+	culture="langobardisch"
+	father=73350 #incomplete records after XI century
+	1070.1.1 = {
+		birth="1070.1.1" 
+	}
+	1130.1.1 = {
+		death="1130.1.1" 
+	}
+}
+
+1000167120 = {
+	name="Pandolfo"
+	dynasty=12243 #di Aquino
+	religion="catholic"
+	culture="langobardisch"
+	father=1000167119 #incomplete records after XI century
+	1100.1.1 = {
+		birth="1100.1.1" 
+	}
+	1170.1.1 = {
+		death="1170.1.1" 
+	}
+}
+
+1000167121 = {
+	name="Adenolfo"
+	dynasty=12243 #di Aquino
+	religion="catholic"
+	culture="langobardisch"
+	father=1000167120 #incomplete records after XI century
+	1130.1.1 = {
+		birth="1130.1.1" 
+	}
+	1210.1.1 = {
+		death="1210.1.1" 
+	}
+}
+
+1000167122 = {
+	name="Tomaso"
+	dynasty=12243 #di Aquino
+	religion="catholic"
+	culture="langobardisch"
+	father=1000167121 #incomplete records after XI century
+	1180.1.1 = {
+		birth="1180.1.1" 
+	}
+	1251.1.1 = {
+		death="1251.1.1" 
+	}
+}

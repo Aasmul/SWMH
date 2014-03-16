@@ -1,0 +1,27 @@
+# 1121 - Montefeltro
+
+# County Title
+title = c_montefeltro
+
+# Settlements
+max_settlements = 3
+
+b_pietrarubbia = castle
+b_sanleo = castle
+
+#b_pennabilli = castle
+#b_sassocorvaro = castle
+#b_santagatafeltria = castle
+#b_lunano = castle
+#b_monteilluminato = temple
+#b_maiolo = city
+#b_sestino = city
+
+
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

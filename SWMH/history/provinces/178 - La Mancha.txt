@@ -1,0 +1,21 @@
+# 178 - La Mancha
+
+# County Title
+title = c_la_mancha
+
+# Settlements
+max_settlements = 4
+b_alarcon = castle
+b_tarancon = city
+b_sanclemente = temple
+#b_ucles = castle
+#b_laspedroneras = castle
+#b_motadelcuervo = castle
+
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1235.1.1 = { culture = castillan }
+1235.1.1 = { religion = catholic }
+

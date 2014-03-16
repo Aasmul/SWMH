@@ -1,0 +1,72 @@
+# 97 - Arques
+
+# County Title
+title = c_arques
+
+# Settlements
+max_settlements = 6
+b_fecamp = castle
+b_arques = castle
+b_rouen = city
+b_jumieges = temple
+#b_dieppe = city
+
+#b_harcourt = castle
+#b_lillebonne = castle
+#b_moulineaux = castle
+#b_tancarvilla = castle
+#b_longueville = castle
+#b_mortemer = city
+#b_gournay = temple
+
+
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+911.1.1 = { # Viking takeover
+	remove_settlement = b_rouen
+	remove_settlement = b_fecamp
+        b_fecamp = castle
+        b_arques = castle
+        b_rouen = city
+        b_jumieges = temple
+
+	b_fecamp = ca_keep_1
+	b_fecamp = ca_training_grounds_1
+	b_fecamp = ca_stable_1
+	b_fecamp = ca_wall_1
+	b_fecamp = ca_wall_2
+	b_fecamp = ca_militia_barracks_1
+	b_fecamp = ca_barracks_1
+	b_fecamp = ca_town_1
+
+	b_arques = ca_keep_1
+	b_arques = ca_training_grounds_1
+	b_arques = ca_stable_1
+	b_arques = ca_wall_1
+	b_arques = ca_wall_2
+	b_arques = ca_militia_barracks_1
+	b_arques = ca_barracks_1
+	b_arques = ca_town_1
+	
+	b_rouen = ct_port_1
+	b_rouen = ct_wall_1
+	b_rouen = ct_barracks_1
+	b_rouen = ct_barracks_1
+	b_rouen = ct_marketplace_1
+}
+
+960.1.1 = {
+	culture = norman
+}
+1030.1.1  = { b_longueville = castle }
+1066.1.1 = {
+	b_rouen = ct_port_2
+	b_rouen = ct_port_3
+}
+
+1100.11.11 = { culture = frankish }
+

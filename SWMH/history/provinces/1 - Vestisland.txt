@@ -1,0 +1,22 @@
+# 1 - Vestisland
+
+# County Title
+title = c_vestisland
+
+# Settlements
+max_settlements = 2
+
+b_husavik = castle
+#b_borgarnes = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+867.1.1 = {
+	b_husavik = ca_shipyard_1
+}
+1000.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norwegian } 
+

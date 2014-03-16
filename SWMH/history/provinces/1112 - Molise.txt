@@ -1,0 +1,26 @@
+# 1112 - Molise
+
+# County Title
+title = c_molise
+
+# Settlements
+max_settlements = 4
+
+b_boiano = castle
+b_campobasso = city
+#b_trivento = city
+#b_eremodeisanticosmaedamiano = temple
+#b_isernia = city
+#b_castelsanvincenzo = castle
+#b_venafro = city
+#b_pietrabbondante = temple
+#b_castelmonforte = castle
+#b_sangromolise = castle
+
+
+# Misc
+culture = langobardisch
+religion = catholic
+
+# History
+1000.1.1 = {culture = southern_italian }

@@ -1,0 +1,30 @@
+# 205 - Empuries
+
+# County Title
+title = c_empuries
+
+# Settlements
+max_settlements = 4
+b_castellodempuries = castle
+b_santperederoda = temple
+b_torroellademontgri = city
+#b_peralada = castle
+#b_verges = castle
+#b_quermanco = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_castellodempuries = ca_town_1
+	b_castellodempuries = ca_keep_1
+	b_castellodempuries = ca_stable_1
+	b_castellodempuries = ca_militia_barracks_1
+	b_castellodempuries = ca_wall_1
+	b_castellodempuries = ca_wall_2
+	b_castellodempuries = ca_barracks_1
+}
+1123.1.1 = { trade_post = b_grimaldi }

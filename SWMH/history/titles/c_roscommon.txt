@@ -1,0 +1,7 @@
+850.1.1={
+	liege = "d_connacht"
+	holder = 1000226429 #"Aedh", Abbot and bishop of Roscommon
+}
+1060.1.1={
+	holder = 1000226421 #"Tighernach", Abbot of Roscommon
+}

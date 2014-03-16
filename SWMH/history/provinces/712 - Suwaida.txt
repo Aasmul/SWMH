@@ -1,0 +1,20 @@
+# 712 - Suwaida
+
+# County Title
+title = c_suwaida
+
+# Settlements
+max_settlements = 4
+
+b_salkhard = castle
+b_shahba = temple
+b_adrasyria = city
+#b_mallahsyria = temple
+
+
+# Misc
+culture = levantine_arabic
+religion = nestorian
+
+# History
+

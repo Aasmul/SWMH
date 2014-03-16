@@ -1,0 +1,77 @@
+867.1.1={
+	holder=184009
+}
+#CJL78 - Giudice of Gallura
+1020.1.1={
+	liege="d_pisa" #Rulers of Gallura were nominally subject to the Archbishop of Pisa, and maintained close ties to the Republic, if not truly vassals, throughout the time period.
+	holder=1000167073
+}
+1040.1.1={
+	holder = 1000167074
+}
+1065.1.1={
+	holder = 1000167075
+}
+1080.1.1={
+	holder = 1000167077
+}
+1100.1.1={
+	holder = 1000167078
+}
+1116.1.1={
+	holder=1000167079
+}
+1133.1.1={
+	holder=1000167080
+}
+1146.1.1={
+	holder=1000167081
+}
+1170.1.1={
+	holder=1000167082
+}
+1203.1.1={
+	holder=1000167083
+}
+1207.1.1={
+	holder=1000167084
+}
+1225.1.1={
+	holder=1000167085
+}
+1238.1.1={
+	holder=1000167086
+}
+1275.1.1={
+	holder=1000167087
+}
+1298.1.1={
+	holder=1000167088
+}
+#To Pisa directly
+1299.1.1={
+	holder=73465
+	liege=d_pisa
+}
+1312.1.1={
+	holder=462611
+}
+1313.1.1={
+	holder=73425
+}
+1316.1.1={
+	holder=73455
+}
+1320.1.1={
+	holder=73452
+}
+#To Crown of Aragon
+1324.1.1={
+	liege = "k_aragon"
+}
+1324.1.1={
+	holder=460510
+}
+1336.1.24={
+	holder=460500
+}

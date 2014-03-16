@@ -1,0 +1,16 @@
+# 877 - Kassala
+
+# County Title
+title = c_kassala
+
+# Settlements
+max_settlements = 1
+
+b_kassala = castle
+
+# Misc
+culture = beja
+religion = pagan
+
+# History
+

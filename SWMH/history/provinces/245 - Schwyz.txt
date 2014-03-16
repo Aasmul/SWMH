@@ -1,0 +1,26 @@
+# 245 - Schwyz
+
+# County Title
+title = c_schwyz
+
+# Settlements
+max_settlements = 5
+
+b_altrapperswill = castle
+b_luzern = temple
+b_schwyz = city
+b_altdorf = castle
+#b_einsideln = temple
+#b_engelberg = temple
+
+
+
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+800.1.1= { capital = b_altrapperswill }
+1291.7.15= { capital = b_schwyz }

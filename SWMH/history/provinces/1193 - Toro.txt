@@ -1,0 +1,24 @@
+# 1193 - Toro
+
+# County Title
+title = c_toro
+
+# Settlements
+max_settlements = 4
+b_benavente = castle
+b_toro = city
+#b_villalpando = city
+#b_fuentesauco = castle
+
+
+# Misc
+culture = leonese
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_benavente = ca_keep_1
+	b_benavente = ca_wall_1
+}
+1102.1.1 = { b_toro = temple }

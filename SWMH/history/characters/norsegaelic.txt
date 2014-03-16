@@ -1,0 +1,239 @@
+131521 = {
+	name="Járnkné"
+	# AKA: Glúniairn
+	dynasty=20084
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="tough_soldier"
+	father=5790
+	mother=131520
+	960.1.2={
+		birth="960.1.2"
+	}
+	989.1.2={
+		death="989.1.2"
+	}
+}
+131522 = {
+	name="Gilla Ciaráin"
+	# AKA: Gilla Ciarain
+	dynasty=20084
+	martial=5
+	diplomacy=4
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="tough_soldier"
+	father=131521
+	979.1.2={
+		birth="979.1.2"
+	}
+	1014.1.24={
+		death="1014.1.24"
+	}
+}
+131523 = {
+	name="Sigtrygg"
+	# AKA: Sihtric
+	dynasty=20084
+	martial=3
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="tough_soldier"
+	father=131521
+	980.1.2={
+		birth="980.1.2"
+	}
+	1014.1.24={
+		death="1014.1.24"
+	}
+}
+131526 = {
+	name="Mac Congáil"
+	dynasty=20084
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="tough_soldier"
+	father=131525
+	1039.1.2={
+		birth="1039.1.2"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+159291 = {
+	name="Sigtrygg"
+	# AKA: Sihtric
+	dynasty=20084
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="tough_soldier"
+	add_trait="bastard"
+	father=1027
+	mother=1028
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1040.1.1={
+		add_spouse=159290
+	} 
+	1080.1.5={
+		death="1080.1.5"
+	}
+}
+1025 = {
+	name="Sigtrygg"
+	# AKA: Sihtric
+	dynasty=20084
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="intricate_webweaver"
+	father=5790
+	970.1.1={
+		birth="970.1.1"
+	}
+	1000.1.2={
+		add_spouse=1026
+	}
+	1042.1.5={
+		death="1042.1.5"
+	}
+}
+1027 = {
+	name="Olav"
+	# AKA: Amlaíb
+	dynasty=20084
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="tough_soldier"
+	father=1025
+	mother=1026
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1018.1.2={
+		add_spouse=1028
+	}
+	1034.1.5={
+		death="1034.1.5"
+	}
+}
+1029 = {
+	name="Ragnhild"
+	# AKA: Rachel
+	female = yes
+	dynasty=20084
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="flamboyant_schemer"
+	father=1027
+	mother=1028
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1065.1.5={
+		death="1065.1.5"
+	}
+}
+131524 = {
+	name="Gudrød"
+	# AKA: Godfrey
+	dynasty=20084
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="patient"
+	add_trait="charitable"
+	add_trait="gluttonous"
+	father=131523
+	1004.1.2={
+		birth="1004.1.2"
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+131525 = {
+	name="Finn"
+	# AKA: Fingal
+	dynasty=20084
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=3
+	religion="catholic"
+	culture="norsegaelic"
+	add_trait="charitable"
+	add_trait="tough_soldier"
+	father=131524
+	1022.1.2={
+		birth="1022.1.2"
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+1000226404 = {
+	name = "Gofraid" #Viking of Wexford
+	dynasty=20084
+	martial=15
+	diplomacy=6
+	intrigue=3
+	stewardship=10
+	religion="catholic"
+	culture="norsegaelic"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={  
+		death="1100.1.1"
+	}
+}
+1000226424 = {
+	name = "Wadter" #Viking of Waterford
+	dynasty=20084
+	martial=10
+	diplomacy=11
+	intrigue=9
+	stewardship=8
+	religion="catholic"
+	culture="norsegaelic"
+	1035.1.1={
+		birth="1035.1.1"
+	}
+	1100.1.1={  
+		death="1100.1.1"
+	}
+}

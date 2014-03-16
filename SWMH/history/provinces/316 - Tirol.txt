@@ -1,0 +1,28 @@
+# 316 - Tirol
+
+# County Title
+title = c_tirol
+
+# Settlements
+max_settlements = 5 
+b_tirol = castle
+b_meran = city
+b_brixen = temple
+b_lienz = castle
+#b_stams = temple 
+#b_innichen = temple # italian = San Candido
+#b_innsbruck = city
+#b_bozen = city
+#b_sterzing = city
+#b_schlanders = castle 
+#b_bruneck = castle 
+#b_freundsberg = castle
+#b_klamm = castle # nearby Imst
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+1187.1.1 = { b_innsbruck = city }
+

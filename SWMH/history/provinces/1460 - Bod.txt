@@ -1,0 +1,23 @@
+# 1460 - Bod
+
+# County Title
+title = c_bod
+
+# Settlements
+max_settlements = 2
+
+b_kingarth = castle
+#b_aileach_bod = temple
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = hills
+
+# History
+867.1.1 = {
+	b_kingarth = ca_shipyard_1
+}
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norsegaelic }

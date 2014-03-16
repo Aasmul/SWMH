@@ -1,0 +1,18 @@
+# 1406 - Tazerbo
+
+# County Title
+title = c_tazerbo
+
+# Settlements
+max_settlements = 1
+
+b_tazerbo = city
+
+# Misc
+culture = zanata
+religion = sunni
+
+# History
+
+
+

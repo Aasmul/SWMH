@@ -1,0 +1,32 @@
+# 323 - Lucca
+
+# County Title
+title = c_lucca
+
+# Settlements
+max_settlements = 5
+
+b_altopascio = temple
+b_fortezzadelleverrucole = castle
+b_lucca = city
+
+#b_montecastrese = castle
+#b_pescia = city
+#b_piegaio = temple
+#b_castelnuovodigarfagnana = castle
+#b_castiglionedigarfagnana = castle
+#b_capannori = city
+#b_seravezza = city
+#b_viareggio = castle
+#b_montecarloluccaveryniceplaceforaholiday = city
+
+# Misc
+culture = tuscan
+religion = catholic
+
+# History
+866.1.1 = { capital = b_fortezzadelleverrucole }
+870.1.1 = { capital = b_altopascio }
+1072.1.1 = { trade_post = b_doria }
+1088.1.1 = { capital = b_lucca }
+1314.1.1 = { capital = b_fortezzadelleverrucole }

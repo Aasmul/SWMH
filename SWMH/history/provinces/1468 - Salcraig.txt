@@ -1,0 +1,19 @@
+# 1468 - Salcraig
+
+# County Title
+title = c_salcraig
+
+# Settlements
+max_settlements = 2
+b_selkirk = castle
+#b_stow_of_wedale = temple
+
+
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History
+700.1.1 = { culture = saxon } 
+1000.1.1 = { culture = scottish } 

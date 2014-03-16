@@ -1,0 +1,21 @@
+# 416 - West Dvina
+
+# County Title
+title = c_west_dvina
+
+# Settlements
+max_settlements = 3
+
+b_rezekene = castle
+b_ludza = city
+#b_daugavpils = castle
+#b_preili = city
+
+
+# Misc
+culture = lettigallish
+religion = baltic_pagan
+
+# History
+
+1275.1.1 = { b_daugavpils = castle }

@@ -1,0 +1,17 @@
+# 396 - Bjarmia # Kholmgory
+
+# County Title
+title = c_bjarmia
+
+# Settlements
+max_settlements = 3
+
+b_kholmogory = castle
+b_archangelsk = temple
+#b_novokholmogory = city
+
+# Misc
+culture = samoyed
+religion = finnish_pagan
+
+# History

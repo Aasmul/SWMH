@@ -1,0 +1,1814 @@
+##################################
+#North Frisian Republic #All Charcters and Dynasties are made up. 
+#The republic starts(or rather it will when the mod gets updated for ToG) during Harald Klarks brief return as co king of Denmark in 819-824 where he brought serfs and warriors from Rüstringen(the county held as vassal of Emperor Ludwig during his years in exile), with him during his return home.
+#All republic families dies out in 1362 when Rungholt disapears into the sea during the great flood, and the republic comes to an end.The Duke of Slesvig was then allowed by the danish king to finally anex his de jure, except for a few small areas that contiuned to live directly under the Danish crown until 1864. 
+# COMPLETE ID RANGE for file: 1000144299-1000144468
+# 2 Danish and 3 Frisian dynaties, should more or less match the demographics of the ingame province during the timeline(it varied quite a lot though, and Danes might have outnumberd Frisians(Danes was the wast majority on the mainland(with a sizeable and increasing lowsaxon population also) while Frisians where predominate on the islands(the Islands vs mainland demographics pre 1362 is not known(but rungholt alone was very densely populated), after the greatflood it tilted massivle towards the mainlnand since most of the islands had disappeared and the population wiped out), but for sake of having the republic mainly frisian, its two danish families vs three frisian.
+##################################
+# b_giaethning
+# af Giaethning
+#ID Range 1000144299-10001444329
+#
+#####################################
+#House founder
+1000144299 = {
+	name="Hardegon" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	970.1.1={
+		birth="970.1.1"
+	}
+	1003.1.1={
+		add_spouse=1000144300
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+#Wife of House founder
+1000144300 = {
+	name="Asfrid"
+	female = yes
+	dynasty=1000053174
+	religion="catholic"
+	culture="danish"
+	985.1.1={
+		birth="985.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+#House Leader in 1040
+1000144301 = {
+	name="Ottar" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144299
+        mother=1000144300
+	1004.1.1={
+		birth="1004.1.1"
+	}
+	1034.1.1={
+		add_spouse=1000144302
+	}
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+#Wife of House Leader 1040
+1000144302 = {
+	name="Snæfrid"
+	female = yes
+	dynasty=1000053175
+	religion="catholic"
+	culture="norwegian"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1081.1.1={
+		death="1081.1.1"
+	}
+}
+#Brother of House Leader 1040
+1000144323 = {
+	name="Ottar" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144299
+        mother=1000144300
+	1008.1.1={
+		birth="1008.1.1"
+	}
+	1083.1.1={
+		death="1083.1.1"
+	}
+}
+#House Leader 1076
+1000144303 = {
+	name="Heiligo" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144301
+        mother=1000144302
+	1038.1.1={
+		birth="1038.1.1"
+	}
+        1073.1.1={
+		add_spouse=1000144304
+	}
+	1104.1.1={
+		death="1104.1.1"
+	}
+}
+#Wife of House Leader 1076
+1000144304 = {
+	name="Yrsa"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+#Sister of House Leader 1076
+1000144325 = {
+	name="Ragnhild"
+	female = yes
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144301
+        mother=1000144302
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+#House Leader 1104
+1000144305 = {
+	name="Sigfred" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144303
+        mother=1000144304
+	1074.1.1={
+		birth="1074.1.1"
+	}
+	1096.1.1={
+		add_spouse=1000144306
+	}
+	1133.1.1={
+		death="1133.1.1"
+	}
+}
+#Wife of House Leader 1104
+1000144306 = {
+	name="Gunhild"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1134.1.1={
+		death="1134.1.1"
+	}
+}
+#House Leader 1133
+1000144307 = {
+	name="Rurik" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144305
+        mother=1000144306
+	1098.1.1={
+		birth="1098.1.1"
+	}
+	1122.1.1={
+		add_spouse=1000144308
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+#Wife of House Leader 1133
+1000144308 = {
+	name="Inge"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+#Brother of House Leader 1133
+1000144324 = {
+	name="Orm" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144305
+        mother=1000144306
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+#House Leader 1178
+1000144309 = {
+	name="Sigfred" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144307
+        mother=1000144308
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1157.1.1={
+		add_spouse=1000144310
+	}
+	1198.1.1={
+		death="1198.1.1"
+	}
+}
+#Wife of House Leader 1178
+1000144310 = {
+	name="Margrete"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1127.1.1={
+		birth="1127.1.1"
+	}
+	1172.1.1={
+		death="1172.1.1"
+	}
+}
+#House Leader 1198
+1000144311 = {
+	name="Niels" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144309
+        mother=1000144310
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1181.1.1={
+		add_spouse=1000144312
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+#Wife of House Leader 1198
+1000144312 = {
+	name="Gudrun"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1163.1.1={
+		birth="1163.1.1"
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+#House Leader 1234
+1000144313 = {
+	name="Asser" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144311
+        mother=1000144312
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1209.1.1={
+		add_spouse=1000144314
+	}
+	1269.1.1={
+		death="1269.1.1"
+	}
+}
+#Wife of House Leader 1234
+1000144314 = {
+	name="Emma"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1274.1.1={
+		death="1274.1.1"
+	}
+}
+#House Leader 1269
+1000144315 = {
+	name="Esben" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144313
+        mother=1000144314
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1241.1.1={
+		add_spouse=1000144316
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+#Wife of House Leader 1269
+1000144316 = {
+	name="Birgitta"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="swedish"
+	1219.1.1={
+		birth="1217.1.1"
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+#House Leader 1298
+1000144317 = {
+	name="Halvor" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144315
+        mother=1000144316
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1275.1.1={
+		add_spouse=1000144318
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+#Wife of House Leader 1298
+1000144318 = {
+	name="Ingrid"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+#House Leader 1335
+1000144319 = {
+	name="Ragner" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144317
+        mother=1000144318
+	1277.1.1={
+		birth="1277.1.1"
+	}
+	1307.1.1={
+		add_spouse=1000144318
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#Wife of House Leader 1335
+1000144320 = {
+	name="Christine"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1286.1.1={
+		birth="1251.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#Son of House Leader 1335
+1000144321 = {
+	name="Kristian" 
+	dynasty=1000053169
+	religion="catholic"
+	culture="danish"
+	father=1000144319
+        mother=1000144320
+	1309.1.1={
+		birth="1309.1.1"
+	}
+        1336.1.1={
+		add_spouse=1000144322
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#Wife of Son of House Leader 1335
+1000144322 = {
+	name="Birgit"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1314.1.1={
+		birth="1314.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#####################################
+#b_brethaestath
+#af Brethaestath
+#ID Range 1000144330-10001444360
+#
+#####################################
+#House founder
+1000144353 = {
+	name="Ragnvald" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	965.1.1={
+		birth="965.1.1"
+	}
+	985.1.1={
+		add_spouse=1000144330
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+#Wife of House founder
+1000144330 = {
+	name="Aud"
+	female = yes
+	dynasty=1000053176
+	religion="catholic"
+	culture="danish"
+	968.1.1={
+		birth="968.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+#First house Leader 1000
+1000144331 = {
+	name="Arnud" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144353
+        mother=1000144330
+	986.1.1={
+		birth="986.1.1"
+	}
+	1013.1.1={
+		add_spouse=1000144332
+	}
+	1054.1.1={
+		death="1054.1.1"
+	}
+}
+#Wife of First house Leader 1000
+1000144332 = {
+	name="Gunhild"
+	female = yes
+	dynasty=1000053179
+	religion="catholic"
+	culture="swedish"
+	988.1.1={
+		birth="988.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+#House leader 1054
+1000144333 = {
+	name="Ratlof" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144331
+        mother=1000144332
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1037.1.1={
+		add_spouse=1000144334
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+#Wife of House leader 1054
+1000144334 = {
+	name="Thyra"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+#House leader 1088
+1000144335 = {
+	name="Knuth" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144333
+        mother=1000144334
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1069.1.1={
+		add_spouse=1000144336
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+#Wife of House leader 1088
+1000144336 = {
+	name="Aslaug"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="norwegian"
+	1051.1.1={
+		birth="1051.1.1"
+	}
+	1123.1.1={
+		death="1123.1.1"
+	}
+}
+#House leader 1105
+1000144337 = {
+	name="Dir" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144335
+        mother=1000144336
+	1073.1.1={
+		birth="1073.1.1"
+	}
+	1099.1.1={
+		add_spouse=1000144338
+	}
+	1159.1.1={
+		death="1159.1.1"
+	}
+}
+#Wife of House leader 1105
+1000144338 = {
+	name="Thora"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1081.1.1={
+		birth="1081.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+#House leader 1155
+1000144339 = {
+	name="Ulrik" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144337
+        mother=1000144338
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1129.1.1={
+		add_spouse=1000144340
+	}
+	1198.1.1={
+		death="1198.1.1"
+	}
+}
+#Wife of House leader 1155
+1000144340 = {
+	name="Vibeke"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1106.1.1={
+		birth="1106.1.1"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+#House leader 1198
+1000144341 = {
+	name="Ratlof" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144339
+        mother=1000144340
+	1137.1.1={
+		birth="1137.1.1"
+	}
+	1171.1.1={
+		add_spouse=1000144342
+	}
+	1222.1.1={
+		death="1222.1.1"
+	}
+}
+#Wife of House leader 1198
+1000144342 = {
+	name="Ladgred"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="norwegian"
+	1156.1.1={
+		birth="1156.1.1"
+	}
+	1223.1.1={
+		death="1223.1.1"
+	}
+}
+#House leader 1222
+1000144343 = {
+	name="Knuth" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144341
+        mother=1000144342
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1206.1.1={
+		add_spouse=1000144344
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+#Wife of House leader 1222
+1000144344 = {
+	name="Tove"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+#House leader 1266
+1000144345 = {
+	name="Ratlof" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144343
+        mother=1000144344
+	1214.1.1={
+		birth="1214.1.1"
+	}
+	1240.1.1={
+		add_spouse=1000144346
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+#Wife of House leader 1266
+1000144346 = {
+	name="Asfrid"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+#House leader 1298
+1000144347 = {
+	name="Poul" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144345
+        mother=1000144346
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1270.1.1={
+		add_spouse=1000144348
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+#Wife of House leader 1298
+1000144348 = {
+	name="Kirsten"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+#House leader 1317
+1000144349 = {
+	name="Niels" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144347
+        mother=1000144348
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1301.1.1={
+		add_spouse=1000144350
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#Wife of House leader 1317
+1000144350 = {
+	name="Inge"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#Son of House leader 1317
+1000144351 = {
+	name="Jacob" 
+	dynasty=1000053170
+	religion="catholic"
+	culture="danish"
+	father=1000144349
+        mother=1000144350
+	1301.1.1={
+		birth="1301.1.1"
+	}
+	1324.1.1={
+		add_spouse=1000144352
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#Wife of Son of House leader 1317
+1000144352 = {
+	name="Astrid"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="danish"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#####################################
+#b_odenbel
+#fan Odenbel
+#ID Range 1000144361-10001444390
+#
+#####################################
+#Frisian families
+#House founder
+1000144361 = {
+	name="Frethuhard"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	984.1.1={
+		birth="984.1.1"
+	}
+        1003.1.1={
+		add_spouse=1000144362
+	}
+	1042.1.1={
+		death="1042.1.1"
+	}
+}
+#Wife of House founder
+1000144362 = {
+	name="Brundonis"
+	female = yes
+	dynasty=1000053181
+	religion="catholic"
+	culture="frisian"
+	986.1.1={
+		birth="986.1.1"
+	}
+	1059.1.1={
+		death="1059.1.1"
+	}
+}
+#House Leader 1042
+1000144363 = {
+	name="Eðelbern"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144361
+	mother=1000144362
+	1005.1.1={
+		birth="1005.1.1"
+	}
+        1034.1.1={
+		add_spouse=1000144364
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+#Wife of House Leader 1042
+1000144364 = {
+	name="Aafke"
+	female = yes
+	dynasty=1000053182
+	religion="catholic"
+	culture="frisian"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+#House Leader 1080
+1000144365 = {
+	name="Blithulf"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144363
+	mother=1000144364
+	1036.1.1={
+		birth="1036.1.1"
+	}
+        1069.1.1={
+		add_spouse=1000144366
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+#Wife of House Leader 1080
+1000144366 = {
+	name="Hadewidis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1099.1.1={
+		death="1099.1.1"
+	}
+}
+#House Leader 1101
+1000144367 = {
+	name="Eðelbern"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144365
+	mother=1000144366
+	1075.1.1={
+		birth="1075.1.1"
+	}
+        1100.1.1={
+		add_spouse=1000144368
+	}
+	1156.1.1={
+		death="1156.1.1"
+	}
+}
+#Wife of House Leader 1101
+1000144368 = {
+	name="Brundonis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1158.1.1={
+		death="1158.1.1"
+	}
+}
+#House Leader 1156
+1000144369 = {
+	name="Blithulf"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144367
+	mother=1000144368
+	1108.1.1={
+		birth="1108.1.1"
+	}
+        1136.1.1={
+		add_spouse=1000144370
+	}
+	1188.1.1={
+		death="1188.1.1"
+	}
+}
+#Wife of House Leader 1156
+1000144370 = {
+	name="Aafke"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
+#House Leader 1188
+1000144371 = {
+	name="Frethuhard"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144369
+	mother=1000144370
+	1143.1.1={
+		birth="1143.1.1"
+	}
+        1168.1.1={
+		add_spouse=1000144372
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+#Wife of House Leader 1188
+1000144372 = {
+	name="Ælidis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+#House Leader 1226
+1000144373 = {
+	name="Blithulf"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144371
+	mother=1000144372
+	1172.1.1={
+		birth="1172.1.1"
+	}
+        1205.1.1={
+		add_spouse=1000144374
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+#Wife of House Leader 1226
+1000144374 = {
+	name="Gertruid"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+#House Leader 1261
+1000144375 = {
+	name="Eðelbern"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144373
+	mother=1000144374
+	1209.1.1={
+		birth="1209.1.1"
+	}
+        1232.1.1={
+		add_spouse=1000144376
+	}
+	1293.1.1={
+		death="1293.1.1"
+	}
+}
+#Wife of House Leader 1261
+1000144376 = {
+	name="Siwa"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1214.1.1={
+		birth="1214.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+#House Leader 1293
+1000144377 = {
+	name="Blithulf"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144375
+	mother=1000144376
+	1233.1.1={
+		birth="1233.1.1"
+	}
+        1262.1.1={
+		add_spouse=1000144378
+	}
+	1306.1.1={
+		death="1306.1.1"
+	}
+}
+#Wife of House Leader 1293
+1000144378 = {
+	name="Hadewidis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+#House Leader 1306
+1000144379 = {
+	name="Frethuhard"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144377
+	mother=1000144378
+	1266.1.1={
+		birth="1266.1.1"
+	}
+        1289.1.1={
+		add_spouse=1000144380
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+#Wife of House Leader 1306
+1000144380 = {
+	name="Siwa"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1269.1.1={
+		birth="1242.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+#House Leader 1325
+1000144381 = {
+	name="Esulf"
+	dynasty=1000053171
+	religion="catholic"
+	culture="frisian"
+	father=1000144379
+	mother=1000144380
+	1293.1.1={
+		birth="1293.1.1"
+	}
+        1319.1.1={
+		add_spouse=1000144382
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#Wife of House Leader 1325
+1000144382 = {
+	name="Ælidis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1298.1.1={
+		birth="1298.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#####################################
+#b_braaklem
+#fan Brääklem
+#ID Range 1000144391-10001444420
+#
+#####################################
+#House founder
+1000144391 = {
+	name="Sibraht"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	979.1.1={
+		birth="979.1.1"
+	}
+        1008.1.1={
+		add_spouse=1000144392
+	}
+	1047.1.1={
+		death="1047.1.1"
+	}
+}
+#Wife of House founder
+1000144392 = {
+	name="Athgardis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	986.1.1={
+		birth="986.1.1"
+	}
+	1059.1.1={
+		death="1059.1.1"
+	}
+}
+#House Leader 1047
+1000144393 = {
+	name="Esulf"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	father=1000144391
+	mother=1000144392
+	1009.1.1={
+		birth="1009.1.1"
+	}
+        1037.1.1={
+		add_spouse=1000144394
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+#Wife of House Leader 1047
+1000144394 = {
+	name="Gertruid"
+	female = yes
+	dynasty=1000053183
+	religion="catholic"
+	culture="frisian"
+	1013.1.1={
+		birth="1013.1.1"
+	}
+	1083.1.1={
+		death="1083.1.1"
+	}
+}
+#House Leader 1080
+1000144395 = {
+	name="Eðelwi"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	father=1000144393
+	mother=1000144394
+	1044.1.1={
+		birth="1044.1.1"
+	}
+        1074.1.1={
+		add_spouse=1000144396
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+#Wife of House Leader 1080
+1000144396 = {
+	name="Meynseth"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1053.1.1={
+		birth="1053.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+#House Leader 1126
+1000144397 = {
+	name="Sibraht"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	father=1000144395
+	mother=1000144396
+	1081.1.1={
+		birth="1081.1.1"
+	}
+        1109.1.1={
+		add_spouse=1000144398
+	}
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+#Wife of House Leader 1126
+1000144398 = {
+	name="Aafke"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1167.1.1={
+		death="1167.1.1"
+	}
+}
+#House Leader 1173
+1000144399 = {
+	name="Osnoð"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	father=1000144397
+	mother=1000144398
+	1116.1.1={
+		birth="1116.1.1"
+	}
+        1145.1.1={
+		add_spouse=1000144400
+	}
+	1189.1.1={
+		death="1189.1.1"
+	}
+}
+#Wife of House Leader 1173
+1000144400 = {
+	name="Wendelmodis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1203.1.1={
+		death="1203.1.1"
+	}
+}
+#House Leader 1189
+1000144401 = {
+	name="Esulf"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	father=1000144399
+	mother=1000144400
+	1156.1.1={
+		birth="1156.1.1"
+	}
+        1179.1.1={
+		add_spouse=1000144402
+	}
+	1233.1.1={
+		death="1233.1.1"
+	}
+}
+#Wife of House Leader 1189
+1000144402 = {
+	name="Gertruid"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1235.1.1={
+		death="1235.1.1"
+	}
+}
+#House Leader 1233
+1000144403 = {
+	name="Eðelwi"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	father=1000144401
+	mother=1000144402
+	1182.1.1={
+		birth="1182.1.1"
+	}
+        1216.1.1={
+		add_spouse=1000144404
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+#Wife of House Leader 1233
+1000144404 = {
+	name="Godeweris"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+#House Leader 1264
+1000144405 = {
+	name="Sibraht"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	father=1000144403
+	mother=1000144404
+	1223.1.1={
+		birth="1223.1.1"
+	}
+        1256.1.1={
+		add_spouse=1000144406
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+#Wife of House Leader 1264
+1000144406 = {
+	name="Meynseth"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1236.1.1={
+		birth="1236.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+#House Leader 1289
+1000144407 = {
+	name="Esulf"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	father=1000144405
+	mother=1000144406
+	1261.1.1={
+		birth="1261.1.1"
+	}
+        1296.1.1={
+		add_spouse=1000144408
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+#Wife of House Leader 1289
+1000144408 = {
+	name="Wendelmodis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+#House Leader 1320
+1000144409 = {
+	name="Eðelwi"
+	dynasty=1000053172
+	religion="catholic"
+	culture="frisian"
+	father=1000144407
+	mother=1000144408
+	1304.1.1={
+		birth="1304.1.1"
+	}
+        1331.1.1={
+		add_spouse=1000144410
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#Wife of House Leader 1320
+1000144410 = {
+	name="Aafke"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1302.1.1={
+		birth="1302.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#####################################
+#b_taning
+#fan Taning
+#ID Range 1000144421-10001444450
+#
+#####################################
+#Frisian families
+#Old Frisian male names: Blithulf, Eðelwi, Eðelbern, Esulf, Frethuhard, Frethwi,Frethirik, Geldulf, Gerwar Hroðhard, Meniko, Osnoð, Riklef, Sibraht, Thiadbold, Uulfnoth
+#Old Frisian female names: Aafke Athgardis Ælidis Brundonis Gertruid Godeweris Hadewidis Hildeburgis Liudburgis Meynseth Siwa Suaneka Wendelmodis
+#House founder
+1000144421 = {
+	name="Frethwi"
+	dynasty=1000053173
+	religion="catholic"
+	culture="frisian"
+	999.1.1={
+		birth="999.1.1"
+	}
+        1019.1.1={
+		add_spouse=1000144422
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+}
+#Wife of House founder
+1000144422 = {
+	name="Liudburgis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1002.1.1={
+		birth="1002.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+}
+#House Leader 1064
+1000144423 = {
+	name="Meniko"
+	dynasty=1000053173
+	religion="catholic"
+	culture="frisian"
+	father=1000144421
+	mother=1000144422
+	1022.1.1={
+		birth="1022.1.1"
+	}
+        1059.1.1={
+		add_spouse=1000144424
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+#Wife of House Leader 1047
+1000144424 = {
+	name="Suaneka"
+	female = yes
+	dynasty=1000053180
+	religion="catholic"
+	culture="frisian"
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1104.1.1={
+		death="1104.1.1"
+	}
+}
+#House Leader 1103
+1000144425 = {
+	name="Uulfnoth"
+	dynasty=1000053173 
+	religion="catholic"
+	culture="frisian"
+	father=1000144423
+	mother=1000144424
+	1062.1.1={
+		birth="1062.1.1"
+	}
+        1098.1.1={
+		add_spouse=1000144426
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+#Wife of House Leader 1103
+1000144426 = {
+	name="Liudburgis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1079.1.1={
+		birth="1079.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+#House Leader 1141
+1000144427 = {
+	name="Thiadbold"
+	dynasty=1000053173
+	religion="catholic"
+	culture="frisian"
+	father=1000144425
+	mother=1000144426
+	1108.1.1={
+		birth="1108.1.1"
+	}
+        1137.1.1={
+		add_spouse=1000144428
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+#Wife of House Leader 1141
+1000144428 = {
+	name="Gertruid"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1121.1.1={
+		birth="1121.1.1"
+	}
+	1188.1.1={
+		death="1188.1.1"
+	}
+}
+#House Leader 1162
+1000144429 = {
+	name="Uulfnoth"
+	dynasty=1000053173
+	religion="catholic"
+	culture="frisian"
+	father=1000144427
+	mother=1000144428
+	1145.1.1={
+		birth="1145.1.1"
+	}
+        1171.1.1={
+		add_spouse=1000144430
+	}
+	1229.1.1={
+		death="1229.1.1"
+	}
+}
+#Wife of House Leader 1162
+1000144430 = {
+	name="Suaneka"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1153.1.1={
+		birth="1153.1.1"
+	}
+	1224.1.1={
+		death="1224.1.1"
+	}
+}
+#House Leader 1229
+1000144431 = {
+	name="Meniko"
+	dynasty=1000053173 
+	religion="catholic"
+	culture="frisian"
+	father=1000144429
+	mother=1000144430
+	1172.1.1={
+		birth="1172.1.1"
+	}
+        1207.1.1={
+		add_spouse=1000144432
+	}
+	1241.1.1={
+		death="1241.1.1"
+	}
+}
+#Wife of House Leader 1229
+1000144432 = {
+	name="Liudburgis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1188.1.1={
+		birth="1188.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+#House Leader 1241
+1000144433 = {
+	name="Uulfnoth"
+	dynasty=1000053173
+	religion="catholic"
+	culture="frisian"
+	father=1000144431
+	mother=1000144432
+	1213.1.1={
+		birth="1213.1.1"
+	}
+        1248.1.1={
+		add_spouse=1000144434
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+#Wife of House Leader 1241
+1000144434 = {
+	name="Athgardis"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1227.1.1={
+		birth="1227.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+#House Leader 1279
+1000144435 = {
+	name="Meniko"
+	dynasty=1000053173
+	religion="catholic"
+	culture="frisian"
+	father=1000144433
+	mother=1000144434
+	1250.1.1={
+		birth="1250.1.1"
+	}
+        1288.1.1={
+		add_spouse=1000144436
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+#Wife of House Leader 1279
+1000144436 = {
+	name="Suaneka"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1269.1.1={
+		birth="1269.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+#House Leader 1321
+1000144437 = {
+	name="Thiadbold"
+	dynasty=1000053173
+	religion="catholic"
+	culture="frisian"
+	father=1000144435
+	mother=1000144436
+	1291.1.1={
+		birth="1291.1.1"
+	}
+        1327.1.1={
+		add_spouse=1000144438
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+#Wife of House Leader 1321
+1000144438 = {
+	name="Siwa"
+	female = yes
+	dynasty=0
+	religion="catholic"
+	culture="frisian"
+	1309.1.1={
+		birth="1309.1.1"
+	}
+	1362.1.1={
+		death="1362.1.1"
+	}
+}
+
+
+
+
+
+
+
+
+
+

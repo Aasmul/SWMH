@@ -1,0 +1,27 @@
+# 1127 - Macva
+
+# County Title
+title = c_macva
+
+# Settlements
+max_settlements = 3
+
+b_debrc = castle
+b_macva = city
+#b_uzice = castle
+#b_valjevo = city
+#b_tronosa = temple
+
+
+
+# Misc
+culture = serbian
+religion = slavic_pagan
+
+# History
+
+880.1.1 = { religion = orthodox }
+
+
+
+

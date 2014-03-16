@@ -1,0 +1,27 @@
+850.1.1={
+    holder=83794 #Congalach mac Finnachta
+}
+882.1.1={
+    holder=1000226412 #"Maol Craiobh"
+}
+917.1.1={
+    holder=1000226413 #"Fogarthach"
+}
+947.1.1={
+    holder=1000226414 #"Donnacan"
+}
+970.1.1={
+    holder=1000226415 #"Mac Eiccnigh"
+}
+998.1.1={
+    holder=1000226416 #"Mac Leiginn"
+}
+1022.1.1={
+    holder=1000226417 #"Cathalan"
+}
+1027.1.1={
+    holder=1000226418 #"Gilla Coluim"
+}
+1048.1.1={
+    holder=1000226419 #"Leathlobair"
+}

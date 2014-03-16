@@ -1,0 +1,205 @@
+######################################
+#New central_italian dynasties
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1000035361-1000035410
+######################################
+
+1000035361 = {
+name="Boncompagni"
+ culture = central_italian
+}
+1000035362 = {
+name="Ruspoli"
+ culture = central_italian
+}
+1000035363 = {
+name="Caetani"
+ culture = central_italian
+}
+1000035364 = {
+name="Albani"
+ culture = central_italian 
+}
+1000035365 = {
+name="Barberini"
+ culture = central_italian
+}
+1000035366 = {
+name="Borghese"
+ culture = central_italian
+}
+1000035367 = {
+name="Cesarini"
+ culture = central_italian
+}
+1000035368 = {
+name="Pamphili"
+ culture = central_italian
+}
+1000035369 = {
+name="Farnese"
+ culture = central_italian
+}
+1000035370 = {
+name="Mancini"
+ culture = central_italian
+}
+1000035371 = {
+name="Mazzetti di Pietralata"
+ culture = central_italian
+}
+1000035372 = {
+name="Torlonia"
+ culture = central_italian 
+}
+1000035373 = {
+name="Turcii"
+ culture = central_italian 
+}
+1000035374 = {
+name="Baglioni"
+ culture = central_italian
+}
+1000035375 = {
+name="Trinci"
+ culture = central_italian
+}
+1000035376 = {
+name="Acquaviva"
+ culture = central_italian
+}
+1000035377 = {
+name="Crollalanza"
+ culture = central_italian 
+}
+1000035378 = {
+name="Da Montefeltro"
+ culture = central_italian
+}
+1000035379 = {
+name="Del Cassero"
+ culture = central_italian
+}
+1000035380 = {
+name="Della Rovere"
+ culture = central_italian
+}
+1000035381 = {
+name="Leopardi"
+ culture = central_italian
+}
+1000035382 = {
+name="Gabrielli"
+ culture = central_italian
+}
+1000035383 = {
+name="Massimo"
+ culture = central_italian
+}
+1000035384 = {
+name="Cantelmo"
+ culture = central_italian
+}
+1000035385 = {
+name="dei Marsi"
+ culture = central_italian
+}
+1000035386 = {
+name="Anguillara"
+ culture = central_italian
+}
+1000035387 = {
+name="de Ceccano"
+ culture = central_italian
+}
+1000035388 = {
+name="Di Vico"
+ culture = central_italian
+}
+1000035389 = {
+name="Ottaviani"
+ culture = central_italian
+}
+1000035390 = {
+name="Serlupi"
+ culture = central_italian
+}
+1000035391 = {
+name="Valderetti"
+ culture = central_italian
+}
+1000035392 = {
+name="Altieri"
+ culture = central_italian
+}
+1000035393 = {
+name="Annibaldi"
+ culture = central_italian
+}
+1000035394 = {
+name="Crescenzi"
+ culture = central_italian
+}
+1000035395 = {
+name="Frangipane"
+ culture = central_italian
+}
+1000035396 = {
+name="Mattei"
+ culture = central_italian
+}
+1000035397 = {
+name="Da Buscareto"
+ culture = central_italian
+}
+1000035398 = {
+name="della Genga"
+ culture = central_italian
+}
+1000035399 = {
+name="Guiderocchi"
+ culture = central_italian
+}
+1000035400 = {
+name="Ottoni"
+ culture = central_italian
+}
+1000035401 = {
+name="Saladini"
+ culture = central_italian
+}
+1000035402 = {
+name="Sgariglia"
+ culture = central_italian
+}
+1000035403 = {
+name="Varano"
+ culture = central_italian
+}
+1000035404 = {
+name="Baschi"
+ culture = central_italian
+}
+1000035405 = {
+name="Vitelli"
+ culture = central_italian
+}
+1000035406 = {
+name="Baglioni"
+ culture = central_italian
+}
+1000035407 = {
+name="di Fizdanza"
+ culture = central_italian
+}
+
+######################################
+#Generic dynasites
+#Range 1000035411-1000035430
+######################################
+
+

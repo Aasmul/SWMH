@@ -1,0 +1,20 @@
+# 874 - Tadjoura
+
+# County Title
+title = c_tadjoura
+
+# Settlements
+max_settlements = 3
+
+b_tadjoura = castle
+b_obock = city
+
+#b_randa = temple
+
+# Misc
+culture = afar
+religion = sunni
+
+# History
+
+

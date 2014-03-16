@@ -1,0 +1,107 @@
+####Mercia
+351.1.1={
+	holder=159056 # Gwrtheyrn of Powys
+}
+430.1.1={
+	holder=159057 # Cadeyrn Fendigaid
+}
+447.1.1={
+	holder=159058 # Cadell Ddyrnllwg
+}
+460.1.1={
+	holder=159060 # Rhyddfedd Frych
+}
+480.1.1={
+	holder=159077 # Cyngen Glodrydd
+}
+500.1.1={
+	holder=159089 # Pasgen ap Cyngen
+}
+530.1.1={
+	holder=159090 # Morgan ap Pasgen
+}
+540.1.1={
+	holder=159078 # Brochfael Ysgrithog
+}
+571.1.1={
+	holder=159079 # Cynan Garwyn
+}
+600.1.1={
+	holder=0 # to Mercia
+}
+796.12.1={
+	holder=1000226391 # Coenwulf king of Mercia 796-821
+}
+821.1.1={
+	holder=1000226392 # Ceolwulf I king of Mercia 821-823
+}
+823.10.18={
+	holder=1000226396 # Beornwulf king of Mercia 823-826
+}
+826.1.1={
+	holder=1000226397 # Ludeca king of Mercia 826-827
+}
+827.1.1={
+	holder=1000226398 # Wiglaf king of Mercia 827-829 and 830-839
+}
+839.1.1={
+	holder=1000226200 # Wigmund king of Mercia 839-840
+}
+840.1.1={
+	holder=1000226201 # Wigstan king of Mercia 840
+}
+840.6.1={
+	holder=1000226384 # Beorhtwulf king of Mercia 840-852
+}
+852.1.1={
+	holder=163102 # Burgred king of Mercia 852-870
+}
+874.1.1={
+	holder=1000226332 # Ceolwulf II king of Mercia 874-879
+}
+879.1.1={
+	holder=0
+}
+#883.1.1={
+#	holder=1000226333 # Æthelred lord of the Mercians 883-911
+#}
+#911.1.1={
+#	holder=1000226333 # Æthelflæd lady of the Mercians 911-918
+#}
+#918.6.12={
+#	holder=1000226333 # Ælfwynn" lady of the Mercians 12th june 918 - december 918
+#}
+#918.12.1={
+#	holder=33350 # Æthelstan Ealdorman of Mercia 918-924(and 16 days as king of Mercia)
+#}
+927.7.12={
+	liege="k_england"
+}
+957.1.1={
+	holder=1000226357 #Ælfhere ealdorman of Mercia 957-983
+}
+983.1.1={
+	holder=1000226357 #Ælfirc Cild earldorman of Mercia 983-985
+}
+985.1.1={
+	holder=1000226208 # Wulfric Spot, probable ealdorman of Merica 985-1004
+}
+1004.10.22={
+	holder=0
+}
+1007.1.1={
+	holder=161276 #Eadric Streona earldorman of Mercia 1007-1017
+}
+1017.12.25={
+	holder=5640 #Leofric earl of Mercia 1017-1057
+}
+1057.10.30={
+	holder=5642 #Ælfgar earl of Mercia 1057-1062
+}
+1066.1.1={
+	holder=5644 #Eadwin earl of Mercia 1062-1071
+}
+1072.1.1={
+	holder=0
+	liege=0
+}

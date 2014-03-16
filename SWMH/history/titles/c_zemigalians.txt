@@ -1,0 +1,88 @@
+#Opemele
+867.1.1=
+{
+liege=d_zemigalians
+}
+867.1.1=
+{
+holder=167731
+}
+1066.1.1=
+{
+holder=20603
+}
+1120.1.1={
+	holder = 144629
+}
+1170.1.1={
+	holder=220603
+}
+1199.1.1={
+	holder = 1000227745 # Viestards King of Semigalians pre1205-1231ish
+}
+# Zemgalian bishopery
+1231.1.1={
+liege="d_livonia"
+holder=1000227748 #Lambert von Solre,  Bishop of Selija 1224-1226 and Bishop of Zemigalia 1226-1232
+}
+1232.1.28=
+{
+holder=1000227749 # Baldwin von Alna Bishop of Zemigalia 1232.01.28-1236
+}
+1236.1.1=
+{
+holder=1000227750 # Arnold Bishop of Zemigalia 1236-1247.12.05
+}
+1247.12.5=
+{
+holder=1000227750 # Heinrich von Lützelburg Bishop of Zemigalia 1247.12.05-1251.03.03 Bishop of Kurzeme 1251.03.03-1263.02 and Chiemsee 1263.02-1274.02.08
+}
+#Zemgalian rebellion.
+1251.3.3=
+{
+liege=d_zemigalians
+	holder = 1000227746 # Šabis, lord of Semigalians 1250ish-1272
+}
+1272.1.1={
+	holder = 1000227746 # Nameisis, lord of Semigalians 1272-1281
+}
+#To Livonian order
+1281.1.1={
+liege="d_teutonic_order"
+}
+1281.1.1=
+{
+holder=30410 #Hartmann von Heldrungen
+}
+1282.8.19=
+{
+holder=30411 #Burchard von Schwanden
+}
+1290.1.1=
+{
+holder=30412 #Konrad von Feuchtwangen
+}
+1296.7.4=
+{
+holder=30413 #Gottfried von Hohenlohe
+}
+1303.1.1=
+{
+holder=30414 #Siegfried von Feuchtwangen
+}
+1311.5.3=
+{
+holder=30415 #Karl von Trier
+}
+1324.2.11=
+{
+holder=30416 #Werner von Orseln
+}
+1330.11.18=
+{
+holder=30417 #Luther Welf
+}
+1335.4.18=
+{
+holder=474000 #Dietrich von Altenburg
+}

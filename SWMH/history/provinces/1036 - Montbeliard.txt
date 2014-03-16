@@ -1,0 +1,22 @@
+# 1036 - Montbeliard
+
+# County Title
+title = c_montbeliard
+
+# Settlements
+max_settlements = 4
+
+
+b_montbeliard = castle
+b_montfaucon = castle
+
+#b_hericourtm = castle
+#b_montecheroux = city
+#b_clemontm = castle
+# Misc
+
+culture = frankish
+religion = catholic
+
+# History
+

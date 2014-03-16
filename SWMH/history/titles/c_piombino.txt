@@ -1,0 +1,39 @@
+846.1.1={
+	liege="d_toscana"
+}
+846.1.1={
+	holder = 163070
+}
+1060.1.1={
+	holder=20323
+	liege=d_pisa
+}
+#CJL78 - Aldobrandeschi of Santa Fiora
+1066.1.1={
+	holder=1000167130
+	liege=d_toscana
+}
+1110.1.1={
+	holder=1000167131
+}
+1115.7.24={
+	liege=e_hre #Death of Matilda
+}
+1140.1.1={
+	holder=1000167132
+}
+1180.1.1={
+	holder=1000167133
+}
+1220.1.1={
+	holder=1000167134
+}
+1260.1.1={
+	holder=1000167135
+}
+1310.1.1={
+	holder=1000167136
+}
+1340.1.1={
+	holder=0
+}

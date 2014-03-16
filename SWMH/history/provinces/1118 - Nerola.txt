@@ -1,0 +1,32 @@
+# 1118 - Nerola
+
+# County Title
+title = c_nerola
+
+# Settlements
+max_settlements = 6
+
+
+b_nerola = castle
+b_arce = city
+b_marcellina = temple
+
+#b_montesangiovannicampano = castle
+#b_roccaguglielma = castle
+#b_roccadicampolato = castle
+#b_castellodellaroverediisoletta = castle
+#b_fianoromano = city
+#b_castelloducaleorsini = castle
+#b_arsoli = temple
+#b_castellomassimo = castle
+#b_palombarasabina = city
+#b_castellodicastiglione = castle
+#b_castellosavellitorlonia = castle
+#b_sanpolodeicavalieri = castle
+
+
+# Misc
+culture = central_italian
+religion = catholic
+
+# History

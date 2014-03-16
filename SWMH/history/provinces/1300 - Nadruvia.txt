@@ -1,0 +1,29 @@
+# 1300 - Nadruvia
+
+# County Title
+title = c_nadruvia
+
+# Settlements
+max_settlements = 4
+
+b_otholicia = castle
+b_cameniswika = castle
+#b_velowe = city
+b_romuva = temple
+#b_insterburg = castle
+
+
+
+# Misc
+culture = prussian
+religion = baltic_pagan
+
+# History
+1275.1.1 = { religion = catholic }
+1275.1.1 = { culture = german }
+1275.1.1 = { remove_settlement = b_otholicia }
+1275.1.1 = { remove_settlement = b_cameniswika }
+1275.1.1 = { remove_settlement = b_romuva }
+1275.1.1 = { b_velowe = city }
+1275.1.1 = { b_insterburg = castle }
+1275.1.1 = { capital = b_insterburg }

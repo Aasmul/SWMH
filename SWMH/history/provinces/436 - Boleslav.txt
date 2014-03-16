@@ -1,0 +1,28 @@
+# 436 - Boleslav
+
+# County Title
+title = c_boleslav
+
+# Settlements
+max_settlements = 4
+b_glatz = castle
+b_jicin = city
+
+#b_nachod = castle
+#b_kamieniec = castle
+#b_turnov = castle
+#b_neurodekladsko = city
+#b_wunschelburgkladsko = city
+#b_broumovkladsko = temple
+
+
+# Misc
+culture = bohemian
+religion = slavic_pagan
+terrain = hills
+
+# History
+
+883.1.1 = { religion = catholic }
+#german colonists invited
+1254.1.1 = { culture = german }

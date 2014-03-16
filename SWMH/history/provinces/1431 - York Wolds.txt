@@ -1,0 +1,31 @@
+# 1431 - York Wolds/ East York Ridding
+
+# County Title
+title = c_york_wolds
+
+# Settlements
+max_settlements = 4
+
+b_cottingham = castle
+b_pocklington = city
+b_bridlington = city
+#b_hull = city
+#b_skipsea = castle
+#b_driffield = castle
+#b_howden = city
+
+
+# Misc
+
+culture = saxon
+religion = catholic
+
+# History
+866.1.1 = { culture = norse } # Danes settle down
+866.1.1 = { religion = norse_pagan } # Danes settle down
+931.1.1 = { religion = catholic } # Wulfstan becomes Archbishop of York
+1047.10.25 = { culture = danish } 
+1070.1.1 = { culture = saxon } # Harrying of the north
+1070.1.1 = { remove_settlement = b_bridlington } # Harrying of the north
+1100.11.11 = { b_hull = city } 
+1100.11.11 = { culture = english } 

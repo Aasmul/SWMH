@@ -1,0 +1,23 @@
+# 974 - Buckinghamshire
+
+# County Title
+title = c_bucks
+
+# Settlements
+max_settlements = 4
+
+b_buckingham = castle
+b_aylesbury = castle
+#b_bradwell = temple
+b_wycombe = city
+#b_amersham = city
+#b_beaconsfield = city
+#b_castlethorpe = castle
+#b_wolverton = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1100.11.11 = { culture = english } 

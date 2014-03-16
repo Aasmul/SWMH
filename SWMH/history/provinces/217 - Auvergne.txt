@@ -1,0 +1,22 @@
+# 217 - Auvergne
+
+# County Title
+title = c_auvergne
+
+# Settlements
+max_settlements = 5
+b_chateaudopme = castle
+b_montferrand = city
+
+b_clairmont = temple
+#b_brioude = city
+#b_riom = temple
+#b_thiers = city
+
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History

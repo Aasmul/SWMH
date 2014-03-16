@@ -1,0 +1,20 @@
+# 1354 - Tabassa
+
+# County Title
+title = c_tabassa
+
+# Settlements
+max_settlements = 3
+
+b_tabassa = castle
+b_khenchela = temple
+
+#b_ouenza = temple
+
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History
+

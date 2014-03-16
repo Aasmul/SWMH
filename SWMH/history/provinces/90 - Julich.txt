@@ -1,0 +1,21 @@
+# 90 - Jülich
+
+# County Title
+title = c_julich
+
+# Settlements
+max_settlements = 4
+b_julich = castle
+b_zulpich = city
+#b_nideggen = castle
+b_monschau = temple
+#b_schleiden = city
+#b_kronenburg = castle
+#b_aldenhoven = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

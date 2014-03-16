@@ -1,0 +1,22 @@
+# 1162 - Réthel
+
+# County Title
+title = c_rethel
+
+# Settlements
+max_settlements = 4 
+b_rethel = castle
+b_grandpre = castle
+#b_mezieres = city
+#b_doumely = castle
+#b_buzancy = city
+b_attignyardennes = temple
+
+
+
+
+culture = frankish
+religion = catholic
+
+# History
+

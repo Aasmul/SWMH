@@ -1,0 +1,21 @@
+# 1253 - Marsan
+
+# County Title
+title = c_marsan
+
+# Settlements
+max_settlements = 4
+
+b_montdemarsan = castle
+b_roquefort = city
+#b_gabarret = city
+#b_castelnau = castle
+#b_donjonlacataye = castle
+#b_chateaunolibos = castle
+
+
+# Misc
+religion = catholic
+culture = occitan
+# History 
+

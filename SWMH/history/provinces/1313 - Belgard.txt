@@ -1,0 +1,19 @@
+# 1313 - Belgard
+
+# County Title
+title = c_belgard
+
+# Settlements
+max_settlements = 4
+b_belgard = castle
+b_colberg = temple
+b_kozalin = city
+#b_barwalde = city
+#b_tempelburg = castle
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+1180.1.1 = { religion = catholic }

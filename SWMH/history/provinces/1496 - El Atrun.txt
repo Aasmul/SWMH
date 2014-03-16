@@ -1,0 +1,15 @@
+# 1496 - El Atrun
+
+# County Title
+title = c_elatrun
+
+# Settlements
+max_settlements = 1
+
+b_elatrun = city
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

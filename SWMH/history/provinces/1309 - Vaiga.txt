@@ -1,0 +1,22 @@
+# 1309 - Vaiga
+
+# County Title
+title = c_vaiga
+
+# Settlements
+max_settlements = 2
+
+b_poltsamaa = castle
+#b_laiuse = castle
+#b_puurmani = castle
+#b_rieolet = castle
+#b_somelindet = castle
+
+# Misc
+culture = tsuudi
+religion = finnish_pagan
+
+# History
+#1224.1.1 = { b_tartu = temple }
+1224.1.1 = { capital = b_tartu }
+1224.1.1 = { religion = catholic }

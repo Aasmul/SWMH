@@ -1,0 +1,14 @@
+# 389 - Finnmark
+
+# County Title
+title = c_finnmark
+
+# Settlements
+max_settlements = 1
+b_tromsoe = castle # Troms
+
+culture = lappish
+religion = finnish_pagan
+
+# History
+1200.1.1 = { religion = catholic }

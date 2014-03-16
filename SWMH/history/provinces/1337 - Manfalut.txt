@@ -1,0 +1,18 @@
+# 1337 - Manfalut
+
+# County Title
+title = c_manfalut
+
+# Settlements
+max_settlements = 3
+b_manfalut = castle
+b_qusqam = temple #Qús Qám
+#b_ushmun = city  #al-Ushmún
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History
+
+1171.1.1 = { religion = sunni } 

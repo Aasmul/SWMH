@@ -1,0 +1,22 @@
+# 1459 - Kintyre
+
+# County Title
+title = c_kintyre
+
+# Settlements
+max_settlements = 2
+
+b_kinlochkilkerran = castle
+#b_saddell = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = hills
+
+# History
+867.1.1 = {
+	b_kinlochkilkerran = ca_shipyard_1
+}
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norsegaelic } 

@@ -1,0 +1,21 @@
+# 1046 - Novara
+
+# County Title
+title = c_novara
+
+# Settlements
+max_settlements = 3
+
+b_novara = temple
+b_nibbiola = castle
+#b_domodossola = city
+#b_biandrate = city
+#b_borgosesia = city
+#b_domodossolacastello = castle
+#b_varallosesia = temple
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

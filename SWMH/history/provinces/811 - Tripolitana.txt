@@ -1,0 +1,23 @@
+# 811 - Tripolitana
+
+# County Title
+title = c_tripolitana
+
+# Settlements
+max_settlements = 4
+
+b_libtripoli = castle
+b_nalut = temple
+b_baniwaled = city
+
+#b_gherlan = castle
+#b_funduq = castle
+#b_mazuzah = castle
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+1171.1.1 = { religion = sunni }

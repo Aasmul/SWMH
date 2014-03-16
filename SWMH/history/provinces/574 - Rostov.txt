@@ -1,0 +1,29 @@
+# 574 - Rostov
+
+# County Title
+title = c_rostov
+
+# Settlements
+max_settlements = 5
+
+b_sarskoyegorodishche = castle
+b_rostov = city
+b_spasoyakovlevsky = temple
+#b_petrovskoye = city
+#b_nerekhta = castle
+#b_nekrasovskoye = temple
+#b_gavrilovyam = city
+
+# Misc
+culture = mari
+religion = finnish_pagan
+
+# History
+988.1.1 = {
+	culture = russian
+	religion = orthodox
+}
+
+1337.1.1 = { b_petrovskoye = city }
+
+

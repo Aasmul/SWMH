@@ -1,0 +1,27 @@
+# 839 - Cebta
+
+# County Title
+title = c_cebta
+
+# Settlements
+max_settlements = 4
+
+b_cueta = castle
+b_tetouan = city
+
+#b_mdiq = temple
+#b_martil = castle
+
+#b_aulef = castle
+#b_Xauen = temple
+#b_babtaza = castle
+#b_targuist = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History
+
+
+

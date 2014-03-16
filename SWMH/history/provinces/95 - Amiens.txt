@@ -1,0 +1,19 @@
+# 95 - Amiens
+
+# County Title
+title = c_amiens
+
+# Settlements
+max_settlements = 4
+b_peronne = castle
+b_amiens = city
+
+#b_corbie = castle
+#b_montdidier = city
+#b_nesle = castle
+
+culture = frankish
+religion = catholic
+
+# History
+

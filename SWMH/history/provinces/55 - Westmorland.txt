@@ -1,0 +1,22 @@
+# 55 - Westmorland
+
+# County Title
+title = c_westmorland
+
+# Settlements
+max_settlements = 3
+
+b_appleby = castle
+b_kendal = castle
+b_brough = castle
+#b_cartmel = temple
+#b_brougham = castle
+
+
+# Misc
+culture = cumbric
+religion = catholic
+
+# History
+#1068.1.1 = { culture = saxon } # held by Scotland and therefor not affected by the Harrying.
+1100.11.11 = { culture = english }

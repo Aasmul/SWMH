@@ -1,0 +1,26 @@
+# 1105 - Gaeta
+
+# County Title
+title = c_gaeta
+
+# Settlements
+max_settlements = 3
+
+b_fondi = castle
+b_gaeta = city
+#b_itri = castle
+#b_montesanbiagio = city
+#b_sperlonga = castle
+#b_castelloneformia = castle
+#b_moladigaeta = city
+
+
+
+
+
+# Misc
+culture = langobardisch
+religion = catholic
+
+# History
+1118.1.1={ culture = southern_italian }

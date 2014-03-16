@@ -1,0 +1,31 @@
+# 1133 - Rimini
+
+# County Title
+title = c_rimini
+
+# Settlements
+max_settlements = 4
+
+#b_gradara = castle #Not built until 12th century
+b_rimini = city
+b_cesena = city
+#b_roccamalatestiana = castle
+#b_fano = city
+#b_sigismondo = castle
+#b_pesaro = city
+#b_roccacostanza = castle
+
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+
+1150.1.1 = {
+	b_gradara = castle
+	capital = b_gradara
+}
+
+

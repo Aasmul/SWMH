@@ -1,0 +1,36 @@
+# 343 - Siracusa
+
+# County Title
+title = c_siracusa
+
+# Settlements
+max_settlements = 6
+
+b_manicace = castle
+b_syracusa = city
+b_lentini = city
+
+#b_adranu = castle
+#b_ursino = castle
+#b_catania = temple 
+#b_paterno = city
+#b_centuripe = city
+#b_augusta = city
+#b_castellonormanno = castle
+#b_jachium = city
+#b_aci = castle
+#b_jacisantantoniu = temple
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+terrain = hills
+
+# History
+
+1089.1.1 = { trade_post = b_ziani }
+1116.1.1={ culture = sicilian }
+1116.1.1={ religion = catholic }
+
+
+1232.1.1 = { b_catania = city }

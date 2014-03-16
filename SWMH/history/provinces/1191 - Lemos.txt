@@ -1,0 +1,23 @@
+# 1191 - Lemos
+
+# County Title
+title = c_lemos
+
+# Settlements
+max_settlements = 4
+b_monforte_de_lemos = castle
+b_ourense = city
+b_ribadavia = temple
+#b_allariz = castle
+#b_valdeorras = city
+#b_santoestevo = temple
+
+# Misc
+culture = galician
+religion = catholic
+
+# History
+1066.1.1 = { 
+	b_monforte_de_lemos = ca_keep_1
+	b_monforte_de_lemos = ca_wall_1
+}

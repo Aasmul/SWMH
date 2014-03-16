@@ -1,0 +1,19 @@
+# 1028 - Pontamousson
+
+# County Title
+title = c_pontamousson
+
+# Settlements
+max_settlements = 4
+
+b_briey = castle
+b_pontamousson = city
+b_toul = temple
+#b_scaaarpone = city
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+

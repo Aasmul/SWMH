@@ -1,0 +1,21 @@
+# 1037 - Basel
+
+# County Title
+title = c_basel
+
+# Settlements
+max_settlements = 2
+
+b_basel = temple
+#b_arlesheim = city
+#b_laufenburg = castle
+#b_kleinlutzel = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+

@@ -1,0 +1,22 @@
+# 517 - Temes
+
+# County Title
+title = c_temes
+
+# Settlements
+max_settlements = 3
+b_temesvar = castle
+b_kevevara= city
+#b_rekas = city
+#b_makohungary = temple
+#b_csakvar = castle
+#b_kovacshaza = castle
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+

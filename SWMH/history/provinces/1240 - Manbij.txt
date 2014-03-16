@@ -1,0 +1,24 @@
+# 1240 - Manbij
+
+# County Title
+title = c_manbij
+
+# Settlements
+max_settlements = 4
+
+b_qalatnajm = castle
+b_manbij = temple
+b_balissyria = city
+#b_jarabulus = city
+
+
+
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+

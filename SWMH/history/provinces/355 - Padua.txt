@@ -1,0 +1,27 @@
+# 355 - Padua
+
+# County Title
+title = c_padova
+
+# Settlements
+max_settlements = 4
+
+b_carrrareapadua = castle
+b_abbaziadisantostefano = temple
+b_padova = city
+#b_citadella = castle
+#b_doloveneto = city
+#b_piovedisacco = city
+#b_castellodisanpelagio = castle
+#b_polverara = temple
+
+
+
+# Misc
+culture = venetian
+religion = catholic
+
+# History
+1102.1.1 = { trade_post = b_contarini }
+1180.1.1 = { capital = b_padova }
+1325.1.1 = { capital = b_carrrareapadua }

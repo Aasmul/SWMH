@@ -1,0 +1,24 @@
+# 1209 - Caspe
+
+# County Title
+title = c_caspe
+
+# Settlements
+max_settlements = 4
+b_caspe = castle
+b_chiprana = city
+b_fabara = temple
+#b_alcanyiz = castle
+#b_calanda = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1066.1.1 = { 
+	b_caspe = ca_keep_1
+	b_caspe = ca_wall_1
+}
+

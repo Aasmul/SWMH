@@ -1,0 +1,8 @@
+859.1.1={
+  holder=1000228244
+  liege="d_hoggar"
+}
+1066.1.1={
+  holder=1000144669
+  liege="d_hoggar"
+}

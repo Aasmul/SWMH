@@ -1,0 +1,24 @@
+# 1130 - Ivrea.
+
+# County Title
+title = c_ivrea
+
+# Settlements
+max_settlements = 4
+
+b_vercelli = temple
+b_santhia = castle
+b_ivrea = city
+#b_biella = city
+#b_messarano = city
+#b_crevacuore = temple
+#b_castellodivettigne = castle
+#b_castellodiivera = castle
+#b_castellovisconteo = castle
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

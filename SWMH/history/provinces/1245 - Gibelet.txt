@@ -1,0 +1,28 @@
+# 1245 - Gibelet
+
+# County Title
+title = c_gibelet
+
+# Settlements
+max_settlements = 4
+
+b_gibeletcastle = castle
+b_gibelet = city
+b_boutron = temple
+#b_besmedin = castle
+#b_msheilfort = castle
+
+
+
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+1220.1.1 = { b_besmedin = castle }
+
+# 1289 Mamluks take the county of Tripoli
+

@@ -1,0 +1,24 @@
+# 83 - Gelre
+
+# County Title
+title = c_gelre
+
+# Settlements
+max_settlements = 5
+
+b_geldern = castle
+b_roermond = city
+b_nijmegen = city
+b_montfort_gelre = castle
+#b_gendt = city
+#b_zaltbommel = city
+#b_straelen = temple
+
+# Misc
+culture = dutch
+religion = catholic
+
+# History
+1306.1.1 = { trade_post = b_warendorp }
+
+

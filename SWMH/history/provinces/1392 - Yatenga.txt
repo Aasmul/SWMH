@@ -1,0 +1,14 @@
+# 1392 - Yatenga
+
+# County Title
+title = c_yatenga
+
+# Settlements
+max_settlements = 1
+b_yatenga = castle
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History

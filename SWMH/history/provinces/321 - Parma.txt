@@ -1,0 +1,31 @@
+# 321 - Parma
+
+# County Title
+title = c_parma
+
+# Settlements
+max_settlements = 4
+
+
+b_felino = castle
+b_parma = city
+b_berceto = temple
+
+#b_torrechiara = castle
+#b_corniglio = castle
+#b_sansecondoparmenese = city
+#b_montechiarugolo = castle
+#b_roccasanvitale = castle
+#b_noceto = castle
+#b_fontanellato = city
+#b_collechio = temple
+#b_colorno = temple
+#b_sissa = city
+#b_sorbolo = city
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

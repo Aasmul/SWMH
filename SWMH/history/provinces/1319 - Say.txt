@@ -1,0 +1,17 @@
+# 1319 - Say
+
+# County Title
+title = c_say
+
+# Settlements
+max_settlements = 3
+b_niamey = castle
+b_say = city 
+
+#b_bura = temple
+
+# Misc
+culture = songhai
+religion = west_african_pagan
+
+# History

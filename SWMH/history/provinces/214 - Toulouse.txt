@@ -1,0 +1,28 @@
+# 214 - Toulouse
+
+# County Title
+title = c_toulouse
+
+# Settlements
+max_settlements = 6
+b_castelnaudary = castle
+b_toulouse = city
+b_lombez = temple
+b_lislejourdain = castle
+#b_lasalvetatsaintgilles = castle
+#b_montauban = city
+#b_hautpoul = castle
+#b_montgiscard = castle
+
+
+
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History
+1144.1.1 = { b_montauban = city }
+1150.1.1 = { religion = cathar }
+1244.3.16 = { religion = catholic}

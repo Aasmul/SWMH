@@ -1,0 +1,25 @@
+# 423 - Sudovia
+
+# County Title
+title = c_sudovia
+
+# Settlements
+max_settlements = 4
+
+
+b_elk = castle
+b_rajgrod = castle
+
+#b_sejny = temple
+#b_berzniki = city
+#b_augustow = city
+#b_vilkaviskis = city
+#b_olecko = city
+#b_pilypavas = city
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History
+

@@ -1,0 +1,31 @@
+# 331 - Piombino
+
+# County Title
+title = c_piombino
+
+# Settlements
+max_settlements = 4
+
+b_castellodimonteregio = castle
+b_grosseto = city
+b_roselle = temple
+
+#b_gavorrano = city
+#b_scalino = city
+#b_roccaaldobrandesca = castle
+#b_casteldipietra = castle
+#b_suvereto = city
+#b_vetulonia = city
+#b_massamaritima = city
+#b_sanbartolomeodisestinga = temple
+#b_castellodibiserno = castle
+
+
+# Misc
+culture = tuscan
+religion = catholic
+
+# History
+1066.1.1 = { trade_post = b_della_gherardesca }
+1285.1.1 = { trade_post = b_doria }
+

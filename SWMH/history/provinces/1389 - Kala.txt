@@ -1,0 +1,17 @@
+# 1389 - Kala
+
+# County Title
+title = c_kala
+
+# Settlements
+max_settlements = 3
+b_segou = castle
+b_sama = city
+
+#b_fadaku = temple
+
+# Misc
+culture = manden
+religion = west_african_pagan
+
+# History

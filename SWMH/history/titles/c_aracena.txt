@@ -1,0 +1,67 @@
+
+852.9.22={
+	liege="d_cordoba"
+	holder=73683
+}
+1023.1.1={
+	holder=73209
+	liege="d_sevilla"
+}
+#####
+1034.1.1={
+	holder=45007
+	liege="d_badajoz"
+}
+1045.1.1={
+	holder=3900
+}
+1063.1.1={
+	holder=3902
+}
+1082.1.1={
+	holder=73196
+}
+1094.1.1={
+	holder=73205
+#	liege="d_beja"
+	liege=k_maghreb
+}
+1116.1.1={
+	holder=73202
+}
+1140.1.1={
+	holder=73203
+}
+1147.10.25={
+	liege=0
+}
+1150.1.1={
+	holder=224009
+#	liege="d_algarve"
+	liege=k_maghreb
+}
+1172.1.1={
+	holder=224021
+}
+1199.1.1={
+	holder=73609
+}
+1213.1.1={
+	holder=73610
+}
+1228.1.1={
+	holder=73625
+	liege=d_murcia
+}
+1238.1.1={
+	holder=142151
+}
+1270.1.1={
+	holder=142423
+}
+1304.1.1={
+	holder=142799
+}
+1324.1.1={
+	holder=142802
+}

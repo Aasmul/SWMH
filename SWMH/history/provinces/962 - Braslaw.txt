@@ -1,0 +1,19 @@
+# 962 - Braslaw
+
+# County Title
+title = c_braslaw
+
+# Settlements
+max_settlements = 4
+b_braslaw = castle
+b_drissa = city
+#b_druya = castle
+b_kraslava = castle
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+

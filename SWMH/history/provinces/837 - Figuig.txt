@@ -1,0 +1,22 @@
+# 837 - Figuig
+
+# County Title
+title = c_figuig
+
+# Settlements
+max_settlements = 1
+
+b_figuig = castle
+
+#b_safsaf = city
+#b_ich = castle
+
+#b_ainechchair = castle
+#b_bouarfa = city
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+

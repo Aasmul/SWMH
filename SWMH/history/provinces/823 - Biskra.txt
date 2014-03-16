@@ -1,0 +1,23 @@
+# 823 - Biskra
+
+# County Title
+title = c_biskra
+
+# Settlements
+max_settlements = 5
+
+b_biskra = castle
+b_badis = city
+b_bigou = temple
+
+#b_sidiokba = castle
+#b_nebka = castle
+#b_mekhadma = castle
+#b_branis = castle
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History
+

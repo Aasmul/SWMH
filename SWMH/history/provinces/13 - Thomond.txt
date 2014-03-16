@@ -1,0 +1,23 @@
+# 13 - Thomond
+
+# County Title
+title = c_thomond
+
+# Settlements
+max_settlements = 3
+
+b_clarecastle = castle
+b_ennis = city
+#b_iniscealtra = temple
+#b_bunratty = castle
+#b_killaloe = temple
+#b_kilfenora = temple
+
+
+
+# Misc
+culture = irish
+religion = catholic
+
+# History
+

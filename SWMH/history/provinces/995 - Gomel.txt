@@ -1,0 +1,21 @@
+# 995 - Gomel
+
+# County Title
+title = c_gomel
+
+# Settlements
+max_settlements = 4
+
+b_gorvol = castle
+b_gomel = city
+#b_recyca = temple
+
+#b_novyydrokov = castle
+#b_cacersk = temple
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

@@ -1,0 +1,20 @@
+# 1500 - Qasr Ibrim
+
+# County Title
+title = c_qasribrim
+
+# Settlements
+max_settlements = 6
+b_qasribrim = castle
+b_qurta = city
+b_aniba = temple
+b_ikhmindi = castle
+
+#b_sheikhdaud = castle
+#b_mahareaka = temple
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

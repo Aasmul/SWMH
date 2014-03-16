@@ -1,0 +1,64 @@
+# 1172 - Bayeux
+
+# County Title
+title = c_bayeux
+
+# Settlements
+max_settlements = 6
+
+b_falaise = castle
+b_bayeux = temple
+b_caen = city
+b_creully = castle
+
+#b_saintmartindemondaye = temple
+#b_vire = castle
+#b_clecy = city
+#b_courcy = castle
+#b_asnelles = city
+#b_cahagnes = castle
+#b_cairon = city
+#b_rots = city
+#b_beaumontlerichard = castle
+#b_abbayeauxhommes = temple
+#b_abbayeauxdames = temple
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+911.1.1 = { # Viking takeover
+	remove_settlement = b_caen
+	remove_settlement = b_bayeux
+        b_falaise = castle
+        b_bayeux = temple
+        b_caen = city
+        b_creully = castle
+
+	b_falaise = ca_keep_1
+	b_falaise = ca_training_grounds_1
+	b_falaise = ca_stable_1
+	b_falaise = ca_wall_1
+	b_falaise = ca_wall_2
+	b_falaise = ca_militia_barracks_1
+	b_falaise = ca_barracks_1
+	b_falaise = ca_town_1
+	b_caen = ct_port_1
+        b_creully = ca_keep_1
+	b_creully = ca_training_grounds_1
+	b_creully = ca_wall_1
+	b_creully = ca_town_1
+}
+
+960.1.1 = {
+	culture = norman
+}
+
+1066.1.1 = {
+	b_caen = ct_port_2
+	b_caen = ct_port_3
+}
+
+1100.11.11 = { culture = frankish }
+

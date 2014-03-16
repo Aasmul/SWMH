@@ -1,0 +1,24 @@
+# 189 - Astorga
+
+# County Title
+title = c_astorga
+
+# Settlements
+max_settlements = 4
+b_astorga = temple
+b_ulver = castle
+b_villafrancadelbierzo = city
+#b_ponferrada = castle
+#b_villablino = city
+#b_carracedo = temple
+
+# Misc
+culture = leonese
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_ulver = ca_keep_1
+	b_ulver = ca_wall_1
+}

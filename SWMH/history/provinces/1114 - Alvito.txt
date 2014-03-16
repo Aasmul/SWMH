@@ -1,0 +1,25 @@
+# 1114 - Alvito
+
+# County Title
+title = c_alvito
+
+# Settlements
+max_settlements = 4
+
+b_alvitoabruzzo = castle
+b_sora = city
+
+#b_balsorano = castle
+#b_isolaliri = city
+#b_castelloboncompagni = castle
+#b_vicalvi = castle
+#b_barrea = castle
+#b_pescasseroli = city
+#b_atinaalvito = temple
+
+
+# Misc
+culture = central_italian
+religion = catholic
+
+# History

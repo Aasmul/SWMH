@@ -1,0 +1,19 @@
+# 967 - Eivissa
+
+# County Title
+title = c_eivissa
+
+# Settlements
+max_settlements = 2
+
+b_eivissa = castle
+#b_formentera = castle
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+terrain = mountain
+
+# History
+1245.1.1 = { culture = catalan }
+1245.1.1 = { religion = catholic }

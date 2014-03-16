@@ -1,0 +1,168 @@
+#Holder of d_karelia in 1066
+
+28004 = {
+	name="Kalevi"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="karelian"
+	father=170115
+	1050.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+#d_kexholmians
+28035 = {
+	name="Ikäpäivä"
+	# AKA: Ikapaiva
+	dynasty=100392
+	dna="dmguuktngcc"
+	properties="ci0eed0000"
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="finnish_pagan"
+	culture="karelian"
+	add_trait="kind"
+	add_trait="proud"
+	add_trait="flamboyant_schemer"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+144642 = {
+	name="Ikäpäivä"
+	dynasty=100392
+	religion="finnish_pagan"
+	culture="karelian"
+	father = 28035
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+144643 = {
+	name="Ikäpäivä"
+	dynasty=100392
+	religion="finnish_pagan"
+	culture="karelian"
+	father = 228035
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+228035 = {
+	name="Ikäpäivä"
+	# AKA: Ikapaiva
+	dynasty=100392
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="finnish_pagan"
+	culture="karelian"
+	add_trait="kind"
+	add_trait="proud"
+	add_trait="flamboyant_schemer"
+	father = 144642
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+#
+
+144634 = {
+	name="Oiva"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 28004
+	1080.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+170111 = {
+	name="Tuure"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="karelian"
+	847.1.1={
+		birth=yes
+	}
+	907.1.1={
+		death=yes
+	}
+}
+170112 = {
+	name="Ihala"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="karelian"
+	father=170111
+	882.1.1={
+		birth=yes
+	}
+	944.1.1={
+		death=yes
+	}
+}
+
+170113 = {
+	name="Tuure"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="karelian"
+	father=170112
+	918.1.1={
+		birth=yes
+	}
+	976.1.1={
+		death=yes
+	}
+}
+
+170114 = {
+	name="Väinö"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="karelian"
+	father=170113
+	952.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+
+170115 = {
+	name="Kettu"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="karelian"
+	father=170114
+	1011.1.1={
+		birth=yes
+	}
+	1066.1.1={
+		death=yes
+	}
+}

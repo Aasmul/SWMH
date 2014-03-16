@@ -1,0 +1,41 @@
+# 235 - Lombardia
+
+# County Title
+title = c_lombardia
+
+# Settlements
+max_settlements = 7
+
+b_lodi = castle
+b_milano = city
+b_monza = temple
+b_rhomilano = city
+b_abbaziadichiaravalle = temple
+#b_lecco = city
+#b_castelloandrinani = castle
+#b_abbiategrasso = castle
+#b_binasco = castle = castle
+#b_buccinascocastello = castle
+#b_sandonatomilanese = temple
+#b_castellodimacconago = castle
+#b_melegnano = city
+#b_melegnanocastello = castle
+#b_peschieraborromeo = city
+#b_peschieraborromeocastello = castle
+#b_castellosforzesco = castle
+#b_trezzosulladda = castle
+#b_castellodizvido = castle
+#b_castellodiaicurzio = castle
+#b_castellodibellusco = castle
+#b_castellodisulbiate = castle
+
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+1193.12.25 = { capital = b_milano }
+1240.1.1 = { capital = b_lodi }
+1240.1.1 = { b_trezzosulladda = castle }

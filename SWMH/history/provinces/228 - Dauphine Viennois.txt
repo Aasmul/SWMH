@@ -1,0 +1,24 @@
+# 228 - Dauphine Viennois
+
+# County Title
+title = c_dauphine_viennois
+
+# Settlements
+max_settlements = 4
+b_albon = castle
+b_vienne = temple
+b_chateaudeclermont = castle
+#b_chateaudefallavier = castle
+#b_septeme = castle
+#b_latourdupin = castle
+#b_chateaudevirieu = castle
+
+
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History
+1250.1.1 = { b_chateaudefallavier = castle }
+

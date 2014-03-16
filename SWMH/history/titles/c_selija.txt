@@ -1,0 +1,149 @@
+850.1.1=
+{
+holder=1000227700
+}
+850.1.1=
+{
+liege="d_selonians"
+}
+899.1.1=
+{
+holder=1000227701
+}
+935.1.1=
+{
+holder=1000227702
+}
+958.1.1=
+{
+holder=1000227703
+}
+979.1.1=
+{
+holder=1000227704
+}
+995.1.1=
+{
+holder=1000227705
+}
+1043.1.1=
+{
+holder=1000227706
+}
+1059.1.1=
+{
+holder=1000227707
+}
+1098.1.1=
+{
+holder=1000227708
+}
+1123.1.1=
+{
+holder=1000227709
+}
+1165.1.1=
+{
+holder=1000227710
+}
+1192.1.1=
+{
+holder=1000227711
+}
+1202.1.1=
+{
+holder=1000227744 
+}
+### To Riga Bishopery
+1209.1.1=
+{
+holder=30421 #Albrecht von Buxthoeven
+liege="d_livonia"
+}
+#Bishops of Selija
+1218.1.1=
+{
+holder=30324 #Bernard von der Lippe, Lord of Lippe. Bishop of Selija 1218-1224
+}
+1224.1.1=
+{
+holder=1000227748 #Lambert von Solre,  Bishop of Selija 1224-1226 and Bishop of Zemigalia 1226-1232
+}
+##Livonian Swordbrothers takeover
+1226.1.1=
+{
+liege="d_livonian_brothers_of_the_sword"
+holder=30444 #Volkwin von Naumburg
+}
+#Swordbrothers absorbed by the Teutonic Order
+
+1236.9.22=
+{
+liege="d_teutonic_order"
+}
+
+1236.9.22=
+{
+holder=30403 #Hermann von Salza
+}
+1239.3.20=
+{
+holder=30404 #Konrad von Thüringen
+}
+1240.7.24=
+{
+holder=30405 #Gerhard von Malberg
+}
+
+1244.1.1=
+{
+holder=30406 #Heinrich von Hohenlohe
+}
+1249.7.15=
+{
+holder=30407 #Gunther von Wüllersleben
+}
+1252.5.4=
+{
+holder=30408 #Poppo von Osterna
+}
+1256.1.1=
+{
+holder=30409 #Anno von Sangershausen
+}
+1273.7.8=
+{
+holder=30410 #Hartmann von Heldrungen
+}
+1282.8.19=
+{
+holder=30411 #Burchard von Schwanden
+}
+1290.1.1=
+{
+holder=30412 #Konrad von Feuchtwangen
+}
+1296.7.4=
+{
+holder=30413 #Gottfried von Hohenlohe
+}
+1303.1.1=
+{
+holder=30414 #Siegfried von Feuchtwangen
+}
+1311.5.3=
+{
+holder=30415 #Karl von Trier
+}
+1324.2.11=
+{
+holder=30416 #Werner von Orseln
+}
+1330.11.18=
+{
+holder=30417 #Luther Welf
+}
+1335.4.18=
+{
+holder=474000 #Dietrich von Altenburg
+}

@@ -1,0 +1,21 @@
+# 1178 - Tounai
+
+# County Title
+title = c_tournai
+
+# Settlements
+max_settlements = 3
+
+b_douai = castle
+b_doornik = city
+#b_saintmartin = temple
+#b_cysoing = temple
+#b_orchies = city
+
+# Misc
+culture = dutch
+religion = catholic
+
+# History
+
+

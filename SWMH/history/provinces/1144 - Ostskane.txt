@@ -1,0 +1,30 @@
+# 1144 - Ostskane
+
+# County Title
+title = c_ostskane
+
+# Settlements
+max_settlements = 5
+
+b_vittskovle = castle
+b_dalby = temple
+#b_vaeskane = city
+#b_gyllebo = castle
+#b_herrevad = temple
+#b_simrishamn = city
+#b_glimmingehus = castle
+#b_bosokloster = temple
+#b_aahus = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1018.1.1 = { religion = catholic } 
+1047.10.25 = { culture = danish } 
+
+
+
+
+

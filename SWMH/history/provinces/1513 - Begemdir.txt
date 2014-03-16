@@ -1,0 +1,18 @@
+# 1513 - Begemdir
+
+# County Title
+title = c_begemder
+
+# Settlements
+max_settlements = 3
+b_begemdir = castle
+b_sana = temple
+b_debrelibanos = temple
+
+# Misc
+culture = falashim
+religion = jewish
+
+# History
+
+  

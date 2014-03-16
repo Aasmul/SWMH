@@ -1,0 +1,6 @@
+556.1.1={
+	liege = d_ossory
+}
+1066.1.1={
+	holder = 1000226407 #"Celech", Abbot of Aghaboe
+}

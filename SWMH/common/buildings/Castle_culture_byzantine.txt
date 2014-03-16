@@ -1,0 +1,302 @@
+castle = {
+ca_culture_group_byzantine_1 = {
+		desc = ca_culture_group_byzantine_1_desc
+		potential = {
+			FROM = { 
+					culture = greek
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		knights = 10
+		horse_archers = 10
+		knights_offensive = 0.075
+		horse_archers_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_byzantine_2 = {
+		desc = ca_culture_group_byzantine_1_desc
+		potential = {
+			FROM = { 
+					culture = greek
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_group_byzantine_1
+		build_cost = 300
+		build_time = 1095
+		knights = 15
+		horse_archers = 10
+		knights_offensive = 0.075
+		horse_archers_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_byzantine_3 = {
+		desc = ca_culture_group_byzantine_1_desc
+		potential = {
+			FROM = { 
+					culture = greek
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_group_byzantine_2
+		build_cost = 400
+		build_time = 2190
+		knights = 15
+		horse_archers = 20
+		knights_offensive = 0.075
+		horse_archers_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_byzantine_4 = {
+		desc = ca_culture_group_byzantine_1_desc
+		potential = {
+			FROM = { 
+					culture = greek
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_group_byzantine_3
+		build_cost = 500
+		build_time = 2190
+		knights = 20
+		horse_archers = 20
+		knights_offensive = 0.075
+		horse_archers_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+#
+ca_culture_armenian_1 = {
+		desc = ca_culture_armenian_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = armenian
+					culture = georgian
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		knights = 10
+		horse_archers = 10
+		knights_offensive = 0.075
+		horse_archers_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_armenian_2 = {
+		desc = ca_culture_armenian_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = armenian
+					culture = georgian
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_armenian_1
+		build_cost = 300
+		build_time = 1095
+		knights = 15
+		horse_archers = 10
+		knights_offensive = 0.075
+		horse_archers_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_armenian_3 = {
+		desc = ca_culture_armenian_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = armenian
+					culture = georgian
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_armenian_2
+		build_cost = 400
+		build_time = 2190
+		knights = 15
+		horse_archers = 20
+		knights_offensive = 0.075
+		horse_archers_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_armenian_4 = {
+		desc = ca_culture_armenian_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = armenian
+					culture = georgian
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_armenian_3
+		build_cost = 500
+		build_time = 2190
+		knights = 20
+		horse_archers = 20
+		knights_offensive = 0.075
+		horse_archers_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+#
+	ca_culture_arberian_1 = {
+		desc = ca_culture_arberian_1_desc
+		potential = {
+			FROM = {
+					culture = arberian
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_cavalry = 30
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_arberian_2 = {
+		desc = ca_culture_arberian_1_desc
+		potential = {
+			FROM = {
+					culture = arberian
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_arberian_1
+		build_cost = 300
+		build_time = 1095
+		light_cavalry = 40
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_arberian_3 = {
+		desc = ca_culture_arberian_1_desc
+		potential = {
+			FROM = {
+					culture = arberian
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_arberian_2
+		build_cost = 400
+		build_time = 2190
+		light_cavalry = 50
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_arberian_4 = {
+		desc = ca_culture_arberian_1_desc
+		potential = {
+			FROM = {
+					culture = arberian
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_arberian_3
+		build_cost = 500
+		build_time = 2190
+		light_cavalry = 60
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+# Moldavian light cavalry
+	ca_culture_romanian_1 = {
+		desc = ca_culture_romanian_1_desc
+		potential = {
+			FROM = { culture = romanian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_cavalry = 20
+		horse_archers = 10
+		light_cavalry_offensive = 0.15
+		horse_archers_offensive = 0.1
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_romanian_2 = {
+		desc = ca_culture_romanian_1_desc
+		potential = {
+			FROM = { culture = romanian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_romanian_1
+		build_cost = 300
+		build_time = 1095
+		light_cavalry = 25
+		horse_archers = 15
+		light_cavalry_offensive = 0.15
+		horse_archers_offensive = 0.1
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_romanian_3 = {
+		desc = ca_culture_romanian_1_desc
+		potential = {
+			FROM = { culture = romanian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_romanian_2
+		build_cost = 400
+		build_time = 2190
+		light_cavalry = 30
+		horse_archers = 20
+		light_cavalry_offensive = 0.15
+		horse_archers_offensive = 0.1
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_romanian_4 = {
+		desc = ca_culture_romanian_1_desc
+		potential = {
+			FROM = { culture = romanian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_romanian_3
+		build_cost = 500
+		build_time = 2190
+		light_cavalry = 35
+		horse_archers = 25
+		light_cavalry_offensive = 0.15
+		horse_archers_offensive = 0.1
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+}
+	

@@ -1,0 +1,28 @@
+# 243 - Orvieto
+
+# County Title
+title = c_orvieto
+
+# Settlements
+max_settlements = 4
+
+b_ficulle = castle
+b_orvieto = city
+b_narni = temple
+#b_alviano = castle
+#b_giove = castle
+#b_roccadinarni = castle
+#b_bagnoregio = city
+#b_otricoli = temple
+#b_baschi = city
+#b_amelia = city
+#b_montecastrilli = city
+
+
+# Misc
+culture = central_italian
+religion = catholic
+
+# History
+
+

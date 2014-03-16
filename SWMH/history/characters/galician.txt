@@ -1,0 +1,17 @@
+1000140100 = {
+	name="Arias"
+	dynasty=1000053200
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="galician"
+	trait="flamboyant_schemer"
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1083.1.6 = {
+		death="1083.1.6"
+	}
+}

@@ -1,0 +1,30 @@
+######################################
+#New Russian Dynasties
+######################################
+#
+#
+######################################
+#Russian dynasties
+#Range 1000100450 - 1000100549
+######################################
+1000100450 = {
+	name="Ikorostensky"
+	culture = russian
+}
+1000100451 = {
+	name="Peresechensky"
+	culture = russian
+}
+1000100452 = {
+	name="Halychsky"
+	culture = russian
+}
+1000100453 = {
+	name="Volynskiy"
+	culture = russian
+}
+1000100454 = {
+	name="Terebovlsky"
+	culture = russian
+}
+

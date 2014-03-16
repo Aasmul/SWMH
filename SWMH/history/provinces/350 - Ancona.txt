@@ -1,0 +1,33 @@
+# 350 - Ancona
+
+# County Title
+title = c_ancona
+
+# Settlements
+max_settlements = 5
+
+b_ancona = city
+b_recanati = castle
+b_osimo = temple
+#b_senigallia = castle
+#b_tolentino = city
+#b_mondavio = castle
+#b_offagna = castle
+#b_roccaroveresca = castle
+#b_castellodellarancia = castle
+
+
+
+
+
+
+# Misc
+culture = central_italian
+religion = catholic
+
+# History
+
+866.1.1 = { capital = b_recanati }
+870.1.1 = { capital = b_ancona }
+1139.1.1 = { trade_post = b_contarini }
+1149.1.1 = { capital = b_ancona }

@@ -1,0 +1,34 @@
+######################################
+#New andaluzian dynasties
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1.000.053.000 - 1.000.053.029
+######################################
+
+1000053000 = {
+	name = "Banu Razid"
+	culture = andalusian_arabic
+}
+1000053001 = {
+	name = "Banu Amir"
+	culture = andalusian_arabic
+}
+1000053002 = {
+	name = "Banu Aglab"
+	culture = andalusian_arabic
+}
+1000053003 = {
+	name = "Banu Dil-Nun"
+	culture = andalusian_arabic
+}
+1000053004 = {
+	name = "Banu Sumadih"
+	culture = andalusian_arabic
+}
+1000053005 = {
+	name = "Banu Qasim"
+	culture = andalusian_arabic
+}

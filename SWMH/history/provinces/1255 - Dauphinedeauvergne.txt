@@ -1,0 +1,21 @@
+# 1255 - Dauphinedeauvergne
+
+# County Title
+title = c_dauphinedeauvergne
+
+# Settlements
+max_settlements = 4
+
+b_vodable = castle
+b_murol = castle
+b_labbeyblese = temple
+#b_auriacleglise = city
+#b_bonnac = city
+
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History

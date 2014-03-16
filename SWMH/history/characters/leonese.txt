@@ -1,0 +1,1825 @@
+1000140101 = {
+	name="Pedro"
+	dynasty=1000053201
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="flamboyant_schemer"
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1083.1.6 = {
+		death="1083.1.6"
+	}
+}
+
+9051 = {
+	name="Vellido"
+	dynasty=20061
+	martial=4
+	diplomacy=4
+	intrigue=9
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="deceitful"
+	add_trait="elusive_shadow"
+        employer = 108501
+        give_job_title = job_spymaster
+
+	1045.1.2 = {
+		birth="1045.1.2"
+	}
+	1095.1.2 = {
+		death="1095.1.2"
+	}
+}
+
+
+108510 = {
+	name="Diego"
+	dynasty=402
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="tough_soldier"
+	father=70092
+	mother=70093
+	1027.1.1 = {
+		birth="1027.1.1"
+	}
+	1047.1.1 = {
+		add_spouse=108511
+	}
+	1077.1.1 = {
+		death="1077.1.1"
+	}
+}
+
+70092 = {
+	name="Fernando"
+	dynasty=8620
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="greedy"
+	add_trait="brave"
+	add_trait="tough_soldier"
+	
+	1004.1.1 = {
+		birth="1004.1.1"
+	}
+	1022.1.1 = {
+		add_spouse=70093
+	}
+	1054.1.1 = {
+		death="1054.1.1"
+	}
+}
+
+70094 = {
+	name="Flaín"
+	dynasty=8620
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="hunter"
+	add_trait="patient"
+	add_trait="tough_soldier"
+	father=70092
+	mother=70093
+	1024.1.1 = {
+		birth="1024.1.1"
+	}
+	1046.1.1 = {
+		add_spouse=70095
+	}
+	1066.1.1 = {
+		employer=108500
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+
+70099 = {
+	name="Justa"
+	female=yes
+	dynasty=8620
+	martial=3
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="mystic"
+	add_trait="honest"
+	add_trait="indulgent_wastrel"
+	father=70092
+	mother=70093
+	
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+
+70106 = {
+	name="Pelayo"
+	dynasty=8620
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="ill"
+	add_trait="slothful"
+	add_trait="underhanded_rogue"
+	father=70092
+	mother=70093
+	
+	1026.1.1 = {
+		birth="1026.1.1"
+	}
+	1050.1.1 = {
+		death="1050.1.1"
+	}
+}
+
+108512 = {
+	name="Rodrigo"
+	dynasty=402
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="tough_soldier"
+	father=108510
+	mother=108511
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1068.1.1 = {
+		add_spouse=72706
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
+}
+
+108514 = {
+	name="Fernando"
+	dynasty=402
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="amateurish_plotter"
+	father=108510
+	mother=108511
+	1053.1.1 = {
+		birth="1053.1.1"
+	}
+	1069.1.1 = {
+		add_spouse=70255
+	}
+	1089.1.1 = {
+		add_spouse=71355
+	}
+	1108.5.1 = {
+		death="1108.5.1"
+	}
+}
+
+108519 = {
+	name="Jimena"
+	female = yes
+	dynasty=402
+	martial=8
+	diplomacy=8
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="wroth"
+	add_trait="thrifty_clerk"
+	father=108510
+	mother=108511
+	1051.1.1 = {
+		birth="1051.1.1"
+	}
+	1106.1.1 = {
+		death="1106.1.1"
+	}
+}
+
+70091 = {
+	name="Elvira"
+	female=yes
+	dynasty=402
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="cynical"
+	add_trait="proud"
+	add_trait="amateurish_plotter"
+	father=108510
+	mother=108511
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	
+	1111.1.1 = {
+		death="1111.1.1"
+	}
+}
+
+70057 = {
+	name="Muño"
+	dynasty=8609
+	martial=3
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="deceitful"
+	add_trait="hedonist"
+	add_trait="tough_soldier"
+	father=70052
+	mother=70051
+	1037.1.1 = {
+		birth="1037.1.1"
+	}
+	1052.1.1 = {
+		add_spouse=70058
+	}
+	1066.1.1 = {
+		employer=108500
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
+}
+
+70062 = {
+	name="Fernando"
+	dynasty=8609
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="proud"
+	add_trait="slothful"
+	add_trait="indulgent_wastrel"
+	father=70052
+	mother=70051
+	1038.1.1 = {
+		birth="1038.1.1"
+	}
+	1060.1.1 = {
+		add_spouse=70063
+	}
+	1103.1.1 = {
+		death="1103.1.1"
+	}
+}
+
+70055 = {
+	name="Suero"
+	dynasty=8609
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="kind"
+	add_trait="homosexual"
+	add_trait="underhanded_rogue"
+	father=70052
+	mother=70051
+	
+	1036.1.1 = {
+		birth="1036.1.1"
+	}
+	1058.1.1 = {
+		add_spouse=70056
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+
+70053 = {
+	name="Rodrigo"
+	dynasty=8609
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="brave"
+	add_trait="content"
+	add_trait="misguided_warrior"
+	father=70052
+	mother=70051
+	
+	1035.1.1 = {
+		birth="1035.1.1"
+	}
+	1086.10.23 = {
+		death="1086.10.23"
+	}
+}
+
+
+
+70058 = {
+	name="Velasquita"
+	female=yes
+	dynasty=8611
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="charitable"
+	add_trait="honest"
+	add_trait="naive_appeaser"
+	
+	1037.1.1 = {
+		birth="1037.1.1"
+	}
+	1085.10.1 = {
+		death="1085.10.1"
+	}
+}
+
+
+70059 = {
+	name="Pedro"
+	dynasty=8609
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="drunkard"
+	add_trait="cynical"
+	add_trait="fortune_builder"
+	father=70057
+	mother=70058
+	1053.1.1 = {
+		birth="1053.1.1"
+	}
+	1093.2.7 = {
+		death="1093.2.7"
+	}
+}
+
+70060 = {
+	name="Muño"
+	dynasty=8609
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="leonese"
+	add_trait="shy"
+	add_trait="homosexual"
+	add_trait="amateurish_plotter"
+	father=70057
+	mother=70058
+	1054.1.1 = {
+		birth="1054.1.1"
+	}
+	1097.3.21 = {
+		death="1097.3.21"
+	}
+}
+
+70061 = {
+	name="Jimena"
+	female=yes
+	dynasty=8609
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="ambitious"
+	add_trait="fair"
+	add_trait="hedonist"
+	add_trait="underhanded_rogue"
+	father=70057
+	mother=70058
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1128.1.1 = {
+		death="1128.1.1"
+	}
+}
+
+70052 = {
+	name="Muño"
+	dynasty=8609
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="arbitrary"
+	add_trait="envious"
+	add_trait="tough_soldier"
+	1010.1.1 = {
+		birth="1010.1.1"
+	}
+	1033.1.1 = {
+		add_spouse=70051
+	}
+	1066.1.1 = {
+		employer=109500
+	}
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+
+70051 = {
+	name="Jimena"
+	female=yes
+	dynasty=436
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="deceitful"
+	add_trait="wroth"
+	add_trait="thrifty_clerk"
+	father=70031
+	mother=70113
+	1017.1.1 = {
+		birth="1017.1.1"
+	}
+	1045.1.1 = {
+		death="1045.1.1"
+	}
+}
+
+70050 = {
+	name="Oveco"
+	dynasty=436
+	martial=6
+	diplomacy=6
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="proud"
+	add_trait="arbitrary"
+	add_trait="misguided_warrior"
+	father=70031
+	mother=70113
+	1033.1.1 = {
+		birth="1033.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+70047 = {
+	name="Pelayo"
+	dynasty=436
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="shy"
+	add_trait="content"
+	add_trait="indulgent_wastrel"
+	father=70031
+	mother=70113
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	1048.1.1 = {
+		add_spouse=70048
+	}
+	1050.1.1 = {
+		death="1050.1.1"
+	}
+}
+
+70044 = {
+	name="Vermudo"
+	dynasty=436
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="greedy"
+	add_trait="drunkard"
+	add_trait="amateurish_plotter"
+	father=70031
+	mother=70113
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1048.1.1 = {
+		add_spouse=70045
+	}
+	1066.1.1 = {
+		employer=109500
+	}
+	1082.1.1 = {
+		death="1082.1.1"
+	}
+}
+
+70043 = {
+	name="Alfonso"
+	dynasty=436
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="slothful"
+	add_trait="greedy"
+	add_trait="flamboyant_schemer"
+	father=70031
+	mother=70113
+	1026.1.1 = {
+		birth="1026.1.1"
+	}
+	1066.1.1 = {
+		employer=70032
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+
+70038 = {
+	name="Fernando"
+	dynasty=436
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="diligent"
+	add_trait="honest"
+	add_trait="fortune_builder"
+	father=70031
+	mother=70113
+	1022.1.1 = {
+		birth="1022.1.1"
+	}
+	1046.1.1 = {
+		add_spouse=70039
+	}
+	1059.1.1 = {
+		death="1059.1.1"
+	}
+}
+
+70032 = {
+	name="Sancho"
+	dynasty=436
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="leonese"
+	add_trait="craven"
+	add_trait="scholar"
+	add_trait="misguided_warrior"
+	father=70031
+	mother=70113
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1058.1.1={
+		add_spouse=70033
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+70113 = {
+	name="Fronilda"
+	female=yes
+	dynasty=12181
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="scholar"
+	add_trait="ambitious"
+	add_trait="flamboyant_schemer"
+	father=70111
+	mother=70112
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+70111 = {
+	name="Pelayo"
+	dynasty=12181
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="leonese"
+	add_trait="hunter"
+	add_trait="brave"
+	add_trait="tough_soldier"
+	975.1.1={
+		birth="975.1.1"
+	}
+	999.1.1={
+		add_spouse=70112
+	}
+	1025.1.1={
+		death="1025.1.1"
+	}
+}
+
+70112 = {
+	name="Gotina"
+	female=yes
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="chaste"
+	add_trait="zealous"
+	add_trait="indulgent_wastrel"
+	981.1.1={
+		birth="981.1.1"
+	}
+	1030.1.1={
+		death="1030.1.1"
+	}
+}
+
+70093 = {
+	name="Elvira"
+	female=yes
+	dynasty=12181
+	martial=3
+	diplomacy=7
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="leonese"
+	add_trait="quick"
+	add_trait="poet"
+	add_trait="thrifty_clerk"
+	father=70111
+	mother=70112
+	1006.1.1={
+		birth="1006.1.1"
+	}
+	1060.1.1={
+		death="1060.1.1"
+	}
+}
+
+
+
+70000 = {
+	name="Pelayo" #AKA: Pelayo I
+	dynasty=8600
+	martial=9
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="brave"
+	add_trait="temperate"
+	add_trait="brilliant_strategist"
+	685.1.1 = {
+		birth="685.1.1"
+	}
+	713.1.1 = {
+		add_spouse=70001
+	}
+	718.1.1 = {
+		capital=k_leon
+	}
+	737.1.1 = {
+		death="737.1.1"
+	}
+}
+
+70001 = {
+	name="Gaudiosa"
+	female=yes
+	dynasty=8604
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="charitable"
+	add_trait="zealous"
+	add_trait="naive_appeaser"
+	695.1.1 = {
+		birth="695.1.1"
+	}
+	743.1.1 = {
+		death="743.1.1"
+	}
+}
+
+70115 = {
+	name="Favila" #AKA: Favila I
+	dynasty=8600
+	martial=6
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="greedy"
+	add_trait="hunter"
+	add_trait="misguided_warrior"
+	father=70000
+	mother=70001
+	715.1.1 = {
+		birth="715.1.1"
+	}
+	737.1.1 = {
+	capital=k_leon
+	}
+	739.6.15 = {
+		death="739.6.15"
+	}
+}
+
+70002 = {
+	name="Ermesinda"
+	female = yes
+	dynasty=8600
+	martial=3
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="diligent"
+	add_trait="just"
+	add_trait="intricate_webweaver"
+	father=70000
+	mother=70001
+	720.1.1 = {
+		birth="720.1.1"
+	}
+	760.1.1 = {
+		death="760.1.1"
+	}
+}
+
+70003 = {
+	name="Alfonso" # AKA: Alfonso I 'el Catolico'
+	dynasty=8601
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="quick"
+	add_trait="mystic"
+	add_trait="tough_soldier"
+	father=70010
+	710.1.1 = {
+		birth="710.1.1"
+	}
+	737.1.1 = {
+		add_spouse=70002
+	}
+	739.6.15 = {
+		capital=k_leon
+	}
+	757.1.1 = {
+		death="757.1.1"
+	}
+}
+
+70004 = {
+	name="Fruela" # AKA: Fruela I 'el Cruel'
+	dynasty=8600
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="lunatic"
+	add_trait="kinslayer"
+	add_trait="tough_soldier"
+	father=70003
+	mother=70002
+	740.1.1 = {
+		birth="740.1.1"
+	}
+	757.1.1 = {
+		capital=k_leon
+	}
+	763.1.1 = {
+		add_spouse=70005
+	}
+	765.1.1 = {
+		give_nickname = nick_the_cruel
+	}
+	768.1.1 = {
+		death="768.1.1"
+	}
+}
+
+70116 = {
+	name="Mauregato" #AKA: Mauregato I
+	dynasty=8601
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="bastard"
+	add_trait="deceitful"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	father=70003
+	743.1.1 = {
+		birth="743.1.1"
+	}
+	783.1.1 = {
+		capital=k_leon
+	}
+	788.1.1 = {
+		death="788.1.1"
+	}
+}
+
+70117 = {
+	name="Adosinda"
+	female=yes
+	dynasty=8600
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="mystic"
+	add_trait="patient"
+	add_trait="amateurish_plotter"
+	father=70003
+	mother=70002
+	
+	744.1.1 = {
+		birth="744.1.1"
+	}
+	794.1.1 = {
+		death="794.1.1"
+	}
+}
+
+70006 = {
+	name="Alfonso" # AKA: Alfonso II 'el Casto'
+	dynasty=8600
+	martial=4
+	diplomacy=6
+	intrigue=3
+	stewardship=8
+	religion="catholic"
+	culture="leonese"
+	add_trait="just"
+	add_trait="chaste"
+	add_trait="underhanded_rogue"
+	father=70004
+	mother=70005
+	765.1.1 = {
+		birth="765.1.1"
+	}
+	791.1.1 = {
+		capital=k_leon
+	}
+	800.1.1 = {
+		give_nickname = nick_the_chaste
+	}
+	842.3.20 = {
+		death="842.3.20"
+	}
+}
+
+70012 = {
+	name="Aurelio" #AKA: Aurelio I
+	dynasty=8601
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="kind"
+	add_trait="content"
+	add_trait="indulgent_wastrel"
+	father=70011
+	748.1.1 = {
+		birth="748.1.1"
+	}
+	768.1.1 = {
+		capital=k_leon
+	}
+	773.1.1 = {
+		death="773.1.1"
+	}
+}
+
+70118 = {
+	name="Silo" #AKA: Silo I
+	dynasty=8625
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="kind"
+	add_trait="scholar"
+	add_trait="thrifty_clerk"
+	733.1.1 = {
+		birth="733.1.1"
+	}
+	759.1.1 = {
+		add_spouse=70117
+	}
+	773.1.1 = {
+		capital=k_leon
+	}
+	783.1.1 = {
+		death="783.1.1"
+	}
+}
+
+70013 = {
+	name="Vermudo" # AKA: Vermudo I 'el Diacono'
+	dynasty=8601
+	martial=3
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="honest"
+	add_trait="mystic"
+	add_trait="naive_appeaser"
+	father=70011
+	750.1.1 = {
+		birth="750.1.1"
+	}
+	788.1.1 = {
+		capital=k_leon
+	}
+	788.1.1 = {
+		add_spouse=70014
+	}
+	797.1.1 = {
+		death="797.1.1"
+	}
+}
+
+70014 = {
+	name="Usenda"
+	female=yes
+	dynasty=8605
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="charitable"
+	add_trait="gregarious"
+	add_trait="amateurish_plotter"
+	
+	772.1.1 = {
+		birth="772.1.1"
+	}
+	814.1.1 = {
+		death="814.1.1"
+	}
+}
+
+70015 = {
+	name="Ramiro" #AKA: Ramiro I
+	dynasty=8601
+	martial=7
+	diplomacy=6
+	intrigue=8
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="quick"
+	add_trait="diligent"
+	add_trait="flamboyant_schemer"
+	father=70013
+	mother=70014
+	790.1.1 = {
+		birth="790.1.1"
+	}
+	826.1.1 = {
+		add_spouse=70016
+	}
+        842.1.1 = {
+		add_spouse=73761
+        }
+	842.3.20 = {
+		capital=k_leon
+	}           
+	850.2.1 = {
+		death="850.2.1"
+	}
+}
+
+70016 = {
+	name="Urraca"
+	female=yes
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="fair"
+	add_trait="zealous"
+	add_trait="indulgent_wastrel"
+	810.1.1 = {
+		birth="810.1.1"
+	}
+	840.1.1 = {
+		death="840.1.1"
+	}
+}
+
+70017 = {
+	name="Ordoño" #AKA: Ordoño I
+	dynasty=8601
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="duelist"
+	add_trait="brave"
+	add_trait="misguided_warrior"
+	father=70015
+	mother=70016
+	830.1.1 = {
+		birth="830.1.1"
+	}
+	847.1.1 = {
+		add_spouse=70018
+	}
+	850.2.1 = {
+		capital=k_leon
+	}
+	866.5.27 = {
+		death="866.5.27"
+	}
+}
+
+70018 = {
+	name="Muña"
+	female=yes
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="greedy"
+	add_trait="craven"
+	add_trait="amateurish_plotter"
+	832.1.1 = {
+		birth="832.1.1"
+	}
+	872.1.1 = {
+		death="872.1.1"
+	}
+}
+
+70019 = {
+	name="Alfonso" # AKA: Alfonso III 'el Magno'
+	dynasty=8601
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="brave"
+	add_trait="quick"
+	add_trait="skilled_tactician"
+	father=70017
+	mother=70018
+	848.1.1 = {
+		birth="848.1.1"
+	}
+	866.5.27 = {
+		capital=k_leon
+	}
+	868.1.1 = {
+		give_nickname = nick_the_great
+	}
+	910.12.20 = {
+		death="910.12.20"
+	}
+}
+
+70020 = {
+	name="García" #AKA: García I
+	dynasty=8601
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="proud"
+	add_trait="hunter"
+	add_trait="fortune_builder"
+	father=70019
+	871.1.1 = {
+		birth="871.1.1"
+	}
+	910.1.1 = {
+		capital=k_leon
+	}
+        869.1.1 = {
+		add_spouse = 73772
+	}
+	914.1.19 = {
+		death="914.1.19"
+	}
+}
+
+70021 = {
+	name="Ordoño" #AKA: Ordoño II
+	dynasty=436
+	martial=6
+	diplomacy=3
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="honest"
+	add_trait="kind"
+	add_trait="tough_soldier"
+	father=70019
+	873.1.1 = {
+		birth="873.1.1"
+	}
+	890.1.1 = {
+		add_spouse=70022
+	}
+	914.1.19 = {
+		capital=k_leon
+	}
+	923.3.1 = {
+		add_spouse=107681
+	}
+	924.1.1 = {
+		death="924.1.1"
+	}
+}
+
+70022 = {
+	name="Elvira"
+	female=yes
+	dynasty=683
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="arbitrary"
+	add_trait="ambitious"
+	add_trait="underhanded_rogue"
+	
+	874.1.1 = {
+		birth="874.1.1"
+	}
+	921.10.18 = {
+		death="921.10.18"
+	}
+}
+
+70030 = {
+	name="Fruela" # AKA: Fruela II 'el Leproso'
+	dynasty=8601
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="arbitrary"
+	add_trait="leper"
+	add_trait="underhanded_rogue"
+	father=70019
+	875.1.1 = {
+		birth="875.1.1"
+	}
+	924.1.1 = {
+		capital=k_leon
+	}
+	925.7.1 = {
+		death="925.7.1"
+	}
+}
+
+70023 = {
+	name="Alfonso" # AKA: Alfonso IV 'el Monje'
+	dynasty=436
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="charitable"
+	add_trait="kind"
+	add_trait="charismatic_negotiator"
+	father=70021
+	mother=70022
+	899.1.1 = {
+		birth="899.1.1"
+	}
+	923.1.1 = {
+		add_spouse=70126
+	}
+	925.7.1 = {
+		capital=k_leon
+	}
+	931.6.1 = {
+		give_nickname = nick_the_monk
+	}
+	933.8.1 = {
+		death="933.8.1"
+	}
+}
+
+70024 = {
+	name="Ramiro" #AKA: Ramiro II
+	dynasty=436
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="ambitious"
+	add_trait="brave"
+	add_trait="skilled_tactician"
+	father=70021
+	mother=70022
+	900.1.1 = {
+		birth="900.1.1"
+	}
+	925.1.1 = {
+		add_spouse=70025
+	}
+	930.1.1 = {
+		remove_spouse=70025
+	}
+	931.6.1 = {
+		capital=k_leon
+	}
+	934.1.1 = {
+		add_spouse=70127
+	}
+	951.1.15 = {
+		death="951.1.15"
+	}
+}
+
+70025 = {
+	name="Adosinda"
+	female=yes
+	dynasty=8602
+	martial=4
+	diplomacy=3
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="leonese"
+	add_trait="humble"
+	add_trait="content"
+	add_trait="indulgent_wastrel"
+	
+	908.1.1 = {
+		birth="908.1.1"
+	}
+	958.1.1 = {
+		death="958.1.1"
+	}
+}
+
+70114 = {
+	name="Sancho"
+	dynasty=436
+	martial=7
+	diplomacy=6
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="humble"
+	add_trait="content"
+	add_trait="tough_soldier"
+	father=70021
+	mother=70022
+	
+	895.1.1 = {
+		birth="895.1.1"
+	}
+	929.6.10 = {
+		death="929.6.10"
+	}
+}
+
+70064 = {
+	name="Alfonso" # AKA: Alfonso Froilaz 'el Jorobado'
+	dynasty=8601
+	martial=5
+	diplomacy=3
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="craven"
+	add_trait="hunchback"
+	add_trait="misguided_warrior"
+	father=70030
+	900.1.1 = {
+		birth="900.1.1"
+	}
+	932.1.1 = {
+		death="932.1.1"
+	}
+}
+
+70029 = {
+	name="Ordoño" # AKA: Ordoño IV 'el Malo'
+	dynasty=436
+	martial=3
+	diplomacy=3
+	intrigue=3
+	stewardship=3
+	religion="catholic"
+	culture="leonese"
+	add_trait="hunchback"
+	add_trait="content"
+	add_trait="naive_appeaser"
+	father=70023
+	mother=70126
+	926.1.1 = {
+		birth="926.1.1"
+	}
+	958.1.1 = {
+		capital=k_leon
+	}
+	958.11.18 = {
+		add_spouse=107682
+	}
+	962.1.1 = {
+		death="962.1.1"
+	}
+}
+
+108600 = {
+	name="Ordoño" #AKA: Ordoño III
+	dynasty=436
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="leonese"
+	add_trait="harelip"
+	add_trait="flamboyant_schemer"
+	father=70024
+	mother=70025
+	926.1.1 = {
+		birth="926.1.1"
+	}
+	944.1.1 = {
+		add_spouse=107682
+	}
+	951.1.5 = {
+		capital=k_leon
+	}
+	956.11.13 = {
+		death="956.11.13"
+	}
+}
+
+70026 = {
+	name="Sancho" # AKA: Sancho I 'el Craso'
+	dynasty=436
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="gluttonous"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	father=70024
+	mother=70127
+	936.1.1 = {
+		birth="936.1.1"
+	}
+	956.11.13 = {
+		capital=k_leon
+	}
+	956.11.13 = {
+		give_nickname = nick_the_fat
+	}
+	960.1.1 = {
+		capital=k_leon
+	}
+	960.4.26 = {
+		add_spouse=70027
+	}
+	966.1.1 = {
+		death="966.1.1"
+	}
+}
+
+70027 = {
+	name="Teresa"
+	female=yes
+	martial=3
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="ambitious"
+	add_trait="zealous"
+	add_trait="thrifty_clerk"
+
+	941.1.1 = {
+		birth="941.1.1"
+	}
+	997.1.1 = {
+		death="997.1.1"
+	}
+}
+
+108590 = {
+	name="Vermudo" # AKA: Vermudo II 'el Gotoso'
+	dynasty=436
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="chaste"
+	add_trait="cynical"
+	add_trait="ill"
+	add_trait="charismatic_negotiator"
+	father=108600
+	mother=70244
+	953.1.1 = {
+		birth="953.1.1"
+	}
+	984.1.1 = {
+		capital=k_leon
+	}
+	991.1.1 = {
+		add_spouse=107673
+	}
+	998.1.1 = {
+		give_nickname = nick_the_gouty
+	}
+	999.9.1 = {
+		death="999.9.1"
+	}
+}
+
+108610 = {
+	name="Ramiro" #AKA: Ramiro III 'el Niño'
+	dynasty=436
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="leonese"
+	add_trait="deceitful"
+	add_trait="brave"
+	add_trait="flamboyant_schemer"
+	father=70026
+	mother=70027
+	960.1.1 = {
+		birth="960.1.1"
+	}
+	966.1.1 = {
+		capital=k_leon
+	}
+	979.1.1 = {
+		add_spouse=70028
+	}
+	984.1.1 = {
+		death="984.1.1"
+	}
+}
+
+108560 = {
+	name="Ordoño"
+	dynasty=436
+	martial=8
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="flamboyant_schemer"
+	father=108610
+	983.1.1 = {
+		birth="983.1.1"
+	}
+	999.9.1 = {
+		add_spouse=108592
+	}
+	1024.1.1 = {
+		death="1024.1.1"
+	}
+}
+
+108570 = {
+	name="Alfonso" #AKA: Alfonso V 'el Noble'
+	dynasty=436
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="tough_soldier"
+	father=108590
+	mother=107673
+	996.1.1 = {
+		birth="996.1.1"
+	}
+	999.9.1 = {
+		capital=k_leon
+		give_nickname = nick_the_noble
+	}
+	1015.1.1 = {
+		add_spouse=109624
+	}
+	1023.1.2 = {
+		add_spouse=106042
+	}
+	1028.8.7 = {
+		death="1028.8.7"
+	}
+}
+
+108592 = {
+	name="Cristina"
+	female = yes
+	dynasty=436
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="bastard"
+	add_trait="clubfooted"
+	add_trait="amateurish_plotter"
+	father=108590
+	mother=108591
+	983.1.1 = {
+		birth="983.1.1"
+	}
+	1047.1.1 = {
+		death="1047.1.1"
+	}
+}
+
+108591 = {
+	name="Velasquita"
+	female = yes
+	dynasty=397
+	martial=5
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="lustful"
+	add_trait="gluttonous"
+	add_trait="flamboyant_schemer"
+	965.1.1 = {
+		birth="965.1.1"
+	}
+	1015.1.1 = {
+		death="1015.1.1"
+	}
+}
+
+70031 = {
+	name="Ordoño"
+	dynasty=436
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	add_trait="bastard"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	father=108590
+	987.1.1 = {
+		birth="987.1.1"
+	}
+	1016.1.1 = {
+		add_spouse=70113
+	}
+	1042.9.18 = {
+		death="1042.9.18"
+	}
+}
+
+107511 = {
+	name="Sancha"
+	female = yes
+	dynasty=436
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="content"
+	add_trait="naive_appeaser"
+	father=108570
+	mother=109624
+	1017.1.1 = {
+		birth="1017.1.1"
+	}
+	1065.12.27 = {
+		employer=108500
+	}
+	1066.1.1 = {
+		add_trait="ill"
+	}
+	1067.11.7 = {
+		death="1067.11.7"
+	}
+}
+
+108531 = {
+	name="Jimena"
+	female = yes
+	dynasty=436
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	add_trait="envious"
+	add_trait="thrifty_clerk"
+	father=108570
+	mother=106042
+	1010.1.1 = {
+		birth="1010.1.1"
+	}
+	1050.1.1 = {
+		death="1050.1.1"
+	}
+}
+
+
+70075 = {
+	name="Vermudo" #AKA: Vermudo III
+	dynasty=436
+	martial=4
+	diplomacy=3
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	add_trait="shy"
+	add_trait="content"
+	add_trait="indulgent_wastrel"
+	father=108570
+	mother=109624
+	1018.1.1 = {
+		birth="1018.1.1"
+	}
+	1028.8.7 = {
+		capital=k_leon
+	}
+	1037.9.4 = {
+		death="1037.9.4"
+	}
+}
+
+70076 = {
+	name="Nuño"
+	dynasty=7000
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	add_trait="bastard"
+	add_trait="content"
+	add_trait="amateurish_plotter"
+	father=108570
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1046.1.1 = {
+		add_spouse=70077
+	}
+	1066.1.1 = {
+		employer=108500
+	}
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+

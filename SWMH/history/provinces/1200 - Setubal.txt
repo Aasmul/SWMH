@@ -1,0 +1,22 @@
+# 1200 - Setubal
+
+# County Title
+title = c_setubal
+
+# Settlements
+max_settlements = 4
+b_setubal = castle
+b_benavente_setubal = temple
+b_salvaterra_de_magos = city
+#b_coruche = castle
+#b_almada = castle
+#b_palmela = castle
+#b_sesimbra = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+

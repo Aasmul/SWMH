@@ -1,0 +1,25 @@
+# 21 - Gloucester
+
+# County Title
+title = c_gloucester
+
+# Settlements
+max_settlements = 5
+
+b_gloucester = castle
+b_bristol = city
+b_winchcombe = city
+b_tewkesbury = temple
+#b_cirencester = temple
+#b_hailes = temple
+#b_sudeley = = castle
+#b_cheltenham = city
+#b_st_briavels = castle
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1100.11.11 = { culture = english } 

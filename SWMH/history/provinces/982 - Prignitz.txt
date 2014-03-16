@@ -1,0 +1,22 @@
+# 982 - Prignitz
+
+# County Title
+title = c_prignitz
+
+# Settlements
+max_settlements = 4
+
+b_wittstock = castle
+b_pritzwalk = city
+
+#b_ruppin = castle
+#b_perleberg = temple
+#b_ruppin = castle
+#b_lindow = temple
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+1160.1.1 = { culture = german } 

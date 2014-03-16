@@ -1,0 +1,82 @@
+#Carolingian house of Vermandois
+687.1.1={
+	holder = 131720
+}
+714.1.17={
+	holder = 131721
+}
+834.1.1={
+	liege="k_france"
+	holder =6398 #Pépin
+}
+892.1.1={
+	holder = 6400 #Herbert I
+}
+907.1.1={
+	holder=6402 #Herbert II
+}
+943.1.1={
+	holder = 412 #Albert I
+}
+987.1.1={
+	holder = 414 #Albert II
+}
+997.1.1={
+	holder = 416 #Otton de Vermandois
+}
+1045.1.1={
+	holder=418 #Herbert IV
+}
+1080.1.1={
+	holder=419 #Adèle de Vermandois
+}
+
+#Capetian house of Vermandois
+1085.1.1={
+	holder = 216 #Hugues le Grand
+}
+1101.10.18={
+	holder = 550 #Raoul de Vermandois
+}
+1152.10.13 = {
+	holder = 91079 #Élisabeth de Vermandois
+}
+1183.1.1 = {
+	holder = 212591 #Philippe I d'Alsace
+}
+1191.1.1 = {
+	holder = 91081 # Éléonore de Vermandois
+}
+1213.6.1={
+	holder=205506 # Philippe II Auguste
+}
+1223.7.14={
+	holder = 455402 #Louis VIII le Lion
+}
+1226.11.8={
+	holder = 455404 #Louis IX (saint Louis)
+}
+1270.8.25={
+	holder = 455528 # Philippe III le Hardi
+}
+1285.10.5={
+	holder = 455526 # Philippe IV le Bel
+}
+1314.11.29={
+	holder = 455836 # Louis V le Hutin
+}
+1316.6.5={ #in fact 1316.11.5 as a posthumus heir, but ck2 can't handle interregnum
+	holder= 70137 # Jean Ier le Posthume
+}
+1316.11.19={ #corrected from 1316.6.5
+	holder= 455509 # Philippe V le Long, son of 455526.
+}
+1322.1.3={
+	holder = 455414 # Charles IV le Bel
+}
+
+#House of Valois
+
+1328.2.1={
+	holder=455500 # Philippe VI
+}

@@ -1,0 +1,26 @@
+# 533 - Saris
+
+# County Title
+title = c_saris
+
+# Settlements
+max_settlements = 4
+
+b_borsodvar = castle
+b_gomor = city
+b_belapatfalva = temple
+
+#b_jaszo = temple
+#b_miskolc = castle
+#b_szendrovar = castle
+#b_vadna = city
+
+# Misc
+culture = croatian # White Croats
+religion = catholic
+
+# History
+
+900.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+

@@ -1,0 +1,17 @@
+# 1373 - Diafunu
+
+# County Title
+title = c_diafunu
+
+# Settlements
+max_settlements = 3
+b_diafunu = castle
+b_guidimakka = temple
+
+#b_kaniaga = city
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,3798 @@
+###############################################################
+#  ligurian characters
+###############################################################
+
+##############################################################################################
+#Giustiniani
+20314 = {
+	name="Manfredo"
+	dynasty=13010
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1 = {
+		birth="1039.1.1"
+	}
+	1066.9.14 = {
+		wealth = 150
+	}
+	1089.1.1 = {
+		death="1089.1.1"
+	}
+}
+145067 = {
+	name="Pantaleon"
+	dynasty=13010
+	religion="catholic"
+	culture="ligurian"
+	add_trait="martial_cleric"
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1286.1.1 = {
+		death="1286.1.1"
+	}
+}
+##############################################################################################
+#Spinola
+34877 = {
+	
+         name="Alberto"
+	
+         dynasty=50
+	
+         religion="catholic"
+	
+         culture="ligurian"
+	
+         1240.1.1={
+		
+         birth="1240.1.1"
+	
+         }
+	
+         1289.1.1={
+		
+                   death="1289.1.1"
+	
+         }
+
+}
+
+
+31471 = {
+	name="Giacomina" 
+	female=yes
+	dynasty=50 #Spinola
+	religion="catholic"
+	culture="ligurian"
+	1264.1.1 = {
+		birth="1264.1.1"
+	}
+	1314.1.1 = {
+		death="1314.1.1"
+	}
+}
+70786 = {
+	name="Caterina"
+	female=yes
+	dynasty=50
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="fair"
+	add_trait="kind"
+	add_trait="naive_appeaser"
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1318.1.1 = {
+		death="1318.1.1"
+	}
+}
+463555 = {
+	name="Argentina"
+	female=yes
+	dynasty=50
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="underhanded_rogue"
+	father=463550
+	mother=71188
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1354.1.1 = {
+		death="1354.1.1"
+	}
+}
+463550 = {
+	name="Obizzo"
+	# AKA: Obizizzino
+	dynasty=50
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="charitable"
+	add_trait="humble"
+	add_trait="tough_soldier"
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1285.1.1 = {
+		add_spouse=71188
+	}
+	1315.1.1 = {
+		death="1315.1.1"
+	}
+}
+73430 = {
+	name="Gherardo"
+	dynasty=50
+	religion="catholic"
+	culture="ligurian"
+	father=463550
+	mother=71188
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+91339 = {
+	
+        name="Manesseno" # not sure who he may be, he have the name of an italian city
+	
+        dynasty=50 # Spinola
+
+	
+        religion="catholic"
+	
+        culture="ligurian"
+
+	
+	
+        father = 91338 # Ido di Manesseno di Genova
+
+	
+        960.1.1 = {
+		
+        birth="960.1.1"
+	
+        }
+	
+        1030.1.1 = {
+		
+                   death="1030.1.1" # unknown
+	
+                   }
+        
+}
+
+
+91340 = {
+	
+        name="Oberto" # Oberto di Manesseno di Genova
+	
+        dynasty=50 # Spinola
+
+	
+        religion="catholic"
+	
+        culture="ligurian"
+	
+	
+        father = 91339 # Manesseno
+
+	
+        1000.1.1 = {
+		
+                   birth="1000.1.1"
+	
+        }
+	
+        1070.1.1 = {
+		
+                   death="1070.1.1" # unknown
+	
+                   }
+        
+}
+
+
+91341 = {
+	
+        name="Belo" # Belo Bozumi
+	
+        dynasty=50 # Spinola
+
+	
+        religion="catholic"
+	
+        culture="ligurian"
+
+	
+	
+        father = 91340 # Oberto di Manesseno di Genova
+
+	
+        1040.1.1 = {
+		
+                    birth="1040.1.1"
+	
+        }
+	
+        1102.1.1 = {
+		
+                   death="1102.1.1" # unknown
+	
+                   }
+
+        }
+
+
+91342 = {
+	
+        name="Guido" # Guido I spinola, consul of Genoa in 1102 and 1110
+	
+        dynasty=50 # Spinola
+
+	
+        religion="catholic"
+	
+        culture="ligurian"
+	
+	
+        father = 91341 # Oberto di Manesseno di Genova
+
+	
+        1070.1.1 = {
+		
+                   birth="1070.1.1" # unknown
+	
+        }
+	
+        1150.1.1 = {
+		
+                   death="1150.1.1" # after 1110
+	
+                   }
+        
+}
+
+
+91343 = {
+	
+        name="Guido" # Guido
+	
+        dynasty=50 # Spinola
+
+	
+        religion="catholic"
+	
+        culture="ligurian"
+	
+	
+        father = 91342 # Guido I spinola, consul of Genoa
+
+	
+        1100.1.1 = {
+		
+                   birth="1100.1.1" # circa
+	
+        }
+	
+        1130.1.1 = {
+		
+                   add_spouse = 91344 # Alda
+	
+        }
+	
+        1156.1.1 = {
+		
+                   death="1156.1.1"
+	
+                   }
+        
+}
+
+
+91344 = {
+	
+        name="Alda" # Alda
+	
+        female = yes
+	
+	
+        religion="catholic"
+	
+        culture="ligurian"
+		
+        1110.1.1 = {
+		
+                   birth="1110.1.1" # unknown
+	
+        }
+	
+        1180.1.1 = {
+		
+                   death="1180.1.1" # unknown
+	
+                   }
+        
+}
+
+
+91345 = {
+	
+        name="Oberto" # Oberto I Spinola, consul of Genoa in 1143, 1149, 1154, 1157, 1161 and 1163, 1167 and 1172
+	
+        dynasty=50 # Spinola
+
+	
+        religion="catholic"
+	
+        culture="ligurian"
+
+	
+	
+        father = 91343 # Guido
+	
+        mother = 91344 # Alda
+
+	
+        1135.1.1 = {
+		
+                   birth="1135.1.1" # 1135/1140
+	
+        }
+		
+        # add_spouse = # Sybilla della Volta  in 1160.1.1
+	
+        1185.1.1 = {
+		
+                   death="1185.1.1" # after 1182.7.20
+	
+                   }
+        
+}
+
+
+91346 = {
+	
+        name="Ansaldo" # Ansaldo, consul of Genoa in 1152 and 1159
+	
+        dynasty=50 # Spinola
+	
+        religion="catholic"
+	
+        culture="ligurian"
+	
+	
+        father = 91343 # Guido
+	
+        mother = 91344 # Alda
+	
+        1130.1.1 = {
+		
+                   birth="1130.1.1" # unknown
+	
+        }
+	
+        1185.1.1 = {
+		
+                   death="1200.1.1" # after 1159
+	
+                   }
+        
+}
+
+
+91347 = {
+	
+        name="Oberto" # Oberto II Spinola, consul of Genoa in 1201
+	
+        dynasty=50 # Spinola
+	
+        religion="catholic"
+	
+        culture="ligurian"
+	
+	
+        father = 91345 # Oberto I Spinola, consul of Genoa
+	
+        # Sybilla della Volta
+	
+        1162.1.1 = {
+		
+                   birth="1162.1.1" # 1162/1165
+
+	}
+	
+        1220.1.1 = {
+		
+                   death="1220.1.1" # after 1217.11.1
+	
+                   }
+        
+}
+
+
+91348 = {
+	
+        name="Guglielmo" # Guglielmo Spinola, consul of Genoa in 1207 and 1216
+	
+        dynasty=50 # Spinola
+	
+        religion="catholic"
+	
+        culture="ligurian"
+	
+        father = 91347 # Oberto II Spinola, consul of Genoa
+	
+        1200.1.1 = {
+		
+                   birth="1200.1.1"
+	
+                   }
+	
+        1250.1.1 = {
+		
+                   death="1250.1.1" # after 1216
+	
+                   }
+        
+}
+
+
+91349 = {
+	
+        name="Rinaldo" # Rinaldo Spinola
+	
+        dynasty=50 # Spinola
+	
+        religion="catholic"
+	
+        culture="ligurian"
+	
+        father = 91347 # Oberto II Spinola, consul of Genoa
+	
+        1205.1.1 = {
+		
+                   birth="1205.1.1" # unknown
+	
+        }
+	
+        1255.1.1 = {
+		
+                   death="1255.1.1" # unknown
+
+                   }
+        }
+
+
+91350 = {
+	
+        name="Oberto" # Oberto Spinola, same as Obizzo ?
+	
+        dynasty=50 # Spinola
+	
+        religion="catholic"
+	
+        culture="ligurian"
+	
+        father = 91349 # Rinaldo Spinola, consul of Genoa
+	
+        1240.1.1 = {
+		
+                   birth = "1240.1.1" # unknown
+	}
+	
+        1310.1.1 = {
+		
+                   death="1310.1.1" # unknown
+	
+                   }
+        
+}	
+
+
+91351 = {
+	
+        name="Obizzo" # Obizzo Spinola
+	
+        dynasty=50 # Spinola
+	
+        religion="catholic"
+	
+        culture="ligurian"
+	
+        father = 91349 # Rinaldo Spinola, consul of Genoa
+	
+        1225.1.1 = {
+		
+                   birth="1225.1.1" # unknown
+	
+                   }
+	
+        1240.1.1 = {
+		
+                   add_spouse = 91352 # Béatrice, daughter of Margherita di Antiochia
+	
+                   }
+	
+        1300.1.1 = {
+		
+                   death="1300.1.1" # after 1270
+	
+                   }
+        
+}
+
+##############################################################################################
+#di Cosseria
+71111 = {
+	name="Aloisia"
+	female=yes
+	dynasty=8704
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="detached_priest"
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1309.1.1 = {
+		death="1309.1.1"
+	}
+}
+##############################################################################################
+#di Serro
+71017 = {
+	name="Ugolino"
+	dynasty=8714
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1252.1.1 = {
+		add_spouse=71016
+	}
+	1258.1.1 = {
+		death="1258.1.1"
+	}
+}
+##############################################################################################
+#Guercio
+71092 = {
+	name="Simona"
+	female=yes
+	dynasty=8717
+	religion="catholic"
+	culture="ligurian"
+	1168.1.1 = {
+		birth="1168.1.1"
+	}
+	1216.1.1 = {
+		death="1216.1.1"
+	}
+}
+##############################################################################################
+#di Veintimiglia
+71717 = {
+	name="Violante"
+	dynasty=8770
+	female=yes
+	
+	religion="catholic"
+	culture="ligurian"
+	
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1380.1.1 = {
+		death="1380.1.1"
+	}
+}
+##############################################################################################
+#Grimaldi
+213043={
+	name="Oberto"
+	dynasty = 13016	
+	religion="catholic"
+	culture="ligurian"
+	father=213042	
+	1140.1.1=
+	{
+	birth="1140.1.1"
+	}
+	1209.1.1 = {
+		add_spouse = 91380
+	}
+	1232.1.1=
+	{
+	death="1232.1.1"
+	}
+}
+213044 = {
+	name="Grimaldina"
+	female=yes
+	dynasty=13016
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="gluttonous"
+	add_trait="proud"
+	add_trait="charismatic_negotiator"
+	father=213042
+	1168.1.1 = {
+		birth="1168.1.1"
+	}
+	1218.1.1 = {
+		death="1218.1.1"
+	}
+}
+213045 = {
+	name="Anna"
+	female=yes
+	dynasty=13016
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="temperate"
+	add_trait="lustful"
+	add_trait="amateurish_plotter"
+	father=213042
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+73700={
+	name="Oberto"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+	
+	1033.1.1=
+	{
+	birth="1033.1.1"
+	}
+	1105.1.1=
+	{
+	death="1105.1.1"
+	}
+}
+73701={
+	name="Ottone"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73700
+	
+	1070.1.1=
+	{
+	birth="1070.1.1"
+	}
+	1143.1.1=
+	{
+	death="1143.1.1"
+	}
+}
+73702={
+	name="Rubaldo"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73701
+	
+	1100.1.1=
+	{
+	birth="1100.1.1"
+	}
+	1171.1.1=
+	{
+	death="1171.1.1"
+	}
+}
+73703={
+	name="Bellamunto"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73701
+	
+	1102.1.1=
+	{
+	birth="1102.1.1"
+	}
+	1172.1.1=
+	{
+	death="1172.1.1"
+	}
+}
+73704={
+	name="Ottone"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73701
+	
+	1104.1.1=
+	{
+	birth="1104.1.1"
+	}
+	1187.1.1=
+	{
+	death="1187.1.1"
+	}
+}
+73705={
+	name="Bulzaneto"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73701
+	
+	1106.1.1=
+	{
+	birth="1106.1.1"
+	}
+	1175.1.1=
+	{
+	death="1175.1.1"
+	}
+}
+73706={
+	name="Anna"
+	dynasty = 13016
+	female=yes
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73701
+	
+	1108.1.1=
+	{
+	birth="1108.1.1"
+	}
+	1185.1.1=
+	{
+	death="1185.1.1"
+	}
+}
+73707={
+	name="Grimaldo"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=213043
+	
+	1170.1.1=
+	{
+	birth="1170.1.1"
+	}
+	1209.1.1= {
+		add_spouse=73708
+	}
+	1257.1.1=
+	{
+	death="1257.1.1"
+	}
+}
+73708={
+	name="Aurelia"
+	dynasty = 101824
+	female=yes
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=71072
+	mother=213522
+	
+	1177.1.1=
+	{
+	birth="1177.1.1"
+	}
+	1225.1.1=
+	{
+	death="1225.1.1"
+	}
+}
+73709={
+	name="Luchetto"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73707
+	mother=73708
+
+	add_trait=skilled_tactician #Admiral in Genoa
+	
+	1210.1.1=
+	{
+	birth="1210.1.1"
+	}
+	1272.1.1=
+	{
+	death="1272.1.1"
+	}
+}
+73710={
+	name="Filippo"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73709
+	
+	1241.1.1=
+	{
+	birth="1241.1.1"
+	}
+	1300.1.1=
+	{
+	death="1300.1.1"
+	}
+}
+73711={
+	name="Pietro"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73709
+	
+	1242.1.1=
+	{
+	birth="1242.1.1"
+	}
+	1307.1.1=
+	{
+	death="1307.1.1"
+	}
+}
+73712={
+	name="Barnaba"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73709
+	
+	1245.1.1=
+	{
+	birth="1245.1.1"
+	}
+	1306.1.1=
+	{
+	death="1306.1.1"
+	}
+}
+73713={
+	name="Verdina"
+	dynasty = 13016
+	female=yes
+	
+	religion="catholic"
+	culture="ligurian"
+	father=73709
+	
+	1246.1.1=
+	{
+	birth="1246.1.1"
+	}
+	1315.1.1=
+	{
+	death="1315.1.1"
+	}
+}
+73714={
+	name="Lanfranco"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73707
+	mother=73708
+
+	add_trait=underhanded_rogue
+	
+	1215.1.1=
+	{
+	birth="1215.1.1"
+	}
+	1281.1.1= {
+		add_spouse=71112
+	}
+	1293.1.1=
+	{
+	death="1293.1.1"
+	}
+}
+73715={
+	name="Raniero"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73714
+
+	add_trait=brilliant_strategist #Admiral of France
+	
+	1272.1.1=
+	{
+	birth="1272.1.1"
+	}
+	1314.1.1=
+	{
+	death="1314.1.1"
+	}
+}
+73716={
+	name="Carlo"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73715
+	
+	1300.1.1=
+	{
+	birth="1300.1.1"
+	}
+	1357.1.1=
+	{
+	death="1357.1.1"
+	}
+}
+73717={
+	name="Antonio"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73715
+	
+	1303.1.1=
+	{
+	birth="1303.1.1"
+	}
+	1358.1.1=
+	{
+	death="1358.1.1"
+	}
+}
+73718={
+	name="Marco"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73717
+	
+	1334.1.1=
+	{
+	birth="1334.1.1"
+	}
+	1374.1.1=
+	{
+	death="1374.1.1"
+	}
+}
+73719={
+	name="Giuliano"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73715
+	
+	1305.1.1=
+	{
+	birth="1305.1.1"
+	}
+	1361.1.1=
+	{
+	death="1361.1.1"
+	}
+}
+73720={
+	name="Andaro"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73714
+	
+	1273.1.1=
+	{
+	birth="1273.1.1"
+	}
+	1318.1.1=
+	{
+	death="1318.1.1"
+	}
+}
+73721={
+	name="Antonio"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73714
+	
+	1274.1.1=
+	{
+	birth="1274.1.1"
+	}
+	1320.1.1=
+	{
+	death="1320.1.1"
+	}
+}
+73722={
+	name="Bartolomeo"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73714
+	
+	1275.1.1=
+	{
+	birth="1275.1.1"
+	}
+	1323.1.1=
+	{
+	death="1323.1.1"
+	}
+}
+73723={
+	name="Antonio"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73707
+	mother=73708
+
+	add_trait=scholarly_theologian #Bishop
+	
+	1216.1.1=
+	{
+	birth="1216.1.1"
+	}
+	1259.1.1=
+	{
+	death="1259.1.1"
+	}
+}
+73724={
+	name="Guglielmo"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73723
+	
+	add_trait=bastard
+	
+	1247.1.1=
+	{
+	birth="1247.1.1"
+	}
+	1323.1.1=
+	{
+	death="1323.1.1"
+	}
+}
+73725={
+	name="Antonio"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73724
+	
+	1276.1.1=
+	{
+	birth="1276.1.1"
+	}
+	1310.4.10=
+	{
+	death="1310.4.10"
+	}
+}
+73726={
+	name="Ingo"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=213043
+	mother=91380
+	
+	1210.1.1=
+	{
+	birth="1210.1.1"
+	}
+	1235.1.1=
+	{
+	death="1235.1.1"
+	}
+}
+73727={
+	name="Luca"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73726
+
+	add_trait=charismatic_negotiator
+	
+	1228.1.1=
+	{
+	birth="1228.1.1"
+	}
+	1285.1.1=
+	{
+	death="1285.1.1"
+	}
+}
+73728={
+	name="Gabriele"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73727
+	
+	add_trait=skilled_tactician #Admiral
+	
+	1254.1.1=
+	{
+	birth="1254.1.1"
+	}
+	1271.1.1=
+	{
+	death="1271.1.1"
+	}
+}
+73729={
+	name="Gaspare"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+	father=73728
+	
+	1270.1.1=
+	{
+	birth="1270.1.1"
+	}
+	1331.1.1=
+	{
+	death="1331.1.1"
+	}
+}
+73730={
+	name="Antonio"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73729
+
+	add_trait=skilled_tactician #Admiral
+	
+	1300.1.1=
+	{
+	birth="1300.1.1"
+	}
+	#xxxx.xx.xx={
+	#	add_spouse=Catarina Doria
+	#}
+	1358.1.1=
+	{
+	death="1358.1.1"
+	}
+}
+73731={
+	name="Luca"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73730
+	#mother=catarina doria
+	
+	1330.1.1=
+	{
+	birth="1330.1.1"
+	}
+	1409.1.1=
+	{
+	death="1409.1.1"
+	}
+}
+73732={
+	name="Marco"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73730
+	#mother=catarina doria
+	
+	1332.1.1=
+	{
+	birth="1332.1.1"
+	}
+	1406.1.1=
+	{
+	death="1406.1.1"
+	}
+}
+73733={
+	name="Rabella"
+	dynasty = 13016
+	female=yes
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73728
+	
+	1271.1.1=
+	{
+	birth="1271.1.1"
+	}
+	1338.1.1=
+	{
+	death="1338.1.1"
+	}
+}
+73734={
+	name="Bovarello"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73726
+
+	add_trait=charismatic_negotiator
+	
+	1233.1.1=
+	{
+	birth="1233.1.1"
+	}
+	1285.1.1=
+	{
+	death="1285.1.1"
+	}
+}
+73735={
+	name="Oberto"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=213043
+	mother=91380
+	
+	1211.1.1=
+	{
+	birth="1211.1.1"
+	}
+	1258.1.1=
+	{
+	death="1258.1.1"
+	}
+}
+73736={
+	name="Francesco"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=73735
+	
+	1241.1.1=
+	{
+	birth="1241.1.1"
+	}
+	1295.1.1={
+		add_spouse=71112
+	}
+	1309.1.1=
+	{
+	death="1309.1.1"
+	}
+}
+73737={
+	name="Nicola"
+	dynasty = 13016
+	
+	religion="catholic"
+	culture="ligurian"
+
+	father=213043
+	mother=91380
+	
+	1212.1.1=
+	{
+	birth="1212.1.1"
+	}
+	1256.1.1=
+	{
+	death="1256.1.1"
+	}
+}
+73738 = {
+	name="Pietro"
+	dynasty=13016
+
+	religion="catholic"
+	culture="ligurian"
+
+	father=213042
+
+	1142.1.1 = {
+		birth="1142.1.1"
+	}
+	1215.1.1 = {
+		death="1215.1.1"
+	}
+}
+73739 = {
+	name="Raimondo"
+	dynasty=13016
+
+	religion="catholic"
+	culture="ligurian"
+
+	father=213042
+
+	1144.1.1 = {
+		birth="1144.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+73740 = {
+	name="Adelasia"
+	dynasty=13016
+	female=yes
+
+	religion="catholic"
+	culture="ligurian"
+
+	father=213042
+
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1218.1.1 = {
+		death="1218.1.1"
+	}
+}
+##############################################################################################
+#Fieschi
+70673 = {
+	name="Giacomina"
+	dynasty=13028
+	female=yes
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="honest"
+	add_trait="gluttonous"
+	add_trait="charismatic_negotiator"
+	father=70925
+	
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1287.12.1 = {
+		death="1287.12.1"
+	}
+}
+70787 = {
+	name="Elisabetta"
+	female=yes
+	dynasty=13028
+	martial=5
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="diligent"
+	add_trait="cynical"
+	add_trait="charismatic_negotiator"
+	1302.1.1 = {
+		birth="1302.1.1"
+	}
+	1331.1.1 = {
+		death="1331.1.1"
+	}
+}
+70923 = {
+	name="Beatrice" #spouse of 462158 (1251.6.1)
+	# AKA: Beatrice Fieschi
+	female=yes	
+	dynasty=13028 #Fieschi
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=8
+	learning=3
+	religion="catholic"
+	culture="ligurian"
+	add_trait="thrifty_clerk"
+	add_trait="brave"
+	father=70924
+	1226.1.1 = {
+		birth="1226.1.1"
+	}	
+	1283.7.9 = {
+		death="1283.7.9"
+	}
+}
+70924 = {
+	name="Teodoro" #
+	# AKA: Teodoro Fieschi
+	dynasty=13028 #Fieschi
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=3
+	learning=3
+	religion="catholic"
+	culture="ligurian"
+	add_trait="brilliant_strategist"
+	add_trait="ambitious"
+	father=71828
+	1204.1.1 = {
+		birth="1204.1.1"
+		#employer= 213117
+	}	
+	1248.2.19 = {
+		death="1248.2.19"
+	}
+}
+70925 = {
+	name="Niccolò" #
+	# AKA: Niccolo Fieschi
+	dynasty=13028 #Fieschi
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	learning=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="midas_touched"
+	add_trait="deceitful"
+	father=70924	
+	1224.1.1 = {
+		birth="1224.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+70998 = {
+	name="Girola"
+	dynasty=13028
+	female=yes
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="ligurian"
+	add_trait="thrifty_clerk"
+	add_trait="charitable"
+	1209.1.1 = {
+		birth="1209.1.1"
+	}
+	1230.1.1 = {
+		death="1230.1.1"
+	}
+}
+71079 = {
+	name="Caracosa"
+	dynasty=13028
+	female=yes
+	religion="catholic"
+	culture="ligurian"
+	father=70924
+	1236.1.1 = {
+		birth="1236.1.1"
+	}
+	1286.1.1 = {
+		death="1286.1.1"
+	}
+}
+71119 = {
+	name="Eleonora"
+	female=yes
+	dynasty=13028
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="trusting"
+	add_trait="honest"
+	add_trait="martial_cleric"
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1361.1.1 = {
+		death="1361.1.1"
+	}
+}
+71823 = {
+	name="Sinibaldo"
+	dynasty=13028
+	martial=3
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="proud"
+	add_trait="ambitious"
+	add_trait="scholarly_theologian"
+	
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1241.11.10 = {
+	name="Innocent"
+	# AKA: Sinibaldo
+	}
+	1254.12.7 = {
+		death="1254.12.7"
+	}
+}
+71828 = {
+	name="Ottobuono"
+	dynasty=13028
+	
+	religion="catholic"
+	culture="ligurian"
+	father=70924
+	1218.1.1 = {
+		birth="1218.1.1"
+	}
+	1276.1.1 = {
+		death="1276.1.1"
+	}
+}
+71829 = {
+	name="Ottobuono"
+	dynasty=13028
+	martial=4
+	diplomacy=9
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="gregarious"
+	add_trait="trusting"
+	add_trait="mastermind_theologian"
+	father=71828
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1276.6.22 = {
+		name="Adrian"
+	}
+	1276.8.18 = {
+		death="1276.8.18"
+	}
+}
+
+##############################################################################################
+#Gattilusio
+73519 = {
+	name="Luchetto"
+	dynasty=13029
+	religion="catholic"
+	culture="ligurian"
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+##############################################################################################
+#D'Oria
+463149 = {
+	name="Valentina"
+	# AKA: Valentia
+	female=yes
+	dynasty=13041
+	martial=7
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="ligurian"
+	add_trait="humble"
+	add_trait="naive_appeaser"
+	father=71155
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1359.8.27 = {
+		death="1359.8.27"
+	}
+}
+71108 = {
+	name="Caracosa"
+	female=yes
+	dynasty=13041
+	religion="catholic"
+	culture="ligurian"
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1246.1.1 = {
+		death="1246.1.1"
+	}
+}
+71150 = {
+	name="Emanuele"
+	dynasty=13041
+	martial=6
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="falconer"
+	add_trait="quick"
+	add_trait="tough_soldier"
+	father = 91417 # Niccolo Doria
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1205.1.1 = {
+		add_spouse=71149 # Giorgia di Torres
+	}
+	# spouse Alda Vento
+	1260.1.1 = {
+		death="1260.1.1" # before 1287.12.23
+	}
+}
+71151 = {
+	name="Niccolò"
+	# AKA: Niccolo
+	dynasty=13041
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="falconer"
+	add_trait="kind"
+	add_trait="fortune_builder"
+	father=71150  # Emmanuele Doria
+	mother=71149 # Giorgia di Torres
+	1207.1.1 = {
+		birth="1207.1.1"
+	}
+	# spouse  Preziosa di Torres (1208-1231)
+	1276.1.1 = {
+		death="1276.1.1"
+	}
+}
+71154 = {
+	name="Brancaleone" # Brancaleone Langudoro
+	# AKA: Ottone
+	dynasty=13041 # Doria
+	religion="catholic"
+	culture="ligurian"
+	father=71151  # Niccolo Doria
+	# Preziosa di Torres
+	1233.1.1 = {
+		birth="1233.1.1"
+	}
+	# spouse Catarina Zanche (1237-1316), d. of Michele Zanche
+	1325.1.1 = {
+		death="1325.1.1"
+	}
+}
+71155 = {
+	name="Bernabò" # Bernabo Langudoro
+	# AKA: Barnaba
+	dynasty=13041 # Doria
+	religion="catholic"
+	culture="ligurian"
+	father=71154 # Brancaleone
+	# Catarina Zanche
+	1254.1.1 = {
+		birth="1254.1.1"
+	}
+	1275.1.1 = {
+		add_spouse = 167556 # Eliana Fieschi
+	}
+	1325.1.1 = {
+		death="1325.1.1"
+	}
+}
+71156 = {
+	name="Violanta"
+	female=yes
+	dynasty=13041 # Doria
+	religion="catholic"
+	culture="ligurian"
+	father=71154 # Brancaleone Langudoro
+	# Catarina Zanche
+	1256.1.1 = {
+		birth="1256.1.1"
+	}
+	1330.1.1 = {
+		death="1330.1.1"
+	}
+}
+71157 = {
+	name="Oberto"
+	dynasty=13041
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="shy"
+	add_trait="quick"
+	add_trait="thrifty_clerk"
+	1238.1.1 = {
+		birth="1238.1.1"
+	}
+	1272.1.1 = {
+		add_spouse=71156
+	}
+	1295.1.1 = {
+		death="1295.1.1"
+	}
+}
+71158 = {
+	name="Coraddo"
+	# AKA: Corrado
+	dynasty=13041
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="hunter"
+	add_trait="slow"
+	add_trait="indulgent_wastrel"
+	father=71157
+	mother=71156
+	1273.1.1 = {
+		birth="1273.1.1"
+	}
+	1338.1.1 = {
+		death="1338.1.1"
+	}
+}
+71159 = {
+	name="Brancaleone" # spouse of Isotta Malaspina, d. of Frederigo Malaspina di Villafranca
+	# AKA: Brancaleone Doria
+	dynasty=13041 # Doria
+	religion="catholic"
+	culture="ligurian"
+	father = 71155 # Bernabo Langudoro
+	mother = 167556 # Eliana Fieschi
+	1288.1.1 = {
+		birth="1288.1.1"
+	}
+	# spouse of Isotta Malaspina, d. of Frederigo Malaspina di Villafranca
+	1355.1.1 = {
+		death="1355.1.1"
+	}
+}
+71160 = {
+	name="Brancaleone" #maried with someone after 1337	
+	# AKA: Brancaleone Doria
+	dynasty=13041 #Doria	
+	martial=3	
+	diplomacy=3	
+	intrigue=3	
+	stewardship=5	
+	learning=3	
+	religion="catholic"
+	culture="ligurian"
+	add_trait="misguided_warrior"
+	add_trait="honest"
+	father=71159
+	#mother=
+	1337.1.1 = {
+		birth="1337.1.1"
+	}
+	1409.1.1 = {
+		death="1409.1.1"
+	}
+}
+71161 = {
+	name="Isabella" # spouse of 71207 (1308.7.17)	
+	# AKA: Isabella Doria
+	female=yes
+	dynasty=13041 # Doria
+	religion="catholic"
+	culture="ligurian"
+	father = 71155 # Bernabo Langudoro
+	mother = 167556 # Eliana Fieschi
+	1292.1.1 = {
+		birth="1292.1.1"
+	}
+	# spouse Manfredo IV di Saluzzo, son of Tommaso I
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+31472 = {
+	name="Ginerva" 
+	female=yes
+	dynasty=13041 #Doria
+	religion="catholic"
+	culture="ligurian"
+	1282.1.1 = {
+		birth="1282.1.1"
+	}
+	1332.1.1 = {
+		death="1332.1.1"
+	}
+}
+34878 = {
+	
+         name="Paolino"
+	
+         dynasty=13041
+	
+         religion="catholic"
+	
+         culture="ligurian"
+	
+         1270.1.1={
+		
+                  birth="1270.1.1"
+	
+         }
+	
+         1316.1.1={
+		
+                  death="1316.1.1"
+	
+         }
+
+}
+
+##post_repulics
+91416 = { 
+	name="Simone" # Simone Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91413 # Ansaldo Doria
+	mother = 73706 # Anna Grimaldi
+	
+	1135.1.1={
+		birth="1135.1.1" 
+	}
+	1188.1.1={
+		death="1188.1.1"
+	}
+}
+
+91417 = { 
+	name="Niccolò" # Niccolo Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91416 # Simone Doria
+	
+	1160.1.1={
+		birth="1160.1.1" 
+	}
+	1230.1.1={
+		death="1230.1.1" # after 1224
+	}
+}
+
+# new characters
+91410 = { 
+	name="Ansaldo" 
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91409 #  Arduino di Narbona 
+	
+	1015.1.1={
+		birth="1015.1.1" # unknown
+	}
+
+	1070.1.1={
+		death="1070.1.1" # unknown
+	}
+}
+
+
+# new
+
+91411 = { 
+	name="Martino" 
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91410 #  Ansaldo 
+	
+	1050.1.1={
+		birth="1050.1.1" # unknown
+	}
+	1110.1.1={
+		death="1110.1.1" # unknown
+	}
+}
+
+91412 = { 
+	name="Genualdo" # AKA Genuardo
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91410 #  Ansaldo 
+	
+	1055.1.1={
+		birth="1055.1.1" # unknown
+	}
+	1120.1.1={
+		death="1120.1.1" # unknown
+	}
+}
+
+91413 = { 
+	name="Ansaldo" # Ansaldo Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+	culture="ligurian"
+		
+	father = 91412 # Genualdo
+	
+	1090.1.1={
+		birth="1090.1.1" # unknown
+	}
+	1130.1.1 = {
+		add_spouse = 73706 # Anna Grimaldi
+	}
+	1177.1.1={
+		death="1077.1.1" # after 1163
+	}
+}
+
+91414 = { 
+	name="Enrico" # Enrico Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91413 # Ansaldo Doria
+	mother = 73706 # Anna Grimaldi
+	
+	1130.1.1={
+		birth="1130.1.1" # unknown
+	}
+	1190.1.1={
+		death="1190.1.1" # after 20 jul 1183
+	}
+}
+
+91418 = {
+	name="Galeotto" # Galeotto Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father = 71155 # Bernabo Langudoro
+	mother = 167556 # Eliana Fieschi
+
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	# spouse Violante Lomellini
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+
+91419 = {
+	name = "Lodisio" # Lodisio Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father = 91418  # Galeotto Doria
+	# Violante Lomellini
+
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	# spouse Franscesca Usodi mare
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}	
+
+
+
+# new characters
+91420 = { 
+	name="Babilano" # Babilano Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 71150 # Emmanuele Doria
+	
+	1240.1.1={
+		birth="1240.1.1" 
+	}
+	# spouse Leona Savigone
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+
+
+# new
+91421 = { 
+	name="Frederico" # Frederico Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91420 # Babilano Doria
+	# Leona Savigone
+	
+	1260.1.1={
+		birth="1260.1.1" 
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+91422 = { 
+	name="Percivale" # Percivale Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91421 # Frederico Doria
+	
+	1280.1.1={
+		birth="1280.1.1" 
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+91423 = { 
+	name="Giano" # Giano Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91422 # Percivale Doria
+	
+	1300.1.1={
+		birth="1300.1.1" 
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+91424 = { 
+	name="Niccolò" # Niccolo Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91422 # Percivale Doria
+	
+	1305.1.1={
+		birth="1305.1.1" 
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+
+91425 = { 
+	name="Aleramo" # Niccolo Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91423 # Giano Doria
+	
+	1320.1.1={
+		birth="1320.1.1" 
+	}
+	# spouse Andreola
+	1390.1.1={
+		death="1390.1.1"
+	}
+}
+
+91426 = { 
+	name="Argenta" # Argenta Doria
+	female = yes
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91423 # Giano Doria
+	
+	1325.1.1={
+		birth="1325.1.1" 
+	}
+	1400.1.1={
+		death="1400.1.1"
+	}
+}
+
+91427 = { 
+	name="Leonello" # Niccolo Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91424 # Niccolo Doria
+	
+	1330.1.1={
+		birth="1330.1.1" 
+	}
+	# Eliana
+	1390.1.1={
+		death="1390.1.1"
+	}
+}
+
+91428 = { 
+	name="Niccolò" # Niccolo Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91420 # Babilano Doria
+	# Leona Savigone
+	
+	1265.1.1={
+		birth="1265.1.1" 
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+91429 = { 
+	name="Guglielmo" # Guglielmo Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 71150 # Emmanuele Doria
+	
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+91430 = { 
+	name="Ingo" # Ingo
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91417 # Niccolo Doria
+	
+	1185.1.1={
+		birth="1185.1.1" # unknown
+	}
+	1270.1.1={
+		death="1270.1.1" # unknown
+	}
+}
+
+91431 = { 
+	name="Pietro" # Pietro
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91417 # Niccolo Doria
+	
+	1190.1.1={
+		birth="1190.1.1" # unknown
+	}
+	1280.1.1={
+		death="1280.1.1" # unknown
+	}
+}
+
+91432 = { 
+	name="Oberto" # Oberto
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91431 # Pietro Doria
+	
+	1210.1.1={
+		birth="1210.1.1" # unknown
+	}
+	1300.1.1={
+		death="1300.1.1" # unknown
+	}
+}
+
+91433 = { 
+	name="Pietro" # Pietro
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91432 # Oberto Doria
+	
+	1225.1.1={
+		birth="1225.1.1" # unknown
+	}
+	# spouse Mabilla Casiccia
+	1320.1.1={
+		death="1320.1.1" # unknown
+	}
+}
+
+91434 = { 
+	name="Lamba" # admiral Lamba Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91433 # Pietro Doria
+	
+	1245.1.1={
+		birth="1245.1.1" 
+	}
+	# spouse Mabilla Casiccia
+	1323.1.1={
+		death="1323.1.1"
+	}
+}
+
+
+# New 
+91435 = {
+	name="Mariano" # Mariano Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=71151  # Niccolo Doria
+	# Preziosa di Torres
+
+	1235.1.1 = {
+		birth="1235.1.1"
+	}
+	1285.1.1 = {
+		death="1285.1.1" #  before 23 dec 1287
+	}
+}
+
+91436 = { 
+	name="Cesare" # Cesare Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91434 # admiral Lamba Doria
+	
+	1270.1.1={
+		birth="1270.1.1" # unknown
+	}
+	# spouse Franca Giudice
+	1330.1.1={
+		death="1330.1.1" # unknown
+	}
+}
+
+91437 = { 
+	name="Opicino" # Opicino Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91436 # Cesare Doria
+	# Franca Giudice
+	
+	1290.1.1={
+		birth="1290.1.1" # unknown
+	}
+	# spouse Franca Giudice
+	1350.1.1={
+		death="1350.1.1" # unknown
+	}
+}
+
+91438 = { 
+	name="Bartolomeo" # Bartolomeo Doria
+	dynasty=13041 # Doria
+	
+	religion="catholic"
+        culture="ligurian"
+	
+		
+	father = 91437 # Opicino Doria
+	# Franca Giudice
+	
+	1310.1.1={
+		birth="1310.1.1" # unknown
+	}
+	1360.1.1={
+		death="1360.1.1" # unknown
+	}
+}
+
+91439 = {
+	name="Saladino" # Saladino Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91435  # Mariano Doria
+
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+
+91440 = {
+	name="Niccolò" # Niccolo Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91435  # Mariano Doria
+
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+
+91441 = {
+	name="Andrea" # Andrea Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=71151  # Niccolo Doria
+	# Preziosa di Torres (1208-1231)
+
+	1224.1.1 = {
+		birth="1224.1.1"
+	}
+	# spouse  Susanna di Lacon, d. of Barisone II judge of Torres
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+
+91442 = {
+	name="Niccolò" # Niccolo Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=71151  # Niccolo Doria
+	# Preziosa di Torres (1208-1231)
+
+	1225.1.1 = {
+		birth="1225.1.1" # unknown
+	}
+	1285.1.1 = {
+		death="1285.1.1" # before 1287.12.23
+	}
+}
+
+91443 = {
+	name="Barisone" # Barisone Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=71151  # Niccolo Doria
+	# Preziosa di Torres (1208-1231)
+
+	1226.1.1 = {
+		birth="1226.1.1" # unknown
+	}
+	1285.1.1 = {
+		death="1285.1.1" # before 1287.12.23
+	}
+}
+
+91444 = {
+	name="Petriono" # Petriono Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=71151  # Niccolo Doria
+	# Preziosa di Torres (1208-1231)
+
+	1227.1.1 = {
+		birth="1227.1.1" # unknown
+	}
+	1285.1.1 = {
+		death="1285.1.1" # before 1287.12.23
+	}
+}
+
+91445 = {
+	name="Bonifazio" # Bonifazio Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91442  # Niccolo Doria
+
+	1245.1.1 = {
+		birth="1245.1.1" # unknown
+	}
+	1310.1.1 = {
+		death="1310.1.1" # unknown
+	}
+}
+
+91446 = {
+	name="Rizzardo" # Rizzardo Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91442  # Niccolo Doria
+
+	1250.1.1 = {
+		birth="1250.1.1" # unknown
+	}
+	1320.1.1 = {
+		death="1320.1.1" # unknown
+	}
+}
+
+91455 = {
+	name="Babilano" # Babilano Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91442  # Niccolo Doria
+
+	1255.1.1 = {
+		birth="1255.1.1" # unknown
+	}
+	1320.1.1 = {
+		death="1320.1.1" # unknown
+	}
+}
+
+91447 = {
+	name="Sorleone" # Sorleone Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91443 # Barisone Doria
+
+	1255.1.1 = {
+		birth="1255.1.1" # unknown
+	}
+	1310.1.1 = {
+		death="1310.1.1" # unknown
+	}
+}
+
+91448 = {
+	name="Marino" # Marino Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91443 # Barisone Doria
+
+	1260.1.1 = {
+		birth="1260.1.1" # unknown
+	}
+	1320.1.1 = {
+		death="1320.1.1" # unknown
+	}
+}
+
+91449 = {
+	name="Precivalle" # Precivalle Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91444 # Petriono Doria
+
+	1260.1.1 = {
+		birth="1260.1.1" # unknown
+	}
+	1320.1.1 = {
+		death="1320.1.1" # unknown
+	}
+}
+
+91454 = {
+	name="Antonio" # Antonio Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91444 # Petriono Doria
+
+	1265.1.1 = {
+		birth="1265.1.1" # unknown
+	}
+	1330.1.1 = {
+		death="1330.1.1" # unknown
+	}
+}
+
+91450 = {
+	name="Manuele" # Manuele Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91444 # Petriono Doria
+
+	1270.1.1 = {
+		birth="1270.1.1" # unknown
+	}
+	1340.1.1 = {
+		death="1340.1.1" # unknown
+	}
+}
+
+91451 = {
+	name="Adriano" # Adriano Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+
+	father=91444 # Petriono Doria
+
+	1275.1.1 = {
+		birth="1275.1.1" # unknown
+	}
+	1350.1.1 = {
+		death="1350.1.1" # unknown
+	}
+}
+
+91452 = {
+	name="Cosimo" # Cosimo Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+	father=91449 # Precivalle Doria
+
+	1280.1.1 = {
+		birth="1280.1.1" # unknown
+	}
+	1340.1.1 = {
+		death="1340.1.1" # unknown
+	}
+}
+
+91453 = {
+	name="Cosimo" # Cosimo Doria
+	dynasty=13041 # Doria
+
+	religion="catholic"
+        culture="ligurian"
+	
+	father=91451 # Cosimo Doria
+
+	1300.1.1 = {
+		birth="1300.1.1" # unknown
+	}
+	1360.1.1 = {
+		death="1360.1.1" # after 1350.3.7
+	}
+}
+
+##############################################################################################
+#Embriaco
+232705 = {
+	name="Ugo"
+	dynasty=23107
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="naive_appeaser"
+	father=32805
+	1164.1.1 = {
+		birth="1164.1.1"
+	}
+	1196.1.1 = {
+		death="1196.1.1"
+	}
+}
+32802 = {
+	name="Guglielmo"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	add_trait="crusader"
+        father=167282
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1118.1.1 = {
+		death="1118.1.1"
+	}
+}
+32803 = {
+	name="Ugo"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	add_trait="crusader"
+	father=32802
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1135.1.1 = {
+		death="1135.1.1"
+	}
+}
+32804 = {
+	name="Guglielmo"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=32803
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1159.1.1 = {
+		death="1159.1.1"
+	}
+}
+32805 = {
+	name="Ugo"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=32804
+	1147.1.1 = {
+		birth="1147.1.1"
+	}
+	1184.1.1 = {
+		death="1184.1.1"
+	}
+}
+32806 = {
+	name="Guido"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=232705
+	mother=232703
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1204.1.1 = {
+		add_spouse=223757
+	} 
+	1238.1.1 = {
+		death="1238.1.1"
+	}
+}
+32807 = {
+	name="Enrico"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=32806
+	mother=223757
+	1214.10.1 = {
+		birth="1214.10.1"
+	}
+	#marries Isabella d'Ibelin
+	1271.6.2 = {
+		death="1271.6.2"
+	}
+}
+32808 = {
+	name="Guido"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=32807
+	1234.1.1 = {
+		birth="1234.1.1"
+	}
+	1251.1.1 = {
+		add_spouse=32809
+	} 
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+32810 = {
+	name="Pietro"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=32808
+	mother=32809
+	1252.1.1 = {
+		birth="1252.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+32811 = {
+	name="Guglielmo"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=32804
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1204.1.1 = {
+		death="1204.1.1"
+	}
+}
+32812 = {
+	name="Ugo"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=32811
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+32813 = {
+	name="Raimundo"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=32812
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1253.1.1 = {
+		death="1253.1.1"
+	}
+}
+32814 = {
+	name="Enrico"
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	father=32813
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1310.9.1 = {
+		death="1310.9.1"
+	}
+}
+32815 = {
+	name="Raimundo" #marshall of Tripoli
+	dynasty=23107
+	religion="catholic"
+	culture="ligurian"
+	add_trait="tough_soldier" 
+	father=32804
+	1149.1.1 = {
+		birth="1149.1.1"
+	}
+	1204.1.1 = {
+		death="1204.1.1"
+	}
+}
+##############################################################################################
+#di Genova
+213015 = {
+	name="Angelerio"
+	dynasty=100233
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="flamboyant_schemer"
+	1155.1.1 = {
+		birth="1155.1.1"
+	}
+	1235.1.1 = {
+		death="1235.1.1"
+	}
+}
+463400 = {
+	name="Bartolomeo"
+	dynasty=100233
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="honest"
+	add_trait="charismatic_negotiator"
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1"
+	}
+}
+##############################################################################################
+#del Caretto
+70939 = {
+	name="Manfredo"
+	# AKA: Manfredo di Caretto
+	dynasty=101824 #Caretto
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	learning=3
+	religion="catholic"
+	culture="ligurian"
+	add_trait="underhanded_rogue"
+	add_trait="wroth"
+	father=71110
+	mother=71111
+	1300.1.1 = {
+		birth="1300.1.1"
+		employer=462691
+	}
+	1325.12.14 = {
+		add_spouse=462694
+	}
+	1352.1.1 = {
+		death="1352.1.1"
+	}
+}
+71072 = {
+	name="Enrico"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=7737
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1163.1.1 = {
+		add_spouse=213522
+	}
+	1184.1.1 = {
+		death="1184.1.1"
+	}
+}
+71073 = {
+	name="Ottone"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71072
+	mother=213522
+	1164.1.1 = {
+		birth="1164.1.1"
+	}
+	1228.11.25 = {
+		death="1228.11.25"
+	}
+}
+71074 = {
+	name="Ugo"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71073
+	1186.1.1 = {
+		birth="1186.1.1"
+	}
+	1228.11.25 = {
+		death="1228.11.25"
+	}
+}
+71075 = {
+	name="Ottone"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71074
+	1204.1.1 = {
+		birth="1204.1.1"
+	}
+	1228.11.25 = {
+		death="1228.11.25"
+	}
+}
+71076 = {
+	name="Enrico"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71073
+	1188.1.1 = {
+		birth="1188.1.1"
+	}
+	1228.8.15 = {
+		death="1228.8.15"
+	}
+}
+71077 = {
+	name="Guglielmo"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71073
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1230.1.1 = {
+		death="1230.1.1"
+	}
+}
+71078 = {
+	name="Bonifazio"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71077
+	1212.1.1 = {
+		birth="1212.1.1"
+	}
+	1260.1.1 = {
+		add_spouse=71079
+	}
+	1285.2.1 = {
+		death="1285.2.1"
+	}
+}
+71080 = {
+	name="Guglielmo"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71078
+	mother=71079
+	1261.1.1 = {
+		birth="1261.1.1"
+	}
+	1311.1.1 = {
+		death="1311.1.1"
+	}
+}
+71081 = {
+	name="Ottobuono"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71078
+	mother=71079
+	1263.1.1 = {
+		birth="1263.1.1"
+	}
+	1304.1.1 = {
+		death="1304.1.1"
+	}
+}
+71082 = {
+	name="Percevalle"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71078
+	mother=71079
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1321.1.1 = {
+		death="1321.1.1"
+	}
+}
+71083 = {
+	name="Simonetta"
+	dynasty=101824
+	female=yes
+	religion="catholic"
+	culture="ligurian"
+	father=71078
+	mother=71079
+	1267.1.1 = {
+		birth="1267.1.1"
+	}
+	1318.1.1 = {
+		death="1318.1.1"
+	}
+}
+71084 = {
+	name="Alessina"
+	female=yes
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71078
+	mother=71079
+	1269.1.1 = {
+		birth="1269.1.1"
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+71085 = {
+	name="Leo"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	add_trait="bastard"
+	father=71078
+	1264.1.1 = {
+		birth="1264.1.1"
+	}
+	1314.1.1 = {
+		death="1314.1.1"
+	}
+}
+71086 = {
+	name="Corrado"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	add_trait="bastard"
+	father=71078
+	1266.1.1 = {
+		birth="1266.1.1"
+	}
+	1327.1.1 = {
+		death="1327.1.1"
+	}
+}
+71087 = {
+	name="Ottone"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	add_trait="bastard"
+	father=71078
+	1268.1.1 = {
+		birth="1268.1.1"
+	}
+	1316.1.1 = {
+		death="1316.1.1"
+	}
+}
+71088 = {
+	name="Emanuele"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	add_trait="bastard"
+	father=71078
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1324.1.1 = {
+		death="1324.1.1"
+	}
+}
+71089 = {
+	name="Luigi"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	add_trait="bastard"
+	father=71078
+	1272.1.1 = {
+		birth="1272.1.1"
+	}
+	1333.1.1 = {
+		death="1333.1.1"
+	}
+}
+71090 = {
+	name="Guglielmo"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71077
+	1214.1.1 = {
+		birth="1214.1.1"
+	}
+	1272.1.1 = {
+		death="1272.1.1"
+	}
+}
+71091 = {
+	name="Enrico"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71072
+	mother=213522
+	1165.1.1 = {
+		birth="1165.1.1"
+	}
+	1184.1.1 = {
+		add_spouse=71092
+	}
+	1216.1.1 = {
+		add_spouse=71093
+	}
+	1235.1.1 = {
+		death="1235.1.1"
+	}
+}
+71094 = {
+	name="Sofia"
+	female=yes
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71091
+	mother=71093
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+71095 = {
+	name="Beatrice"
+	dynasty=101824
+	female=yes
+	religion="catholic"
+	culture="ligurian"
+	father=71091
+	mother=71093
+	1224.1.1 = {
+		birth="1224.1.1"
+	}
+	1297.1.1 = {
+		death="1297.1.1"
+	}
+}
+71107 = {
+	name="Giacomo"
+	dynasty=101824
+	religion="catholic"
+	culture="ligurian"
+	father=71091
+	mother=71093
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1238.1.1 = {
+		add_spouse=71108
+	}
+	1246.1.1 = {
+		add_spouse=71109
+	}
+	1268.10.21 = {
+		death="1268.10.21"
+	}
+}
+71110 = {
+	name="Corrado"
+	dynasty=101824
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="greedy"
+	add_trait="envious"
+	add_trait="flamboyant_schemer"
+	father=71107
+	mother=71109
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1290.1.1 = {
+		add_spouse=71111
+	}
+	1310.1.1 = {
+		add_spouse=71186
+	}
+	1311.1.1 = {
+		death="1307.1.1"
+	}
+}
+71112 = {
+	name="Aurelia"
+	female=yes
+	dynasty=101824
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="gardener"
+	add_trait="diligent"
+	add_trait="elusive_shadow"
+	father=71107
+	mother=71109
+	1254.1.1 = {
+		birth="1254.1.1"
+	}
+	1307.1.1 = {
+		death="1307.1.1"
+	}
+}
+71113 = {
+	name="Margherita"
+	female=yes
+	dynasty=101824
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="genius"
+	add_trait="honest"
+	add_trait="grey_eminence"
+	father=71107
+	mother=71109
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1301.1.1 = {
+		death="1301.1.1"
+	}
+}
+71115 = {
+	name="Enrico"
+	dynasty=101824
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="ligurian"
+	add_trait="strong"
+	add_trait="zealous"
+	add_trait="scholarly_theologian"
+	father=71107
+	mother=71109
+	1258.1.1 = {
+		birth="1258.1.1"
+	}
+	1276.1.1 = {
+		death="1276.1.1"
+	}
+}
+71116 = {
+	name="Antonio"
+	dynasty=101824
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="hedonist"
+	add_trait="envious"
+	add_trait="indulgent_wastrel"
+	father=71107
+	mother=71109
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1279.1.1 = {
+		add_spouse=71117
+	}
+	1313.1.1 = {
+		death="1313.1.1"
+	}
+}
+71118 = {
+	name="Giorgio"
+	dynasty=101824
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="fair"
+	add_trait="drunkard"
+	add_trait="amateurish_plotter"
+	father=71116
+	mother=71117
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1320.1.1 = {
+		add_spouse=71119
+	}
+	1359.1.1 = {
+		death="1359.1.1"
+	}
+}
+71120 = {
+	name="Lazarino"
+	dynasty=101824
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="lisp"
+	add_trait="kind"
+	add_trait="misguided_warrior"
+	father=71118
+	mother=71119
+	1322.1.1 = {
+		birth="1322.1.1"
+	}
+	1393.1.1 = {
+		death="1393.1.1"
+	}
+}
+71121 = {
+	name="Carlo"
+	dynasty=101824
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="just"
+	add_trait="lustful"
+	add_trait="naive_appeaser"
+	father=71118
+	mother=71119
+	1325.1.1 = {
+		birth="1325.1.1"
+	}
+	1421.1.1 = {
+		death="1421.1.1"
+	}
+}
+71122 = {
+	name="Enrichetto"
+	dynasty=101824
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="poet"
+	add_trait="ambitious"
+	add_trait="brilliant_strategist"
+	father=71118
+	mother=71119
+	1328.1.1 = {
+		birth="1328.1.1"
+	}
+	1393.4.27 = {
+		death="1393.4.27"
+	}
+}
+71123 = {
+	name="Giovanni"
+	dynasty=101824
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="wroth"
+	add_trait="strong"
+	add_trait="martial_cleric"
+	father=71118
+	mother=71119
+	1331.1.1 = {
+		birth="1331.1.1"
+	}
+	1387.1.1 = {
+		death="1387.1.1"
+	}
+}
+71124 = {
+	name="Ilaria"
+	female=yes
+	dynasty=101824
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="humble"
+	add_trait="fair"
+	add_trait="scholarly_theologian"
+	father=71118
+	mother=71119
+	1336.1.1 = {
+		birth="1336.1.1"
+	}
+	1368.1.1 = {
+		death="1368.1.1"
+	}
+}
+71125 = {
+	name="Enrichetto"
+	dynasty=101824
+	martial=7
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="slow"
+	add_trait="strong"
+	add_trait="tough_soldier"
+	father=71116
+	mother=71117
+	1282.1.1 = {
+		birth="1282.1.1"
+	}
+	1337.1.1 = {
+		death="1337.1.1"
+	}
+}
+71126 = {
+	name="Antonio"
+	dynasty=101824
+	martial=5
+	diplomacy=6
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="ligurian"
+	add_trait="ambitious"
+	add_trait="charitable"
+	add_trait="charismatic_negotiator"
+	father=71116
+	mother=71117
+	1284.1.1 = {
+		birth="1284.1.1"
+	}
+	1306.1.1 = {
+		add_spouse=71128
+	}
+	1321.1.1 = {
+		death="1321.1.1"
+	}
+}
+71127 = {
+	name="Pietro"
+	dynasty=101824
+	martial=6
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="ligurian"
+	add_trait="duelist"
+	add_trait="content"
+	add_trait="brilliant_strategist"
+	father=71116
+	mother=71117
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1332.1.1 = {
+		death="1332.1.1"
+	}
+}
+71129 = {
+	name="Ambrogio"
+	dynasty=101824
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="poet"
+	add_trait="chaste"
+	add_trait="martial_cleric"
+	father=71072
+	mother=213522
+	1169.1.1 = {
+		birth="1169.1.1"
+	}
+	1192.1.1 = {
+		death="1192.1.1"
+	}
+}
+71130 = {
+	name="Bonifazio"
+	dynasty=101824
+	martial=6
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="ligurian"
+	add_trait="poet"
+	add_trait="chaste"
+	add_trait="martial_cleric"
+	father=71072
+	mother=213522
+	1172.1.1 = {
+		birth="1172.1.1"
+	}
+	1224.1.1 = {
+		death="1224.1.1"
+	}
+}
+71131 = {
+	name="Isabella"
+	female=yes
+	dynasty=101824
+	martial=5
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="ligurian"
+	add_trait="content"
+	add_trait="scholar"
+	add_trait="elusive_shadow"
+	father=71072
+	mother=213522
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1227.1.1 = {
+		death="1227.1.1"
+	}
+}
+##############################################################################################
+#Ventimiglia dynasty=67
+##############################################################################################
+#Boccanegra dynasty=13001
+##############################################################################################
+#Adorno dynasty=13003
+##############################################################################################
+#Campofregoso dynasty=13004
+##############################################################################################
+#Parentucelli dynasty=13067
+##############################################################################################
+#di Murta dynasty=13069
+##############################################################################################
+#Valente dynasty=13072
+##############################################################################################
+#Tizzone dynasty=101847
+##############################################################################################
+#Vistarini dynasty=101855
+##############################################################################################
+#Zoagli dynasty=101856

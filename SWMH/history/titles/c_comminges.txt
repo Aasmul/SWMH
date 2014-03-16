@@ -1,0 +1,71 @@
+810.1.1={
+liege="d_aragon"
+}
+838.1.1={
+holder=70300
+}
+839.1.1={
+holder=168118
+liege="d_gascogne"
+}
+870.1.1={
+holder = 168119
+}
+905.1.1={
+holder=168120
+}
+935.1.1={
+holder=138188#Aznar III de Comminges
+}
+940.1.1={
+holder=138190#Roger I de Comminges
+}
+949.4.7={
+holder=138192#Arnaud II de Comminges
+}
+1003.1.1={
+holder=138193 #Roger II de Comminges
+}
+1035.1.1={
+holder=138194#Arnaud III de Comminges
+}
+1070.1.1={
+holder=138196#Roger III de Comminges
+}
+1105.1.1={
+holder=138198#Bernard I de Comminges
+}
+1145.1.1={
+holder=138200#Bernard II de Comminges
+}
+1152.1.1 = {
+	liege = "d_aquitaine"
+}
+1153.1.1={
+holder=205561#Bernard III Dodon de Comminges/de Samatan
+}
+1175.1.1={
+holder=205560#Bernard IV de Comminges
+}
+1215.1.1 = {
+	liege = "k_france"
+}
+1225.2.22={
+holder=138202#Bernard V de Comminges
+}
+1241.11.30={
+holder=138204#Bernard VI de Comminges
+}
+1295.1.1={
+holder=455550#Bernard VII de Comminges
+}
+1312.7.21={
+holder=455553#Bernard VIII de Comminges
+}
+1336.8.28={
+holder=455555#Pierre-Raymond I de Comminges
+}
+1337.1.1=
+{
+liege="d_toulouse"
+}

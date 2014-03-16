@@ -1,0 +1,23 @@
+# 15 - Ormond # aka Waterford
+
+# County Title
+title = c_ormond
+
+# Settlements
+max_settlements = 3
+
+b_waterford = castle
+b_lismore = temple
+
+#b_clonmel = city
+
+
+# Misc
+culture = norse
+religion = catholic
+
+# History
+867.1.1 = {
+	b_waterford = ca_shipyard_1
+}
+1047.10.25 = { culture = norsegaelic }

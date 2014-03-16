@@ -1,0 +1,52 @@
+# 303 - Skåne
+
+# County Title
+title = c_skane
+
+# Settlements
+max_settlements = 7
+
+b_borgeby = castle
+b_lund = temple
+b_malmo = city
+b_skaneor = city
+
+#b_ystad = city
+#b_falsterbo = city
+#b_tostrup = castle
+#b_trollenaes = castle
+#b_trelleborg = city
+#b_ortofte = temple
+#b_ellinge = castle
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+
+867.1.1 = {
+	b_borgeby = ca_keep_1
+	b_borgeby = ca_militia_barracks_1
+	b_borgeby = ca_wall_1
+        b_skaneor = ct_port_1
+	b_lund = tp_monastery_1
+	b_lund = tp_wall_1
+}
+1018.1.1 = { religion = catholic } 
+1047.10.25 = { culture = danish } 
+1066.1.1 = { 
+        b_malmo = ct_marketplace_1
+        b_malmo = ct_wall_1
+	b_malmo = ct_port_1
+	b_malmo = ct_barracks_1 
+        b_skaneor = ct_marketplace_1
+        b_skaneor = ct_marketplace_2
+        b_skaneor = ct_wall_1
+	b_skaneor = ct_port_1     
+}
+
+1104.1.1= { capital = b_lund }
+1200.1.1 = { b_trelleborg = city }
+1262.1.1 = { b_ystad = city }
+1299.1.1 = { trade_post = b_bardewik }

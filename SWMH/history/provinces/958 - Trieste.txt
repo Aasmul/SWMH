@@ -1,0 +1,28 @@
+# 958 - Trieste
+
+# County Title
+title = c_trieste
+
+# Settlements
+max_settlements = 4
+
+b_pula = castle
+b_triest = city
+#b_duino = castle
+#b_porec = temple
+b_koper = temple
+#b_rovinj = city
+#b_pirano = city
+#b_umag = city
+#b_muggia = castle
+
+
+# Misc
+culture = karantanci
+religion = catholic
+
+# History
+1077.1.1 = { capital = b_duino } 
+1077.1.1 = { b_duino = castle }
+1077.1.1 = { b_pula = city }
+1209.1.1 = { capital = b_koper } # To Aquileia

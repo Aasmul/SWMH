@@ -1,0 +1,24 @@
+# 406 - Vologda
+
+# County Title
+title = c_vologda
+
+# Settlements
+max_settlements = 4
+b_vologda = castle
+b_totma = temple
+b_velsk = city
+
+#b_spasopreobrazenskij = temple
+#b_veksenga = city
+
+
+# Misc
+culture = vepsian
+religion = finnish_pagan
+
+# History
+1250.1.1 = { religion = orthodox }
+1250.1.1 = { b_spasopreobrazenskij = temple } #city of Vologda founded
+
+

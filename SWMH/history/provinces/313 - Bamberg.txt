@@ -1,0 +1,22 @@
+# 313 - Bamberg
+
+# County Title
+title = c_bamberg 
+
+# Settlements
+max_settlements = 3
+
+b_schweinfurt = castle
+b_bamberg = temple
+
+#b_pottenstein = castle
+#b_babenberg = castle
+#b_heilingenstadt = city
+#b_baiersdorf = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

@@ -1,0 +1,26 @@
+# 680 - Tao
+
+# County Title
+title = c_tao
+
+# Settlements
+ max_settlements = 4
+b_ughtis = castle
+b_mamrovani = city
+b_khakhuli = temple
+#b_berdagrak = castle
+#b_panaskerti = castle
+#b_khertvisi = castle
+#b_vatsejori = temple
+#b_kalamakhi = castle
+
+# Misc
+culture = georgian
+religion = orthodox
+
+# History
+1187.1.1 = { b_khakhuli = temple }
+1320.1.1 = { 
+	culture = kurdish
+	religion = sunni
+}

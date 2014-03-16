@@ -1,0 +1,30 @@
+# 1136 - Catanzaro
+
+# County Title
+title = c_catanzaro
+
+# Settlements
+max_settlements = 4
+
+
+b_squillace = castle
+b_rossano = temple
+b_catanzaro = city
+
+#b_belcastro = castle
+#b_cerenzia = city
+#b_crotone = temple
+#b_caccuri= castle
+
+
+
+# Misc
+culture = greek
+religion = orthodox
+terrain = hills
+
+# History
+
+1085.1.1={ culture = sicilian }
+1085.1.1={ religion = catholic }
+

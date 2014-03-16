@@ -1,0 +1,28 @@
+# 949 - Powys Wenwynwyn
+
+# County Title
+title = c_powys_wenwynwyn
+
+# Settlements
+max_settlements = 4
+b_mathrafal = castle
+b_welshpool = city
+b_llanfyllin = temple
+#b_caersws = castle
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History
+
+1066.1.1 = { 
+	b_mathrafal = ca_keep_1
+	b_mathrafal = ca_training_grounds_1
+	b_mathrafal = ca_stable_1
+	b_mathrafal = ca_stable_2
+	b_mathrafal = ca_wall_1
+	b_mathrafal = ca_wall_2
+}

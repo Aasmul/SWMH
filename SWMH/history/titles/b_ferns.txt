@@ -1,0 +1,7 @@
+814.1.1={
+	liege="d_leinster"
+	holder=1000226431 #"Dermot", Abbot and bishop of Ferns
+}
+1028.1.1={
+	holder=1000226403 #Archbishop Ugaire
+}

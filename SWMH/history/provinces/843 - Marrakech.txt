@@ -1,0 +1,35 @@
+# 843 - Marrakech
+
+# County Title
+title = c_marrakech
+
+# Settlements
+max_settlements = 6
+
+b_marrakech = castle
+b_aghmat = castle
+b_naffis = temple
+b_dai = city
+b_tasgimut = castle
+
+#b_demnat = castle
+#b_asni = castle
+
+#b_elanakir = castle
+
+# Misc
+culture = zanata
+religion = sunni
+
+# History
+
+1066.1.1 = { 
+	b_marrakech = ca_keep_1
+	b_marrakech = ca_training_grounds_1
+	b_marrakech = ca_keep_2
+	b_marrakech = ca_stable_1
+	b_marrakech = ca_barracks_1
+	b_marrakech = ca_militia_barracks_1
+	b_marrakech = ca_wall_1
+	b_marrakech = ca_wall_2
+}

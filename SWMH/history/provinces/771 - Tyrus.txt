@@ -1,0 +1,22 @@
+# 771 - Tyrus
+
+# County Title
+title = c_tyrus
+
+# Settlements
+max_settlements = 3
+
+b_megedel = castle
+b_sarafand = city
+b_tyrus = temple
+#b_deralebanon = castle # position not certain, but indicated to be in the northern coastal part of the kingdom.
+
+
+
+# Misc
+culture = levantine_arabic
+religion = monothelite
+
+# History
+
+1291.1.1 = { trade_post = b_contarini }

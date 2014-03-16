@@ -1,0 +1,231 @@
+###################################################################
+# Berber
+
+
+#1027011 = {
+#	name="Riyahdid"
+#	culture = sanhaja
+#}
+
+#################################
+# Masmuda
+101875 = {
+	name="Almohad"
+	culture = masmuda
+}
+1000101124 = {
+	name="Haskúra"   # sedentary tribe High Atlas mountains, originaly among Sanhaja
+	culture = masmuda
+}
+# 1000101261 - 1000101265 taken from Zanata
+1000101261 = {
+	name="Ganfisa"
+	culture = masmuda
+}
+1000101262 = {
+	name="Gadmiwa"
+	culture = masmuda
+}
+1000101263 = {
+	name="Hintata"
+	culture = masmuda
+}
+1000101264 = {
+	name="Hazrája"
+	culture = masmuda
+}
+
+#################################
+# Tagelmust or Dark Sanhaja
+#7274 = {
+#	name="Almoravid"
+#	culture = tagelmust
+#}
+1000053590 = {
+	name="Tumart"
+	culture = tagelmust
+}
+1000053591 = {
+	name="Hezmira"
+	culture = tagelmust
+}
+1000053592 = {
+	name="Tehlawa"
+	culture = tagelmust
+}
+1000054001= {
+	name="Massúfa"
+	culture = tagelmust
+}
+1000054002 = {
+	name="Lamtúna"
+	culture = tagelmust
+}
+1000054003 = {
+	name="Lamta"
+	culture = tagelmust
+}
+1000054004 = {
+	name="Guddala"
+	culture = tagelmust
+}
+1000054005 = {
+	name="Gazzúla"
+	culture = tagelmust
+}
+1000101120= {
+	name="Tánmak"   # Sanhaja/Tagelmust rulers over Tadmekka's Zanáta Berbers
+	culture = tagelmust
+}
+1000101125= {
+	name="Kunta"   
+	culture = tagelmust
+}
+
+#################################
+# Sanhaja
+1000053595 = {
+	name="Kutama"   # sedentary tribe Kabá'il (Kabylia)
+	culture = sanhaja
+}
+1000053596 = {
+	name="Sanhaja"
+	culture = sanhaja
+}
+1000054000= {
+	name="Banú Rand"
+	culture = sanhaja
+}
+1000101121= {
+	name="Azger"
+	culture = sanhaja
+}
+1000101122= {
+	name="Banú Wárith"
+	culture = sanhaja
+}
+1000101123 = {
+	name="Talkáta"   # sedentary tribe Aurés mts., tribe of the Zirid dynasty
+	culture = sanhaja
+}
+1000101126 = {
+	name="Awrába"   # sedentary tribe area around Fes
+	culture = sanhaja
+}
+# 1000101127 - 1000101129 - free Sanhaja and Tagelmust dynasties
+
+#################################
+# Zanata
+1000053594 = {
+	name="Banu Khattáb"
+	culture = zanata
+}
+1000054006= {
+	name="Banu Abid"
+	culture = zanata
+}
+1000054007= {
+	name="Muqqarí"
+	culture = zanata
+}
+1000054008= {
+	name="Massiní"
+	culture = zanata
+}
+1000054009= {
+	name="Lawata"
+	culture = zanata
+}
+1000054010= {
+	name="Mazáta"  # tribe in Surt and Waddán in Tripolitania
+	culture = zanata
+}
+1000101140= {
+	name="Hawwára"  # tribe in central Tripolitania
+	culture = zanata
+}
+1000101141= {
+	name="Askár"  # tribe south of Ghadámes
+	culture = zanata
+}
+1000101142= {
+	name="Tanáta"  # tribe near (east of) Ghadámes, related to Banú Idrádj
+	culture = zanata
+}
+1000101143= {
+	name="al-Abdún"  # dynasty of Lawáta tribe in Dakhla (al-Wahát/Egypt)
+	culture = zanata
+}
+1000101144= {
+	name="Mus'ab"  # tribe in Mzab - mu'tazilite, since 11th century ibadi
+	culture = zanata
+}
+1000101145= {
+	name="as-Samh"  # dynasty in Fezzan in 9th century
+	culture = zanata
+}
+1000101146= {
+	name="Banú Kaldín"  # tribe in Fezzan, related to Hawwára
+	culture = zanata
+}
+1000101147= {
+	name="Banú Idrádj"  # tribe in Djerid
+	culture = zanata
+}
+1000101148= {
+	name="Askár"  # tribe south of Ghadámes
+	culture = zanata
+}
+1000101149= {
+	name="Rígha"  # A Maghráwa Zanáta tribe ruling in Wádí Rígh (Arígh to Wargla)
+	culture = zanata
+}
+1000101260= {
+	name="Warjílán"  # A Zanáta branch, founders of Wargla
+	culture = zanata
+}
+1000101265= {
+	name="Banu Midrar"  # Sijilmasa
+	culture = zanata
+}
+#1000101266 - 1000101269 free Zanata dynasty
+
+#################################
+# Tuareg
+
+1000100880= {
+	name="Targa"
+	culture = tuareg
+}
+1000100881= {
+	name="Saghmára"     # tribe NE living of Tadmekka
+	culture = tuareg
+}
+1000100882= {
+	name="Asabat"       # Tuareg pagan tribe from Hoggar
+	culture = tuareg
+}
+1000100883= {
+	name="Tútak"        # Sanhája/Tuareg tribe in Tamanrasset
+	culture = tuareg
+}
+1000100884= {
+	name="Tawárik"        # AKA Tarqa sometimes considered as (Veiled) Sanhaja
+	culture = tuareg
+}
+#1000100884 - last free Tuareg dynasty used
+
+###################################################################
+# Egyptian
+1000053597 = {
+        name="Ildekuzid"
+	culture = egyptian_arabic
+}
+1000053598 = {
+        name="Yaldakuzi"
+	culture = egyptian_arabic
+}
+1000053599 = {
+	name="Banu Hilal"
+	culture = maghreb_arabic
+}

@@ -1,0 +1,31 @@
+# 329 - Urbino
+
+# County Title
+title = c_urbino
+
+# Settlements
+max_settlements = 5
+
+b_urbino = castle
+b_sanseverino = temple
+b_gubbio = city
+
+
+
+#b_fossombrone = city
+#b_roccatorrinone = castle
+#b_cagliurbino = temple
+#b_acqualagna = temple
+#b_fermignanourbino = city
+#b_urbania = castle
+#b_albornoz = castle
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+1216.2.12 = { capital = b_urbino }
+1289.1.1 = { capital = b_sanseverino }
+1292.1.1 = { capital = b_urbino }

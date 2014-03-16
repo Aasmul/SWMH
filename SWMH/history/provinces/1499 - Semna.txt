@@ -1,0 +1,20 @@
+# 1499 - Semna
+
+# County Title
+title = c_semna
+
+# Settlements
+max_settlements = 4
+b_semna = castle
+b_akasha = city
+
+#b_kulb = temple
+#b_gemai = castle
+#b_tanjur = castle
+#b_attiri = castle
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

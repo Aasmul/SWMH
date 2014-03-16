@@ -1,0 +1,23 @@
+# 1151 - Komarom
+
+# County Title
+title = c_komarom
+
+# Settlements
+max_settlements = 2
+
+
+b_komarom = castle
+#b_szony = castle
+#b_tatahungary = temple
+#b_guta = temple
+#b_ersekujvar = city
+
+# Misc
+culture = moravian
+religion = catholic 
+
+# History
+950.1.1 = { culture = hungarian }
+
+

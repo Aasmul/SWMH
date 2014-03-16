@@ -1,0 +1,24 @@
+# 1175 - Porhoet
+
+# County Title
+title = c_porhoet
+
+# Settlements
+max_settlements = 4
+b_porhoet = castle
+b_st_malo = temple
+b_gael = city
+#b_dol = temple
+#b_dinan = castle
+#b_cancale = temple
+#b_plancoet = city
+#b_mauron = castle
+
+
+
+
+# Misc
+culture = breton
+religion = catholic
+terrain = woods
+# History

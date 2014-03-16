@@ -1,0 +1,26 @@
+# 1115 - Arezzo
+
+# County Title
+title = c_arezzo
+
+# Settlements
+max_settlements = 4
+
+b_montevarchi = temple
+b_arezzo = city
+b_cittadicastello = castle
+#b_cortona = city
+#b_lucignano = castle
+#b_sansepolcro = temple
+
+#b_umbertide = city
+#b_civitellaranieri = castle
+
+
+# Misc
+culture = tuscan
+religion = catholic
+
+# History
+
+1099.1.1 = { capital = b_arezzo }

@@ -1,0 +1,21 @@
+# 1102 - Corse
+
+# County Title
+title = c_corse
+
+# Settlements
+max_settlements = 2
+
+b_cardo = city
+#b_bastia = castle
+#b_saintflorent = castle
+#b_nebbio = temple
+#b_nonza = city
+
+
+# Misc
+culture = corsican
+religion = catholic
+terrain = mountain
+
+# History

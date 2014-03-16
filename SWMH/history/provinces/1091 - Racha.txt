@@ -1,0 +1,22 @@
+# 1091 - Racha
+
+# County Title
+title = c_racha
+
+# Settlements
+ max_settlements = 3
+b_kasriskari = castle
+b_seti = city
+b_nikortsminda = temple
+#b_gamba = castle
+#b_thargizel = castle
+#b_tsageri = temple
+#b_oni = castle
+#b_gebi = castle
+ 
+
+# Misc
+culture = georgian
+religion = orthodox
+
+# History

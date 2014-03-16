@@ -1,0 +1,34 @@
+# 493 - Philippopolis
+
+# County Title
+title = c_philippopolis
+
+# Settlements
+max_settlements = 5
+
+b_tespina = castle
+b_plovdiv = city
+b_asenscastle = castle
+#b_bachkovo = temple
+#b_krichim = castle
+#b_perushtitsa = city
+#b_steinmahos = temple
+#b_kuklen = temple
+#b_ustra = castle
+
+
+
+# Misc
+culture = bulgarian
+religion = bogomilist #many Paulicians were deported to here
+
+# History
+
+
+#4th crusade
+1205.1.1 = { remove_settlement = b_asenscastle } 
+
+1337.1.1 = { b_perushtitsa = city }
+
+1384.1.1 = { culture = turkish }
+1384.1.1 = { religion = sunni }

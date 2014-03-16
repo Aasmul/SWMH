@@ -1,0 +1,26 @@
+# 1279 - Zhytomyr
+
+# County Title
+title = c_zhytomyr
+
+# Settlements
+max_settlements = 5
+
+b_vinnytsia = castle
+b_zhitomir = city
+#b_yuriev = city
+
+#b_berdychiv = city
+#b_volodymyrivka = city
+#b_dunaivtsi = city
+#b_lyubar = castle
+#b_kolodyazhne = city
+#b_jaropolk = city
+#b_kotelnya = castle
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

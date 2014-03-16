@@ -1,0 +1,33 @@
+# 1430 - York Moors/ North York ridding
+
+# County Title
+title = c_york_moors
+
+# Settlements
+max_settlements = 5
+
+b_scarborough = castle
+b_topcliffe = castle
+#b_bedale = city
+#b_malton = castle
+#b_pickering = castle
+b_whitby = temple
+#b_helmsley = castle
+#b_rievaulx = temple
+#b_gisborough = city
+#b_middlesbrough = temple
+
+# Misc
+
+culture = saxon
+religion = catholic
+
+# History
+866.1.1 = { culture = norse } # Danes settle down
+866.1.1 = { religion = norse_pagan } # Danes settle down
+870.1.1 = { remove_settlement = b_whitby } # burnt by the Danes
+931.1.1 = { religion = catholic } # Wulfstan becomes Archbishop of York
+1047.10.25 = { culture = danish } 
+1070.1.1 = { culture = saxon } # Harrying of the north
+1078.1.1 = { b_whitby = temple } # restored by de Percy
+1100.11.11 = { culture = english } 

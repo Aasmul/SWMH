@@ -1,0 +1,155 @@
+817.10.1={
+	liege="d_benevento"
+	holder = 145207
+}
+#832.9.1={
+#	holder = 145208
+#}
+#839.8.1={
+#	holder = 145216
+#}
+#851.6.1={
+#	holder = 145217
+#}
+853.12.1={
+	holder = 163071
+}
+#878.5.1={
+#	holder = 145218
+#}
+#881.1.1={
+#	holder = 145219
+#}
+#884.10.1={
+#	holder = 145220
+#}
+#890.1.1={
+#	holder = 145221
+#}
+891.1.1={
+	holder=1702
+}
+895.1.1={
+	liege="d_apulia"
+}
+912.5.11={
+	holder=1704
+}
+913.6.6={
+	holder=1708
+}
+920.12.17={
+	holder=1706
+}
+944.12.16={
+	holder=1708
+}
+959.11.9={
+	holder=1710
+}
+963.3.15={
+	holder=1712
+}
+969.12.10={
+	holder=1714
+}
+976.1.10={
+	holder=1716
+}
+1025.12.15={
+	holder=1718
+}
+1028.11.15={
+	holder=1720
+}
+1034.4.11={
+	holder=1722
+}
+1041.12.10={
+	holder=1724
+}
+1042.4.20={
+	holder=1717
+}
+1042.6.11={
+	holder=1726
+}
+#CJL78 - Conti di Monte Sant'Angelo
+1046.1.1={
+	liege = d_apulia
+	holder = 190003 #Robert Drengot (Roberto di Lucera)
+}
+1088.1.1={
+	holder = 190005 #Henry/Enrico Drengot
+}
+1090.1.1={
+	liege = e_byzantium
+}
+1102.1.1={
+	holder=190004 #William/Guiglelmo Drengot
+}
+1105.1.1={
+	liege = d_apulia
+	holder = 1142 #Roger I de Hauteville
+}
+#CJL78-end edits
+1111.2.11={
+	holder = 127083 #William II de Hauteville
+}
+1127.7.25={
+	holder=211502 #Roger II de Hauteville
+}
+1134.1.1={
+	holder=211507 #Roger III de Hauteville
+}
+1148.5.12={
+	holder=211501 #William III de Hauteville
+}
+1154.1.1={
+	holder=127071 #Roger IV de Hauteville
+}
+1161.1.1={
+	holder=211501
+}
+1166.5.7={
+	holder = 211500 #William IV
+}
+1183.1.1={
+	holder=127092 #Bohemond I de Hauteville
+}
+1187.1.1={
+	holder=211500
+}
+1189.1.1={
+	holder=211511 #Roger V de Hauteville
+}
+1193.12.24={
+	holder=211509
+}
+1194.2.20={
+	holder=211512
+}
+1194.10.1={
+	holder=212507
+}
+1197.9.28={
+	holder=212513
+}
+1250.12.13={
+	holder=30760
+}
+1254.5.21={
+	holder=30785
+}
+1258.1.1={
+	holder=7636
+}
+1266.2.26={
+	holder=455406
+}
+1285.1.7={
+	holder=461710
+}
+1309.5.5={
+	holder=461700
+}

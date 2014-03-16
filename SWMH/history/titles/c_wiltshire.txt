@@ -1,0 +1,85 @@
+760.1.1={
+	holder=1000226306 # Wulfstan 
+        liege="d_somerset"
+}
+802.1.1={
+	holder=1000226308 # Weohstan
+}
+845.1.1={
+	holder=1000226309 # Wulfhere
+}
+878.1.1={
+	holder=7627 # Alfred the Great
+}
+880.1.1={
+	holder=1000226310 # Æþelhelm
+}
+927.7.12={
+	liege="k_england"
+}
+928.1.1={
+	holder=1000226311 # Wulfgar
+}
+959.10.2={
+	holder=98 # Edgar the Peaceful
+}
+975.7.9={
+	holder=99 # Edward the Martyr
+}
+978.3.19={
+	holder=106 # Aethelraed the Unready
+}
+1013.12.25={
+	holder=101505 # Svend Tveskägg
+}
+1014.2.3={
+	holder=106 # Aethelraed the Unready
+}
+1016.4.24={
+	holder=108 # Edmund Ironside
+}
+1016.11.30={
+	holder=101510 # Knud the Great
+}
+1035.11.13={
+	holder=101513 # Harold Harefoot
+}
+1040.3.17={
+	holder=101511 # Harthacnut
+}
+1042.6.9={
+	holder=114 # Eadward the Confessor
+}
+1050.1.1={
+	holder=1000226305 # Edric
+}
+1066.10.14={
+	holder=140 #William the Conqueror
+}
+1087.9.9={
+	holder=146 #William II Rufus
+}
+1100.8.3={
+	holder=202992 #Henry I
+}
+1135.12.2={
+	holder=205851 #Stephen
+}
+1143.7.1={
+	holder=204533 #Patrick of Salisbury
+}
+1168.1.20={
+	holder=204530 #William of Salisbury
+}
+1196.1.1={
+	holder=204532 #Ela of Salisbury
+}
+1261.1.1={
+	holder=454041 #Margaret Longespée
+}
+1310.1.1={
+	holder=454023 #Alice de Lacy
+}
+1331.1.1={
+	holder=  420021 #William de Montagu
+}

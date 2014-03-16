@@ -1,0 +1,26 @@
+# 1043 - Lolland
+
+# County Title
+title = c_lolland
+
+# Settlements
+max_settlements = 4
+
+b_aalholm = castle
+b_nykobing = city
+#b_ravnsborg = castle
+#b_aarsmarke = castle
+#b_boennedslot = castle
+#b_getzoreslot = castle
+#b_nakskov = city
+#b_engelborg = castle
+#b_refshaleborg = castle
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1018.1.1 = { religion = catholic } 
+1047.10.25 = { culture = danish } 
+1104.1.1 = { b_ravnsborg = castle }

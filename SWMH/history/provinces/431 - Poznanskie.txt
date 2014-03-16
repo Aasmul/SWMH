@@ -1,0 +1,24 @@
+# 431 - Poznanskie
+
+# County Title
+title = c_poznanskie
+
+# Settlements
+max_settlements = 6
+b_poznan = castle
+b_sroda = city
+b_lubin = temple
+#b_czarkow = city
+#b_obrzycko = temple
+
+#b_miedryrzecz = castle
+#b_zbaszyn = castle
+#b_srme = castle
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+962.1.1 = { religion = catholic }
+1187.1.1 = { b_miedryrzecz = castle }

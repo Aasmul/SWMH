@@ -1,0 +1,23 @@
+1150.1.1={
+	liege="c_tripoli"
+}
+#Guglielmo, son of Guglielmo 2
+1150.1.1={
+	holder=1000091097
+}
+#Ugo, son of Guglielmo
+1190.1.2={
+	holder=1000091098
+}
+#Raimondo, son of ugo
+1220.1.2={
+	holder=1000091099
+}
+#Enrico, son of Raimondo
+1253.1.2={
+	holder=1000091102
+}
+1310.1.1 = {
+	holder=0
+}
+

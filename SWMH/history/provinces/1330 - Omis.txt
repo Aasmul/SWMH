@@ -1,0 +1,21 @@
+# 1330 - Omis
+
+# County Title
+title = c_omis
+
+# Settlements
+max_settlements = 3
+
+b_omis = castle
+#b_makarska = city
+b_imotski = castle
+#b_zmijavci = temple
+#b_gabela = city
+#b_brstanik = castle
+
+# Misc
+culture = croatian
+religion = slavic_pagan
+
+# History
+900.1.1 = {religion = catholic }

@@ -1,0 +1,22 @@
+# 777 - Kerak
+
+# County Title
+title = c_kerak
+
+# Settlements
+max_settlements = 4
+b_krakdemoab = castle
+b_kerak = city
+b_tafila = temple
+#b_syrdibban = city
+#b_syralrabbah = temple
+
+
+
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

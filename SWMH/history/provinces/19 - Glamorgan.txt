@@ -1,0 +1,28 @@
+# 19 - Glamorgan
+
+# County Title
+title = c_glamorgan
+
+# Settlements
+max_settlements = 4
+b_neath = castle
+b_cardiff = city
+b_llandaff = temple
+#b_caerphilly = castle
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History
+
+1066.1.1 = { 
+	b_neath = ca_keep_1
+	b_neath = ca_training_grounds_1
+	b_neath = ca_stable_1
+	b_neath = ca_stable_2
+	b_neath = ca_wall_1
+	b_neath = ca_wall_2
+}

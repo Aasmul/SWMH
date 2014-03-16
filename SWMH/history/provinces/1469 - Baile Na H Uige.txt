@@ -1,0 +1,28 @@
+# 1469 - Baile Na H Uige
+
+# County Title
+title = c_bailenahuige
+
+# Settlements
+max_settlements = 4
+
+b_dunragit = castle
+b_glenluce = temple
+#b_whithorn = city
+#b_wigtown = castle
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History
+400.1.1 = { culture = cumbric } 
+1000.1.1 = { culture = scottish } 
+1066.1.1 = { 
+	b_dunragit = ca_keep_1
+	b_dunragit = ca_training_grounds_1
+	b_dunragit = ca_stable_1
+	b_dunragit = ca_stable_2
+	b_dunragit = ca_wall_1
+	b_dunragit = ca_wall_2
+}

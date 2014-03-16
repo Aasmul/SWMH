@@ -1,0 +1,29 @@
+# 819 - Bizerte
+
+# County Title
+title = c_bizerte
+
+# Settlements
+max_settlements = 4
+
+b_bizerte = castle
+b_tunbeja = temple
+b_tabarqa = city
+
+#b_marsaalkharaz = castle #Marsa al-Kharaz
+
+#b_jendouba = city
+#b_ghezala = castle
+#b_almatin = castle
+#b_manziljamal = castle
+#b_tamra = castle
+#b_netza = castle
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History
+
+1187.1.1 = { b_marsaalkharaz = castle }
+

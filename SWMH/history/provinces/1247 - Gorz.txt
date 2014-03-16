@@ -1,0 +1,23 @@
+# 1247 - Görz
+
+# County Title
+title = c_gorz
+
+# Settlements
+max_settlements = 3
+
+b_gorz = castle
+b_grado = temple
+#b_cervignano = temple #karantanci = Cervinjan
+#b_vrtojba = city
+#b_monfalcone = castle #German = Falkenberg, karantanci = Tržic
+#b_cormons = castle #Italian = Cormòns, German = Gremaun
+#b_gradisca = castle #karantanci = Gradišce, German = Gradis
+
+# Misc
+culture = karantanci
+religion = catholic
+
+# History
+
+1175.1.1 = { b_vrtojba = city }

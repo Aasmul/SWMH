@@ -1,0 +1,29 @@
+# 58 - Lancaster
+
+# County Title
+title = c_lancaster
+
+# Settlements
+max_settlements = 5
+
+b_lancaster = castle
+b_furness = temple
+b_salford = city
+#b_ulverston = city
+#b_piel_island = city
+#b_preston = city
+#b_liverpool = city
+#b_bolton = city
+#b_penworthham = castle
+#b_clitheroe = castle
+#b_blackburn = city
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1066.10.14 = { b_clitheroe = castle }
+1100.11.11 = { culture = english }
+1121.1.1 = { b_piel_island = city }

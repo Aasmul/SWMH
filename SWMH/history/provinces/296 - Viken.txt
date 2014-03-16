@@ -1,0 +1,25 @@
+# 296 - Viken # Ranrike
+
+# County Title
+title = c_viken
+
+# Settlements
+max_settlements = 3
+
+b_ragnhildsholm = castle # Ragnildarholmir
+b_kungahalla = city # Konungahella
+#b_dragmark = temple
+#b_marstrand = city
+#b_bohus = castle
+#b_svarteborg = city
+#b_svenneby = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norwegian } 
+
+1260.1.1 = { trade_post = b_warendorp }

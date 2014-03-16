@@ -1,0 +1,26 @@
+# 1425 - Hertford
+
+# County Title
+title = c_hertford
+
+# Settlements
+max_settlements = 4
+
+b_berkhamsted = castle
+b_hertford = city
+b_st_albans = temple
+#b_tring = city
+#b_hemel_hempstead = temple
+#b_bishop_stortford
+#b_ashridge_priory = temple
+#b_hatfield = city
+
+
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1100.11.11 = { culture = english } 

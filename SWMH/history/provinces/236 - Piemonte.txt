@@ -1,0 +1,27 @@
+# 236 - Piemonte
+
+# County Title
+title = c_piemonte
+
+# Settlements
+max_settlements = 5
+
+b_susapiemonte = castle
+b_torino = city
+b_abbadiaalpina = temple
+
+#b_rivoli = castle
+#b_settimo = castle
+#b_moncalieri = castle
+#b_pinerolo = city
+#b_meanadisusa = city
+#b_sanpietrovallemina = city
+#b_sangiorgiocanavese = castle
+
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

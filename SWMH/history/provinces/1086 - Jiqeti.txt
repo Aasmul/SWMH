@@ -1,0 +1,22 @@
+# 1086 - Jiqeti
+
+# County Title
+title = c_jiqeti
+
+# Settlements
+ max_settlements = 3
+ 
+b_nicopsia = castle
+b_mamai = city
+b_khosta = temple 
+#b_maurolaca = castle
+#b_masaitica = castle
+#b_abbasa = castle
+#b_liesh = castle
+#b_sochi = city
+
+# Misc
+culture = georgian
+religion = orthodox
+
+# History

@@ -1,0 +1,31 @@
+# 1316 - Savona
+
+# County Title
+title = c_savona
+
+# Settlements
+max_settlements = 5
+
+b_cairomontenotte = castle
+b_savona = city
+b_noliligure = temple
+
+#b_albisolasuperiore = castle
+#b_castellodimonteursino = castle
+#b_pontinvre = city
+#b_casteldelfinoligure = castle
+#b_stellaligure = temple
+#b_castellodistella = castle
+#b_cogoleto = temple
+#b_varazze = city
+#b_arenzano = temple
+#b_vadoligure = city
+
+
+# Misc
+culture = ligurian
+religion = catholic
+
+# History
+
+

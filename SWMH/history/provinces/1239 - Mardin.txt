@@ -1,0 +1,21 @@
+# 1239 - Mardin
+
+# County Title
+title = c_mardin
+
+# Settlements
+max_settlements = 5
+
+b_maridin = castle								
+b_nasibin = city
+b_dunaysir = temple
+b_alsywaydaturkey = castle
+#b_tallbasma = city
+	
+# Misc
+culture = kurdish
+religion = sunni
+
+# History
+
+

@@ -1,0 +1,20 @@
+# 915 - Djenné
+
+# County Title
+title = c_djenne
+
+# Settlements
+max_settlements = 6
+b_dioboro = castle
+b_djenne = city
+b_algasba = temple
+b_bandiagara = castle 
+
+#b_kaniana = castle 
+#b_hambarketolo = castle 
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History

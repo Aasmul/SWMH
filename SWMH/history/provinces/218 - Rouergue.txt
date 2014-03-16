@@ -1,0 +1,30 @@
+# 218 - Rouergue
+
+# County Title
+title = c_rouergue
+
+# Settlements
+max_settlements = 5
+b_najac = castle
+b_rodez = castle
+b_vabres = temple
+b_villefranche = city
+
+#b_gissac = castle
+#b_senergues = castle
+#b_caylus = castle
+#b_staffrique = city
+#b_estaing = castle
+#b_belcastel = castle
+#b_bertholene = castle
+#b_vezinsdelevezou = castle
+
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History
+
+

@@ -1,0 +1,37 @@
+# 797 - Manupura    #Bahnasa
+
+# County Title
+title = c_manupura  #Bahnasa
+
+# Settlements
+max_settlements = 6
+b_manuf = castle
+b_quwaysina = city
+b_ibyar = temple
+
+#b_saa = temple
+#b_shatanul = city
+#b_almahallah = city
+
+#b_athribis = castle
+#b_zagazig = castle
+#b_bubastis = city
+#b_qantir = castle
+#b_busiris = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History
+
+1066.1.1 = { 
+	b_bahnasa = ca_keep_1
+	b_bahnasa = ca_training_grounds_1
+	b_bahnasa = ca_stable_1
+	b_bahnasa = ca_wall_1
+	b_bahnasa = ca_wall_2
+	b_bahnasa = ca_militia_barracks_1
+}
+
+1171.1.1 = { religion = sunni }

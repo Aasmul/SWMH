@@ -1,0 +1,19 @@
+# 403 - Romny # Kargopol
+
+# County Title
+title = c_romny
+
+# Settlements
+max_settlements = 3
+
+b_kargopol = castle
+b_pudozh = city
+#b_volozerskij = city
+
+
+# Misc
+culture = vepsian
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }

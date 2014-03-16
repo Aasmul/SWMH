@@ -1,0 +1,18 @@
+# 1442 - Tethbae
+
+# County Title
+title = c_tethbae
+
+# Settlements
+max_settlements = 3
+
+b_athlone = castle
+b_ardagh = temple
+#b_moate = castle
+
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

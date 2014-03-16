@@ -1,0 +1,35 @@
+# 265 - Fyn
+
+# County Title
+title = c_fyn
+
+# Settlements
+max_settlements = 5
+
+b_nyborg = castle
+b_odense = temple
+b_svendborg = city
+#b_broholm = castle
+#b_hesselager = castle
+#b_faaborg = city
+#b_assens = city
+#b_naesbyhoved = castle
+#b_bogense = city
+#b_egeskov = castle
+#b_hvidekilde = castle
+#b_wedellsborg = castle
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = farmlands
+
+# History
+867.1.1 = { b_svendborg = ct_port_1 }
+1066.1.1 = {
+	culture = danish
+	religion = catholic
+}
+#1170.1.1 = { b_svendborg = city }
+#1183.1.1 = { b_hesselager = castle }
+1250.1.1 = { trade_post = b_bardewik }

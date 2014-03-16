@@ -1,0 +1,31 @@
+# 357 - Treviso
+
+# County Title
+title = c_treviso
+
+# Settlements
+max_settlements = 5
+b_castellodimartellago  = castle
+b_treviso = city
+b_ceneda = temple
+
+#b_castellodicollalto = castle
+#b_castellodicisondivalmarino = castle
+#b_mestretreviso = city
+#b_oderzo = temple
+#b_abbaziadisanteustachio = temple
+#b_sandonadipieve = city
+#b_montebeluna = castle
+#b_follinatreviso = temple
+
+
+
+# Misc
+culture = venetian
+religion = catholic
+
+# History
+
+1078.1.1 = { trade_post = b_contarini }
+1164.1.1 = {capital = b_treviso }
+1283.1.1 = { capital = b_castellodimartellago }

@@ -1,0 +1,21 @@
+# 101 - Rennes
+
+# County Title
+title = c_rennes
+
+# Settlements
+max_settlements = 4
+b_rennes = castle
+b_st_michel = temple
+b_vitre = city
+
+#b_combourgbrittany = castle
+#b_liffre = castle
+#b_guichen = city
+#b_fougeres = city
+
+# Misc
+culture = breton
+religion = catholic
+
+# History

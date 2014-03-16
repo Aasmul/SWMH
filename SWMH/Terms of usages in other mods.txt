@@ -1,0 +1,9 @@
+Terms of usages in other mods
+
+Please do not include any part of SWMH in your (public)mod unless you have asked for, and gotten, clear permission.
+Only the SWMH team can give permision to public distrubution of SWMH in itself or as included whole or partially in other mods.
+If you would like too use the whole of SWMH or a by us developed component of the mod, then please PM one of the team members and we will discuss your request.
+
+In the request please describe what parts you are interested in, and include a link to your mod.
+
+Note that we favor a modular aproach, so if you are interested in the whole of SWMH and your mod can run alongside SWMH, then we prefer to keep them independent of eachother. We try to keep SWMH as cleanly focused on the map/history side of things as possible, inorder to insure compability with as many mods as possible(and compabilty patching can often sort things out, in the situation where the mods are'nt compatible straight out of the box) 

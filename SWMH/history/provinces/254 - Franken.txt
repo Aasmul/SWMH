@@ -1,0 +1,25 @@
+# 254 - Würzburg
+
+# County Title
+title = c_wurzburg
+
+# Settlements
+max_settlements = 4
+
+b_karlsburg= castle
+b_wurzburg = temple
+#b_dettlebach = city
+
+#b_hammelburg = castle
+#b_theiheim = castle
+#b_mainderheim = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+1168.1.1 = {
+	capital = b_wurzburg
+}

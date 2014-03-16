@@ -1,0 +1,16 @@
+# 1478 - Bagirmi
+
+# County Title
+title = c_bagirmi
+
+# Settlements
+max_settlements = 2
+b_bagirmi = castle
+
+#b_makari = city
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

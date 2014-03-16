@@ -1,0 +1,23 @@
+# 1034 - Helfenstein
+
+# County Title
+title = c_helfenstein
+
+# Settlements
+max_settlements = 3
+
+b_helfenstein = castle
+#b_heidenheim  = city
+b_tubingen = city
+#b_blaubeuren = temple
+#b_sig = castle
+#b_weisensteig = city
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+

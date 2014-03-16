@@ -1,0 +1,16 @@
+# 1415 - Cres
+
+# County Title
+title = c_cres
+
+# Settlements
+max_settlements = 2
+
+b_cres = castle
+b_osor = temple
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History

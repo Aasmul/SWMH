@@ -1,0 +1,22 @@
+# 38 - Teviotdale
+
+# County Title
+title = c_teviotdale
+
+# Settlements
+max_settlements = 4
+b_jedburgh = castle
+b_melrose = temple
+#b_roxburgh = city
+#b_kelso = city
+
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History
+700.1.1 = { culture = saxon } 
+1000.1.1 = { culture = scottish } 
+
+

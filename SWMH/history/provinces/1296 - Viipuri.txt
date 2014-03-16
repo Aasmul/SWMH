@@ -1,0 +1,22 @@
+# 1296 - Viipuri
+
+# County Title
+title = c_viipuri
+
+# Settlements
+max_settlements = 3
+
+b_viipuri = castle
+#b_koivisto = city
+#b_raivola = city
+b_virolahti = temple
+#b_uuras = castle
+
+# Misc
+culture = karelian
+religion = finnish_pagan
+
+# History
+1187.1.1 = { b_koivisto = city }
+1292.1.1 = { religion = catholic }	#Northern Crusades
+1303.1.1= { trade_post = b_wittenborg }

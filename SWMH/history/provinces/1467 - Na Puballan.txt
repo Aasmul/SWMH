@@ -1,0 +1,21 @@
+# 1467 - Na Puballan
+
+# County Title
+title = c_napuballan
+
+# Settlements
+max_settlements = 3
+b_neidpath = castle
+b_stobo = temple
+#b_peebles = city
+
+
+
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History
+700.1.1 = { culture = saxon } 
+1000.1.1 = { culture = scottish } 

@@ -1,0 +1,23 @@
+# 1264 - Kuenring
+
+# County Title
+title = c_kuenring
+
+# Settlements
+max_settlements = 3
+
+b_kuhenring = castle
+#b_zwettl = temple #1137
+#b_krems = city #955
+#b_weitra = temple
+#b_stein = temple
+#b_hardegg = castle
+#b_hartenstein = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+955.1.1 = { b_krems = city } 
+1137.1.1 = { b_zwettl = temple }

@@ -1,0 +1,24 @@
+# 16 - Leinster # Wexford
+
+# County Title
+title = c_leinster
+
+# Settlements
+max_settlements = 4
+
+b_wexford = castle
+b_ferns = temple
+
+#b_enniscorthy = castle
+#b_bargy = castle
+#b_new_ross = city
+
+# Misc
+culture = norse
+religion = catholic
+
+# History
+867.1.1 = {
+	b_wexford = ca_shipyard_1
+}
+1047.10.25 = { culture = norsegaelic }

@@ -1,0 +1,19 @@
+# 1161 - Ventadour
+
+# County Title
+title = c_ventadour
+
+# Settlements
+max_settlements = 3
+b_comborn = castle
+b_donzenac = temple
+
+#b_ventadour = city
+#b_tulle = temple
+#b_turenne = castle
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History

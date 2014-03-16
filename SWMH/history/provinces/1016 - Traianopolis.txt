@@ -1,0 +1,24 @@
+# 1016 - Traianopolis
+
+# County Title
+title = c_traianopolis
+
+# Settlements
+max_settlements = 3
+
+b_traianopolis = castle
+b_maroneia = city
+#b_ainos = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+# Catalan Company ravages the province
+
+1305.1.1 = { remove_settlement = b_maroneia }
+
+1382.1.1 = { culture = turkish }
+1382.1.1 = { religion = sunni }

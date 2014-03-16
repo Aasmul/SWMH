@@ -1,0 +1,65 @@
+######################################
+#New Norse Gaelic Dynasties
+######################################
+#
+#
+######################################
+#N-G dynasties
+#Range : 1000101300 - 1000101330
+######################################
+1000101300 = {
+	name="Cuarán"
+	culture = norsegaelic
+}
+1000101301 = {
+	name="Írakonungr"
+	culture = norsegaelic
+}
+1000101302 = {
+	name="Eóganachta"
+	culture = norsegaelic
+}
+1000101303 = {
+	name="Somhairle"
+	culture = norsegaelic
+}
+1000101304 = {
+	name="Mac Domhnaill"
+	culture = norsegaelic
+}
+1000101305 = {
+	name="Find"
+	culture = norsegaelic
+}
+1000101306 = {
+	name="Bjola"
+	culture = norsegaelic
+}
+1000101307 = {
+	name="Mac Shitrig"
+	culture = norsegaelic
+}
+1000101308 = {
+	name="Mac Leòid"
+	culture = norsegaelic
+}
+1000101309 = {
+	name="Mac Oitir"
+	culture = norsegaelic
+}
+1000101310 = {
+	name="Mac Asgaill"
+	culture = norsegaelic
+}
+1000101311 = {
+	name="Mac Arailt"
+	culture = norsegaelic
+}
+1000101312 = {
+	name="Mac Fergusa"
+	culture = norsegaelic
+}
+1000101313 = {
+	name="Mór"
+	culture = norsegaelic
+}

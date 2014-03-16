@@ -1,0 +1,58 @@
+720.1.1={
+	holder = 168345
+}
+745.1.1={
+	holder = 168346
+}
+783.1.1={
+	holder = 168347
+}
+804.1.1={
+	holder = 168348
+}
+820.1.1={
+	holder = 168349
+}
+833.1.1={
+	holder = 168350
+}
+
+851.1.1={
+	holder = 168351
+}
+866.1.1={
+  de_jure_liege="k_moravia"
+}
+867.1.1={
+	succession = seniority
+}
+867.1.1={
+	law = agnatic_succession
+}
+873.1.1={
+	holder = 500
+}
+883.1.1={
+	liege = "k_moravia"
+}
+894.1.1={
+	holder = 502
+}
+907.7.4={
+	liege = 0
+}
+907.7.4={
+  de_jure_liege="k_bohemia"
+}
+915.1.1={
+	holder = 504
+}
+921.1.1={
+	holder = 506
+}
+935.1.1={
+	holder = 508
+}
+936.1.1={
+	holder = 0
+}

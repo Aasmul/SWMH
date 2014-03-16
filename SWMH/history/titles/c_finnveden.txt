@@ -1,0 +1,14 @@
+855.1.1={
+        liege="d_smaland"
+	holder = 1000144475
+}
+888.1.1={
+	holder = 0
+}
+1066.1.1=
+{
+	liege="k_sweden"
+}
+1066.1.1 = {
+	holder=0
+}

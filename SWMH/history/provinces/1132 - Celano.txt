@@ -1,0 +1,26 @@
+# 1132 - Celano
+
+# County Title
+title = c_celano
+
+# Settlements
+max_settlements = 5
+
+b_celano = castle
+b_sulmona = city
+b_valvaabruzzo = temple
+#b_albe = city
+#b_avezzano = castle
+#b_pescina = temple
+#b_raiano = temple
+#b_capistrello = city
+#b_civitella = castle
+#b_anversadegliabruzzi = castle
+#b_pacentro = castle
+
+
+# Misc
+culture = southern_italian
+religion = catholic
+
+# History

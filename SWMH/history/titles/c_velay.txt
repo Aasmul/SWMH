@@ -1,0 +1,15 @@
+800.1.1=
+{
+	liege="k_aquitaine"
+}
+1000.1.1=
+{
+	liege="d_aquitaine"
+}
+1213.1.1 = {
+	liege = "k_france"
+}
+1337.1.1=
+{
+	liege="d_auvergne"
+}

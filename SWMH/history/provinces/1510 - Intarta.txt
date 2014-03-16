@@ -1,0 +1,20 @@
+# 1510 - Intarta
+
+# County Title
+title = c_intarta
+
+# Settlements
+max_settlements = 4
+b_wiqro = castle
+b_zarema = temple
+b_agowo = temple
+
+#b_qiha = castle
+
+# Misc
+culture = ethiopian
+religion = miaphysite
+
+# History
+
+  

@@ -1,0 +1,11 @@
+860.1.1={
+	liege="d_lombardia"
+        holder=0
+}
+1062.1.1={
+	liege="e_hre"
+}
+#Piacenza was an independent commune until conquered by the Visconti
+1315.1.1={ #Not sure
+	liege="d_lombardia"
+}

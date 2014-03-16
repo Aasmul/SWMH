@@ -1,0 +1,31 @@
+# 1110 - Gravina
+
+# County Title
+title = c_gravina
+
+# Settlements
+max_settlements = 4
+
+b_castellotramontano = castle
+b_gravina = city
+b_matera = city
+
+#b_santagostinomatera = temple
+#b_pisticci = castle
+#b_valsinni = castle
+#b_tursi = castle
+#b_castellaneta = temple
+#b_montepeloso = castle
+#b_policoro = castle
+
+
+
+# Misc
+culture = greek
+religion = orthodox
+terrain = hills
+
+# History
+950.1.1 = {religion = catholic }
+1000.1.1 = {culture = southern_italian }
+

@@ -1,0 +1,17 @@
+# 1030 - Eberstein
+
+# County Title
+title = c_eberstein
+
+# Settlements
+max_settlements = 2
+b_eberstein = castle
+#b_gernsbach = city
+#b_wimpfen = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

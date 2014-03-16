@@ -1,0 +1,23 @@
+# 778 - Monreal
+
+# County Title
+title = c_monreal
+
+# Settlements
+max_settlements = 4
+b_monreal = castle
+b_petra = temple
+b_syrsegor = city
+#b_alwuayra = castle
+#b_wadi_musa = city
+#b_alhabis = castle
+
+
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+1120.1.1 = { b_alwuayra = castle }

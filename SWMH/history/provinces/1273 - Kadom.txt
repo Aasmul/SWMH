@@ -1,0 +1,25 @@
+# 1273 - Kadom
+
+# County Title
+title = c_kadom
+
+# Settlements
+max_settlements = 3
+
+b_kadom = castle
+#b_temnikov = city
+b_sarov = temple
+
+# Misc
+culture = mordvin
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }
+1150.1.1 = { culture = russian }
+
+
+
+
+
+

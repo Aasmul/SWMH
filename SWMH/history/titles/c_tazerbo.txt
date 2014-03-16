@@ -1,0 +1,12 @@
+846.1.1={
+  holder=1000228220
+  liege=d_lawata
+}
+869.1.1={
+  holder=1000228221
+}
+
+1064.1.1={
+  liege="d_fezzan"
+  holder=1000144666
+}

@@ -1,0 +1,10 @@
+1060.1.1={
+	holder=20491 # Rashka taken
+}
+1082.1.1={
+	holder=20493
+}
+1091.1.1={
+	holder= 0 # Byzzies capture Bodin	
+}
+

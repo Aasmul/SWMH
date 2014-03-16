@@ -1,0 +1,32 @@
+# 31 - Cornwall
+
+# County Title
+title = c_cornwall
+
+# Settlements
+max_settlements = 4
+
+b_launceston = castle
+b_bodmin = temple
+
+#b_restormel = castle
+#b_lostwithiel = castle
+#b_truro = castle
+#b_liskeard = castle
+#b_st_michael = temple
+#b_trematon = castle
+#b_bossiney = castle
+#b_cardinham = castle
+#b_helston = city
+#b_tintagel = castle
+#b_stgermains = temple
+
+
+# Misc
+culture = cornish
+religion = catholic
+
+
+# History
+1000.1.1 = { b_restormel = castle }
+1271.1.1 = { capital = b_restormel }

@@ -1,0 +1,22 @@
+# 936 - Hvar
+
+# County Title
+title = c_hvar
+
+# Settlements
+max_settlements = 3
+
+b_hvar_stari_grad = castle
+b_vis = city
+#b_vrboska = temple
+#b_galsenik_castle_hvar = castle
+#b_komiza = temple
+#b_jelsa = city
+
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History
+

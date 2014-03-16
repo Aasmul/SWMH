@@ -1,0 +1,28 @@
+## 1147 - Bacau
+
+# County Title
+title = c_bacau
+
+# Settlements
+max_settlements = 5
+
+b_bistrita = castle
+b_bacau = city
+b_neamt = temple
+#b_roman = castle
+#b_cetateaneamt = castle
+#b_borzesti = temple
+#b_targotrotus = city
+#b_tazlau = temple
+
+
+# Misc
+culture = bulgarian
+religion = tengri_pagan
+
+# History
+892.1.1 = { culture = romanian }
+900.1.1 = { religion = orthodox }
+
+
+ 

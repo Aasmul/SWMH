@@ -1,0 +1,61 @@
+855.1.1={
+	liege = "d_upper_burgundy"
+	holder = 7977
+}
+
+864.1.1={
+	holder = 144998
+}
+866.1.1={
+	holder = 7989
+}
+876.1.1={
+	holder = 7984
+}
+1046.1.1={
+	liege="d_savoie"
+	holder=1180
+}
+1090.1.1={
+	holder=1000091116
+}
+1130.1.2={
+	holder=1000091117
+}
+1170.1.2={
+	holder=1000091118
+}
+1210.1.2={
+	holder=1000091119
+}
+1240.1.2={
+	holder=1000091120
+}
+1270.1.2={
+	holder=1000091121
+}
+#Here end the Challant family rule as counts of Aosta, the title revert back to the Ducky of Savoy
+#Don't know where to find the character of ducky of Savoy, so all this dates and holders must be controlled
+1285.1.2={
+	holder=70897
+}
+1253.7.13={
+	holder=70902
+}
+1259.2.7={
+}
+1263.3.13={
+	holder=70909
+}
+1268.5.14={
+	holder=70913
+}
+1285.8.16={
+	holder=462150
+}
+1323.10.16={
+	holder=462153
+}
+1329.11.4={
+	holder=462154
+}

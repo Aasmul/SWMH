@@ -1,0 +1,19 @@
+# 417 - Vitebsk
+
+# County Title
+title = c_vitebsk
+
+# Settlements
+max_settlements = 4
+
+b_vitebsk = castle
+b_velizh = castle
+b_rudnya = temple
+#b_haradok = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

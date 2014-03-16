@@ -1,0 +1,18 @@
+# 1359 - Malila
+
+# County Title
+title = c_malila
+
+# Settlements
+max_settlements = 3
+
+b_melilla = castle
+
+#b_nador = city
+#b_saidia = temple
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

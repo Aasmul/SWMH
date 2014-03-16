@@ -1,0 +1,21 @@
+# 98 - Vexin
+
+# County Title
+title = c_vexin
+
+# Settlements
+max_settlements = 4
+b_gisors = castle
+b_andely = city
+b_abbayedemortemer = temple
+#b_chateaugaillard = castle
+#b_neauflessaintmartin = castle
+#b_chateausurepte = castle
+#b_vandrimare = city
+
+
+culture = frankish
+religion = catholic
+
+# History
+

@@ -1,0 +1,26 @@
+# 325 - Arborea
+
+# County Title
+title = c_arborea
+
+# Settlements
+max_settlements = 4
+
+b_cabras = castle
+b_tharros = city
+#b_oristano = city
+#b_furtei = castle
+#b_asuni = castel
+#b_barumele = castle
+#b_marmilla = city
+
+# Misc
+culture = sardinian
+religion = catholic
+terrain = mountain
+
+# History
+1066.1.1 = { trade_post = b_visconti }
+1070.1.1 = { b_oristano = city }
+1070.1.1 = { remove_settlement = b_tharros }
+1285.1.1 = { trade_post = b_grimaldi }

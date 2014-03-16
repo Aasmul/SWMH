@@ -1,0 +1,26 @@
+# 377 - Livs
+
+# County Title
+title = c_livs
+
+# Settlements
+max_settlements = 4
+
+b_viljandi = castle
+b_karksi = temple
+#b_ruhja = castle
+#b_helme = castle
+#b_tarvastu = castle
+#b_newpernau = city
+#b_salacgriva = castle
+
+
+# Misc
+culture = livonian
+religion = finnish_pagan
+
+# History
+1202.1.1 = { capital = b_karksi }
+
+1250.1.1 = { b_newpernau = city }
+1290.1.1 = { religion = catholic }

@@ -1,0 +1,103 @@
+850.1.1={
+	liege = "d_sjaelland"
+}
+850.1.1={
+	holder= 1000144490 # Veland
+}
+917.1.1={
+	holder=101549 # Hardeknud
+}
+934.1.1={
+	holder=101500 # Gorm the Old
+}
+958.1.1={
+	holder=101502 # Harald Blåtand
+}
+961.1.1={
+	liege = "k_denmark"
+}
+986.1.1={
+	holder=101505 # Svend Tveskägg
+}
+1014.2.3={
+	holder=101507 # Harald II
+}
+1018.1.1={
+	holder=101510 # Knud the Great
+}
+1035.11.12={
+	holder=101511 # Knud III Hardeknud
+}
+1042.6.8={
+	holder=102529 # Magnus den Gode
+}
+1047.10.25={
+	holder=101536 #Asbjørn Ulfsøn. Jarl domain unspecified, but it wasn't of Halland or Northern Jylland, so that leaves either Sønderjylland and Lolland.
+}
+1086.1.1={
+	holder=101519 # Knud den Helige
+}
+1086.7.10={
+	holder=101520 # Olaf Hunger
+}
+1095.8.18={
+	holder=101521 # Erik Ejegod
+}
+1103.7.10={
+	holder=101530 # Nils Svendsen
+}
+###Jarls of Lolland
+1117.1.1={
+	holder=1000227872 #Ulf/Ubbe Esbernsen/Asbjørnsen jarl of Lolland 1117-1133
+}
+1133.1.1={
+	holder=201517 # Erik Emune Jarl of Lolland 1133-1134
+}
+1134.6.25={
+	holder=1000227854 # Jørgen Bodilsen, jarl of Smålandene(aka both Lolland, Als, Møn and Falster) 1134-?
+}
+1160.8.2={
+	holder=30551 # Prislaw youngest son Niklot, Jarl of Lolland and Als 1060-1067
+}
+1167.1.1={
+	holder=30553 # Knud Prislawsen Jarl of Lolland and Als 1167-1183
+}
+###Ørn/Due/Glob
+
+1183.11.6=
+{
+holder=1000227860 #Peder Nielsen Ørn
+}
+1185.1.1=
+{
+holder=1000227861 #Alexander Pedersen Falster
+}
+1221.1.1=
+{
+holder=1000227864 #Niels Alexandersen
+}
+###Gøye
+1262.1.1={
+	holder=1000227877 # Mathias til Flårup
+}
+###Ørn/Due/Glob
+1268.1.1=
+{
+holder=1000227864 #Niels Alexandersen
+}
+1269.1.1=
+{
+holder=1000227868 #Anders Nielsen Due
+}
+1285.1.1=
+{
+holder=1000227878 #Niels Andersen Due
+}
+###
+1332.8.2={
+	liege="d_holstein"
+	holder=451960
+}
+1340.6.21={
+	holder=451500 # Valdemar Atterdag
+}

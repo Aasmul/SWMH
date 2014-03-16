@@ -1,0 +1,26 @@
+1065.1.1={
+	holder=0
+	liege=d_morgannwg
+}
+1157.1.1={
+	holder=214800 #Rhys ap Gruffydd
+}
+1229.1.1={
+	holder=214714 #Llywelyn ap Iorwerth
+}
+1241.1.1={
+	holder=0
+	liege="k_england"
+}
+1275.9.24={
+	holder=7463 #Humphrey de Bohun
+}
+1298.12.31={
+	holder=454561 #Humphrey de Bohun
+}
+1321.11.6={
+	holder=7464 #John of Bohun
+}
+1335.1.20={
+	holder=454560 #Humphrey de Bohun
+}

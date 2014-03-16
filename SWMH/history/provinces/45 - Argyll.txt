@@ -1,0 +1,21 @@
+# 45 - Argyll
+
+# County Title
+title = c_argyll
+
+# Settlements
+max_settlements = 3
+b_inveraray = castle
+b_ardchattan = temple
+#b_oban = city
+#b_kilmartin = castle
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = hills
+
+# History
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norsegaelic } 

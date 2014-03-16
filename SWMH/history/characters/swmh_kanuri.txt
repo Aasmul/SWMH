@@ -1,0 +1,473 @@
+# SWMH Kanuri characters
+
+# Characters: 1000228550 - 1000228599
+# Dynasties: 1000101100 - 1000101119
+
+
+1000228550 = {
+	name="Dugu" #Kanem 800 - 830
+	dynasty=1000101101
+	religion="west_african_pagan"
+	culture="kanuri"
+	770.1.1 = {
+		birth="770.1.1"
+	}
+	830.1.1 = {
+		death="830.1.1"
+	}
+}
+1000228551 = {
+	name="Fune" #Kanem 830 - 860
+	dynasty=1000101101
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228550
+	800.1.1 = {
+		birth="800.1.1"
+	}
+	860.1.1 = {
+		death="860.1.1"
+	}
+}
+1000228552 = {
+	name="Aritso" #Kanem 860 - 900
+	dynasty=1000101101
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228551
+	830.1.1 = {
+		birth="830.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+1000228553 = {
+	name="Fune"
+	dynasty=1000101101
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228552
+	865.1.1 = {
+		birth="865.1.1"
+	}
+	898.1.1 = {
+		death="898.1.1"
+	}
+}
+1000228554 = {
+	name="Katuri" #Kanem 900 - 952
+	dynasty=1000101101
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228553
+	890.1.1 = {
+		birth="890.1.1"
+	}
+	952.1.1 = {
+		death="952.1.1"
+	}
+}
+1000228555 = {
+	name="Ayoma" #Kanem 952 - 980
+	dynasty=1000101101
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228554
+	915.1.1 = {
+		birth="915.1.1"
+	}
+	980.1.1 = {
+		death="980.1.1"
+	}
+}
+1000228556 = {
+	name="Bulu" #Kanem 980 - 1015
+	dynasty=1000101101
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228555
+	945.1.1 = {
+		birth="945.1.1"
+	}
+	1015.1.1 = {
+		death="1015.1.1"
+	}
+}
+1000228557 = {
+	name="Arki" #Kanem 1015 - 1035
+	dynasty=1000101101
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228556
+	975.1.1 = {
+		birth="975.1.1"
+	}
+	1035.1.1 = {
+		death="1035.1.1"
+	}
+}
+1000228558 = {
+	name="Shu" #Kanem 1035 - 1068
+	dynasty=1000101101
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228557
+	1005.1.1 = {
+		birth="1005.1.1"
+	}
+	1068.1.1 = {
+		death="1068.1.1"
+	}
+}
+1000228559 = {
+	name="Hummay" #Kanem 1068 - 1080 - first muslim ruler
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228558
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+1000228560 = {
+	name="Dunama" #Kanem 1080 - 1133
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228559
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1133.1.1 = {
+		death="1133.1.1"
+	}
+}
+1000228561 = {
+	name="Abdallah" 
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228560
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+1000228562 = {
+	name="Bir" #Kanem 1133 - 1160
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228561
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+1000228563 = {
+	name="Bikorom" #Kanem 1160 - 1176
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228562
+	1135.1.1 = {
+		birth="1135.1.1"
+	}
+	1176.1.1 = {
+		death="1176.1.1"
+	}
+}
+1000228564 = {
+	name="Salmama" #Kanem 1176 - 1203
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228563
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1203.1.1 = {
+		death="1203.1.1"
+	}
+}
+1000228565 = {
+	name="Dunama" #Kanem 1203 - 1242
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228564
+	1182.1.1 = {
+		birth="1182.1.1"
+	}
+	1242.1.1 = {
+		death="1242.1.1"
+	}
+}
+1000228566 = {
+	name="Kaday" #Kanem 1242 - 1270
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228565
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1270.1.1 = {
+		death="1270.1.1"
+	}
+}
+1000228567 = {
+	name="Kashim Biri" #Kanem 1270 - 1290
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228566
+	1235.1.1 = {
+		birth="1235.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+1000228568 = {
+	name="Ibrahim" #Kanem 1290 - 1310
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228567
+	1263.1.1 = {
+		birth="1263.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+1000228569 = {
+	name="Abdallah" #Kanem 1310 - 1328
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228568
+	1283.1.1 = {
+		birth="1283.1.1"
+	}
+	1328.1.1 = {
+		death="1328.1.1"
+	}
+}
+1000228570 = {
+	name="Salmama" #Kanem 1328 - 1332
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228569
+	1303.1.1 = {
+		birth="1303.1.1"
+	}
+	1332.1.1 = {
+		death="1332.1.1"
+	}
+}
+1000228571 = {
+	name="Kuri Ghana" #Kanem 1332 - 1333
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228569
+	1306.1.1 = {
+		birth="1306.1.1"
+	}
+	1333.1.1 = {
+		death="1333.1.1"
+	}
+}
+1000228572 = {
+	name="Kuri Kura" #Kanem 1333 - 1334
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228569
+	1310.1.1 = {
+		birth="1310.1.1"
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+1000228573 = {
+	name="Muhammad" #Kanem 1334 - 1335
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228569
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1335.1.1 = {
+		death="1335.1.1"
+	}
+}
+1000228574 = {
+	name="Idris Nigalemi" #Kanem 1335 - 1359
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228575
+	1299.1.1 = {
+		birth="1299.1.1"
+	}
+	1359.1.1 = {
+		death="1359.1.1"                                    
+	}
+}
+1000228575 = {
+	name="Ibrahim Nigale" #father of Idris
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228567
+	1274.1.1 = {
+		birth="1274.1.1"
+	}
+	1333.1.1 = {
+		death="1333.1.1"
+	}
+}
+1000228576 = {
+	name="Dawud Nigalemi" #Kanem 1359 - 1369
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228575
+	1308.1.1 = {
+		birth="1308.1.1"
+	}
+	1369.1.1 = {
+		death="1369.1.1"
+	}
+}
+1000228577 = {
+	name="Uthman" #Kanem 1369 - 1373
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228576
+	1327.1.1 = {
+		birth="1327.1.1"
+	}
+	1373.1.1 = {
+		death="1373.1.1"
+	}
+}
+1000228578 = {
+	name="Uthman" #Kanem 1373 - 1375
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228577
+	1350.1.1 = {
+		birth="1350.1.1"
+	}
+	1375.1.1 = {
+		death="1375.1.1"
+	}
+}
+1000228579 = {
+	name="Abu Bakr Liyatu" #Kanem 1375 - 1376
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228576
+	1340.1.1 = {
+		birth="1340.1.1"
+	}
+	1376.1.1 = {
+		death="1376.1.1"
+	}
+}
+1000228580 = {
+	name="Umar" #ibn Idris, Kanem 1376 - 1381
+	dynasty=1000101100
+	religion="sunni"
+	culture="kanuri"
+	father=1000228574
+	1350.1.1 = {
+		birth="1350.1.1"
+	}
+	1381.1.1 = {
+		death="1381.1.1"
+	}
+}
+
+# Sao rulers - Kay dynasty - placeholders
+1000228581 = {
+	name="Alooma" #d_Bornu 865 - 890
+	dynasty=1000101102
+	religion="west_african_pagan"
+	culture="kanuri"
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	890.1.1 = {
+		death="890.1.1"
+	}
+}
+1000228582 = {
+	name="Baram" #Bornu 1066 - 1079
+	dynasty=1000101102
+	religion="west_african_pagan"
+	culture="kanuri"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1079.1.1 = {
+		death="1079.1.1"
+	}
+}
+1000228583 = {
+	name="Dabbalemi" #Bornu 1079 - 1130
+	dynasty=1000101102
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228582
+	1068.1.1 = {
+		birth="1068.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+1000228584 = {
+	name="Kiyari" #Bornu 1130 - 1170
+	dynasty=1000101102
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228583
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+1000228585 = {
+	name="Mamane" #Bornu 1170 - 1220
+	dynasty=1000101102
+	religion="west_african_pagan"
+	culture="kanuri"
+	father=1000228584
+	1145.1.1 = {
+		birth="1145.1.1"
+	}
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}

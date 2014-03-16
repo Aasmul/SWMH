@@ -1,0 +1,19 @@
+# 1520 - Zaila
+
+# County Title
+title = c_zaila
+
+# Settlements
+max_settlements = 3
+b_zeila = castle
+b_djibouti = city
+
+#b_holhol = temple
+
+# Misc
+culture = somali
+religion = sunni
+
+# History
+
+  

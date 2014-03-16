@@ -1,0 +1,31 @@
+# 1087 - Klarjeti
+
+# County Title
+title = c_klarjeti
+
+# Settlements
+ max_settlements = 3
+b_artanuji = castle
+b_khupati = city
+b_akhiza = temple
+#b_artaani = castle
+#b_arkhabi = castle
+#b_vardzia = castle
+#b_doliskana = temple
+#b_gonio = castle
+ 
+
+# Misc
+culture = armenian
+religion = orthodox
+
+# History
+1084.1.1 = { culture = kurdish }
+1219.1.1 = { 
+	culture = armenian
+	religion = orthodox 
+}
+1320.1.1 = { 
+	culture = kurdish 
+	religion = sunni 
+}

@@ -1,0 +1,22 @@
+# 992 - Upyte
+
+# County Title
+title = c_upyte
+
+# Settlements
+max_settlements = 3
+
+b_upyte = castle
+b_panevezys = city
+#b_birzai = castle
+#b_pasvalys = castle
+#b_jonava = castle
+#b_siesikai = castle
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History
+
+

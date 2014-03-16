@@ -1,0 +1,21 @@
+# 934 - Lepiel aka Lahoysk
+
+# County Title
+title = c_lepiel
+
+# Settlements
+max_settlements = 3
+
+b_lahoysk = castle
+b_budslau = temple
+
+#b_vileyka = city
+#b_miadziel = temple
+
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

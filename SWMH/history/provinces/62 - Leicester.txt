@@ -1,0 +1,32 @@
+# 62 - Leicester
+
+# County Title
+title = c_leicester
+
+# Settlements
+max_settlements = 4
+
+b_leicester = castle
+b_melton_mowbray = city
+#b_sapcote = castle
+#b_castle_donington = castle
+#b_belvoir_leicester = castle
+#b_leicester_abbey = temple
+#b_ashby_de_la_zouch = castle
+#b_market_harborough = city
+#b_loughborough = city
+#b_groby = castle
+#b_mountsorrel = city
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+880.1.1 = { culture = norse } # Danes settle down
+880.1.1 = { religion = norse_pagan } # Danes settle down
+918.1.1 = { religion = catholic } # Submitted to Wessex
+1002.11.13 = { culture = saxon } # St. Brice's Day
+1100.11.11 = { culture = english }
+1258.1.1 = { b_belvoir_leicester = castle }

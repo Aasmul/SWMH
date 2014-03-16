@@ -1,0 +1,21 @@
+# 277 - Naumadal
+
+# County Title
+title = c_naumadal
+
+# Settlements
+max_settlements = 1
+
+b_fosnes = castle # Fólgsnnes
+#b_kolvereid = city Kolvereid
+#b_roervik = city # Rørvik
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norwegian } 
+

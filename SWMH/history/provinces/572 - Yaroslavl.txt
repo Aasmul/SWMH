@@ -1,0 +1,24 @@
+# 572 - Yaroslavl
+
+# County Title
+title = c_yaroslavl
+
+# Settlements
+max_settlements = 5
+b_timerevo = castle
+b_yaroslavl = city
+b_tolga = temple
+#b_romanov = city
+#b_tutaev = temple
+#b_lyubim = city
+#b_danilov = city
+#b_pertoma = city
+
+
+# Misc
+culture = mari
+religion = finnish_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+988.1.1 = {culture = russian }

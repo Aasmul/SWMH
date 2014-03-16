@@ -1,0 +1,7 @@
+842.1.1={
+	liege="d_leinster"
+	holder=1000226430 #"Daniél", Abbot and bishop of Glendalough
+}
+1045.1.1={
+	holder=1000226402 #Abbot Cinaedh
+}

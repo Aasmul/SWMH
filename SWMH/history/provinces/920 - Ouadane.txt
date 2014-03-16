@@ -1,0 +1,27 @@
+# 920 - Ouadane
+
+# County Title
+title = c_ouadane
+
+# Settlements
+max_settlements = 5
+b_ouadane = castle
+b_azuggi = city
+b_chinguitti = temple
+
+#b_binklabin = city
+#b_tingi = castle
+
+#b_ksaralkiali = castle #Ksar-al-Kiali
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History
+
+#berber colonization
+950.1.1 = { culture = tagelmust }
+
+#islamization
+950.1.1 = { religion = sunni }

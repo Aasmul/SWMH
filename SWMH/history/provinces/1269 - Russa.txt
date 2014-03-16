@@ -1,0 +1,30 @@
+# 1269 - Russa
+
+# County Title
+title = c_russa
+
+# Settlements
+max_settlements = 4
+
+b_demjanskkholmsky = castle
+b_rusa = city
+#b_kholmkholmsky = city
+#b_velilkholmsky = castle
+#b_morevakholmsky = city
+#b_molvoticykholmsky = temple
+#b_berezoveckholmsky = city
+#b_sterzkholmsky = castle
+
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+
+
+
+
+
+

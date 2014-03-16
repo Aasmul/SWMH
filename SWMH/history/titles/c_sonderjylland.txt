@@ -1,0 +1,78 @@
+840.1.1={
+	liege="d_slesvig"
+}
+840.1.1={
+	holder = 1000144491 # Howi jarl of southern jutland.
+}
+856.1.1={
+	holder = 6866 # Hårik II
+}
+865.1.1={
+	holder = 1000144478 # Oskitlel
+}
+961.1.1={
+	liege = "k_denmark"
+}	
+1047.10.25={
+        holder=101515 # Svend Estridsen
+}
+1074.4.28={
+	holder=101517 # Harald Hein
+}
+1080.4.17={
+        liege="d_slesvig"
+        holder=101521 # Erik Ejegod
+}
+1103.7.10={
+holder=201513
+}
+1131.1.14={
+	holder=101530 # Nils Svendsen
+}
+1134.6.25={
+	holder=201517 # Erik Emune
+}
+1137.7.18={
+	holder=201514 # Erik Lamm
+}
+1146.8.27={
+	holder=201508 # Knud V
+}
+1157.8.9={
+	holder=201518 # Svend Grathe
+}
+1157.10.23={
+	holder=201510 # Valdemar the Great
+}
+##Urne
+1170.1.1={
+	holder=1000227903 # Kjeld/Ketil Urne
+}
+1210.1.1=
+{
+holder=1000227904 # Mattis Kjeldsen (Urne)
+}
+1250.1.1=
+{
+holder=1000227905 # Johannes Mattisen (Urne)
+}
+1290.1.1=
+{
+holder=1000227906 # Mattis Johannesen (Urne)
+}
+1318.1.1=
+{
+holder=1000227908 # Johannes Johannesen (Urne)
+}
+1324.1.1=
+{
+holder=1000227909 # Nicolaus/Niels Johannesen (Urne)
+}
+1356.1.1=
+{
+holder=1000227911 # Nicolaus/Niels Nicolausen (Urne)
+}
+1384.1.1=
+{
+holder=0
+}

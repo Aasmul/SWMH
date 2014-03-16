@@ -1,0 +1,21 @@
+# 1291 - Bribir
+
+# County Title
+title = c_bribir
+
+# Settlements
+max_settlements = 4
+
+b_bribir = castle
+b_vrana = temple
+b_biograd_na_moru = city
+#b_skradin = city
+#b_trosenj = city
+
+
+# Misc
+culture = croatian
+religion = orthodox
+
+# History
+900.1.1 = {religion = catholic }

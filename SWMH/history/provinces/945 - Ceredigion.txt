@@ -1,0 +1,19 @@
+# 945 - Ceredigion
+
+# County Title
+title = c_ceredigion
+
+# Settlements
+max_settlements = 3
+b_aberystwyth = castle
+b_llanddewi_brefi = temple
+#b_aberteifi = city
+
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History

@@ -1,0 +1,25 @@
+# 724 - Amman
+
+# County Title
+title = c_amman
+
+# Settlements
+max_settlements = 6
+
+b_qastal = castle
+#b_jebalalqala = castle
+b_amman = city
+b_salt = temple
+
+#b_madaba = temple
+#b_umm_ar-rasas = temple
+#b_mahis = city
+#b_dhiban = city
+#b_fuheis = castle
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,22 @@
+# 526 - Cieszyn
+
+# County Title
+title = c_cieszyn
+
+# Settlements
+max_settlements = 4
+b_cieszyn = castle
+b_oswiecim = castle
+b_bielsko = city
+
+#b_skoczow = castle
+#b_zator = castle
+#b_ustron = castle
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+990.1.1 = { religion = catholic }
+1237.1.1 = { b_zator = castle }

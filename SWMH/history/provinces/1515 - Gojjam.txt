@@ -1,0 +1,20 @@
+# 1515 - Gojjam
+
+# County Title
+title = c_gojjam
+
+# Settlements
+max_settlements = 4
+b_guihon = castle
+b_mertulematiam = temple
+
+#b_debremarqos = city
+#b_gafat = castle
+
+# Misc
+culture = ethiopian
+religion = pagan
+
+# History
+
+  

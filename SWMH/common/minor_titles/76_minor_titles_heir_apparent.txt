@@ -1,0 +1,95 @@
+#######################################
+# Heir apparent titles
+#######################################
+title_king_of_romans = {
+	dignity = 50
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = no
+	
+	monthly_prestige = 0.005
+	
+	allow = {
+		age = 16
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+		is_primary_heir = yes
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_dauphine_of_france = {
+	dignity = 5
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = no
+	
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = k_france
+			OR = {
+				has_landed_title = c_dauphine_viennois 
+				any_vassal = {has_landed_title = c_dauphine_viennois }
+			}
+		}
+		is_primary_heir = yes
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_baron_seymor = {
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = no
+	
+	monthly_prestige = 0.005
+	
+	allow = {
+		age = 16
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = d_somerset
+                        NOT={ OR = {
+			culture = norwegian
+			culture = danish
+			culture = swedish
+			culture = anglonorse
+			culture = gothic
+                        culture = norse
+                        culture = norsegaelic
+                        culture = icelandic
+                        culture = saxon
+                        }
+                    }
+		}
+		is_primary_heir = yes
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}

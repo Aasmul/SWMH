@@ -1,0 +1,28 @@
+# 957 - Reggionellemilia
+
+# County Title
+title = c_reggionellemilia
+
+# Settlements
+max_settlements = 4
+
+
+
+b_roccadicanossa = castle
+b_reggionellemila = city
+#b_rubiera = city
+#b_roccadeiboiardo = castle
+#b_correggio = city
+#b_carpineti = castle
+#b_castellodibianello = castle
+#b_mirandola = castle
+#b_albinea = temple
+#b_pratofontana = city
+
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

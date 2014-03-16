@@ -1,0 +1,22 @@
+# 1283 - Cern
+
+# County Title
+title = c_cern
+
+# Settlements
+max_settlements = 3
+
+b_khotynchernivstskij = castle # Khotyn/Hotin
+b_cernauti = city
+b_tetina = temple
+
+#b_dzvenyhorod = city
+#b_vasyliv = castle
+#b_onut = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

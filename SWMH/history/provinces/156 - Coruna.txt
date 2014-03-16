@@ -1,0 +1,27 @@
+# 156 - Coruna
+
+# County Title
+title = c_coruna
+
+# Settlements
+max_settlements = 4
+b_corunya = castle
+b_betanzos = city
+b_cambre = temple
+#b_ferrol = castle
+
+# Misc
+culture = galician
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_corunya = ca_town_1
+	b_corunya = ca_keep_1
+	b_corunya = ca_stable_1
+	b_corunya = ca_militia_barracks_1
+	b_corunya = ca_wall_1
+	b_corunya = ca_wall_2
+}
+1177.1.1 = { trade_post = b_spinola }

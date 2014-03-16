@@ -1,0 +1,20 @@
+# 1013 - Valona
+
+# County Title
+title = c_valona
+
+# Settlements
+max_settlements = 4
+b_kanina = castle
+b_valona = city
+b_himara = temple
+
+#b_vuno = temple
+#b_sopot = castle
+
+# Misc
+culture = arberian
+religion = orthodox
+terrain = mountain
+
+# History

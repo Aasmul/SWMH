@@ -1,0 +1,24 @@
+# 913 - Ghana
+
+# County Title
+title = c_ghana #Wagadu
+
+# Settlements
+max_settlements = 7
+b_el_ghaba = castle
+b_koumbi_saleh = city
+b_ghanata = temple
+b_goumbou = castle
+
+#b_kusata = castle 
+#b_nema = castle 
+#b_daligumbe = castle 
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History
+
+#islamization
+1067.1.1 = { religion = sunni }

@@ -1,0 +1,21 @@
+# 971 - Philadelphia
+
+# County Title
+title = c_philadelphia
+
+# Settlements
+max_settlements = 3
+
+b_flaviupolis = castle
+b_philadelphia = city
+#b_hieropolis = castle
+
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+1390.1.1 = { culture = turkish }
+1390.1.1 = { religion = sunni }

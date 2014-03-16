@@ -1,0 +1,24 @@
+# 1374 - Kingui
+
+# County Title
+title = c_kingui
+
+# Settlements
+max_settlements = 4
+b_saindemba = castle
+b_kingui = temple
+
+#b_nioro = city
+#b_diara = castle
+
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History
+
+1157.4.1 = {
+	b_diara = castle
+	capital = b_diara
+}

@@ -1,0 +1,943 @@
+###############################################################
+#  SWMH Norman characters
+###############################################################
+#Norman character Range: 1000227350 - 1000227500
+###########
+#d'Oilly
+1000227350 = {
+	name="Walter"
+	dynasty=1000100062
+	religion="catholic"
+	culture="norman"
+	1000.1.1 = {
+		birth=yes
+	}
+	1060.1.1 = { 
+		death=yes
+	}
+}
+1000227351 = {
+	name="Robert" #Highsheriff of Oxford and Berkshire 1071-1086
+	dynasty=1000100062
+	father=1000227350
+	religion="catholic"
+	culture="norman"
+	1034.1.1 = {
+		birth=yes
+	}
+	1066.10.14 = {
+		add_spouse=1000226303# Ealdgyth of Wallingford
+	}
+	1092.9.1 = { 
+		death=yes
+	}
+}
+1000227352 = {
+	name="Nigel" # 1120 lord of Oxford castle
+	dynasty=1000100062
+	father=1000227350
+	religion="catholic"
+	culture="norman"
+	1038.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1126.1.1 = { 
+		death=yes
+	}
+}
+1000227353 = {
+	name="Maud" # Mathilda d'Oilly, Wife of Miles Crispian and brian fitz count
+	dynasty=1000100062
+	father=1000227351
+	mother=1000226303
+        female=yes
+	religion="catholic"
+	culture="norman"
+	1070.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1155.1.1 = { 
+		death=yes
+	}
+}
+1000227354 = {
+	name="Robert"
+	dynasty=1000100062
+	father=1000227352
+	religion="catholic"
+	culture="norman"
+	1089.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+        #married Edith Forne in 1120
+	1142.1.1 = { 
+		death=yes #beseiged by King Steven
+	}
+}
+1000227355 = {
+	name="Fulk"
+	dynasty=1000100062
+	father=1000227352
+	religion="catholic"
+	culture="norman"
+	1090.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1158.1.1 = { 
+		death=yes
+	}
+}
+1000227356 = {
+	name="Henry"
+	dynasty=1000100062
+	father=1000227354
+	religion="catholic"
+	culture="english"
+	1126.1.1 = {
+		birth=yes
+	}  
+        #Married Margery daughter of Humphry Bohun, Earl of Hereford.
+	1219.1.1 = { 
+		death=yes # died somtime after 1215
+	}
+}
+1000227357 = {
+	name="Gilbert"
+	dynasty=1000100062
+	father=1000227354
+	religion="catholic"
+	culture="english"
+	1127.1.1 = {
+		birth=yes
+	}
+	1188.1.1 = { 
+		death=yes
+	}
+}
+########
+1000227358 = {
+	name="Edouard" # "Edwin", Highsheriff of Oxford 1068-1071
+	religion="catholic"
+	culture="norman"
+	1030.1.1 = {
+		birth=yes
+	}
+	1086.1.1 = { 
+		death=yes
+	}
+}
+##########################
+1000227359 = {
+	name="Milo" # Miles Crispin, lord of Wallingford 1093-1107
+	dynasty=4012
+	religion="catholic"
+	culture="norman"
+	1030.1.1 = {
+		birth=yes
+	}
+	1084.1.1 = {
+		add_spouse=1000227353# Maud d'Oilly
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1107.1.1 = { 
+		death=yes
+	}
+}
+1000227360 = {
+	name="Brian" # Brian fitz Count, lord of Wallingford 1107
+	dynasty=1000100064
+	religion="catholic"
+	culture="breton"
+        trait="bastard"
+	trait="skilled_tactician"
+        father=180 # Alan IV of Brittany
+	1084.1.1 = {
+		birth=yes
+	}
+	1107.1.1 = {
+		add_spouse=1000227353# Maud d'Oilly
+	}
+	1149.1.1 = { 
+		death=yes
+	}
+}
+######################################################
+#de Lacy
+1000227361 = {
+	name="Hugh" #seignur of Lassy
+	dynasty=4037
+	religion="catholic"
+	culture="norman"
+	1020.1.1 = {
+		birth=yes
+	}
+	1085.3.27 = { 
+		death=yes
+	}
+}
+#######
+#129083 = {
+#	name="Ilbert" #Ilbert de Lacy first lord of Pontefract and 2nd lord of Bowland
+#	dynasty=4037
+#	religion="catholic"
+#	culture="norman"
+#       father=1000227361     
+#	1045.1.1 = {
+#		birth="1045.1.1"
+#	}
+#	1093.1.1 = {
+#		death="1093.1.1"
+#	}
+#}
+#129084 = {
+#	name="Robert" #Robert de Lacy 2nd lord of Pontefract and 3d lord of Bowland
+#	dynasty=4037
+#	religion="catholic"
+#	culture="english"
+#	father=129083
+#	1070.1.1 = {
+#		birth="1070.1.1"
+#	}
+#	1112.11.1 = {
+#		death="1112.11.1" # probably not right
+#	}
+#}
+#
+#129085 = {
+#	name="Albreda" #Albreda de Lacy
+#	female=yes
+#	dynasty=4037
+#	religion="catholic"
+#	culture="english"
+#	father=129084
+#	1097.1.1 = {
+#		birth="1097.1.1"
+#	}
+#	1148.1.1 = {
+#		death="1148.1.1"
+#	}
+#}
+1000227362 = {
+	name="Ilbert" # Ilbert II 3d lord of Pontefract and 4th lord of Bowland
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+        father=129083
+	1090.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1141.2.2 = { 
+		death=yes # falls in battle against King Stephen
+	}
+}
+1000227363 = {
+	name="Robert" # 2nd son of Robert de Lacy
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+        father=129083
+	1094.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1138.8.22 = { 
+		death=yes # falls at the battle of the standard
+	}
+}
+1000227364 = {
+	name="Henry" # 4th lord of Pontefract and 5th lord of Bowland
+	dynasty=4037
+	religion="catholic"
+	culture="norman"
+        father=129083
+	1099.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1177.9.25 = { 
+		death=yes
+	}
+}
+1000227365 = {
+	name="Robert" # 5th lord of Pontefract and 6th lord of Bowland
+	dynasty=4037
+	religion="catholic"
+	culture="english"
+        father=1000227364
+	1120.1.1 = {
+		birth=yes
+	}
+	1193.8.21 = { 
+		death=yes
+	}
+}
+# Robert had no children so, Albredas branch takes over Pontefract and Bowland
+################
+#De Percy/Perci
+1000227366 = {
+	name="William" # William de Percy 1st baron of Topcliff, married Emma de Porte.
+	dynasty=1000100063
+	religion="catholic"
+	culture="norman"
+	1035.1.1 = {
+		birth=yes
+	}
+	1096.6.1 = { 
+		death=yes
+	}
+}
+1000227367 = {
+	name="Alan" # Alan de Percy 2nd baron of Topcliff, son of William, married Emma de ghent.
+	dynasty=1000100063
+	religion="catholic"
+	culture="norman"
+        father=1000227366
+	1060.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1135.1.1 = { 
+		death=yes
+	}
+}
+1000227368 = {
+	name="Walter" # Walter de Percy
+	dynasty=1000100063
+	religion="catholic"
+	culture="norman"
+        father=1000227366
+	1061.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1140.1.1 = { 
+		death=yes
+	}
+}
+1000227369 = {
+	name="William" # William de Percy 2nd abbot of Whitby.
+	dynasty=1000100063
+	religion="catholic"
+	culture="norman"
+        father=1000227366
+	1062.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1130.1.1 = { 
+		death=yes
+	}
+}
+1000227370 = {
+	name="Richard" # Richard de Percy, Lord of Dunsley
+	dynasty=1000100063
+	religion="catholic"
+	culture="norman"
+        father=1000227366
+	1063.1.1 = {
+		birth=yes
+	}
+	1128.1.1 = { 
+		death=yes
+	}
+}
+1000227401 = {
+	name="William" # William de Percy 3rd baron of Topcliffe, Son of Alan
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        father=1000227367
+	1088.1.1 = {
+		birth=yes
+	}
+	1100.1.1 = {
+		culture=english
+	}
+	1150.1.1 = { 
+		death=yes
+	}
+}
+1000227402 = {
+	name="William" # William de Percy 4th baron of Topcliffe, Son of William
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        father=1000227401
+	1112.1.1 = {
+		birth=yes
+	}
+	1168.1.1 = { 
+		death=yes
+	}
+}
+1000227403 = {
+	name="Agnes" # Agnes de Percy, Baroness of Topcliffe, daughter of William
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        father=1000227402
+        female=yes
+	1134.1.1 = {
+		birth=yes
+	}
+	1205.1.1 = { 
+		death=yes
+	}
+}
+1000227404 = {
+	name="Henry" # Henry de Percy 5th baron of Topclifee, son of Agnes.
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        mother=1000227403
+	1166.1.1 = {
+		birth=yes
+	}
+	1244.1.1 = { 
+		death=yes
+	}
+}
+1000227405 = {
+	name="William" # William de Percy 6th baron of Topclifee, son of Henry.
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        father=1000227404
+	1193.1.1 = {
+		birth=yes
+	}
+	1245.1.1 = { 
+		death=yes
+	}
+}
+1000227406 = {
+	name="Henry" # Henry de Percy 7th baron of Topclifee, son of William.
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        father=1000227405
+	1228.1.1 = {
+		birth=yes
+	}
+	1273.1.2 = { 
+		death=yes # Died a couple of months earlier, 7 months before his son was born but that dosn't work for the title history.
+	}
+}
+1000227407 = {
+	name="Henry" # Henry de Percy 8th baron of Topclifee, 1st baron of Percy Alnwick, son of Henry.
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        father=1000227406
+	1273.1.1 = {
+		birth=yes
+	}
+	1314.1.1 = { 
+		death=yes
+	}
+}
+1000227408 = {
+	name="Henry" # Henry de Percy 9th baron of Topclifee, 2nd baron of Percy Alnwick, son of Henry.
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        father=1000227407
+	1299.1.1 = {
+		birth=yes
+	}
+	1352.1.1 = { 
+		death=yes
+	}
+}
+1000227409 = {
+	name="Henry" # Henry de Percy 10th baron of Topclifee, 3rd baron of Percy Alnwick, son of Henry.
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        father=1000227408
+	1321.1.1 = {
+		birth=yes
+	}
+	1368.1.1 = { 
+		death=yes
+	}
+}
+1000227410 = {
+	name="Henry" # Henry de Percy Earl of Northumberland, 11th baron of Topclifee, 4th baron of Percy Alnwick, king of Man,  son of Henry.
+	dynasty=1000100063
+	religion="catholic"
+	culture="english"
+        father=1000227409
+	1341.11.10 = {
+		birth=yes
+	}
+	1408.2.20 = { 
+		death=yes
+	}
+}
+######
+#de Cherbourg
+1000227371 = {
+	name="Gerberot" # Gerberot de Cherbourg
+	dynasty=1000100065
+	religion="catholic"
+	culture="norman"
+	1035.1.1 = {
+		birth=yes
+	}
+	1087.9.9 = { 
+		death=yes
+	}
+}
+####
+#d'Ivry/d'Bayeux
+1000227372 = {
+	name="Eperleng"  
+	dynasty=532
+	religion="catholic"
+	culture="norman"
+	900.1.1 = {
+		birth=yes
+	}
+	970.1.1 = { 
+		death=yes
+	}
+}
+1000227373 = {
+	name="Rodulf" # Rodulf/Raoul d'Ivry comte d'Ivry/Bayeux 1000ish(first recorded 1011)
+	dynasty=532
+	religion="catholic"
+	culture="norman"
+        father=1000227372
+	945.1.1 = {
+		birth=yes
+	}
+	1015.1.1 = { 
+		death=yes
+	}
+}
+1000227374 = {
+	name="Hugues" # Hugo/Huges d'Ivry ,Bishop of Bayeux 1015-1059 possibly also comte d'Ivry/Bayeux.
+	dynasty=532
+	religion="catholic"
+	culture="norman"
+        father=1000227373
+	960.1.1 = {
+		birth=yes
+	}
+	1049.1.1 = { 
+		death=yes
+	}
+}
+###
+# de Bellême 
+1000227375 = {
+	name="Yves" # Ives seignur de Bellême ?-1005.
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+	935.1.1 = {
+		birth=yes
+	}
+	959.1.1 = {
+		add_spouse=1000227376 # Godeheut
+	}
+	1005.1.1 = { 
+		death=yes
+	}
+}
+1000227376 = {
+	name="Godeheut" # Wife of Yves.
+	religion="catholic"
+	culture="norman"
+        female=yes
+	940.1.1 = {
+		birth=yes
+	}
+	1010.1.1 = { 
+		death=yes
+	}
+}
+1000227377 = {
+	name="Guillaume" # William seignur de Bellême 1005-1028.
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227375
+        mother=1000227376
+	960.1.1 = {
+		birth=yes
+	}
+	985.1.1 = {
+		add_spouse=1000227382 # Mathilde d'Condé-sur-Noireau
+	}
+	1028.1.1 = { 
+		death=yes
+	}
+}
+1000227378 = {
+	name="Yves" # Abbot of Fleury.
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227375
+        mother=1000227376
+	962.1.1 = {
+		birth=yes
+	}
+	1030.1.1 = { 
+		death=yes
+	}
+}
+1000227379 = {
+	name="Avesgaud" # Bishop of Le mans 997-1036
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227375
+        mother=1000227376
+	964.1.1 = {
+		birth=yes
+	}
+	1036.1.1 = { 
+		death=yes
+	}
+}
+1000227380 = {
+	name="Hildeburg" # Wife of Aimon de Chateau-du-Loir
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227375
+        mother=1000227376
+        female=yes
+	963.1.1 = {
+		birth=yes
+	}
+	1030.1.1 = { 
+		death=yes
+	}
+}
+1000227381 = {
+	name="Godehilde"
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227375
+        mother=1000227376
+        female=yes
+	961.1.1 = {
+		birth=yes
+	}
+	1020.1.1 = { 
+		death=yes
+	}
+}
+1000227382 = {
+	name="Mathilde" # Mathilde d'Condé-sur-Noireau, wife of William
+	dynasty=1000100066
+	religion="catholic"
+	culture="norman"
+        female=yes
+	964.1.1 = {
+		birth=yes
+	}
+	1040.1.1 = { 
+		death=yes
+	}
+}
+1000227383 = {
+	name="Foulques" # Fulk son of William
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227377
+        mother=1000227382
+	986.1.1 = {
+		birth=yes
+	}
+	1020.1.1 = { 
+		death=yes
+	}
+}
+1000227384 = {
+	name="Guérin" # Warin son of William, Segiur d'Domfront. Married Melisende vicomtess de Chateaudun
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227377
+        mother=1000227382
+	987.1.1 = {
+		birth=yes
+	}
+	1026.1.1 = { 
+		death=yes
+	}
+}
+1000227385 = {
+	name="Robert" # Robert son of William, seignur de Bellême 1028-1035.
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227377
+        mother=1000227382
+	988.1.1 = {
+		birth=yes
+	}
+	1035.1.1 = { 
+		death=yes # killed in captivity
+	}
+}
+1000227386 = {
+	name="Yves" # Ives son of William, bishop of Sées 1047-1071.
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227377
+        mother=1000227382
+	993.1.1 = {
+		birth=yes
+	}
+	1071.1.1 = { 
+		death=yes 
+	}
+}
+#448 = {
+#	name="Guillaume" # William II Talvas son of William, seignur de Bellême 1035-1047ish and again 1049ish-1052.
+#	dynasty=709
+#        father=1000227377
+#        mother=1000227382
+#	martial=5
+#	diplomacy=4
+#	intrigue=5
+#	stewardship=4
+#	religion="catholic"
+#	culture="norman"
+#	trait="skilled_tactician"
+#       trait=cruel
+#        trai=ambitious
+#        trai=cynical
+#	995.1.1 = {
+#		birth=yes
+#	}
+#	1020.1.1 = {
+#		add_spouse=1000227388 # Hildeburg
+#	}
+#	1052.1.1 = {
+#		death=yes
+#	}
+#}
+1000227387 = {
+	name="Arnulf" # Father of Hildeburg.
+	religion="catholic"
+	culture="norman"
+	960.1.1 = {
+		birth=yes
+	}
+	1040.1.1 = { 
+		death=yes
+	}
+}
+1000227388 = {
+	name="Hildeburg" # Hildeburg first wife of Wiliam II Talvas.
+	religion="catholic"
+	culture="norman"
+        father=1000227388
+        female=yes
+	999.1.1 = {
+		birth=yes
+	}
+	1045.1.1 = { 
+		death=yes#Murderd by her husband
+	}
+}
+1000227390 = {
+	name="Arnulphe" # Arnulf first son of William II Talvas Segniur de Belleme 1047ish-1049ish
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=448
+        mother=1000227388
+	1021.1.1 = {
+		birth=yes
+	}
+	1049.1.1 = { 
+		death=yes
+	}
+}
+#449 = {
+#	name="Mabel" #Talvas, daughter of William II Talvas
+#	female=yes
+#	dynasty=709 #de Belesme
+#	religion="catholic"
+#	culture="norman"
+#	trait="charismatic_negotiator"
+#	father=448
+#        mother=1000227388
+#	1023.1.1 = {
+#		birth="1023.1.1"
+#	}
+#	# 1048 married  #Roger II de Montgommery
+#	1079.1.1 = {
+#		death="1079.1.1"
+#	}
+#}
+1000227391 = {
+	name="Oliver" # Oliver son of William II Talvas and a daughter of Ralf de Beaumont, Viscount of Le Mans
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=448
+	1046.1.1 = {
+		birth=yes
+	}
+	1049.1.1 = { 
+		death=yes
+	}
+}
+#
+1000227392 = {
+	name="Guy" # Guy II(of Pontheiu) son of William III, comte de Pontheiu 1124-1147
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=168182
+	1115.1.1 = {
+		birth=yes
+	}
+	1147.12.25 = { 
+		death=yes
+	}
+}
+1000227393 = {
+	name="Jean" # John son of William III, comte de Alencon 1171-1191
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=168182
+	1118.1.1 = {
+		birth=yes
+	}
+	1191.2.14 = { 
+		death=yes
+	}
+}
+1000227394 = {
+	name="Jean" # John II son of John I, comte de Alencon 1191-1191(died three months after his father)
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227393
+	1140.1.1 = {
+		birth=yes
+	}
+	1191.5.14 = { 
+		death=yes
+	}
+}
+1000227395 = {
+	name="Robert" # Robert son of John I, comte de Alencon 1191-1217
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227393
+	1145.1.1 = {
+		birth=yes
+	}
+	1217.9.8 = { 
+		death=yes
+	}
+}
+1000227396 = {
+	name="Jean" # John III son of Robert
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227395
+	1168.1.1 = {
+		birth=yes
+	}
+	1212.1.1 = { 
+		death=yes
+	}
+}
+1000227400 = {
+	name="Robert" # Robert II son of Robert, posthum comte de Alencon in 1220.
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227395
+	1169.1.1 = {
+		birth=yes
+	}
+	1216.1.1 = { 
+		death=yes
+	}
+}
+1000227397 = {
+	name="Jean" # John I(of Pontheiu) son of Guy II(of Pontheiu), comte de Pontheiu 1140-1191
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227392
+	1140.1.1 = {
+		birth=yes
+	}
+	1191.1.1 = { 
+		death=yes
+	}
+}
+1000227398 = {
+	name="Guillaume" # William III(of Pontheiu) son of John I(of Pontheiu), comte de Pontheiu 1191-1121
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227397
+	1179.1.1 = {
+		birth=yes
+	}
+	1221.10.4 = { 
+		death=yes
+	}
+}
+1000227399 = {
+	name="Marie"  # Daughter of William III(of Pontheiu), comtess de Pontheiu 1221-1250. Married Simon de Dammartin.
+	dynasty=709
+	religion="catholic"
+	culture="norman"
+        father=1000227398
+        female=yes
+	1199.1.1 = {
+		birth=yes
+	}
+	1250.9.1 = { 
+		death=yes
+	}
+}

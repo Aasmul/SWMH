@@ -1,0 +1,35 @@
+# 1214 - Trancoso
+
+# County Title
+title = c_trancoso
+
+# Settlements
+max_settlements = 4
+b_trancoso = castle
+#b_guarda = castle
+#b_seia = temple
+#b_manteigas = city
+#b_celorico_da_beira = castle
+#b_aguiar_da_beira = castle
+
+#b_gouveia = castle
+#b_figeira_de_castelo_rodrigo = castle
+#b_almeida = castle
+#b_pinhel = castle
+#b_sabugal = castle
+#b_vila_nova_de_foz_coa = castle
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_trancoso = ca_town_1
+	b_trancoso = ca_keep_1
+	b_trancoso = ca_stable_1
+	b_trancoso = ca_militia_barracks_1
+	b_trancoso = ca_wall_1
+	b_trancoso = ca_wall_2
+}

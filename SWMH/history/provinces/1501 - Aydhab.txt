@@ -1,0 +1,18 @@
+# 1501 - Aydhab
+
+# County Title
+title = c_aydhab
+
+# Settlements
+max_settlements = 3
+
+b_aydhab = castle
+b_halaib = city
+
+#b_birshalatayn = temple
+
+# Misc
+culture = beja
+religion = pagan
+
+# History

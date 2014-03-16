@@ -1,0 +1,30 @@
+# 1137 - Guidi
+
+# County Title
+title = c_guidi
+
+# Settlements
+max_settlements = 6
+
+b_sanminiato = castle
+b_pistoia = temple
+b_castellodeicontiguidi = castle
+b_castellodeltrebbio = castle
+
+#b_poggibonsi = city
+#b_empoli = city
+#b_fucecchio = city
+#b_strumi = temple
+#b_castellodelvinciosulambrone = castle
+#b_bibbena = city
+#b_borgosanlorenzo = city
+#b_castellodellamagione = castle
+#b_pontassieve = castle
+
+# Misc
+culture = tuscan
+religion = catholic
+
+# History
+
+1155.1.1 = { b_poggibonsi = city }

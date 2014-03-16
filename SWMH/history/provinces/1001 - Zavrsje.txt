@@ -1,0 +1,24 @@
+# 1001 - Zavrsje
+
+# County Title
+title = c_zavrsje
+
+# Settlements
+max_settlements = 3
+
+b_glamoc = castle
+b_livna = city
+b_duvno = temple
+#b_humac = temple
+
+# Misc
+culture = bosnian
+religion = catholic
+
+# History
+
+ 
+ 
+ 
+
+

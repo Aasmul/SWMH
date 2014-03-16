@@ -1,0 +1,19 @@
+# 1509 - Bur
+
+# County Title
+title = c_bur
+
+# Settlements
+max_settlements = 3
+b_matara = castle
+b_qohaito = city
+
+#b_saho = temple
+
+# Misc
+culture = afar
+religion = miaphysite
+
+# History
+
+  

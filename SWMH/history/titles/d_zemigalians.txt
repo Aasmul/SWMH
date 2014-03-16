@@ -1,0 +1,31 @@
+# Mark for v1.102
+867.1.1=
+{
+holder=167731
+}
+1066.1.1=
+{
+holder=20603
+}
+1120.1.1={
+	holder = 144629
+}
+1170.1.1={
+	holder=220603
+}
+1199.1.1={
+	holder = 1000227745 # Viestards King of Semigalians pre1205-1231ish
+}
+1231.1.1={
+	holder = 0 # Death of Viestards, Riga spreads its influence.
+}
+#Zemgalian rebellion
+1251.3.3={
+	holder = 1000227746 # Šabis, lord of Semigalians 1250ish-1272
+}
+1272.1.1={
+	holder = 1000227746 # Nameisis, lord of Semigalians 1272-1281
+}
+1281.1.1={
+	holder = 0 #Nameisis defeated.
+}

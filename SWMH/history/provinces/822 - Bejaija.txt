@@ -1,0 +1,22 @@
+# 822 - Bejaija
+
+# County Title
+title = c_bejaija
+
+# Settlements
+max_settlements = 3
+
+b_bejaija = castle
+b_tadallis = city
+
+#b_elbekara = castle
+#b_eldjabia = castle
+#b_boudaoud = castle
+#b_gantas = castle
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History
+

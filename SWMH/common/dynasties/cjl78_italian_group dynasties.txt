@@ -1,0 +1,50 @@
+
+1000064001 = {
+	name="di Ventimiglia"
+	culture = ligurian
+}
+
+1000064002 = {
+	name="di Luni"
+	culture = italian #Lombardo
+}
+
+1000064003 = {
+	name="de Zori"
+	culture = sardinian
+}
+
+1000064004 = {
+	name="de Gunale"
+	culture = sardinian
+}
+
+1000064005 = {
+	name="di Torres"
+	culture = sardinian
+}
+
+1000064006 = {
+	name="Crescenzi"
+	culture = central_italian
+}
+
+1000064007 = {
+	name="di Bergamo"
+	culture = italian
+}
+
+1000064008 = {
+	name="di Ferrara"
+	culture = italian
+}
+
+1000064009 = {
+	name="di Urbino"
+	culture = central_italian
+}
+
+1000064010 = {
+	name="di Fermo"
+	culture = central_italian
+}

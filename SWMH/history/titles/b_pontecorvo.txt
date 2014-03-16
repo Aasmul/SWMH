@@ -1,0 +1,22 @@
+###CJL78 - rulers (Dukes) of Gaeta
+#Pontecorvo ruled by Dukes of Gaeta until bought by the abbot of Monte Cassino in 1105
+1066.1.1={
+	liege="c_gaeta"
+	holder=1000167000 #Geoffrey Ridel
+}
+1086.1.1={
+	holder=1000167001 #Reginald Ridel
+}
+1090.1.1={
+	holder=1000167002 #Gualganus Ridel
+}
+1091.1.1={
+	holder=1000167003 #Lando (or Landulf - possibly a Lombard or Greek descendant; will be Norman for gameplay)
+}
+1103.1.1={
+	holder=1000167004 #William de Blosseville
+}
+1105.1.1={
+	holder=0
+	liege="d_sangermano"
+}

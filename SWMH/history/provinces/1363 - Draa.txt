@@ -1,0 +1,17 @@
+# 1363 - Draa
+
+# County Title
+title = c_draa
+
+# Settlements
+max_settlements = 2
+
+b_tata = castle
+b_wadidraa = temple  # Wadi Draa
+
+# Misc
+culture = tagelmust
+religion = ibadi
+
+# History
+1030.1.1 = { religion = sunni }

@@ -1,0 +1,75 @@
+###############################################################
+#  SWMH Pommeranian Characters
+###############################################################
+#Range: 1000226900 - 1000226949
+###############################################################
+#
+###########
+#Wolinians
+###########
+1000226900 = {
+	name="Wlodek"
+        dynasty=1000100400
+	religion="slavic_pagan"
+	culture="pommeranian"
+	840.1.1 = {
+		birth=yes
+	}
+	899.1.1 = {
+		death=yes
+	}
+}
+1000226901 = {
+	name="Bezprzym"
+        dynasty=1000100400
+	religion="slavic_pagan"
+	culture="pommeranian"
+        father=1000226900
+	868.1.1 = {
+		birth=yes
+	}
+	960.1.1 = {
+		death=yes
+	}
+}
+###########
+#Leubuzzi
+###########
+1000226902 = {
+	name="Udalrich"
+        dynasty=1000100401
+	religion="slavic_pagan"
+	culture="pommeranian"
+	845.1.1 = {
+		birth=yes
+	}
+	888.1.1 = {
+		death=yes
+	}
+}
+1000226903 = {
+	name="Dobieslaw"
+        dynasty=1000100401
+	religion="slavic_pagan"
+	culture="pommeranian"
+        father=1000226902
+	869.1.1 = {
+		birth=yes
+	}
+	932.1.1 = {
+		death=yes
+	}
+}
+1000226904 = {
+	name="Udalrich"
+        dynasty=1000100401
+	religion="slavic_pagan"
+	culture="pommeranian"
+        father=1000226903
+	898.1.1 = {
+		birth=yes
+	}
+	962.1.1 = {
+		death=yes
+	}
+}

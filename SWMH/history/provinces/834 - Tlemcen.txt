@@ -1,0 +1,30 @@
+# 834 - Tlemcen
+
+# County Title
+title = c_tlemcen
+
+# Settlements
+max_settlements = 6
+
+b_tlemcen = castle
+b_ainelberd = temple
+b_sidibelabbes = city
+b_bedrabine = castle
+
+#b_elhaicaiba = castle
+#b_dhaya = castle
+#b_naama = city
+
+b_muaskar = temple
+#b_tessala = castle
+#b_letelagh = castle
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+
+
+

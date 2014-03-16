@@ -1,0 +1,33 @@
+600.1.1={
+	liege = "k_papal_state"
+}
+#CJL78 - Conti di Aquino
+1000.1.1={
+	liege = "d_capua"
+	holder = 1000167110 #Atenulf IV
+}
+1038.1.1={
+	holder = 1000167111 #Atenulf V
+}
+1062.1.1={
+	holder = 73346 #Lando
+}
+1065.1.1={
+	holder = 73347 #Atenulf VI
+}
+1105.1.1={
+	holder = 1000167119
+}
+1130.1.1={
+	holder = 1000167120
+}
+1170.1.1={
+	holder = 1000167121
+}
+1210.1.1={
+	holder = 1000167122
+}
+1251.1.1={
+	liege = "k_sicily"
+	holder = 0
+}

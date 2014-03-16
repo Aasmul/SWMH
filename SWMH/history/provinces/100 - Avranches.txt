@@ -1,0 +1,43 @@
+# 100 - Avranches
+
+# County Title
+title = c_avranches
+
+# Settlements
+max_settlements = 3
+
+b_avranches = castle
+b_percy = castle
+b_granville = city
+#b_brecey = castle
+#b_pontorson = castle
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+911.1.1 = { # Viking takeover
+	remove_settlement = b_percy
+	remove_settlement = b_granville
+        b_avranches = castle
+        b_percy = castle
+        b_granville = city
+
+	b_avranches = ca_keep_1
+	b_avranches = ca_training_grounds_1
+	b_avranches = ca_stable_1
+	b_avranches = ca_wall_1
+	b_avranches = ca_wall_2
+	b_avranches = ca_militia_barracks_1
+	b_avranches = ca_barracks_1
+	b_avranches = ca_town_1
+	b_granville = ct_port_1
+}
+
+960.1.1 = {
+	culture = norman
+}
+
+1100.11.11 = { culture = frankish }
+

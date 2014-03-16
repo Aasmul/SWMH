@@ -1,0 +1,19 @@
+# 1412 - Hoggar
+
+# County Title
+title = c_hoggar
+
+# Settlements
+max_settlements = 2
+b_hoggar = castle
+b_tamanrasset = city
+
+# Misc
+culture = tuareg
+religion = west_african_pagan
+
+# History
+
+#islamization
+940.1.1 = { religion = ibadi }
+1123.1.1 = { religion = sunni }

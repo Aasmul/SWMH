@@ -1,0 +1,26 @@
+# 1188 - Quercy
+
+# County Title
+title = c_quercy
+
+# Settlements
+max_settlements = 4
+
+b_morlhorn = castle
+b_cahors = city
+b_saintantonin = temple
+#b_figeac = temple
+#b_rocamadour = temple
+#b_mondenard = city
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History
+1150.1.1 = { religion = cathar }
+1244.3.16 = { religion = catholic}
+
+
+
+

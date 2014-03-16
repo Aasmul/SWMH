@@ -1,0 +1,80 @@
+859.1.1={
+	holder=1000227574
+}
+901.1.1=
+{
+holder=1000227575
+}
+932.1.1=
+{
+holder=1000227576
+}
+955.1.1=
+{
+holder=1000227577
+}
+978.1.1=
+{
+holder=1000227578
+}
+993.1.1=
+{
+holder=1000227579
+}
+1038.1.1=
+{
+holder=1000227580
+}
+1063.1.1=
+{
+holder=28023
+}
+1089.1.1=
+{
+holder=143150
+}
+1139.1.1=
+{
+holder=143151
+}
+1187.1.1=
+{
+holder=228023
+}
+#Archbishop of Riga
+1199.1.1=
+{
+holder=30421 #Albrecht von Buxthoeven
+}
+1229.1.17=
+{
+holder=30422 #Nikolaus von Nauen
+}
+1254.1.1=
+{
+holder=30423 #Albrecht Suerbeer
+}
+1273.3.1=
+{
+holder=30424 #Johann von Lunen
+}
+1284.1.1=
+{
+holder=30425 #Johann von Vechta
+}
+1294.2.4=
+{
+holder=30426 #Johann von Schwerin
+}
+1300.12.19=
+{
+holder=30427 #Isarno de Fenties
+}
+1302.1.1=
+{
+holder=30313 #Jens Grand
+}
+1304.1.1=
+{
+holder=30428 #Friedrich von Pernstein
+}

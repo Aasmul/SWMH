@@ -1,0 +1,20 @@
+# 1165 - Langres
+
+# County Title
+title = c_langres
+
+# Settlements
+max_settlements = 3
+b_langres = temple
+b_chaumont = city
+
+#b_bourmont = castle
+#b_nogent = temple
+#b_chalindrey = city
+
+
+culture = frankish
+religion = catholic
+
+# History
+

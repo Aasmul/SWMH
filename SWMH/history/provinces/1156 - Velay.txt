@@ -1,0 +1,20 @@
+# 1156 - Velay
+
+# County Title
+title = c_velay
+
+# Settlements
+max_settlements = 4
+b_lachaisedieu = temple
+b_lepuy = city
+
+#b_monistrol = temple
+#b_yssingeaux = castle
+#b_vorey = city
+
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History

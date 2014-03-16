@@ -1,0 +1,28 @@
+# 1120 - Malaspina
+
+# County Title
+title = c_malaspina
+
+# Settlements
+max_settlements = 4
+
+b_sarzana = castle
+b_lunibishop = temple
+b_carrara = city
+#b_aulla = city
+#b_mulazzo = city
+#b_minucciano = city
+#b_fivizzano = city
+#b_fosdinovo = castle
+#b_castellomalaspina = castle
+
+
+
+
+
+# Misc
+culture = tuscan
+religion = catholic
+
+# History
+

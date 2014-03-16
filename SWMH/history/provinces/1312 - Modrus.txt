@@ -1,0 +1,22 @@
+# 1312 - Modrus
+
+# County Title
+title = c_modrus
+
+# Settlements
+max_settlements = 4
+
+b_modrus_castle = castle
+b_trsat = castle
+b_rijeka = city
+#b_grobnik_vinodol = castle
+#b_drivenik = castle
+#b_bakar_modrus = city
+#b_grizane = castle
+#b_hrejlin = castle
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History

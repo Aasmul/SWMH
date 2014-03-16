@@ -1,0 +1,40 @@
+# 582 - Vladimir
+
+# County Title
+title = c_vladimir
+
+# Settlements
+max_settlements = 6
+
+b_bogolyubovo = castle
+b_vladimir = city
+#b_yurevpolskiy = city
+b_sergiyevposad = temple
+#b_radonezh = castle
+#b_aleksandrov = city
+#b_strunino = city
+#b_pokrov = temple
+#b_shartura = city
+
+# Misc
+culture = mari
+religion = finnish_pagan
+
+# History
+988.1.1 = {
+	culture = russian
+	religion = orthodox
+}
+1152.1.1 = { b_yurevpolskiy = city } 
+1187.1.1 = { b_radonezh = castle } 
+1238.1.1 = { remove_settlement = b_yurevpolskiy } #Mongol invasion
+1238.1.1 = { remove_settlement = b_radonezh }
+1299.1.1 = { b_pokrov = temple } #Metropolitan moves to Vladimir
+1325.1.1 = { remove_settlement = b_pokrov } #Metropolitan moves to Moscow
+
+
+
+
+
+
+

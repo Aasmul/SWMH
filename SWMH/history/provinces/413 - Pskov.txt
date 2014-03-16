@@ -1,0 +1,34 @@
+# 413 - Pskov
+
+# County Title
+title = c_pskov
+
+# Settlements
+max_settlements = 6
+
+b_izborsk = castle
+b_pskov = city
+b_pechory = temple
+
+#b_ostrovpskov = castle
+#b_kamnopskov = city
+#b_veljepskov= city
+#b_vrevopskov = city
+#b_voronicpskov = city
+#b_sebezpskov = castle
+#b_opockapskov = city
+#b_gdovpskov = castle
+
+
+# Misc
+culture = tsuudi
+religion = finnish_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+1150.1.1 = { culture = russian }
+1200.1.1 = { b_ostrovpskov = castle }
+1266.1.1 = { capital = b_pskov } #Pskov republic practically independent
+1323.1.1 = { b_gdovpskov = castle }
+
+

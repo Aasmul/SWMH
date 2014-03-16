@@ -1,0 +1,20 @@
+# 1434 - Derry
+
+# County Title
+title = c_derry
+
+# Settlements
+max_settlements = 3
+
+b_aileach = castle
+b_derry = temple
+#b_coleraine = city
+#b_dungiven = temple
+#b_maghera = castle
+
+# Misc
+culture = irish
+religion = catholic
+terrain = hills
+
+# History

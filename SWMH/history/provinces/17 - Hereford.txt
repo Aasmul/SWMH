@@ -1,0 +1,26 @@
+# 17 - Hereford # Herefordshire
+
+# County Title
+title = c_hereford
+
+# Settlements
+max_settlements = 4
+
+b_wigmore = castle
+b_hereford = temple
+#b_clifford = castle
+#b_ledbury = city
+#b_ewyas_harold = castle
+#b_goodrich = castle
+#b_pemridge_castle = castle
+#b_pemridge = city
+#b_leominster = temple
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1070.1.1 = { b_clifford = castle } 
+1100.11.11 = { culture = english } 

@@ -1,0 +1,40 @@
+# 56 - Durham
+
+# County Title
+title = c_durham
+
+# Settlements
+max_settlements = 4
+
+b_durham = castle
+b_auckland = city
+
+#b_hartlepool = temple
+#b_castle_barnard = castle
+#b_bowes = castle
+#b_darlington = city 
+#b_stockton_on_tees = city
+#b_raby = castle
+#b_washington = castle
+#b_jarrow = temple
+#b_chester-le-street = temple
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+880.1.1 = { culture = norse } # Danes settle down
+880.1.1 = { religion = norse_pagan } # Danes settle down
+883.1.1 = { b_chester-le-street = temple } # Replacing Lindisfarne as Bishop see,which was destroyed 8 years earlier 
+883.1.1 = { religion = catholic } # Guthfrith grants Chester le Street and surrounding area to the community of St Cuthbert. 
+995.1.1 = { remove_settlement = b_chester-le-street } # Bishop's See moved to Durham
+995.1.1 = { b_durham = temple } # Bishop's See moved to Durham
+1066.1.1 = { culture = danish }
+1070.1.1 = { culture = saxon } # Harrying of the north
+1100.11.11 = { culture = english }
+1150.1.1 = { b_auckland = temple } # Bishops castle built
+1185.1.1 = { b_hartlepool = city }
+1284.1.1 = { capital = b_auckland } # Bishop moved to Auckland
+1284.1.1 = { b_durham = city } # Bishop moved to Auckland

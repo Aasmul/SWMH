@@ -1,0 +1,32 @@
+# 271 - Vestfold
+
+# County Title
+title = c_vestfold
+
+# Settlements
+max_settlements = 4
+
+b_tonsberg = castle # Túnsberg
+b_skiringssal = city # Skíringssalr
+#b_hokksund = temple #Hoen/Haug
+#b_horten = castle # Holtar
+#b_kaupang = city # Kaupangr
+#b_sandefjord = castle # Gauksstaðir
+#b_drammen = castle # Húsabýr
+#b_sande = city # Sandvín
+#b_re = city # Reffoudale
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+867.1.1 = {
+	b_skiringssal = ct_port_1
+	b_skiringssal = ct_marketplace_1
+	b_oslo = tp_town_1
+}
+999.1.1 = { trade_post = b_odenbel }
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norwegian } 
+1120.1.1 = { b_hokksund = temple } 

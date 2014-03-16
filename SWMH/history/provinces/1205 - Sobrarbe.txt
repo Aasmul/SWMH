@@ -1,0 +1,28 @@
+# 1205 - Sobrarbe
+
+# County Title
+title = c_sobrarbe
+
+# Settlements
+max_settlements = 4
+b_ainsa = castle
+b_boltanya = city
+b_san_victorian = temple
+#b_las_bellostas = castle
+
+
+# Misc
+culture = aragonese
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_ainsa = ca_keep_1
+	b_ainsa = ca_wall_1
+	b_ainsa = ca_stable_1
+	b_ainsa = ca_militia_barracks_1
+	b_ainsa = ca_wall_2
+	b_ainsa = ca_barracks_1
+}
+

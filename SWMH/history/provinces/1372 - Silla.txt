@@ -1,0 +1,20 @@
+# 1372 - Silla
+
+# County Title
+title = c_silla
+
+# Settlements
+max_settlements = 3
+b_silla = castle
+b_matam = city
+
+#b_bakel = temple
+
+# Misc
+culture = wolof
+religion = west_african_pagan
+
+# History
+
+#islamization
+1030.1.1 = { religion = sunni }

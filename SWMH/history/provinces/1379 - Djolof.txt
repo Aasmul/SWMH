@@ -1,0 +1,17 @@
+# 1379 - Djolof
+
+# County Title
+title = c_djolof
+
+# Settlements
+max_settlements = 3
+b_djolof = castle
+b_wuli = temple
+
+#b_sutuco = city
+
+# Misc
+culture = wolof
+religion = west_african_pagan
+
+# History

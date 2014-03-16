@@ -1,0 +1,12 @@
+750.1.1={
+	holder = 1000226437 #Tommaltach, King of Ulster
+}
+790.1.1={
+	holder = 1000226436 #Loingsig
+}
+830.1.1={
+	holder = 1000226435 #Lethlobar
+}
+1056.1.1={
+	holder = 1000226408 #Toirdhealbhach, Lord of the castle of Dunseverick
+}

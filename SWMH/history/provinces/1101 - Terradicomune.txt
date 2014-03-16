@@ -1,0 +1,27 @@
+# 1101 - Terradicomune
+
+# County Title
+title = c_terradicomune
+
+# Settlements
+max_settlements = 4
+
+b_alando = city
+b_calvi = city
+b_castellodirostino = castle
+#b_rustinu = temple
+#b_morosagalia = city
+#b_corte = castle
+#b_lucciano = temple
+#b_aleria = castle
+#b_vescovato = temple
+#b_accia = temple
+#b_aleria = city
+#b_dimatra = castle
+
+# Misc
+culture = corsican
+religion = catholic
+terrain = mountain
+
+# History

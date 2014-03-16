@@ -1,0 +1,26 @@
+# 454 - Vas
+
+# County Title
+title = c_vas
+
+# Settlements
+max_settlements = 4
+
+b_kolonvar = castle
+b_tihany = city
+b_egerszeg = temple
+#b_kanizsa = castle
+#b_csobanc = castle
+#b_sumeg = castle
+#b_szentgrot = city
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+
+
+

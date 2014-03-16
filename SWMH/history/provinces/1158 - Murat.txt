@@ -1,0 +1,22 @@
+# 1158 - Murat
+
+# County Title
+title = c_murat
+
+# Settlements
+max_settlements = 4
+
+b_murat = castle
+#b_mauriac = city
+b_stflour = temple
+#b_auvergneval = castle
+b_besseetsaintanastaise = city
+
+
+
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History

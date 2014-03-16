@@ -1,0 +1,18 @@
+# 722 - Petra # Elim
+
+# County Title
+title = c_petra
+
+# Settlements
+max_settlements = 3
+
+b_pharaohosisland = castle
+b_jordanaqba = city
+b_syrarandal = temple
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

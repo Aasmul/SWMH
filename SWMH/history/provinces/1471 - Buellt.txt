@@ -1,0 +1,17 @@
+# 1471 - Buellt
+
+# County Title
+title = c_buellt
+
+# Settlements
+max_settlements = 2
+b_rhayader = castle
+#b_llanafan_fawr = temple
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History

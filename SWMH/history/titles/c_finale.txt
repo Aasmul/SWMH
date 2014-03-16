@@ -1,0 +1,52 @@
+860.1.1={
+	liege="k_italy"
+}
+860.1.1=
+{
+	holder=167951 
+}
+904.4.21=
+{
+	holder=167953 
+}
+915.1.1=
+{
+	holder=167955
+}
+961.1.1={
+	liege=k_germany
+	holder=7727
+}
+991.1.1={
+	holder=7733
+}
+1014.1.1={
+	holder=7734
+}
+1024.5.7={
+	liege="e_hre"
+}
+1027.5.7={
+	holder=7735
+}
+1064.8.31={
+	holder = 7737 #Boniface del Vasto (Aleramici) Really 1084, presumably after death of brothers - putting Gavelkind into gameplay here, though
+}
+1135.1.1={
+	holder=1000167010 #Enrico I
+}
+1184.1.1={
+	holder=1000167011 #Enrico II
+}
+1231.1.1={
+	holder=1000167012 #Giacomo
+}
+1268.1.1={
+	holder=1000167013
+}
+1313.1.1={
+	holder=1000167014
+}
+1359.1.1={
+	holder=1000167015
+}

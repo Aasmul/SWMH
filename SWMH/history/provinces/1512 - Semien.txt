@@ -1,0 +1,19 @@
+# 1512 - Semien
+
+# County Title
+title = c_semien
+
+# Settlements
+max_settlements = 3
+b_semien = castle
+b_debarq = city
+
+#b_deguma = temple
+
+# Misc
+culture = falashim
+religion = jewish
+
+# History
+
+  

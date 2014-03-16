@@ -1,0 +1,22 @@
+# 1080 - Lori
+
+# County Title
+title = c_lori
+
+# Settlements
+ max_settlements = 3
+b_loriberd = castle
+b_samshvilde = city
+b_haghbat = temple
+#b_mahkanaberd = castle
+#b_noraberd = castle
+#b_tsurtav = castle
+#b_khorvirap = temple
+#b_sanahin = temple
+ 
+
+# Misc
+culture = georgian
+religion = orthodox
+
+# History

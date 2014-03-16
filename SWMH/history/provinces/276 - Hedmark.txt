@@ -1,0 +1,27 @@
+# 276 - Hedmark
+
+# County Title
+title = c_hedmark
+
+# Settlements
+max_settlements = 4
+
+b_ringsaker = castle #Hringisakr
+b_ringnes = castle # Hringanes
+#b_hamarhus = temple # Hamarr
+#b_lillehammer = city # Skógr/Lilþlæ Hama
+b_flikkeshaug = temple # Fylkishaugr
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+
+1025.1.1 = { religion = catholic } 
+1025.1.1 = { remove_settlement = b_flikkeshaug }
+1025.1.1 = { b_hamarhus = temple } 
+1047.10.25 = { culture = norwegian }
+
+

@@ -1,0 +1,19 @@
+# 1306 - Zaslawye
+
+# County Title
+title = c_zaslawye
+
+# Settlements
+max_settlements = 3
+
+b_zaslawye = castle # Izjaslavl' in russian
+b_mir = city
+#b_vileyka = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+

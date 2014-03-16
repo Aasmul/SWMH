@@ -1,0 +1,482 @@
+###############################################################
+#  SWMH southern italian characters
+###############################################################
+# SWMH Character Range: 1000091142 - 1.000.092.999
+##############################################################################################
+
+####################################################################
+#
+# Ruffo family, unknown origin, maybe roman, byzantine or norman
+#
+####################################################################
+
+#Pietro was a very importan man under Federico II rule, he was the great marshall of Sicily and tutor of Corrado, later he set himself against Manfredi and was assassinated  
+1000091142 = {
+	name="Pietro"
+	dynasty=1000035431 #id taken from our southern dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1187.1.1 = {
+		birth="1187.1.1"
+	}
+	1257.1.1 = {
+		death="1257.1.1"
+	}
+}
+#Giordano was nephew of Pietro, they died in the same year as they revolted against Manfredi of Sicily, Manfredi punished Giordano by bliding him# 
+1000091143 = {
+	name="Giordano"
+	dynasty=1000035431 #id taken from our southern dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+       	1239.1.1 = {
+		birth="1239.1.1"
+	}
+	1257.1.1 = {
+		death="1257.1.1"
+	}
+}
+#Pietro 2, probably son of Pietro 1, he escaped in France after his father death, then thanks to Charles of Angiò he reacquired the county of Catanzaro#
+1000091144 = {
+	name="Pietro"
+	dynasty=1000035431 #id taken from our southern dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	father=1000091142
+        1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+##############################################################
+#
+# Castriota family id 1000035432, they came from Kosovo, unfortunately they were notorious in italian history from 1400 onwards
+#
+##############################################################
+
+##############################################################
+#
+# D'amico family, they originate from a Norman count 
+#
+##############################################################
+
+#Amico, founder of D'Amico family, count of Bari
+1000091145 = {
+	name="Amico"
+	dynasty=1000035433 #id taken from our southern dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+#Pietro, son of Amico, count of Trani# 
+1000091146 = {
+	name="Pietro"
+	dynasty=1000035433 #id taken from our southern dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	father=1000091145
+        1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1064.1.1 = {
+		death="1064.1.1"
+	}
+}
+#Gualtiero, son of Amico, baron of Civitate#
+1000091147 = {
+	name="Gualtiero"
+	dynasty=1000035433 #id taken from our southern dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	father=1000091145
+        1022.1.1 = {
+		birth="1022.1.1"
+	}
+	1060.1.1 = {
+		death="1060.1.1"
+	}
+}
+#Goffredo, son of Pietro, first count of Taranto
+1000091148 = {
+	name="Goffredo"
+	dynasty=1000035433 #id taken from our southern dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	father=1000091146
+        1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1068.1.1 = {
+		death="1068.1.1"
+	}
+}
+#Riccardo, son of Goffredo, second count of Taranto#
+1000091149 = {
+	name="Riccardo"
+	dynasty=1000035433 #id taken from our southern dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	father=1000091148
+        1065.1.1 = {
+		birth="1065.1.1"
+	}
+	1135.1.1 = {
+		death="1135.1.1"
+	}
+}
+#Ruggiero Amico, baron of Cerchiara in Calabria
+1000091150 = {
+	name="Ruggiero Amico"
+	dynasty=1000035433 #id taken from our list#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1248.1.1 = {
+		death="1248.1.1"
+	}
+}
+#Guglielmo Amico, son of Ruggiero, baron of Ficarra
+1000091151 = {
+	name="Guglielmo Amico"
+	dynasty=1000035433 #id taken from our list#
+	martial=9
+	diplomacy=10
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_diplomat"
+	add_trait="proud"
+	father=1000091150
+	1194.1.1 = {
+		birth="1194.1.1"
+	}
+	1264.1.1 = {
+		death="1264.1.1"
+	}
+}
+#########################################################
+#
+# Dé Monti family id 1000035434, they were important in the later CK2 period, better keep them as casual characters 
+#
+#########################################################
+
+#########################################################
+#
+# Ligorio family id 1000035435, it's impossible to find reliable sources for this family apart for names
+#  
+#########################################################
+
+#########################################################
+#
+# Longo family id 1000035436, they came from Venice and estabilished themselves in Apulia by the end of CK2 timeframe
+#
+#########################################################
+
+#########################################################
+#
+# Paladini family id 1000035437, they came in Apulia maybe from France
+#
+#########################################################
+#Roberto Paladini, the founder of this family, unknown origins, unknown birth and death, no heirs known, nothing at all 
+1000091152 = {
+	name="Roberto"
+	dynasty=1000035437 #id taken from our list#
+	martial=9
+	diplomacy=10
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_diplomat"
+	add_trait="proud"
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+#########################################################
+#
+# Pentasuglia family id 1000035438, was an ancient greek family established in Apulia, unfortunately all records about them are noted from year 1600 onward...
+#
+#########################################################
+
+#########################################################
+#
+# Falluca family id 1000035439, was a Norman family
+#
+#########################################################
+#Ugo
+1000091155 = {
+	name="Ugo"
+	dynasty=1000035439 #id taken from our list#
+	martial=9
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+#Erberto, son or brother of Ugo? I made him as brother
+1000091156 = {
+	name="Ugo"
+	dynasty=1000035439 #id taken from our list#
+	martial=9
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1005.1.1 = {
+		birth="1005.1.1"
+	}
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+#Miera, son of Ugo, count of Catanzaro, he give all his title to his son Adamo and left for a convent in 1088
+1000091157 = {
+	name="Miera"
+	dynasty=1000035439 #id taken from our list#
+	martial=9
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	father=1000091155
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+#Adamo, son of Miera, he lost the title of count of catanzaro after 1 year
+1000091158 = {
+	name="Adamo"
+	dynasty=1000035439 #id taken from our list#
+	martial=9
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="norman"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1120.1.1 = {
+		death="1120.1.1"
+	}
+}
+#########################################################
+#
+# Borrello family id 1000035440, was a frankish family, they established themselves in Aprutium since X° century, there aren't records about them
+#
+#########################################################
+
+#########################################################
+#
+# Pignatelli family id 1000035441, was an important family in a time after CK2
+#
+#########################################################
+#Lucio, the first Pignatelli known to history, no dates, no heirs known, nothing 
+1000091153 = {
+	name="Lucio"
+	dynasty=1000035439 #id taken from our list#
+	martial=9
+	diplomacy=10
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_diplomat"
+	add_trait="proud"
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1127.1.1 = {
+		death="1127.1.1"
+	}
+}
+#Rodolfo, maybe the son of Lucio? 
+1000091154 = {
+	name="Rodolfo"
+	dynasty=1000035439 #id taken from our list#
+	martial=9
+	diplomacy=10
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_diplomat"
+	add_trait="proud"
+	father=1000091153
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+#########################################################
+#
+# di Gaeta, id 12244, hypatus and dukes of Gaeta
+#
+#########################################################
+#Docibilis I, first hypatus of Gaeta
+1000226700 = {
+	name="Docibilis"
+	dynasty=12244
+	martial=9
+	diplomacy=7
+	intrigue=14
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_diplomat"
+	830.1.1 = {
+		birth="830.1.1"
+	}
+	906.1.1 = {
+		death="906.1.1"
+	}
+}
+#John I, second hypatus of Gaeta
+1000226701 = {
+	name="Rodolfo"
+	dynasty=12244
+	martial=13
+	diplomacy=6
+	intrigue=9
+	stewardship=14
+	religion="catholic"
+	culture="southern_italian"
+	father=1000226700
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	933.1.1 = {
+		death="933.1.1"
+	}
+}
+#Docibilis II, first duke of Gaeta
+1000226702 = {
+	name="Docibilis"
+	dynasty=12244
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_diplomat"
+	add_trait="proud"
+	father=1000226701
+	880.1.1 = {
+		birth="880.1.1"
+	}
+	954.1.1 = {
+		death="954.1.1"
+	}
+}
+#John I, second duke of Gaeta
+1000226703 = {
+	name="Rodolfo"
+	dynasty=12244
+	religion="catholic"
+	culture="southern_italian"
+	father=1000226702
+	900.1.1 = {
+		birth="900.1.1"
+	}
+	963.1.1 = {
+		death="963.1.1"
+	}
+}
+
+
+
+
+
+
+
+
+
+
+

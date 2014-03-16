@@ -1,0 +1,9 @@
+855.1.1={
+	liege = "k_burgundy"
+}
+870.1.1={
+	liege="d_provence"
+}
+1282.9.24={
+liege="d_dauphine"
+}	

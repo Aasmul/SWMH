@@ -1,0 +1,19 @@
+# 507 - Nikopolis # Kran
+
+# County Title
+title = c_nikopolis
+
+# Settlements
+max_settlements = 3
+
+b_kran = castle
+b_silven = city
+#b_tryavna = temple
+#b_kteina = castle
+
+
+# Misc
+culture = bulgarian
+religion = orthodox
+
+# History

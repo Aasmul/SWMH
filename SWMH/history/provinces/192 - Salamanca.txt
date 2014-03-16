@@ -1,0 +1,28 @@
+# 192 - Salamanca
+
+# County Title
+title = c_salamanca
+
+# Settlements
+max_settlements = 4
+b_salamanca = castle
+#b_bejar = city
+#b_guijuelo = temple
+#b_albadetormes = castle
+#b_penyaranda = city
+#b_lapenya = temple
+
+# Misc
+culture = leonese
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_salamanca = ca_town_1
+	b_salamanca = ca_keep_1
+	b_salamanca = ca_stable_1
+	b_salamanca = ca_militia_barracks_1
+	b_salamanca = ca_wall_1
+	b_salamanca = ca_wall_2
+}

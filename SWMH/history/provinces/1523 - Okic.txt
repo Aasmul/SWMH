@@ -1,0 +1,19 @@
+# 1523 - Okic
+
+# County Title
+title = c_okic
+
+# Settlements
+max_settlements = 3
+
+b_okic = castle
+#b_ozalj = city
+b_samobor = castle
+#b_buzim = city
+#b_topusko = temple
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History

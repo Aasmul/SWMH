@@ -1,0 +1,27 @@
+# 237 - Savoie
+
+# County Title
+title = c_savoie
+
+# Settlements
+
+max_settlements = 5
+b_montmelian = castle
+b_moutiers = temple
+b_ciamberi = city
+#b_hautecombe = temple
+#b_conflans = castle
+#b_modane = temple
+#b_pignerol = city
+#b_bussoleno = temple
+#b_aixlesbains = city
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+
+1295.1.1 = { b_conflans = castle }
+1295.1.1 = { b_aixlesbains = city }
+

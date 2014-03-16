@@ -1,0 +1,19 @@
+# 981 - Ansbach
+
+# County Title
+title = c_ansbach
+
+# Settlements
+max_settlements = 4
+
+b_colmberg = castle
+b_ansbach = city
+#b_nordlingen = city
+#b_eichstatt = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

@@ -1,0 +1,16 @@
+# 1489 - Wolqayt
+
+# County Title
+title = c_wolqayt
+
+# Settlements
+max_settlements = 1
+
+b_wolqayt = castle
+
+
+# Misc
+culture = beja
+religion = pagan
+
+# History

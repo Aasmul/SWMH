@@ -1,0 +1,19 @@
+# 1270 - Porkhov
+
+# County Title
+title = c_porkhov
+
+# Settlements
+max_settlements = 3
+
+b_porkhov = castle
+#b_vysgorod = city
+#b_opokivysgorod = castle
+#b_jamvysgorod = castle
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

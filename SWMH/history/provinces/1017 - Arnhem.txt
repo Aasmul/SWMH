@@ -1,0 +1,20 @@
+# 1017 - Arnhem
+title = c_arnhem
+
+# Settlements
+max_settlements = 4
+
+b_elburg = castle
+b_arnhem = city
+b_harderwijk = temple
+#b_hattem = city
+#b_wageningen = city
+
+# Misc
+culture = dutch
+religion = catholic
+
+# History
+
+
+

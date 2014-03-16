@@ -1,0 +1,38 @@
+# 1125 - Bergamo
+
+# County Title
+title = c_bergamo
+
+# Settlements
+max_settlements = 5
+
+b_albino = castle
+b_bergamo = city
+b_monasterodiastino = temple
+#b_treviglio = city
+#b_castellodimalpaga = castle
+#b_castellodibianzano = castle
+#b_castellodimonasterolo = castle
+#b_castellodisanvigilio = castle
+#b_castellodicavernago = castle
+#b_urgnano = city
+#b_palazzolosulloglio = city
+#b_pontesanpietro = temple
+#b_alazno = city
+#b_zogno = city
+#b_nembro = city
+#b_bergamo = city
+#b_treviglio = city
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+1173.1.1 = { capital = b_bergamo }
+1240.1.1 = { capital = b_albino }
+1281.1.1 = { capital = b_bergamo}
+1298.1.1 = { capital = b_albino }
+1313.1.1 = { capital = b_bergamo }
+1319.1.1 = { capital = b_albino }

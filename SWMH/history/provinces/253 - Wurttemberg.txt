@@ -1,0 +1,26 @@
+# 253 - Württemberg
+
+# County Title
+title = c_wurttemberg
+
+# Settlements
+max_settlements = 5
+
+b_wirtenberg = castle
+b_stuttgart = city
+b_calw = castle
+#b_heilbronn = temple
+#b_hohenasperg = city
+#b_reutlingen = city
+#b_waiblingen = city
+#b_esslingen = city
+#b_herrenberg = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+

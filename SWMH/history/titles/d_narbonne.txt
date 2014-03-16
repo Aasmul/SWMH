@@ -1,0 +1,68 @@
+778.1.1 = {
+	holder = 127004 #Guillaume Ier de Toulouse
+}
+843.1.1 = {
+	holder = 127006 #Acfred de Toulouse
+}
+845.1.1 = {
+	holder = 127005 #Guillaume II de Toulouse
+}
+855.1.1 = {
+	holder = 40230 #Raymond Ier de Toulouse
+}
+865.4.16 = {
+	holder = 127007 #Bernard de Toulouse
+}
+874.1.1 = {
+	liege = "k_france"
+	law = cognatic_succession
+	law = succ_seniority
+}
+874.8.1 = {
+	holder = 40232 #Eudes de Toulouse
+}
+918.6.17 = {
+	holder = 40234 #Raymond II de Toulouse
+}
+924.1.1 = {
+	holder = 330 #Raymond-Pons de Toulouse
+}
+944.1.1 = {
+	holder = 127008 #Raymond III de Toulouse
+}
+979.1.1 = {
+	holder = 332 #Guillaume III de Toulouse
+}
+1037.9.1 = {
+	holder = 334 #Pons-Guillaume de Toulouse
+}
+1060.1.1 = {
+	holder = 336 #Guillaume IV de Toulouse
+}
+1094.1.1 = {
+	holder = 338 #Raymond IV de Toulouse
+}
+1096.10.1 = {
+	holder = 223671 #Bertrand de Toulouse
+}
+1112.4.21 = {
+	holder = 223673 #Alphonse Jourdain de Toulouse
+}
+1148.4.16 = {
+	holder = 205530 #Raymond V de Toulouse
+}
+1194.12.1 = {
+	holder = 205532 #Raymond VI de Toulouse
+}
+1222.8.2 = {
+	holder = 127002 #Raymond VII de Toulouse
+}
+1249.9.27 = {
+	holder = 127001 #Jeanne de Toulouse
+}
+1251.5.23 = {
+	holder = 127000 #Alphonse de Poitiers
+}
+1271.8.21 = {
+	holder=0
+}

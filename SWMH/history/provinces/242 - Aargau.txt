@@ -1,0 +1,23 @@
+# 242 - Aargau
+
+# County Title
+title = c_aargau
+
+# Settlements
+max_settlements = 4
+
+b_habsburg = castle
+b_aargau = city
+#b_zug = castle
+#b_brugg = city
+#b_muri = temple
+#b_schaffhausen = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+

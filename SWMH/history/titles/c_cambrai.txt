@@ -1,0 +1,202 @@
+# Bishops of Cambrai by Darrigan
+
+
+
+545.1.1=
+{
+	holder=910001 #Vedulphus
+}
+584.1.1=
+{
+	holder=910002 #Gaugericus
+}
+627.1.1=
+{
+	holder=910003 #Berthold
+}
+635.1.1=
+{
+	holder=910004 #Ablebert
+}
+663.1.1=
+{
+	holder=910005 #Autbert
+}
+669.1.1=
+{
+	holder=910006 #Vindicianus
+}
+712.1.1=
+{
+	holder=910007 #Hildebert
+}
+717.1.1=
+{
+	holder=910008 #Hunuld
+}
+718.1.1=
+{
+	holder=910009 #Hadulf
+}
+729.5.19=
+{
+	holder=910010 #Treward
+}
+752.1.1=
+{
+	holder=910011 #Guntfrid
+}
+763.1.1=
+{
+	holder=910012 #Alberic
+}
+790.1.1=
+{
+	holder=0 #Unknown
+}
+798.1.1=
+{
+	holder=910013 #Hildoard
+}
+816.4.15=
+{
+	holder=910014 #Halitgard
+}
+830.1.1=
+{
+	holder=910015 #Theodorik
+}
+841.1.1={
+	liege = "k_lotharingia"
+}
+863.1.1=
+{
+	holder=0 #"Sedes vacant": Lotharius II proposes 3 candidates (Guntbert, Tetbold and Hilduin), but they are all refused by Hincmar, archbishop of Rheims.
+}
+866.7.21=
+{
+	holder=910016 #Jean
+}
+878.8.17=
+{
+	holder=910017 #Rothadius
+}
+878.10.14=
+{
+	holder=910018 #Dodilo
+}
+901.4.1={
+	holder=910019 #Stephan
+}
+934.2.11={
+	holder=910020 #Folbert
+}
+943.1.1=
+{
+	liege="d_lower_lorraine"
+}
+956.7.1={
+	holder=910021 #Berengar
+}
+962.1.1={
+	holder=910022 #Ingelramn: Dates are not exactly known
+}
+966.1.1={
+	holder=910023 #Ansbert
+}
+971.1.1={
+	holder=910024 #Wibald
+}
+972.1.1={
+	holder=910025 #Tetdo
+}
+972.8.28={
+	holder=910026 #Rothard
+}
+995.8.18={
+	holder=910027 #Herluin
+}
+1012.2.3={
+	holder=910028 #Gerard de Florennes
+}
+1051.3.14={
+	holder=910029 #Lietbert
+}
+1076.1.1={
+	holder=910030 #Gerard II
+}
+1092.8.12={
+	holder=910031 #Manasses. Emperor Heinrich IV proclaimed Walcher as anti-bishop.
+}
+1109.8.12={
+	holder=910032 #Odo of Tournai
+}
+1113.6.19={
+	holder=0 #Sedes vacant
+}
+1115.1.1={
+	holder=910033 #Burchard
+}
+1130.1.4={
+	holder=910034 #Liétard
+}
+1135.1.1={
+	holder=910035 #Nicolas de Chièvres
+}
+1167.1.1={
+	holder=910036 #Pierre
+}
+1173.1.1={
+	holder=0 #Pierre abdicates to become ruler (regent) of Nevers. The next two bishop-elects die before being installed.
+}
+1179.1.1={
+	holder=910037 #Roger de Wavrin
+}
+1190.8.21=
+{
+liege="e_hre"
+}
+1191.1.1={
+	holder=910038 #Jean II d'Antoing
+}
+1196.1.1={
+	holder=910039 #Nicolas II de Roeulx
+}
+1197.1.1={
+	holder=0 #Hugo, bishop-elect, dies before being installed
+}
+1199.1.1={
+	holder=910040 #Pierre II de Corbeil, gets promoted to archbishop of Sens
+}
+1200.1.1={
+	holder=910041 #Jean III de Bethune
+}
+1210.7.29={
+	holder=910042 #Geoffroy de Fontaines
+}
+1238.1.1={
+	holder=910043 #Guy de Laon
+}
+1247.1.1={
+	holder=910044 #Nicolas III de Fontaines
+}
+1273.1.1={
+	holder=910045 #Enguerrand de Créqui, transferred to Théroanne
+}
+1286.1.1={
+	holder=31102 #Guillaume d'Avesnes
+}
+1296.1.1={
+	holder=910046 #Guy II: Gets promoted to archbishop of Salerno, but dies before being installed.
+}
+1306.1.22={
+	holder=910047 #Philippe de Marigny, transferred to Sens
+}
+1309.1.1={
+	holder=910048 #Pierre III de Lévis-Mirepoix, transferred to Bayeux
+}
+1324.1.1={
+	holder=910049 #Guy III de Boulogne/d'Auvergne
+}
+
+

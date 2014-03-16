@@ -1,0 +1,82 @@
+# c_gojjam
+
+#Ha-Dani placeholder dynasty
+
+866.1.1= {
+  holder=1000228920
+}
+
+1050.1.1= {
+  liege="d_damot"                                             
+  holder=1000228953                                            
+}                                                              
+1075.1.1={         
+  liege="d_gondar"  
+	holder=1000228912 
+}                  
+1080.1.1= {                                                    
+  liege="d_damot"                                             
+  holder=1000228954                                            
+}                                                              
+1105.1.1={
+  liege="d_gondar"  
+	holder=1000228912
+}
+1118.1.1= {                                                    
+  liege="d_damot"                                             
+  holder=1000228955                                            
+}                                                              
+1140.1.1={
+  liege="d_gondar"  
+	holder=1000228913
+}
+1148.1.1= {                                                    
+  liege="d_damot"                                             
+  holder=1000228956                                            
+}                                                              
+1175.1.1= {                                                    
+  liege="d_damot"                                             
+  holder=1000228957                                            
+}                                                              
+1215.1.1={
+  liege="d_gondar"  
+	holder=1000228915
+}
+1230.1.1= {
+  liege="d_damot"                                             
+  holder=1000228958
+}
+1250.1.1= {
+  holder=1000228959
+}
+
+#Solomonid conquest
+
+1280.1.1={
+  liege="k_abyssinia"
+  holder=32247
+}
+1285.1.1={
+  holder=32248
+}
+1294.1.1={
+  holder=32252
+}
+1295.1.1={
+  holder=32253
+}
+1296.1.1={
+  holder=32254
+}
+1297.1.1={
+  holder=32263
+}
+1298.1.1={
+  holder=32255
+}
+1299.1.1={
+  holder=32249
+}
+1314.1.1={
+  holder=32251
+}

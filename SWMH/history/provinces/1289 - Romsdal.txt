@@ -1,0 +1,19 @@
+# 1289 - Romsdal
+
+# County Title
+title = c_romsdal
+
+# Settlements
+max_settlements = 1
+
+b_hustad_romsdal = castle # Húsastaðir
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1024.1.1 = { religion = catholic }
+1047.10.25 = { culture = norwegian } 
+
+

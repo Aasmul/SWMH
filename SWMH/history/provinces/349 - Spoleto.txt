@@ -1,0 +1,24 @@
+# 349 - Spoleto
+
+# County Title
+title = c_spoleto
+
+# Settlements
+max_settlements = 6
+b_spoleto = castle
+b_assisi = temple
+b_foligno = city
+b_terni = city
+#b_todi = castle
+#b_bevagna = city
+#b_roccaalbornoz = castle
+
+
+# Misc
+culture = central_italian
+religion = catholic
+
+# History
+1198.1.8 = { capital = b_assisi }
+1205.1.1 = { capital = b_spoleto }
+1276.1.1 = { capital = b_assisi }

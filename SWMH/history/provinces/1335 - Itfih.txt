@@ -1,0 +1,20 @@
+# 1334 - Itfih
+
+# County Title
+title = c_itfih
+
+# Settlements
+max_settlements = 4
+b_itfih = castle
+b_busir = temple
+
+#b_lahun = city
+#b_alqababt = castle #al-Qababt
+
+# Misc
+culture = egyptian_arabic
+religion = sunni
+
+# History
+
+1171.1.1 = { religion = sunni } 

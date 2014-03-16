@@ -1,0 +1,17 @@
+# 44 - Atholl
+
+# County Title
+title = c_atholl
+
+# Settlements
+max_settlements = 4
+b_blair_atholl = castle
+b_fortingall = temple
+#b_pitlochry = city
+#b_grandtully = castle
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History

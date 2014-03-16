@@ -1,0 +1,22 @@
+# 408 - Beloozero
+
+# County Title
+title = c_beloozero
+
+# Settlements
+max_settlements = 4
+
+b_volok_slovinskij = castle
+b_belozersk = city
+b_kirillobelozersky = temple
+
+#b_cherepovets = temple
+#b_fedosyevo = city
+# Misc
+culture = vepsian
+religion = finnish_pagan
+
+# History
+1071.1.1 = { religion = orthodox }
+1071.1.1 = { culture = russian }
+1238.1.1 = { b_fedosyevo = city } #Beloozero principality

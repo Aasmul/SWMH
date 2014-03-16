@@ -1,0 +1,19 @@
+# 1189 - Gatinas
+
+# County Title
+title = c_gatinas
+
+# Settlements
+max_settlements = 4
+
+b_courtenay = castle
+b_montargis = temple
+b_nemours = city
+#b_chateaulandon = castle
+#b_montereau = castle
+
+culture = frankish
+religion = catholic
+
+# History
+

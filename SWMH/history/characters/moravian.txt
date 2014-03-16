@@ -1,0 +1,200 @@
+187000 = {
+	name="Mojmír"
+	dynasty=7508
+	religion="baltic_pagan"
+	culture="moravian"
+	740.1.1={
+		birth="740.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+} 
+
+187001 = {
+	name="Mojmír"
+	# AKA: Mojmír I Mojmírovci
+	dynasty=7508
+	religion="catholic"
+	culture="moravian"
+	father=187000
+	790.1.1={
+		birth="790.1.1"
+	}
+	846.8.15={
+		death="846.8.15"
+	}
+}
+
+187009 = {
+	name="Svatopluk"
+	dynasty=7508
+	religion="catholic"
+	culture="moravian"
+	father=187000
+	794.1.1={
+		birth="794.1.1"
+	}
+	815.1.1={
+		death="815.1.1"
+	}
+} 
+
+187002 = {
+	name="Rostislav"
+	# AKA: Rostislav Mojmírovci
+	dynasty=7508
+	religion="catholic"
+	culture="moravian"
+	father=187009
+	815.1.1={
+		birth="815.1.1"
+	}
+	869.1.1={
+		death="869.1.1"
+	}
+}
+
+187010 = {
+	name="Svetimír"
+	dynasty=7508
+	religion="catholic"
+	culture="moravian"
+	father=187009
+	817.1.1={
+		birth="817.1.1"
+	}
+	850.1.1={
+		death="815.1.1"
+	}
+} 
+
+
+187003 = {
+	name="Svatopluk"
+	# AKA: Svatopluk Mojmírovci
+	dynasty=7508
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="moravian"
+	trait="ambitious"
+	trait="patient"
+	father=187010
+	840.1.1={
+		birth="840.1.1"
+	}
+	858.1.1={
+		add_spouse=168068
+	}
+	894.1.1={
+		death="894.1.1"
+	}
+} # Nephew of Rostislav
+
+187004 = {
+	name="Slavomír"
+	# AKA: Slavomír Mojmírovci
+	dynasty=7508
+	religion="catholic"
+	culture="moravian"
+	father=187010
+	842.1.1={
+		birth="842.1.1"
+	}
+	871.12.1={
+		death="871.12.1"
+	}
+}
+
+#187005 = {
+#	name="Sventozizna"
+#	female = yes
+#	religion="catholic"
+#	culture="bohemian"
+#	840.1.1={
+#		birth="840.1.1"
+#	}
+#	894.12.31={
+#		death="894.1.1"
+#	}
+#}
+
+187006 = {
+	name="Mojmír"
+	# AKA: Mojmír II Mojmírovci
+	dynasty=7508
+	religion="catholic"
+	culture="moravian"
+	father=187003
+	mother=168068
+	859.1.1={
+		birth="859.1.1"
+	}
+	907.7.4={
+		death="907.7.4"
+	}
+}
+
+187007 = {
+	name="Svatopluk"
+	# AKA: Svatopluk II Mojmírovci
+	dynasty=7508
+	religion="catholic"
+	culture="moravian"
+	father=187003
+	mother=168068
+	860.1.1={
+		birth="860.1.1"
+	}
+	907.7.4={
+		death="907.7.4"
+	}
+}
+
+187008 = {
+	name="Predslav"
+	# AKA: Predslav Mojmírovci
+	dynasty=7508
+	religion="catholic"
+	culture="moravian"
+	father=187003
+	mother=168068
+	861.1.1={
+		birth="861.1.1"
+	}
+	907.7.4={
+		death="907.7.4"
+	}
+}
+
+187011 = {
+	name="Pribina"
+	# AKA: Pribina z Nitrava
+	dynasty=7509
+	religion="catholic"
+	culture="moravian"
+	800.1.1={
+		birth="800.1.1"
+	}
+	861.1.1={
+		death="861.1.1"
+	}
+}
+
+187012 = {
+	name="Kocel"
+	# AKA: Kocel z Nitrava
+	dynasty=7509
+	religion="catholic"
+	culture="moravian"
+	father=187011
+	833.1.1={
+		birth="833.1.1"
+	}
+	876.1.1={
+		death="876.1.1"
+	}
+}

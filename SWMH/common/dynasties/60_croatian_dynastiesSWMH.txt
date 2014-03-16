@@ -1,0 +1,25 @@
+######################################
+#New Croatian Dynasties
+######################################
+#
+#
+######################################
+#Croatian dynasties
+#Range1: 1000101400 - 1000101449
+######################################
+1000101400 = {
+	name="Karinjani"
+	culture = croatian
+}
+1000101401 = {
+	name="Nelipic"
+	culture = croatian
+}
+1000101402 = {
+	name="Mogorovic"
+	culture = croatian
+}
+1000101403 = {
+	name="Kukar"
+	culture = croatian
+}

@@ -1,0 +1,21 @@
+# 446 - Znojmo
+
+# County Title
+title = c_znojmo
+# Settlements 
+max_settlements = 4
+
+b_znojmo = castle
+b_jihlava = city
+b_trebic = temple
+#b_vranov = castle
+#b_bitov = castle
+#b_jemnice = city
+#b_louka = temple
+
+# Misc
+culture = moravian
+religion = catholic
+
+# History
+

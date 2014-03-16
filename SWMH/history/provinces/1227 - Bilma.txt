@@ -1,0 +1,22 @@
+# 1227 - Bilma
+
+# County Title
+title = c_bilma
+
+# Settlements
+max_settlements = 3
+
+b_bilma = castle
+b_dirku = city
+
+#b_sakadame = temple
+
+
+# Misc
+culture = tuareg
+religion = west_african_pagan
+
+# History
+
+#islamization
+960.1.1 = { religion = sunni }

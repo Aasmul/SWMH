@@ -1,0 +1,23 @@
+# 1024 - Cambrai
+
+# County Title
+title = c_cambrai
+
+# Settlements
+max_settlements = 3
+
+b_cambrai = temple
+b_arleux = castle
+
+#b_saintspouplet = city
+#b_crevecoeursurlescaut = castle
+#b_esnes = castle
+#b_dachin = temple
+#b_lecateau = temple
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+

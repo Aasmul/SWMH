@@ -1,0 +1,24 @@
+# 1274 - Kozelsk
+
+# County Title
+title = c_kozelsk
+
+# Settlements
+max_settlements = 4
+b_kozelzk = castle
+b_belyov = castle
+b_bolkhov = temple
+#b_volokna = city
+#b_odoyey = city
+#b_serensk = city
+#b_domagosc = city
+
+# Misc
+culture = mordvin
+religion = finnish_pagan
+
+# History
+988.1.1 = {
+	culture = russian
+	religion = orthodox
+}

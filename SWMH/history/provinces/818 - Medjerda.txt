@@ -1,0 +1,25 @@
+# 818 - Medjerda
+
+# County Title
+title = c_medjerda
+
+# Settlements
+max_settlements = 2
+
+b_monastir = castle
+b_sousse = city
+
+#b_lekef = city
+#b_siliana = temple
+#b_kasserine = city
+#b_sidimubarak = castle
+#b_qaafur = castle
+#b_dougga = castle
+#b_elkrib = castle
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History
+

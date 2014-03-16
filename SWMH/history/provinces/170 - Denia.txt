@@ -1,0 +1,19 @@
+# 170 - Denia
+
+# County Title
+title = c_denia
+
+# Settlements
+max_settlements = 4
+b_denia = castle
+b_elche = temple
+#b_castalla = castle
+b_benissa = city
+
+
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1259.1.1 = { culture = catalan }
+1259.1.1 = { religion = catholic }

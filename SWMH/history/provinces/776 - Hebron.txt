@@ -1,0 +1,18 @@
+# 776 - Hebron
+
+# County Title
+title = c_hebron
+
+# Settlements
+max_settlements = 4
+b_hebron = castle
+b_syrcarmel = city
+b_bethgibelin = castle
+#b_alsamoa = castle
+#b_syrsebbe = temple
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

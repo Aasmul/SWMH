@@ -1,0 +1,34 @@
+# 672 - Dwin
+
+# County Title
+title = c_dwin
+
+# Settlements
+ max_settlements = 4
+b_parazhnakert = castle
+b_dvin = city
+b_etchmiadzin = temple
+#b_erebuni = castle
+#b_alaverdi = castle
+#b_artashat = castle
+#b_aragatz = temple
+#b_ketsaris = temple
+ 
+
+# Misc
+culture = armenian
+religion = miaphysite
+
+# History
+1084.1.1 = { 
+	culture = kurdish 
+	religion = sunni 
+}
+1193.1.1 = { 
+	culture = armenian 
+	religion = orthodox 
+}
+1320.1.1 = { 
+	culture = kurdish 
+	religion = sunni 
+}

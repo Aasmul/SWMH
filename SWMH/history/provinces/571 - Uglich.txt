@@ -1,0 +1,23 @@
+# 571 - Uglich
+
+# County Title
+title = c_uglich
+
+# Settlements
+max_settlements = 4
+
+b_uglich = castle
+b_kashin = city
+#b_makaryevskymonasterytver = temple
+#b_kalyazin = city
+#b_myshkin = city
+
+# Misc
+culture = mari
+religion = finnish_pagan
+
+# History
+988.1.1 = {
+	culture = russian
+	religion = orthodox
+}

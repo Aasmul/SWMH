@@ -1,0 +1,18 @@
+# 1498 - Sai
+
+# County Title
+title = c_sai
+
+# Settlements
+max_settlements = 4
+b_sai = castle
+b_dal = temple 
+
+#b_delgo = city
+#b_fikanarti = castle
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

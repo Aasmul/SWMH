@@ -1,0 +1,7 @@
+#Koufra
+
+866.1.1 = {
+  liege="d_zaghawa"
+  holder=1000228607
+}
+

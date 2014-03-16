@@ -1,0 +1,51 @@
+##################################################
+############ SWMH NEW CHARACTERS #################
+##################################################
+
+1000228100 = {
+	name="Vistrach"
+	dynasty=1000100850
+	religion="slavic_pagan"
+	culture="bohemian"
+	820.1.1={
+		birth="820.1.1"
+	}
+	855.1.1={
+		death="855.1.1"
+	}
+}
+1000228101 = {
+	name="Slavitah"
+	dynasty=1000100850
+	religion="slavic_pagan"
+	culture="bohemian"
+  father=1000228100
+	838.1.1={
+		birth="838.1.1"
+	}
+	856.1.1={
+		religion="catholic"
+	}
+	857.1.1 = {
+	employer=187002  # Rostislav of Moravia
+	}
+	857.1.1 = {
+	add_claim=c_zatec
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+1000228102 = {
+	name="Vistrach"
+	dynasty=1000100850
+	religion="slavic_pagan"
+	culture="bohemian"
+  father=1000228100
+	840.1.1={
+		birth="840.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}

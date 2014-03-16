@@ -1,0 +1,21 @@
+# 1211 - Beja
+
+# County Title
+title = c_beja
+
+# Settlements
+max_settlements = 4
+b_beja = castle
+b_aljustrel = city
+b_almodovar = temple
+#b_alvito = castle
+#b_odemira = castle
+#b_ourique = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+

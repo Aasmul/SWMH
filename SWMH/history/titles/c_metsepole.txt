@@ -1,0 +1,100 @@
+856.1.1=
+{
+holder=1000227550
+}
+859.1.1=
+{
+liege="d_livonia"
+}
+899.1.1=
+{
+holder=1000227551
+}
+935.1.1=
+{
+holder=1000227552
+}
+958.1.1=
+{
+holder=1000227553
+}
+979.1.1=
+{
+holder=1000227554
+}
+995.1.1=
+{
+holder=1000227555
+}
+1043.1.1=
+{
+holder=1000227556
+}
+1059.1.1=
+{
+holder=1000227557
+}
+1098.1.1=
+{
+holder=1000227558
+}
+1123.1.1=
+{
+holder=1000227559
+}
+1165.1.1=
+{
+holder=1000227560
+}
+1192.1.1=
+{
+holder=1000227561
+}
+1199.1.1=
+{
+liege=0
+}
+##Livonian Swordbrothers, Cesis ordercastle constructed.
+1202.1.1=
+{
+liege="d_livonian_brothers_of_the_sword"
+holder=30443 #Vinno von Rohrbach
+}
+#Livonian order gets control of Sakala, Metsepole to Riga Bishop.
+1224.1.1=
+{
+holder=30421 #Albrecht von Buxthoeven
+liege="d_livonia"
+}
+1229.1.17=
+{
+holder=30422 #Nikolaus von Nauen
+}
+1254.1.1=
+{
+holder=30423 #Albrecht Suerbeer
+}
+1273.3.1=
+{
+holder=30424 #Johann von Lunen
+}
+1284.1.1=
+{
+holder=30425 #Johann von Vechta
+}
+1294.2.4=
+{
+holder=30426 #Johann von Schwerin
+}
+1300.12.19=
+{
+holder=30427 #Isarno de Fenties
+}
+1302.1.1=
+{
+holder=30313 #Jens Grand
+}
+1304.1.1=
+{
+holder=30428 #Friedrich von Pernstein
+}

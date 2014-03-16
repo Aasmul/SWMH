@@ -1,0 +1,31 @@
+# 158 - Porto
+
+# County Title
+title = c_porto
+
+# Settlements
+max_settlements = 5
+b_porto = castle
+b_amarante = temple
+#b_gondomar = city
+#b_povoa_de_varzim = temple
+#b_vilanova_de_gaia = city
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History
+
+1066.1.1 = {
+	b_porto = ca_town_1
+	b_porto = ca_keep_1
+	b_porto = ca_stable_1
+	b_porto = ca_militia_barracks_1
+	b_porto = ca_wall_1
+	b_porto = ca_wall_2
+}
+1147.1.1 = { trade_post = b_spinola }
+1255.1.1 = { b_braga = castle }
+1255.1.1 = { capital = b_braga }
+1255.1.1 = { b_porto = temple }

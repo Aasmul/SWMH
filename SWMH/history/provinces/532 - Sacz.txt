@@ -1,0 +1,23 @@
+# 532 - Sacz
+
+# County Title
+title = c_sacz
+
+# Settlements
+max_settlements = 4
+#b_szczyrzycz = temple
+b_sacz = castle
+b_biecz = castle
+
+
+#b_gorlice = castle
+#b_tarnow = castle
+#b_jaslo = castle
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+999.7.1 = { religion = catholic }
+1234.1.1 = { b_szczyrzycz = temple }

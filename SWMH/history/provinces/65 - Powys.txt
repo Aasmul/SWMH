@@ -1,0 +1,19 @@
+# 65 - Powys
+
+# County Title
+title = c_powys
+
+# Settlements
+max_settlements = 3
+b_wrexham = castle
+b_llangollen = city
+#b_glyndyfrdwy = temple
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = mountain
+
+# History
+

@@ -1,0 +1,19 @@
+# 4 - Tyrone
+
+# County Title
+title = c_tyrone
+
+# Settlements
+max_settlements = 3
+
+b_dungannon = castle
+b_tullyhogue = castle
+#b_omagh = temple
+
+# Misc
+culture = irish
+religion = catholic
+terrain = hills
+
+# History
+

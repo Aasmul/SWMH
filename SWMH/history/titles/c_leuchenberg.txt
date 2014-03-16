@@ -1,0 +1,109 @@
+788.1.1={
+	liege = "k_bavaria"
+	holder = 6392 #Charlemagne
+}
+814.1.28={
+	holder = 30227 #Lothair I
+}
+817.1.1={
+	holder = 90095 #Louis I the Pious
+}
+829.1.1={
+	holder = 90107 #Louis II the German
+}
+864.1.1={
+	holder = 42018 #Carloman
+}
+867.1.1={
+	holder = 167802 #Aribo
+}
+880.9.29={
+	holder = 42019  #Louis III the Younger
+}
+882.1.21={
+	holder = 90105 #Charles II the Fat
+}
+887.1.1={
+	holder = 7945 #Arnulf of Carinthia
+}
+889.8.12={
+	holder = 7949 #Louis IV the Child
+}
+895.1.1={
+	liege="d_bavaria"
+}
+895.1.1={
+	holder = 7969
+}
+907.1.1={
+	holder = 10097
+}
+937.7.14={
+	holder = 7970
+}
+938.1.1={
+	holder = 7971
+}
+948.1.1={
+	holder = 1292
+}
+955.1.1={
+	holder = 1294
+}
+970.1.1=
+{
+holder=31510
+}
+984.10.7=
+{
+holder=31511
+}
+1020.6.13=
+{
+holder=31512
+}
+1050.6.18=
+{
+holder=31513
+}
+1060.5.18=
+{
+holder=31515
+}
+1066.1.1={
+	liege="d_bavaria"
+	holder=20257
+}
+1070.1.1={
+	holder=20257
+}
+1082.1.1 = {	
+	holder = 40714
+}
+1105.1.1={
+	holder = 40715
+}
+1107.1.1={
+	holder = 11060
+}
+1108.1.1={
+	holder = 212962
+}
+1156.1.5={
+	holder = 212960
+}
+1183.7.11={
+	holder=212950
+}
+1231.9.15 = {
+	holder = 462756
+}
+1253.11.29 = {
+	holder = 462757
+}
+1290.2.3={
+	holder = 462758
+}
+1310.12.10={
+	holder=462760
+}

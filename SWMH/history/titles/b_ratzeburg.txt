@@ -1,0 +1,13 @@
+1296.1.1={
+	holder=33343
+        liege="e_hre"
+}
+1308.1.1={
+	holder=33344
+        liege="c_lauenburg"
+}
+1322.4.22={
+	holder=33346
+}
+
+ 

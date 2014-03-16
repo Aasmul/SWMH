@@ -1,0 +1,32 @@
+# 1145 - Perugia
+
+# County Title
+title = c_perugia
+
+# Settlements
+max_settlements = 4
+
+b_castellodelleforme = castle
+b_perugia = city
+
+#b_magione = temple
+#b_castellodelleone = castle
+#b_deruta = city
+#b_torgiano = city
+#b_bastiaumbria = castle
+#b_bettona = city
+#b_castiglionedellago = city
+#b_castelbuonospoleto = castle
+
+
+# Misc
+culture = central_italian
+religion = catholic
+
+# History
+
+1198.1.1 = { b_magione = temple }
+1198.1.8 = { capital = b_assisi }
+1205.1.1 = { capital = b_spoleto }
+1250.1.1 = { b_castellodelleone = castle }
+1276.1.1 = { capital = b_assisi }

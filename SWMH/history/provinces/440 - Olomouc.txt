@@ -1,0 +1,31 @@
+# 440 - Olomouc
+
+# County Title
+title = c_olomouc
+
+# Settlements
+max_settlements = 6
+b_staremesto = castle
+b_olomouc = temple
+b_hradiste = city
+#b_ostrava = castle
+#b_prerov = castle
+#b_sumperk = castle
+#b_hranice = castle
+#b_unicov = city
+#b_jevicko = city
+#b_velehrad = temple
+#b_kromeriz = temple
+
+# Misc
+culture = moravian
+religion = catholic
+
+# History
+907.1.1 = {
+      remove_settlement = b_staremesto
+      }
+907.1.1 = { capital = b_olomouc }
+930.1.1 = { b_ostrava = castle }
+1003.1.1 = { b_hradiste = city }
+1213.1.1 = { b_unicov = city }

@@ -1,0 +1,16 @@
+# 1138 - Volterra
+
+# County Title
+title = c_volterra
+# Settlements
+max_settlements = 3
+
+b_volterra = temple
+b_sangimignano = city
+b_montecastellipisano = castle
+
+# Misc
+culture = tuscan
+religion = catholic
+
+# History

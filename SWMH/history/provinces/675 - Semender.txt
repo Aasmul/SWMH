@@ -1,0 +1,21 @@
+# 675 - Semender
+
+# County Title
+title = c_semender
+
+# Settlements
+max_settlements = 4
+b_kumukh = castle
+b_semender = city
+b_khattibaku = temple
+#b_khannalkala = castle
+#b_kyakhulay = castle
+#b_burgaikala = castle
+#b_urtseki = city
+#b_shamkhal = city
+
+# Misc
+culture = turkish
+religion = sunni
+
+# History

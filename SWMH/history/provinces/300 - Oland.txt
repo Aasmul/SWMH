@@ -1,0 +1,30 @@
+# 300 - Öland
+
+# County Title
+title = c_oland
+
+# Settlements
+max_settlements = 3
+
+b_borgholm = castle
+b_eketorp = castle
+b_hauldtorp = city
+
+#b_hulterstad
+#b_ottenby = city
+#b_algutsrum = temple
+#b_glomminge
+#b_gardby
+#b_gronhogen
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+867.1.1 = { b_borgholm = ca_shipyard_1 } 
+1047.10.25 = { culture = gothic } 
+1060.8.2 = {religion = catholic}
+
+1227.1.1 = { trade_post = b_pat_luneburg }

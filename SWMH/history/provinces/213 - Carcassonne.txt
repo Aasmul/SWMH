@@ -1,0 +1,32 @@
+# 213 - Carcassonne
+
+# County Title
+title = c_carcassonne
+
+# Settlements
+max_settlements = 6
+b_rases = castle
+b_carcassonne_villebasse = city
+b_limoux = temple
+b_chateaudetermes = castle
+b_saissac = castle
+#b_lastours = castle
+#b_lagrasse = temple
+#b_cabaret = city
+#b_chateaudequeribus = castle
+#b_arquescarcassone = castle
+#b_chateaudaguilar = castle
+#b_peyrepertuse = castle
+#b_pieusse = castle
+
+
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History
+1150.1.1 = { religion = cathar }
+1187.1.1 = { b_lastours = castle }
+1244.3.16 = { religion = catholic}

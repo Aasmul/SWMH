@@ -1,0 +1,18 @@
+# 1348 - Labda
+
+# County Title
+title = c_labda
+
+# Settlements
+max_settlements = 1
+
+b_labda = castle
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+
+1171.1.1 = { religion = sunni }

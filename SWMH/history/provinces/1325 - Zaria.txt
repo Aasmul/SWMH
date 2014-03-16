@@ -1,0 +1,17 @@
+# 1325 - Zaria
+
+# County Title
+title = c_zazzau
+
+# Settlements
+max_settlements = 3
+b_zazzau = city
+b_zaria = temple
+
+#b_turunku = castle
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

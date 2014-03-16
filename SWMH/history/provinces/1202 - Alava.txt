@@ -1,0 +1,24 @@
+# 1202 - Alava
+
+# County Title
+title = c_alava
+
+# Settlements
+max_settlements = 4
+b_santa_cruz_de_campezo = castle
+b_vitoria = city
+b_iruna_de_oca = temple
+# b_laguardia = castle
+
+
+
+# Misc
+culture = basque
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_santa_cruz_de_campezo = ca_keep_1
+	b_santa_cruz_de_campezo = ca_wall_1
+}

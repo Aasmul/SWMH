@@ -1,0 +1,21 @@
+# 1224 - Tekkada
+
+# County Title
+title = c_tekkada
+
+# Settlements
+max_settlements = 2
+
+b_takkeda = city
+
+#b_takarkert = castle
+
+# Misc
+culture = tuareg
+religion = west_african_pagan
+
+# History
+
+#islamization
+953.1.1 = { religion = ibadi }
+1120.1.1 = { religion = sunni }

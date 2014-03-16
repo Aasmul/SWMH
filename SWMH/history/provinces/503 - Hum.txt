@@ -1,0 +1,29 @@
+# 503 - Hum
+
+# County Title
+title = c_hum
+
+# Settlements
+max_settlements = 3
+
+b_borac = castle 
+#b_samobor = castle
+#b_dobrun = castle
+#b_jelec = castle
+#b_kuslat = castle
+ b_hoca = city 
+#b_srebrnica = city 
+#b_praca = temple
+#b_bratunac = temple
+
+# Misc
+culture = serbian
+religion = slavic_pagan
+
+# History
+
+880.1.1 = { religion = orthodox }
+
+
+
+ 

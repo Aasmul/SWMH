@@ -1,0 +1,29 @@
+# 352 - Bologna
+
+# County Title
+title = c_bologna
+
+# Settlements
+max_settlements = 5
+
+b_bologna = city
+b_munzuno = castle
+b_budro = city
+
+#b_monterenzio = city
+#b_monghidoro = city
+#b_sangiacomomaggiore = temple
+#b_castelguelf = castle
+#b_castellaccio = castle
+#b_roccasforzesca = castle
+#b_astellodigaleazza = castle
+#b_roccamalaspina = castle
+#b_borgorotondo = castle
+#b_castellodibentivoglio = castle
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

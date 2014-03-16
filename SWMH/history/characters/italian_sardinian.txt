@@ -1,0 +1,851 @@
+###############################################################
+#  Sardinian characters
+###############################################################
+##############################################################################################
+#de Tharros
+184008 = {
+	name="Gavino"
+	dynasty=1042807
+	religion="catholic"
+	culture="sardinian"
+	845.1.1={
+		birth="845.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+##############################################################################################
+#de Callaris
+184009 = {
+	name="Lucio"
+	dynasty=1042808
+	religion="catholic"
+	culture="sardinian"
+	839.1.1={
+		birth="839.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+##############################################################################################
+#d'Arborea
+
+213561 = {
+	name="Eleonora "
+	# AKA: Eleonora 
+	female=yes
+	dynasty=203
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="sardinian"
+	add_trait="lustful"
+	add_trait="scholarly_theologian"
+	1125.1.2 = {
+		birth="1125.1.2"
+	}
+	1175.1.2 = {
+		death="1175.1.2"
+	}
+}
+##############################################################################################
+#de Lacon Serra
+
+144531 = {
+	
+         name="Guglielmo"
+	
+         dynasty=794
+	
+         religion="catholic"
+	
+         culture="sardinian"
+	
+         father=71634
+	
+         mother=144530
+	
+         1215.1.1 = {
+		
+         birth="1215.1.1"
+	
+         }
+	
+         1254.1.1 = {
+		
+         death="1254.1.1"
+	
+         }
+
+}
+
+
+144532 = {
+	
+         name="Chiano"
+	
+         dynasty=794
+	
+         religion="catholic"
+	
+         culture="sardinian"
+	
+         father=144531
+	
+         1235.1.1 = {
+		
+         birth="1235.1.1"
+	
+         }
+	1256.1.1 = {
+		
+         death="1256.1.1"
+	
+         }
+
+}
+
+71631 = {
+	name="Barisone"
+	dynasty=794
+	martial=7
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="ambitious"
+	add_trait="flamboyant_schemer"
+	
+	1121.1.1 = {
+		birth="1121.1.1"
+	}
+	1150.1.1 = {
+		add_spouse=71623
+	}
+	1185.1.1 = {
+		death="1185.1.1"
+	}
+}
+71632 = {
+	name="Sinispella"
+	dynasty=794
+	female=yes
+	
+	religion="catholic"
+	culture="sardinian"
+
+	
+	father=71631
+	mother=71623
+	
+	1151.1.1 = {
+		birth="1151.1.1"
+	}
+	1215.1.1 = {
+		death="1215.1.1"
+	}
+}
+
+71633 = {
+	name="Pietro"
+	dynasty=794
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="bastard"
+	add_trait="duelist"
+	add_trait="misguided_warrior"
+	father=71631
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1214.1.1 = {
+		death="1214.1.1"
+	}
+}
+
+71634 = {
+	name="Barisone"
+	dynasty=794
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="greedy"
+	add_trait="envious"
+	add_trait="intricate_webweaver"
+	father=71633	
+	1179.1.1 = {
+		birth="1179.1.1"
+	}
+	1210.1.1={
+		add_spouse = 144530
+	}
+	1217.1.1 = {
+		death="1217.1.1"
+	}
+}
+
+
+
+##############################################################################################
+#di Gallura
+
+71171 = {
+	name="Enzo" 
+	# AKA: Enzo de Gallaura
+	dynasty=8688 #Gallaura	
+	martial=3
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	learning=8
+	religion="catholic"
+	culture="sardinian"
+	add_trait="naive_appeaser"
+	add_trait="zealous"
+	add_trait="bastard"
+	father=212513
+	#mother=
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1239.1.1 = {
+		add_spouse=71162
+	}
+	1272.3.11 = {
+		death="1272.3.11"
+	}
+}
+
+71172 = {
+	name="Adelaida" #spouse of Rienhold von Urslingen (1290)	
+	# AKA: Adelaida de Gallaura
+	female=yes
+	dynasty=8688 #Gallaura	
+	martial=3	
+	diplomacy=8	
+	intrigue=6	
+	stewardship=8	
+	learning=3	
+	religion="catholic"
+	culture="sardinian"
+	add_trait="underhanded_rogue"
+	add_trait="humble"
+	father=71171
+	#mother=
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1301.1.1 = {
+		death="1301.1.1"
+	}
+}
+
+71173 = {
+	name="Elena"
+	female=yes
+	dynasty=8688 #Gallaura	
+	religion="catholic"
+	culture="sardinian"
+	add_trait="bastard"
+	father=71171
+	1235.1.1 = {
+		birth="1235.1.1"
+	}
+	1272.1.1 = {
+		death="1272.1.1"
+	}
+}
+
+71174 = {
+	name="Maddalena"
+	female=yes	
+	dynasty=8688 #Gallaura
+	religion="catholic"
+	culture="sardinian"
+	add_trait="bastard"
+	father=71171
+	1237.1.1 = {
+		birth="1237.1.1"
+	}
+	1272.3.7 = {
+		death="1272.3.7"
+	}
+}
+
+71175 = {
+	name="Constanza" 
+	female=yes	
+	dynasty=8688 #Gallaura
+	religion="catholic"
+	culture="sardinian"
+	add_trait="detached_priest"
+	add_trait="chaste"
+	add_trait="bastard"
+	father=71171
+	1239.1.1 = {
+		birth="1239.1.1"
+	}
+	1272.3.7 = {
+		death="1272.3.7"
+	}
+}
+
+71176 = {
+	name="Enrico"
+	dynasty=8688 #Gallaura
+	religion="catholic"
+	culture="sardinian"
+	add_trait="bastard"
+	father=71171
+	1241.1.1 = {
+		birth="1241.1.1"
+	}
+	1305.5.10 = {
+		death="1305.5.10"
+	}
+}
+
+##############################################################################################
+#de Lacon
+
+
+144525 = {
+	
+         name="Gonario"
+	
+         dynasty=8691
+	
+         religion="catholic"
+	
+         culture="sardinian"
+	
+         1113.1.1 = {
+		
+         birth="1113.1.1"
+	
+         }
+	
+         1139.1.1 = {
+		
+         add_spouse=144524
+	
+         }
+	
+         1190.1.1 = {
+		
+         death="1217.12.1"
+	
+         }
+
+}
+
+144526 = {
+	
+         name="Torchitorio"
+	
+         dynasty=8691
+	
+         religion="catholic"
+	
+         culture="sardinian"
+	
+         1140.1.1 = {
+		
+         birth="1140.1.1"
+	
+         }
+
+	
+         1188.1.1 = {
+		
+         death="1188.1.1"
+	
+         }
+
+}
+
+
+71146 = {
+	name="Comita"
+	dynasty=8691
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="craven"
+	add_trait="cynical"
+	add_trait="flamboyant_schemer"
+	#father = 144255
+	#mother = 144254 
+	1154.1.1 = {
+		birth="1154.1.1"
+	}
+	1186.1.1 = {
+		add_spouse=71632
+	}
+	1200.1.1 = {
+		add_spouse=213551
+	}
+	1217.12.1 = {
+		death="1217.12.1"
+	}
+}
+
+71147 = {
+	name="Mariano"
+	dynasty=8691
+	martial=4
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="deceitful"
+	add_trait="quick"
+	add_trait="fortune_builder"
+	father=71146
+	mother=71632
+	1187.1.1 = {
+		birth="1187.1.1"
+	}
+	1233.1.1 = {
+		death="1233.1.1"
+	}
+}
+
+71148 = {
+	name="Maria"
+	female=yes
+	dynasty=8691
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="humble"
+	add_trait="gregarious"
+	add_trait="intricate_webweaver"
+	father=71146
+	mother=71632
+	1188.1.1 = {
+		birth="1188.1.1"
+	}
+	1215.1.1 = {
+		death="1215.1.1"
+	}
+}
+
+71149 = {
+	name="Giorgia"
+	female=yes
+	dynasty=8691
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="just"
+	add_trait="kind"
+	add_trait="naive_appeaser"
+	father=71146
+	mother=71632
+	1189.1.1 = {
+		birth="1189.1.1"
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+71152 = {
+	name="Barisone"
+	dynasty=8691
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="just"
+	add_trait="chaste"
+	add_trait="mastermind_theologian"
+	father=71147
+	1210.1.1 = {
+		birth="1210.1.1"
+	}
+	1236.1.1 = {
+		death="1236.1.1"
+	}
+}
+
+71153 = {
+	name="Preziosa"
+	female=yes
+	dynasty=8691
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="diligent"
+	add_trait="quick"
+	add_trait="martial_cleric"
+	father=71147
+	1219.1.1 = {
+		birth="1219.1.1"
+	}
+	1288.1.1 = {
+		death="1288.1.1"
+	}
+}
+71162 = {
+	name="Adelasia" #spouse of 71163 (1228) & 71171 (1239)	
+	# AKA: Adelasia de Lacon
+	female=yes
+	dynasty=8691 #Lacon	
+	martial=5	
+	diplomacy=6	
+	intrigue=3	
+	stewardship=6	
+	learning=8	
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="detached_priest"
+	add_trait="paranoid"
+	father=71147
+	#mother= #AgnMas
+	1212.1.1 = {
+		birth="1212.1.1"
+	}
+	1255.1.1 = {
+		death="1255.1.1"
+	}
+}
+##############################################################################################
+#Serra
+
+213040 = {
+	name="Corso"
+	dynasty=13034
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	add_trait="patient"
+	add_trait="proud"
+	add_trait="charismatic_negotiator"
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+213041 = {
+	name="Enrico"
+	dynasty=13034
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="italian"
+	add_trait="greedy"
+	add_trait="honest"
+	add_trait="thrifty_clerk"
+	father=213040
+	1163.1.1 = {
+		birth="1163.1.1"
+	}
+	1213.1.1 = {
+		death="1213.1.1"
+	}
+}
+##############################################################################################
+#Torchitorio
+144527 = {
+	
+         name="Orzocorre"
+	
+         dynasty=13037
+	
+         religion="catholic"
+	
+         culture="sardinian"
+	
+         father = 20325
+	
+         1039.1.1 = {
+		
+         birth="1039.1.1"
+	
+         }
+	
+         1100.1.1 = {
+		
+         death="1100.1.1"
+	
+         }
+
+}
+
+
+144528 = {
+	
+         name="Orzocorre"
+	
+         dynasty=13037
+	
+         religion="catholic"
+	
+         culture="sardinian"
+	
+         father = 144527
+	
+         1059.1.1 = {
+		
+         birth="1059.1.1"
+	
+         }
+	
+         1122.1.1 = {
+		
+         death="1122.1.1"
+	
+         }
+
+}
+
+
+144529 = {
+	
+         name="Comita"
+	
+         dynasty=13037
+	
+         religion="catholic"
+	
+         culture="sardinian"
+	
+         father = 144528
+	
+         1089.1.1 = {
+		
+         birth="1089.1.1"
+	
+         }
+	
+         1147.1.1 = {
+		
+         death="1147.1.1"
+	
+         }
+
+}
+
+20325 = {
+	name="Mariano"
+	dynasty=13037
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="sardinian"
+	add_trait="envious"
+	add_trait="fortune_builder"
+	1019.1.1 = {
+		birth="1019.1.1"
+	}
+	1073.1.1 = {
+		death="1073.1.1"
+	}
+}
+##############################################################################################
+#di Calari
+144251 = {
+	
+         name="Salusio"
+	
+         dynasty=100326
+	
+         religion="catholic"
+	
+         culture="sardinian"
+
+	
+         father = 20326
+	
+         1058.1.1 = {
+		
+         birth="1058.1.1"
+	
+         }
+	
+         1102.1.1 = {
+		
+         death="1102.1.1"
+	
+         }
+
+}
+
+144252 = {
+	
+         name="Torchitorio"
+	
+         dynasty=100326
+	
+         religion="catholic"
+	
+         culture="sardinian"
+
+	
+         father = 144251
+	
+         1078.1.1 = {
+		
+         birth="1078.1.1"
+	
+         }
+	
+         1130.1.1 = {
+		
+         death="1130.1.1"
+	
+         }
+
+}
+
+
+
+144253 = {
+	
+         name="Salusio"
+	
+         dynasty=100326
+	
+         religion="catholic"
+	
+         culture="sardinian"
+	
+         father = 144252
+	
+         1100.1.1 = {
+		
+         birth="1100.1.1"
+	
+         }
+	
+         1163.1.1 = {
+		
+         death="1163.1.1"
+	
+         }
+
+}
+
+
+144524 = {
+	
+         name="Mariam"
+	
+         dynasty=100326
+	
+         female=yes
+	
+         religion="catholic"
+	
+         culture="sardinian"
+	
+         father = 144253
+	
+         1119.1.1 = {
+		
+         birth="1119.1.1"
+	
+         }
+	
+         1170.1.1 = {
+		
+         death="1170.1.1"
+	
+         }
+
+}
+
+20326 = {
+	name="Torcotore"
+	dynasty=100326
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="scholarly_theologian"
+	1038.1.1 = {
+		birth="1038.1.1"
+	}
+	1089.1.1 = {
+		death="1089.1.1"
+	}
+}
+71310 = {
+	name="Giorgia"
+	dynasty=100326
+	female=yes
+	martial=3
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="sardinian"
+
+	add_trait="cynical"
+	add_trait="strong"
+	add_trait="naive_appeaser"
+	father = 144253
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+##############################################################################################
+#di Arborea dynasty=100325
+##############################################################################################
+#di Torres dynasty=101850
+#############

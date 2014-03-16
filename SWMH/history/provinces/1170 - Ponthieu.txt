@@ -1,0 +1,27 @@
+# 1170 - Ponthieu
+
+# County Title
+title = c_ponthieu
+
+# Settlements
+max_settlements = 5
+
+
+b_lecrotoy = castle
+b_abbeville = city
+b_saintriquier = temple
+b_montreuil = castle
+#b_crecyenponthieu = castle
+#b_beaumetz = castle
+
+
+
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+
+
+

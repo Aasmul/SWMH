@@ -1,0 +1,21 @@
+1050.1.1={
+	holder=1000227366 # William de Percy 1st baron of Topcliff
+}
+1096.6.1={
+	holder=1000227367 # Alan de Percy 2nd baron of Topcliff
+}
+1135.1.1={
+	holder=1000227401 # William de Percy 3rd baron of Topcliffe
+}
+1150.1.1={
+	holder=1000227402 # William de Percy 4th baron of Topcliffe
+}
+1168.1.1={
+	holder=1000227403 # Agnes de Percy, Baroness of Topcliffe
+}
+1182.1.1={
+	holder=1000227404 # Henry de Percy 5th baron of Topcliffe
+}
+1204.1.1={
+	holder=0
+}

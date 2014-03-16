@@ -1,0 +1,31 @@
+# 683 - Amida
+
+# County Title
+title = c_amida
+
+# Settlements
+max_settlements = 4
+
+b_kiaburc = castle
+b_amida = city
+b_mayyafarikin = temple
+
+
+#b_ulucamii = temple
+#b_suraamede = castle
+#b_egil = city
+#b_hazretisuleymancamii = temple
+#b_idtodyolataloho = temple
+
+
+
+# Misc
+culture = armenian
+religion = miaphysite
+
+# History
+
+1100.1.1 = { 
+	culture = kurdish 
+	religion = sunni
+}

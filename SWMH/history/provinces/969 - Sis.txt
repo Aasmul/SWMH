@@ -1,0 +1,26 @@
+# 969 - Sis
+
+# County Title
+title = c_sis
+
+# Settlements
+max_settlements = 6
+
+b_sis = castle
+b_anazarba = city
+b_komanal = temple
+#b_trazak = castle
+#b_vahka = castle
+#b_hajin = castle
+#b_koksen = castle
+#b_toprakkale = castle
+#b_karscilicia = city
+#b_bardzerberi = temple
+
+
+# Misc
+culture = armenian
+religion = miaphysite
+
+# History
+

@@ -1,0 +1,18 @@
+# 999 - Legnica
+# County Title
+title = c_legnica
+
+# Settlements
+max_settlements = 4
+
+b_legnica = castle
+b_swidnica = city
+#b_lewowek = castle
+#b_boleslawiec = temple
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+990.1.1 = { religion = catholic }

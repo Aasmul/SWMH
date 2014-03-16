@@ -1,0 +1,62 @@
+######################################
+#New langobardisch dynasties          (Not all Langobardi have a proper family name, for some of them the family name derived by the city from which they ruled)
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1000035571-1000035620
+######################################
+
+1000035571 = {
+name="Siconidi"
+ culture = langobardisch
+}
+1000035572 = {
+name="Dauferidi"
+ culture = langobardisch
+}
+1000035573 = {
+name="Landolfidi"
+ culture = langobardisch
+}
+1000035574 = {
+name="Amalfitani"
+ culture = langobardisch
+}
+1000035575 = {
+name="Di Spoleto"
+ culture = langobardisch 
+}
+#(there is a Di Spoleto family in the big list, they are signed as central_italian)# because they were central Italian at the time of the characters in the vanilla files starting from 1250+ 
+1000035576 = {
+name="Da Procida"
+ culture = langobardisch
+}
+1000035577 = {
+name="Barile"
+ culture = langobardisch
+}
+1000035578 = {
+name="Melatino"
+ culture = langobardisch
+}
+1000035579 = {
+name="Monaldeschi"
+ culture = langobardisch
+}
+1000035580 = {
+name="Trinci"
+ culture = langobardisch
+}
+
+
+######################################
+#Generic dynasites
+#Range 1000035621-1000035640
+######################################
+
+
+
+
+

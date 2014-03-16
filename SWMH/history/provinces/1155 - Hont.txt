@@ -1,0 +1,29 @@
+# 1155 - Hont
+
+# County Title
+title = c_hont
+
+# Settlements
+max_settlements = 4
+
+b_hontvar = castle
+b_nogradhungary = city
+
+#b_paszto = temple
+#b_balassagyarmat = city
+#b_selmecbanya = castle
+#b_korpona = city
+#b_bakabanya = castle
+#b_gacshungary = castle
+#b_fulekhungary = temple
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+
+
+

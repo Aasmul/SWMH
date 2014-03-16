@@ -1,0 +1,19 @@
+# 1248 - Tregor
+
+# County Title
+title = c_tregor
+
+# Settlements
+max_settlements = 4
+
+b_treguier = temple
+b_guingamp = castle
+b_morlaix = city
+#b_chatelaudren = castle
+
+
+# Misc
+culture = breton
+religion = catholic
+
+

@@ -1,0 +1,22 @@
+# 1176 - Valois
+
+# County Title
+title = c_valois
+
+# Settlements
+max_settlements = 5
+
+b_soissons = castle
+b_crepy = city
+b_noyon = temple
+b_laon = temple
+#b_senlis = city
+#b_senliscastle = castle
+#b_tracylemont = temple
+
+culture = frankish
+religion = catholic
+
+# History
+
+

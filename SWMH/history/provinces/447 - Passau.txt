@@ -1,0 +1,23 @@
+# 447 - Passau
+
+# County Title
+title = c_passau
+
+# Settlements
+max_settlements = 4
+b_ortenburg = castle
+b_passau = city
+b_schaumberg = temple
+
+#b_ulrichsberg = castle
+#b_formbach = castle
+#b_freistadt = castle
+#b_freyung = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+

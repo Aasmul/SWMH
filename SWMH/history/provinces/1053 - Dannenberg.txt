@@ -1,0 +1,21 @@
+# 1053 - Dannenberg
+
+# County Title
+title = c_dannenberg
+
+# Settlements
+max_settlements = 3
+
+b_dannenberg = castle
+b_luchow = castle
+#b_grabowdannenberg = city
+#b_domitzdannenberg = castle
+
+
+# Misc
+
+culture = german
+religion = catholic
+
+# History
+

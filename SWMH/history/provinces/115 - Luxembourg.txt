@@ -1,0 +1,27 @@
+# 115 - Luxembourg
+
+# County Title
+title = c_luxembourg
+
+# Settlements
+max_settlements = 5
+b_luxembourg = castle
+b_echternach = city
+b_thionville = temple
+
+#b_ansembourg = castle
+#b_bradenbourg = castle
+#b_bourscheid = castle
+#b_beauforten = castle
+#b_grevenmarcher = city
+#b_ettelbruck = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+
+

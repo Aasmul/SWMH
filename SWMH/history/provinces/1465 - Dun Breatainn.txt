@@ -1,0 +1,19 @@
+# 1465 - Dun Breatainn
+
+# County Title
+title = c_dunbreatainn
+
+# Settlements
+max_settlements = 3
+
+b_dumbarton = castle
+b_old_kilpatrick = temple
+#b_arrochar = city
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History
+400.1.1 = { culture = cumbric } 
+1000.1.1 = { culture = scottish } 

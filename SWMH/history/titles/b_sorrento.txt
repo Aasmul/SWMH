@@ -1,0 +1,63 @@
+1066.1.1={
+	liege=k_salerno
+	holder=30856 #Guido/Wido installed in Sorrento by brother Guiamar of Salerno; Amalfi itself held by Greeks allied with Napoli
+}
+1076.12.13={
+	liege=d_apulia
+	holder=1128 #Robert Guiscard
+}
+1085.7.17={
+	holder=41732 #Guy de Hauteville, duke of Amalfi
+}
+1099.1.1={
+	holder=30881 #William de Hauteville
+}
+1130.12.25={
+	liege=k_sicily
+}
+1128.1.1={
+	holder=30879 #Nicolas de Hauteville
+}
+1141.1.1={
+	holder=30880 #William de Hauteville
+}
+1160.1.1={
+	holder=211501 #William de Hauteville
+}
+1166.5.7={
+	holder=211500
+}
+1189.11.11={
+	holder=211509
+}
+1194.2.20={
+	holder=211512
+}
+1194.10.1={
+	holder=212507
+}
+1197.9.28={
+	holder=212513
+}
+
+1250.12.13={
+	holder=30760
+}
+1254.5.21={
+	holder=30785
+}
+1258.1.1={
+	holder=7636
+}
+1266.2.26={
+	holder=455406
+}
+1282.8.30={
+	liege=k_naples
+}
+1285.1.7={
+	holder=461710
+}
+1309.5.5={
+	holder=461700
+}

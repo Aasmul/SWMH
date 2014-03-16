@@ -1,0 +1,22 @@
+# 315 - Kempten
+
+# County Title
+title = c_kempten
+
+# Settlements
+max_settlements = 3
+
+
+b_wittelsbach = castle
+b_kempten = temple
+#b_zumarshausen = temple
+#b_friedberg = castle
+
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

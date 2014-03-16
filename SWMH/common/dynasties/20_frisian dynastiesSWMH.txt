@@ -1,0 +1,153 @@
+######################################
+#New Frisian Dynasties by Polskers
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1.000.053.030-1.000.053.069
+######################################
+1000053030 = {
+	name="Abdena"
+	culture = frisian
+}
+1000053031 = {
+	name="Aildesna"
+	culture = frisian
+}
+1000053032 = {
+	name="Tjarksena"
+	culture = frisian
+}
+1000053033 = {
+	name="Onneken"
+	culture = frisian
+}
+1000053034 = {
+	name="fan Innhausen"
+	culture = frisian
+}
+1000053035 = {
+	name="fan Knyphausen"
+	culture = frisian
+}
+1000053036 = {
+	name="Manninga"
+	culture = frisian
+}
+1000053037 = {
+	name="Ukena"
+	culture = frisian
+}
+1000053038 = {
+	name="Allena"
+	culture = frisian
+}
+1000053039 = {
+	name="Wiemken"
+	culture = frisian
+}
+1000053040 = {
+	name="Papinga"
+	culture = frisian
+}
+1000053041 = {
+	name="Beninga"
+	culture = frisian
+}
+1000053042 = {
+	name="Roorda"
+	culture = frisian
+}
+1000053043 = {
+	name="Aartsma"
+	culture = frisian
+}
+1000053044 = {
+	name="Alkema"
+	culture = frisian
+}
+1000053045 = {
+	name="Alserda"
+	culture = frisian
+}
+1000053046 = {
+	name="Anema"
+	culture = frisian
+}
+1000053047 = {
+	name="Anjema"
+	culture = frisian
+}
+1000053048 = {
+	name="Annema"
+	culture = frisian
+}
+1000053049 = {
+	name="Arkema"
+	culture = frisian
+}
+1000053050 = {
+	name="Atmsa"
+	culture = frisian
+}
+1000053051 = {
+	name="Aukema"
+	culture = frisian
+}
+1000053052 = {
+	name="Baarda"
+	culture = frisian
+}
+1000053053 = {
+	name="Baarsma"
+	culture = frisian
+}
+1000053054 = {
+	name="Bakema"
+	culture = frisian
+}
+1000053055 = {
+	name="Barwegen"
+	culture = frisian
+}
+1000053056 = {
+	name="Bootsma"
+	culture = frisian
+}
+1000053057 = {
+	name="de Vries"
+	culture = frisian
+}
+1000053058 = {
+	name="Dijkstra"
+	culture = frisian
+}
+1000053059 = {
+	name="Hansen"
+	culture = frisian
+}
+1000053060 = {
+	name="Herrema"
+	culture = frisian
+}
+1000053061 = {
+	name="Hoekstra"
+	culture = frisian
+}
+1000053062 = {
+	name="Laninga"
+	culture = frisian
+}
+1000053063 = {
+	name="Reijnder"
+	culture = frisian
+}
+1000053064 = {
+	name="van Wieren"
+	culture = frisian
+}
+1000053065 = {
+	name="tom Brok"
+	culture = frisian
+}

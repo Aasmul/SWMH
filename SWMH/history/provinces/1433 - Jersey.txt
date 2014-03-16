@@ -1,0 +1,19 @@
+# 1433 - Jersey # and Gurnsey
+
+# County Title
+title = c_jersey
+
+# Settlements
+max_settlements = 3
+
+b_st_peter_port = city
+b_gorey = castle
+b_st_helier = temple
+
+# Misc
+culture = breton
+religion = catholic
+
+# History
+867.1.1 = { b_st_peter_port = ct_port_1 } 
+933.11.11 = { culture = norman }

@@ -1,0 +1,30 @@
+# 354 - Mantua
+
+# County Title
+title = c_mantua
+
+# Settlements
+max_settlements = 4
+
+b_redondesco = castle
+b_mantua = city
+
+#b_goito = temple
+#b_castelgoffredo = castle
+#b_castellodisangiorgio = castle
+#b_castiglionedellestiviere = city
+#b_marmirolo = castle
+#b_castellucchio = temple
+#b_asola = city
+#b_cavriana = temple
+#b_villimpenta = city
+#b_serravalle = castle
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+
+1115.7.24 = { capital = b_mantua }
+1319.1.1 = { capital = b_redondesco }

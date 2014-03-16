@@ -1,0 +1,23 @@
+# 1066 - Wargrien
+
+# County Title
+title = c_wargrien
+
+# Settlements
+max_settlements = 3
+
+b_plon = castle
+b_oldenburgeast = city
+b_eutin = temple
+#b_bornhovd = city
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+terrain = forest
+# History
+ 
+
+
+
+

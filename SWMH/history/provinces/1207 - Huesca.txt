@@ -1,0 +1,24 @@
+# 1207 - Huesca
+
+# County Title
+title = c_huesca
+
+# Settlements
+max_settlements = 4
+b_huesca = castle
+b_barbastro = city
+b_almudevar = temple
+#b_loarre = castle
+#b_ayerbe = castle
+#b_alquezar = castle
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+
+1066.1.1 = { 
+	b_huesca = ca_keep_1
+	b_huesca = ca_wall_1
+}

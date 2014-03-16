@@ -1,0 +1,18 @@
+# 1262 - Ibelin
+
+# County Title
+title = c_ibelin
+
+# Settlements
+max_settlements = 4
+
+b_ibelin = castle
+b_ramleh = castle
+b_latrun = temple
+b_montgisard = castle
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

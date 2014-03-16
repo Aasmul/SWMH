@@ -1,0 +1,21 @@
+# 230 - Nice
+
+# County Title
+title = c_nice
+
+# Settlements
+max_settlements = 4
+b_nizza = temple
+
+#b_antibes = castle
+#b_lantosque = castle
+#b_contes = castle
+
+# Misc
+culture = ligurian
+religion = catholic
+
+
+# History
+
+1066.1.1 = { trade_post = b_spinola }

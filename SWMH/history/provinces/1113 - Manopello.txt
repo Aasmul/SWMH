@@ -1,0 +1,20 @@
+# 1113 - Manopello
+
+# County Title
+title = c_manopello
+
+# Settlements
+max_settlements = 2
+
+b_manopello = castle
+
+#b_guardiagrele = city
+#b_civitaluparella = castle
+#b_casoli = castle
+#b_bomba = temple
+#b_montazzoli = castle
+#b_castiglionemessermarino = city
+
+# Misc
+religion = catholic
+culture = southern_italian

@@ -1,0 +1,22 @@
+# 10 - Kildare
+
+# County Title
+title = c_kildare
+
+# Settlements
+max_settlements = 3
+
+b_dunaulin = castle
+b_kildare = city
+#b_st_brigit = temple
+#b_maynooth = castle
+#b_rathangan = castle
+#b_naas = city
+
+# Misc
+culture = irish
+religion = catholic
+
+# History
+
+1337.1.1 = { b_kildare = city } 

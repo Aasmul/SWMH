@@ -1,0 +1,32 @@
+# 22 - Oxford
+
+# County Title
+title = c_oxford
+
+# Settlements
+max_settlements = 5
+
+b_oxford = castle
+b_banbury = city
+#b_thame = temple
+#b_witney = city
+#b_hook_norton = castle
+#b_rewley = temple
+#b_kidlington = city
+#b_watlington = city
+#b_shirburn = castle
+#b_bramton = castle
+#b_chipping_norton = castle  # Clarkson
+#b_charlbury = city
+#b_eynsham = temple
+
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1066.10.14 = { b_hook_norton = castle } 
+1100.11.11 = { culture = english } 
+

@@ -1,0 +1,27 @@
+# 306 - Rostock
+
+# County Title
+title = c_rostock
+
+# Settlements
+max_settlements = 3
+b_rostock = castle
+b_dobran = temple
+#b_damgarten = castle
+#b_ribnitz = castle
+#b_malchin = castle
+#b_tribsees = castle
+
+
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+# Christianity only arrived with the Danish king Valdemar I
+1168.1.1 = { religion = catholic }
+
+
+1200.1.1 = { culture = german } 
+1240.1.1 = { trade_post = b_bardewik }

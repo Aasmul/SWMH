@@ -1,0 +1,14 @@
+# 1393 - Risiom
+
+# County Title
+title = c_risiom
+
+# Settlements
+max_settlements = 1
+b_risiom = castle
+
+# Misc
+culture = songhai
+religion = west_african_pagan
+
+# History

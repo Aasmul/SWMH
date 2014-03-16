@@ -1,0 +1,81 @@
+#Eastanglia
+827.1.1={
+	holder = 1000226342 # Æthelstan king of Eastanglia
+}
+840.1.1={
+	holder = 1000226343 # Æthelweard king of Eastanglia
+}
+855.1.1={
+	holder = 163064 # Edmund King of Eastanglia
+}
+869.11.20={
+	holder = 1000226344 # Oswald co King of Eastanglia
+}
+874.1.1={
+	holder = 1000226345 # Æthelred co King of Eastanglia
+}
+879.1.1={
+	holder = 168650 # Gorm/Guthrum/Athelstan King of Eastanglia
+}
+890.12.1={
+	holder = 1000144470 # Eiríkr/Eohric King of Eastanglia
+}
+902.12.13={
+	holder = 101549 # Knud/Hardeknud son of Sigurd Wormeye, possibly adopted son of Gorm/Guthrum/Athelstan. Maybe king of Eastanglia(no records of the king of the period).
+}
+917.1.1={
+	holder = 0 # Submits to Westsaxon overlordship
+}
+928.1.1={
+	holder = 101500 # Guthrum dux/Gudrum/Gorm "the old"/Gorm "Engelskmand"(Gorm "Englishman"), Son of Knud/Hardeknud, father of Harald Bluetooh. Earldorman, later king of Denmark.
+	liege="k_england"
+}
+# 934-935 Guthrum/Gudrum/Gorm leaves for Denmark.
+935.1.1={ 
+	holder = 1000226348 # Æthelstan Halfking, Earldorman of Eastanglia 933ish -957# Alternative theory is that his father Æthelrfrith of Mercia might also have recived eastanglea around and then passed it on to his son after his death.
+}
+957.1.1={ 
+	holder = 1000226351 # Æthelwald, Earldorman of Eastanglia 957-962
+}
+962.1.1={ 
+	holder = 1000226352 # Probable earldorman of Wessex 962-983.
+}
+992.1.1={ 
+	holder = 1000226379 # Leofsige Earldorman of Eastanglea 993-1002
+}
+1002.1.1={ 
+	holder = 1000226380 # Ulfcytel" "Warleader" and "Dux" of eastanglia 1002-1016
+}
+1016.10.18={ 
+	holder = 168641 # Thorkill the Tall Earl of East anglea 1017-1021
+}
+1021.1.1={ 
+	holder = 1000144477 # Asgot/Osgod Clapa biggest influence in Eastaglia 1026ish-1045(no Earldorman for the period).
+}
+1046.4.15={
+	holder=122 # Harold Godwinson earl of East Anglia. 1045-1051
+}
+1051.1.1={
+	holder=5642 #Ælfgar earl of East Anglia. 1051-1052
+}
+1052.1.1={
+	holder=122 # Harold Godwinson earl of East Anglia. 1052-1053
+}
+1053.1.1={
+	holder=5642 #Ælfgar earl of East Anglia. 1051-1052
+}
+1057.1.1={
+	holder=132 #Gyrth Godwinsson, earl of East Anglia. 1057-1066
+}
+1066.10.14=
+{
+holder=5650 #Radulf 'Stalre'
+}
+1068.1.1=
+{
+holder=5652 #Radulf 'de Guader'
+}
+1074.1.1=
+{
+holder=0
+}

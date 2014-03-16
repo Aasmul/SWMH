@@ -1,0 +1,17 @@
+# 1390 - Binduku
+
+# County Title
+title = c_binduku
+
+# Settlements
+max_settlements = 3
+b_soua = castle
+b_taba = city
+
+#b_oma = temple
+
+# Misc
+culture = manden
+religion = west_african_pagan
+
+# History

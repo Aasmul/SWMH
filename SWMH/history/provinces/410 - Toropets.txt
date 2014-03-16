@@ -1,0 +1,27 @@
+# 410 - Toropets
+
+# County Title
+title = c_toropets
+
+# Settlements
+max_settlements = 5
+
+b_toropets = castle
+b_klichen = temple
+b_molodytud = city
+
+#b_kynya = city
+#b_zhizhtsa = city
+#b_volok = city
+#b_selizharovo = castle
+#b_ostashkov = city
+#b_zamoshe = city
+#b_stolobny = temple
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+

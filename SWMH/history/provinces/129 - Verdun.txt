@@ -1,0 +1,19 @@
+# 129 - Verdun
+
+# County Title
+title = c_verdun
+
+# Settlements
+max_settlements = 4
+b_verdun = castle
+b_saintmihel = city
+
+#b_longuyon = castle
+#b_doaumont = castle
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+

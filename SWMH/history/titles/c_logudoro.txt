@@ -1,0 +1,55 @@
+867.1.1={
+	holder=184008
+}
+#CJL78 - Giudice of Logudoro
+1000.1.1={
+	holder=1000167060
+}
+1038.1.1={
+	holder = 1000167061
+}
+1060.1.1={
+	holder = 1000167062
+}
+1073.1.1={
+	holder = 1000167064
+}
+1112.1.1={
+	holder=1000167065
+}
+1127.1.1={
+	holder=1000167066
+}
+1153.1.1={
+	holder=1000167067
+}
+1186.1.1={
+	holder=1000167068
+}
+1198.1.1={
+	holder=1000167069
+}
+1218.1.1={
+	holder = 1000167070
+}
+1233.1.1={
+	holder = 1000167071
+}
+1236.1.1={
+	holder = 1000167072
+}
+1259.1.1={
+	liege="d_genoa"
+	holder=0
+	#Adelasia dies heirless, most of Logudoro coming under control of Genoese
+}
+
+1324.1.1={
+	liege = "k_aragon"
+}
+1324.1.1={
+	holder=460510
+}
+1336.1.24={
+	holder=460500
+}

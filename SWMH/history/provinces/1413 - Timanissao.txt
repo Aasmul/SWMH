@@ -1,0 +1,18 @@
+# 1413 - Timanissao
+
+# County Title
+title = c_timanissao
+
+# Settlements
+max_settlements = 1
+b_timanissao = city
+
+# Misc
+culture = tuareg
+religion = west_african_pagan
+
+# History
+
+#islamization
+957.1.1 = { religion = ibadi }
+1132.1.1 = { religion = sunni }

@@ -1,0 +1,85 @@
+859.1.1=
+{
+liege="d_rotalians"
+}
+859.1.1=
+{
+holder=167737
+}
+890.1.1={
+	holder=1000227608
+}
+932.1.1={
+	holder=1000227609
+}
+957.1.1={
+	holder=1000227610
+}
+978.1.1={
+	holder=1000227611
+}
+993.1.1={
+	holder=1000227612
+}
+1038.1.1={
+	holder=1000227613
+}
+1057.1.1={
+	holder=1000227614
+}
+1085.1.1={
+	holder=1000227615
+}
+1121.1.1={
+	holder=1000227616
+}
+1142.1.1={
+	holder=1000227617
+}
+1173.1.1={
+	holder=1000227618
+}
+1192.1.1={
+	holder=1000227619
+}
+1206.1.1={
+	holder=1000227620
+}
+##Livonian Swordbrothers takeover
+1224.1.1=
+{
+liege="d_livonian_brothers_of_the_sword"
+holder=30444 #Volkwin von Naumburg
+}
+1228.1.1=
+{
+liege="d_osel_wiek"
+}
+1228.1.1=
+{
+holder=30436 #Gottfried von Naumburg
+}
+1234.1.1=
+{
+holder=30437 #Heinrich von Ösel
+}
+1260.1.1=
+{
+holder=30438 #Hermann von Buxthoeven
+}
+1285.1.1=
+{
+holder=30439 #Heinrich II von Osel
+}
+1294.1.1=
+{
+holder=30440 #Konrad von Osel
+}
+1307.1.1=
+{
+holder=30441 #Hartung von Osel
+}
+1321.1.1=
+{
+holder=30442 #Jakob von Osel
+}

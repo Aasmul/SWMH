@@ -1,0 +1,25 @@
+# 1069 - Nicosia
+
+# County Title
+title = c_nicosia
+
+# Settlements
+max_settlements = 5
+
+b_sthilarion = castle
+b_nikosia = city
+b_chytroi = temple
+#b_lapithos = city
+#b_kyrenia = castle
+#b_buffavento = castle
+#b_tamassos = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+1200.1.1 = { b_kyrenia = castle } 
+
+

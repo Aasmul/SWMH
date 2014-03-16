@@ -1,0 +1,19 @@
+# 816 - Mahdia
+
+# County Title
+title = c_mahdia
+
+# Settlements
+max_settlements = 3
+
+b_haydaran = castle
+b_mahdia = city
+b_slakta = temple
+
+# Misc
+culture = sanhaja 
+religion = sunni
+
+# History
+
+

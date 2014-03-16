@@ -1,0 +1,20 @@
+# 1516 - Ifat
+
+# County Title
+title = c_ifat
+
+# Settlements
+max_settlements = 4
+b_ifat = castle
+b_hayk = city
+
+#b_gidim = temple
+#b_bati = castle
+
+# Misc
+culture = afar
+religion = sunni
+
+# History
+
+  

@@ -1,0 +1,20 @@
+# 1064 - Niederlausitz
+
+# County Title
+title = c_niederlausitz
+
+# Settlements
+max_settlements = 3
+
+
+b_luckau = castle
+b_cottbus = city
+#b_forst = castle
+#b_lebus = temple
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+

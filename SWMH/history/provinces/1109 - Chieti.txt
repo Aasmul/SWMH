@@ -1,0 +1,24 @@
+# 1109 - Chieti
+
+# County Title
+title = c_chieti
+
+# Settlements
+max_settlements = 4
+
+b_chieti = castle
+b_pescara = city
+b_atri = temple
+#b_crecchio = castle
+#b_ortona = castle
+#b_lanciano = city
+#b_cepagatti = temple
+#b_pretoro = city
+#b_atessa = castle
+
+
+# Misc
+culture = southern_italian
+religion = catholic
+
+# History

@@ -1,0 +1,9 @@
+1296.1.1={
+	holder = 33344
+	liege="e_hre"
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+1338.1.1={
+	holder=33346
+}

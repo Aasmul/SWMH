@@ -1,0 +1,21 @@
+# 939 - Polybotos
+
+# County Title
+title = c_polybotos
+
+# Settlements
+max_settlements = 3
+
+b_polybotos = castle
+b_iustinianopolis = city
+#b_orkistos = castle
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+
+1328.1.1 = { culture = turkish }
+1328.1.1 = { religion = sunni }

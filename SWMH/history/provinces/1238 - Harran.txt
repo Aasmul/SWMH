@@ -1,0 +1,22 @@
+# 1238 - Harran
+
+# County Title
+title = c_harran
+
+# Settlements
+max_settlements = 3
+
+b_tallmazwan = castle
+b_harran = city
+#b_ceylanpinar = castle
+#b_akcakale  castle
+
+
+
+# Misc
+culture = kurdish
+religion = sunni
+
+# History
+
+

@@ -1,0 +1,425 @@
+########
+#CJL78 Sardinians 1.000.167.060-1.000.167.089
+########
+
+########
+#Giudice of Logudoro (aka Torres)
+########
+
+1000167060 = {
+	name="Gonario"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1038.1.1 = {
+		death="1038.1.1"
+	}
+}
+
+1000167061 = {
+	name="Comita"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167060
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1060.1.1 = {
+		death="1060.1.1"
+	}
+}
+
+1000167062 = {
+	name="Barisone"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167061
+	1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1073.1.1 = {
+		death="1073.1.1"
+	}
+}
+
+1000167063 = {
+	name="Andrew Tanca"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167062
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1073.1.1 = {
+		death="1073.1.1"
+	}
+}
+
+1000167064 = {
+	name="Mariano"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167063
+	1065.1.1 = {
+		birth="1065.1.1"
+	}
+	1082.1.1 = {
+		death="1082.1.1"
+	}
+}
+
+1000167065 = {
+	name="Constantino"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167064
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1127.1.1 = {
+		death="1127.1.1"
+	}
+}
+
+1000167066 = {
+	name="Gonario"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167065
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1153.1.1 = {
+		death="1153.1.1"
+	}
+}
+
+1000167067 = {
+	name="Barisone"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167066
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1186.1.1 = {
+		death="1186.1.1"
+	}
+}
+
+1000167068 = {
+	name="Constantino"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167067
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1198.1.1 = {
+		death="1198.1.1"
+	}
+}
+
+1000167069 = {
+	name="Comita"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167067
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1218.1.1 = {
+		death="1218.1.1"
+	}
+}
+
+1000167070 = {
+	name="Mariano"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167069
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1233.1.1 = {
+		death="1233.1.1"
+	}
+}
+
+1000167071 = {
+	name="Barisone"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167070
+	1221.1.1 = {
+		birth="1221.1.1"
+	}
+	1236.1.1 = {
+		death="1236.1.1"
+	}
+}
+
+1000167072 = {
+	name="Adelasia"
+	dynasty=1000064005 #di Torres
+	religion="catholic"
+	culture="sardinian"
+	father=1000167070
+	female=yes
+	1207.1.1 = {
+		birth="1207.1.1"
+	}
+	1259.1.1 = {
+		death="1259.1.1"
+	}
+}
+
+########
+#Giudice of Gallura
+########
+
+1000167073 = {
+	name="Manfredo"
+	dynasty=13031
+	religion="catholic"
+	culture="sardinian"
+	1000.1.1 = {
+		birth="1000.1.1"
+	}
+	1040.1.1 = {
+		death="1040.1.1"
+	}
+}
+
+1000167074 = {
+	name="Ubaldo"
+	dynasty=13031
+	religion="catholic"
+	culture="sardinian"
+	father=1000167073
+	1020.1.1 = {
+		birth="1020.1.1"
+	}
+	1065.1.1 = {
+		death="1065.1.1"
+	}
+}
+
+1000167075 = {
+	name="Constantino"
+	dynasty=13031 #della Gherardesca
+	religion="catholic"
+	culture="sardinian"
+	father=1000167073
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1086.1.1 = {
+		death="1086.1.1"
+	}
+}
+
+1000167076 = {
+	name="Saltaro"
+	dynasty=13031 #della Gherardesca
+	religion="catholic"
+	culture="sardinian"
+	father=1000167075
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1086.1.1 = {
+		death="1086.1.1"
+	}
+}
+
+1000167077 = {
+	name="Torchitorio"
+	dynasty=1000064003 #de Zori
+	religion="catholic"
+	culture="sardinian"
+	father=1000167075
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+1000167078 = {
+	name="Ittocorre"
+	dynasty=1000064004 #de Gunale
+	religion="catholic"
+	culture="sardinian"
+	father=0
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1116.1.1 = {
+		death="1116.1.1"
+	}
+}
+
+1000167079 = {
+	name="Constantino"
+	dynasty=1000064004 #de Gunale
+	religion="catholic"
+	culture="sardinian"
+	father=1000167078
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1133.1.1 = {
+		death="1133.1.1"
+	}
+}
+
+1000167080 = {
+	name="Comita"
+	dynasty=1000064004 #de Gunale
+	religion="catholic"
+	culture="sardinian"
+	father=1000167079
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1146.1.1 = {
+		death="1146.1.1"
+	}
+}
+
+1000167081 = {
+	name="Constantino"
+	dynasty=8691 #Lacon
+	religion="catholic"
+	culture="sardinian"
+	father=1000167078
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+1000167082 = {
+	name="Barisone"
+	dynasty=8691 #Lacon
+	religion="catholic"
+	culture="sardinian"
+	father=1000167081
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1203.1.1 = {
+		death="1203.1.1"
+	}
+}
+
+1000167083 = {
+	name="Elena"
+	dynasty=8691 #Lacon
+	religion="catholic"
+	culture="sardinian"
+	father=1000167082
+	female=yes
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1218.1.1 = {
+		death="1218.1.1"
+	}
+}
+
+1000167084 = {
+	name="Lamberto"
+	dynasty=234 #Visconti
+	religion="catholic"
+	culture="sardinian"
+	father=0
+	1160.1.1 = {
+		birth="1160.1.1"
+	}
+	1207.1.1 = {
+		add_spouse="1000167083"
+	}
+	1225.1.1 = {
+		death="1225.1.1"
+	}
+}
+
+1000167085 = {
+	name="Ubaldo"
+	dynasty=234 #Visconti
+	religion="catholic"
+	culture="sardinian"
+	father=1000167084
+	mother=1000167083
+	1207.1.1 = {
+		birth="1207.1.1"
+	}
+	1219.1.1 = {
+		add_spouse="1000167072"
+	}
+	1238.1.1 = {
+		death="1238.1.1"
+	}
+}
+
+1000167086 = {
+	name="Giovanni"
+	dynasty=234 #Visconti
+	religion="catholic"
+	culture="sardinian"
+	father=1000167085
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1275.1.1 = {
+		death="1275.1.1"
+	}
+}
+
+1000167087 = {
+	name="Ugolino"
+	dynasty=234 #Visconti
+	religion="catholic"
+	culture="sardinian"
+	father=1000167086
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1298.1.1 = {
+		death="1298.1.1"
+	}
+}
+
+1000167088 = {
+	name="Joanna"
+	dynasty=234 #Visconti
+	religion="catholic"
+	culture="sardinian"
+	father=1000167087
+	female=yes
+	1275.1.1 = {
+		birth="1275.1.1"
+	}
+	1339.1.1 = {
+		death="1339.1.1"
+	}
+}

@@ -1,0 +1,19 @@
+# 393 - Onega # Oneg
+
+# County Title
+title = c_onega
+
+# Settlements
+max_settlements = 2
+
+b_ust-onega = castle
+#b_nikolokorelskij = temple
+
+# Misc
+culture = samoyed
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }
+1150.1.1 = { name = "Onega" }
+1150.1.1 = { b_nikolokorelskij = temple }

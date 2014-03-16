@@ -1,0 +1,12 @@
+825.1.1=
+{
+liege="k_italy"
+}
+1024.7.13 =
+{
+liege="e_hre"
+}
+1300.1.1={
+	liege="d_lombardia"
+}
+#CJL78 - Novara practically a free comune after disintegration of M. of Ivrea; bishop seems to be the largest power but later inlfluenced by the Visconti of Milan

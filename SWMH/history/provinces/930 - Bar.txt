@@ -1,0 +1,21 @@
+# 930 - Bar
+
+# County Title
+title = c_bar
+
+# Settlements
+max_settlements = 4
+
+b_barleduc = castle
+b_ligneybarroias = temple
+
+#b_vaucouleurs = castle
+#b_barlecomte = castle
+#b_commercy = city
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+

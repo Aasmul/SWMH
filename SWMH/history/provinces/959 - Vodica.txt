@@ -1,0 +1,34 @@
+# 959 - Vodica
+
+# County Title
+title = c_vodica
+
+# Settlements
+max_settlements = 5
+b_vodicevo_una = castle
+b_blagaj_japra = castle
+b_bosanska_krupa = city
+b_dubica = temple
+#b_zrin = castle
+#b_stenicnjak = city
+#b_novigrad_vodica = city
+#b_cetin = castle
+
+
+
+# Misc
+culture = croatian
+religion = catholic
+
+
+# History
+
+1200.1.1= { b_zrin = castle } 
+1232.1.1= { religion = bogomilist } 
+
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,118 @@
+########
+#CJL78 Greeks 1.000.167.300-1.000.167.319
+########
+
+########
+#Dukes of Naples (only Sergius's and Ioannes's included for regnal numeral purposes)
+########
+
+1000167300 = {
+	name="Sergios"
+	dynasty=101138 #Spartenos
+	religion="orthodox"
+	culture="greek"
+	father=0
+	820.1.1 = {
+		birth="820.1.1" 
+	}
+	865.1.1 = {
+		death="865.1.1"
+	}
+}
+
+1000167301 = {
+	name="Sergios"
+	dynasty=101138 #Spartenos
+	religion="orthodox"
+	culture="greek"
+	father=1000167300
+	840.1.1 = {
+		birth="840.1.1" 
+	}
+	878.1.1 = {
+		death="878.1.1"
+	}
+}
+
+1000167302 = {
+	name="Ioannes"
+	dynasty=101138 #Spartenos
+	religion="orthodox"
+	culture="greek"
+	father=1000167301
+	860.1.1 = {
+		birth="860.1.1" 
+	}
+	919.1.1 = {
+		death="919.1.1"
+	}
+}
+
+1000167303 = {
+	name="Ioannes" #III
+	dynasty=101138 #Spartenos
+	religion="orthodox"
+	culture="greek"
+	father=1000167302
+	910.1.1 = {
+		birth="910.1.1" 
+	}
+	969.1.1 = {
+		death="969.1.1"
+	}
+}
+
+1000167304 = {
+	name="Sergios" #III
+	dynasty=101138 #Spartenos
+	religion="orthodox"
+	culture="greek"
+	father=1000167303
+	950.1.1 = {
+		birth="950.1.1" 
+	}
+	999.1.1 = {
+		death="999.1.1" 
+	}
+}
+
+1000167305 = {
+	name="Ioannes" #IV
+	dynasty=101138 #Spartenos
+	religion="orthodox"
+	culture="greek"
+	father=1000167304
+	950.1.1 = {
+		birth="950.1.1" 
+	}
+	1002.1.1 = {
+		death="1002.1.1" 
+	}
+}
+
+1000167306 = {
+	name="Sergios" #IV
+	dynasty=101138 #Spartenos
+	religion="orthodox"
+	culture="greek"
+	father=1000167305
+	999.1.1 = {
+		birth="999.1.1" 
+	}
+	1036.1.1 = {
+		death="1036.1.1" 
+	}
+}
+
+1000167307 = {
+	name="Ioannes"
+	dynasty=0
+	religion="orthodox"
+	culture="greek"
+	680.1.1 = {
+		birth="680.1.1" 
+	}
+	719.1.1 = {
+		death="719.1.1"
+	}
+}

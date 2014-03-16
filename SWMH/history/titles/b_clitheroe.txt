@@ -1,0 +1,30 @@
+#Lords of Bowland and honour of Clitheroe
+
+1066.10.14={
+	holder=82052 #Roger the Poitevin, first lord of Bowland
+}
+1093.1.1={
+	holder=129084  #Robert de Lacy 2nd lord of Pontefract and 2nd lord of Bowland
+	liege="c_york"
+}
+1112.11.1={
+	holder=1000227362 # Ilbert de Lacy II 3d lord of Pontefract and 3rd lord of Bowland
+}
+1141.2.2={
+	holder=1000227364 # Henry de Lacy 4th lord of Pontefract and 4th lord of Bowland
+}
+1177.9.25={
+	holder=1000227365 # Robert de Lacy 5th lord of Pontefract and 5th lord of Bowland
+}
+1193.8.21={
+	holder=129090 #Roger de Lacy 6th lord of Pontefract and 7th lord of Bowland
+}
+1211.1.1={
+	holder=454045 #John de Lacy 2nd Earl of Lincoln, 7th lord of Pontefract and 8th lord of Bowland
+}
+1240.1.1={
+	holder=454043 #Edmund de Lacy 8th lord of Pontefract and 9th lord of Bowland
+}
+1257.1.1={
+	holder=454040 #Henry de Lacy 3d Earl of Lincoln, 9th lord of Pontefract and 10th lord of Bowland
+}

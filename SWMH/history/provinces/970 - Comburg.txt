@@ -1,0 +1,22 @@
+# 970 - Comburg
+
+# County Title
+title = c_comburg
+
+# Settlements
+max_settlements = 4
+
+b_staufer = castle
+#b_rothenburg = city
+#b_comburg = temple
+
+#b_gebsattle = city
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+ 

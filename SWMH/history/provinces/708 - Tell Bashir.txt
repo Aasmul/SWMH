@@ -1,0 +1,23 @@
+# 708 - Tell Bashir
+
+# County Title
+title = c_tell_bashir
+
+# Settlements
+max_settlements = 4
+b_turbessel = castle
+b_kyrrhos = temple
+b_nizip = city
+#b_trihalet = castle
+
+
+# Misc
+culture = levantine_arabic
+religion = miaphysite
+
+# History
+1098.1.1 = { culture = armenian }
+1098.1.1 = { religion = orthodox }
+1170.1.1 = { culture = levantine_arabic }
+1170.1.1 = { religion = sunni }
+

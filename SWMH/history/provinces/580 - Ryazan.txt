@@ -1,0 +1,27 @@
+# 580 - Ryazan
+
+# County Title
+title = c_ryazan
+
+# Settlements
+max_settlements = 5
+b_ryazan = castle
+b_perejaslavl_rjazanskij = city
+b_grodets = temple
+
+#b_shilovo = castle
+#b_olgov = city
+#b_borisgolebov = city
+#b_izeslavl = temple
+#b_spassk = castle
+#b_rybnino = city
+#b_mikhaylov = castle
+
+culture = mordvin
+religion = finnish_pagan
+
+# History
+1110.1.1 = { religion = orthodox }
+1120.1.1 = { culture = russian }
+1187.1.1 = { b_shilovo = castle }
+1237.1.1 = { remove_settlement = b_shilovo } #Mongol invasion

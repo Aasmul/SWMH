@@ -1,0 +1,21 @@
+# 35 - Innse Gall
+
+# County Title
+title = c_innse_gall
+
+# Settlements
+max_settlements = 2
+b_dunvegan = castle
+#b_trotternish = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = hills
+
+# History
+867.1.1 = {
+	b_dunvegan = ca_shipyard_1
+}
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norsegaelic }

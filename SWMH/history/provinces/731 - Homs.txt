@@ -1,0 +1,21 @@
+# 731 - Homs
+
+# County Title
+title = c_homs
+
+# Settlements
+max_settlements = 5
+b_citadelofhoms = castle
+b_homs = city
+b_sadad = temple
+#b_qusayr = city
+#b_monasteryofsaintmosestheabyssinian = temple
+#b_alnabk = city
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+

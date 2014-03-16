@@ -1,0 +1,31 @@
+# 63 - Derby
+
+# County Title
+title = c_derby
+
+# Settlements
+max_settlements = 4
+
+b_castleton = castle
+b_derby = city
+
+#b_chesterfield = city
+#b_bakewell = city
+#b_bolsover = castle
+#b_darley = temple
+#b_wirksworth = city
+#b_codnor = castle
+#b_duffield = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+880.1.1 = { culture = norse } # Danes settle down
+880.1.1 = { religion = norse_pagan } # Danes settle down
+917.1.1 = { religion = catholic } # Taken by Wessex
+1002.11.13 = { culture = saxon } # St. Brice's Day
+1100.11.11 = { culture = english }
+1139.1.1 = { b_duffield = castle }
+1139.1.1 = { capital = b_duffield }

@@ -1,0 +1,15 @@
+# 1452 - Inbhir Narann
+
+# County Title
+title = c_inbhirnarann
+
+# Settlements
+max_settlements = 2
+b_cawdor = castle
+#b_nairn = city
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History

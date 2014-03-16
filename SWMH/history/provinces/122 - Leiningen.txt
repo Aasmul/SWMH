@@ -1,0 +1,22 @@
+# 122 - Leiningen
+
+# County Title
+title = c_leiningen
+
+# Settlements
+max_settlements = 4
+
+b_burgwertheim = castle
+b_wertheim = city
+#b_durne = temple
+#b_klingen = castle
+#b_breuberg = castle
+#b_freudenberg = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+

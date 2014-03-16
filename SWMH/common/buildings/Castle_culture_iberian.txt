@@ -1,0 +1,172 @@
+	#Iberian Fast horse breeders
+castle = {
+	ca_culture_group_iberian_1 = {
+		desc = ca_culture_group_iberian_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = castillan
+					culture = galician
+					culture = leonese
+					culture = portuguese
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_cavalry = 30
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_iberian_2 = {
+		desc = ca_culture_group_iberian_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = castillan
+					culture = galician
+					culture = leonese
+					culture = portuguese
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_group_iberian_1
+		build_cost = 300
+		build_time = 1095
+		light_cavalry = 40
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_iberian_3 = {
+		desc = ca_culture_group_iberian_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = castillan
+					culture = galician
+					culture = leonese
+					culture = portuguese
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_group_iberian_2
+		build_cost = 400
+		build_time = 2190
+		light_cavalry = 50
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_iberian_4 = {
+		desc = ca_culture_group_iberian_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = castillan
+					culture = galician
+					culture = leonese
+					culture = portuguese
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_group_iberian_3
+		build_cost = 500
+		build_time = 2190
+		light_cavalry = 60
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+	#Almoghavars
+	ca_culture_catalan_1 = {
+		desc = ca_culture_catalan_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = catalan
+					culture = aragonese
+					culture = basque
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_infantry = 60
+		light_infantry_offensive = 0.2
+		light_infantry_defensive = 0.1
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_catalan_2 = {
+		desc = ca_culture_catalan_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = catalan
+					culture = aragonese
+					culture = basque
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_catalan_1
+		build_cost = 300
+		build_time = 1095
+		light_infantry = 80
+		light_infantry_offensive = 0.2
+		light_infantry_defensive = 0.1
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_catalan_3 = {
+		desc = ca_culture_catalan_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = catalan
+					culture = aragonese
+					culture = basque
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_catalan_2
+		build_cost = 400
+		build_time = 2190
+		light_infantry = 100
+		light_infantry_offensive = 0.2
+		light_infantry_defensive = 0.1
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_catalan_4 = {
+		desc = ca_culture_catalan_1_desc
+		potential = {
+			FROM = { OR = {
+					culture = catalan
+					culture = aragonese
+					culture = basque
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_catalan_3
+		build_cost = 500
+		build_time = 2190
+		light_infantry = 120
+		light_infantry_offensive = 0.2
+		light_infantry_defensive = 0.1
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+}

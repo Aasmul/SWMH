@@ -1,0 +1,29 @@
+# 338 - Reggio
+
+# County Title
+title = c_reggio
+
+# Settlements
+max_settlements = 5
+b_gerace = castle
+b_reggio = city
+b_mileto = temple
+
+#b_scilla = castle
+#b_bova = temple
+#b_roa = castle
+#b_tropea = temple
+#b_amendolea = castle
+#b_santaniceto = castle
+#b_nicotera = castle
+
+# Misc
+culture = greek
+religion = orthodox
+terrain = hills
+
+# History
+
+1066.1.1 = { trade_post = b_ziani }
+1187.1.1={ culture = sicilian }
+1187.1.1={ religion = catholic }

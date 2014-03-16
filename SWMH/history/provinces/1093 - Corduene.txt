@@ -1,0 +1,31 @@
+# 1093 - Corduene
+
+# County Title
+title = c_corduene
+
+# Settlements
+ max_settlements = 3
+b_korduk = castle
+b_tshauk = city
+b_aitvank = temple
+#b_vorsirank = castle
+#b_aigark = castle
+#b_motolank = castle
+#b_kartunik = castle
+#b_albak = castle
+ 
+
+# Misc
+culture = armenian
+religion = miaphysite
+
+# History
+1084.1.1 = { culture = kurdish }
+1219.1.1 = { 
+	culture = armenian
+	religion = orthodox 
+}
+1320.1.1 = { 
+	culture = kurdish 
+	religion = sunni 
+}

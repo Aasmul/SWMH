@@ -1,0 +1,161 @@
+d_band_of_the_brave = {
+	color={ 91 183 102 }
+	color2={ 255 255 255 }
+
+	capital = 52 # Northumberland
+	
+	# Hire Trigger
+	allow = {
+            or = {culture = saxon
+		  culture = scottish
+                  culture = anglonorse
+		  culture = welsh
+		  culture = norsegaelic
+	          culture = irish
+                  culture = cornish		
+		  culture = english }         
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_band_of_the_brave_modifier
+	strength_growth_per_century = 0.25
+}
+d_band_of_the_red = {
+	color={ 101 0 0 }
+	color2={ 255 255 255 }
+
+	capital = 1258 # Southiceland
+	
+	# Hire Trigger
+	allow = {
+            or = {culture_group = north_germanic
+		  culture = norsegaelic
+                  culture = anglonorse}         
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "DROTTINN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_band_of_the_red_modifier
+	strength_growth_per_century = 0.25
+}
+
+d_black_gang = {
+	color={ 101 0 0 }
+	color2={ 255 255 255 }
+
+	capital = 84 # Friesland
+	
+	# Hire Trigger
+	allow = { culture = frisian         
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_black_gang_modifier
+	strength_growth_per_century = 0.25
+}
+d_ulfhedar = {
+	color={ 231 232 227 }
+	color2={ 255 255 255 }
+
+	capital = 271 # Vestfold
+	
+	# Hire Trigger
+	allow = {religion = norse_pagan}
+	
+	# Parent Religion 
+	religion = norse_pagan
+	
+	mercenary = yes
+
+	title = "DROTTINN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+        # Cannot be vassalized
+	independent = yes
+		
+	modifier = d_ulfhedar_modifier
+	strength_growth_per_century = 0.25
+}
+
+d_valr = {
+	color={ 20 20 20 }
+	color2={ 255 255 255 }
+
+	capital = 301 # Gotland
+	
+	# Hire Trigger
+	allow = {religion = norse_pagan}
+	
+	# Parent Religion 
+	religion = norse_pagan
+	
+	mercenary = yes
+
+	title = "DROTTINN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+        # Cannot be vassalized
+	independent = yes
+		
+	modifier = d_valr_modifier
+	strength_growth_per_century = 0.25
+}

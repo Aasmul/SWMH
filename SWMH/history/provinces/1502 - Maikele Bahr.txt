@@ -1,0 +1,15 @@
+# 1502 - Maikele Bahr
+
+# County Title
+title = c_maikele_bahr
+
+# Settlements
+max_settlements = 1
+
+b_sinkat = castle
+
+# Misc
+culture = beja
+religion = pagan
+
+# History

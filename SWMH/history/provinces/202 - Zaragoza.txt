@@ -1,0 +1,23 @@
+# 202 - Zaragoza
+
+# County Title
+title = c_zaragoza
+
+# Settlements
+max_settlements = 5
+b_zaragoza = castle
+b_alagon = city
+b_veruela = temple
+#b_borja = castle
+#b_ejea_de_los_caballeros = castle
+#b_tarazona = city
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1066.1.1 = { 
+	b_zaragoza = ca_town_1
+	b_zaragoza = ca_wall_1
+}

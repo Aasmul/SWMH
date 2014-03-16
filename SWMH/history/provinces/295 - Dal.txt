@@ -1,0 +1,25 @@
+# 295 - Dal
+
+# County Title
+title = c_dal
+
+# Settlements
+max_settlements = 2
+
+b_dalaborg = castle
+
+#b_sundal
+#b_bolstad
+#b_nordal
+#b_vedbo
+#b_tossbo
+#b_amordh
+#b_mellerud
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1047.10.25 = { culture = gothic } 
+1060.8.2 = {religion = catholic}

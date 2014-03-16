@@ -1,0 +1,485 @@
+###############################################################
+#  Croatian characters
+###############################################################
+#Croatian character Range: 1000229200 - 1000229299
+###########
+### Karinjani Lapcani # family had been head of the Lapcani tribe
+1000229200 = { 
+	name="Vinihi" # Vinihi Lapcanu
+	dynasty=1000101400 # Karinjani
+	religion=catholic
+	culture=croatian
+	1040.1.1={
+		birth=yes
+	}
+	1110.1.1={
+		death=yes
+	}
+}
+#################
+#Kacic and Snacic
+#################
+#The family had been head of one of the Croatian/Dalmatian tribes(Khadziki). Also Snacic(most likely a branch of Kacic) that would get the crown breifly.
+
+##Snacic/Svacic
+#8623 = {
+#	name="Neda" # Neda Krešimirova, daughter of Petar IV, Wife of Marjan Slavac
+#	female=yes
+#	dynasty=512
+#	martial=6
+#	diplomacy=6
+#	intrigue=6
+#	stewardship=7
+#	add_trait="ill"
+#	religion="catholic"
+#	culture="croatian"
+#	father=8622
+#	1048.1.1={
+#		birth=yes
+#	}
+#	1080.1.1={
+#		death=yes
+#	}
+#}
+#20381 = {
+#	name="Petar" # Knez of Knin, Cetina and Neretva?, Ban of Dalmatia 1089-1092, King of Croatia 1092-1097
+#	dynasty=101874
+#	martial=6
+#	diplomacy=5	
+#        intrigue=4
+#	stewardship=4
+#	religion="catholic"
+#	culture="croatian"
+#	trait="ambitious"
+#	trait="flamboyant_schemer"
+#	father=1000229202 # Marjan Slava
+#	mother=8623 # Neda Krešimirova
+#	1063.1.1={
+#		birth=yes
+#	}
+#	1097.1.1={
+#		death=yes
+#	}
+#}
+1000229218 = {
+	name="Petar" # Made up.
+	dynasty=101874 # Snacic
+	religion="catholic"
+	culture="croatian"
+        father= 20381 # Petar Snacic
+	1081.1.1={
+		birth=yes
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+1000229216 = {
+	name="Saracena" # Knez of Sidraškog, likely grandson of Petar Snacic. Saracena is a really weird name, must try and confirm from other source.
+	dynasty=101874 # Snacic
+	religion="catholic"
+	culture="croatian"
+        father= 1000229204
+	1130.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+1000229217 = {
+	name="Domald" # Knez of Sidraškog, Sibenik(basically just same title as Sidraškog since Sibenik was part of it) and Cetina, Breifly held Zadar aswell(after taking it from the ventiatians).
+	dynasty=101874 # Snacic
+	religion="catholic"
+	culture="croatian"
+        father= 1000229216 # Saracena Snacic
+	1165.1.1={
+		birth=yes
+	}
+	1243.1.1={
+		death=yes
+	}
+}
+#Snacic/Svacic dies out, Nelipic (branch of former) survives and take over Cetina. See Nelipic further down.
+##Kacic
+# Knez of Omis
+1000229202 = {
+	name="Marjan" # Marjan Slavac(IV), Knez of Sidraškog, Ban of Neretva(Omis/Imotska), commander of Croatian naval forces in the campaign against the Venetians during 1073-1076(aka pirate in cheif)
+	dynasty=19029 # Kacic
+	religion="catholic"
+	culture="croatian"
+	1040.1.1={
+		birth=yes
+	}
+	1063.1.1={
+		add_spouse=8623 # Neda Krešimirova
+	}
+	1080.1.1={
+		death=yes
+	}
+}
+1000229203 = {
+	name="Ikroslav" # Brother of Petar Snacic
+	dynasty=19029 # Kacic
+	religion="catholic"
+	culture="croatian"
+	father=1000229202 # Marjan Slava
+	mother=8623 # Neda Krešimirova
+	1065.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+1000229204 = {
+	name="Marjan" # Made up.
+	dynasty=19029 # Kacic
+	religion="catholic"
+	culture="croatian"
+	father=1000229203 # Ikroslav
+	1089.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+1000229201 = { 
+	name="Nikola" # first Kacic known as such.
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229204
+	1120.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+1000229205 = { 
+	name="Brecko"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229201 # Nikola Kacic
+	1150.1.1={
+		birth=yes
+	}
+	1199.1.1={
+		death=yes
+	}
+}
+1000229206 = { 
+	name="Sebena"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229205 # Brecko Kacic
+	1175.1.1={
+		birth=yes
+	}
+	1225.1.1={
+		death=yes
+	}
+}
+1000229207 = { 
+	name="Malduch"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229206 # Sebena Kacic
+	1200.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+1000229208 = { 
+	name="Radoš"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229207 # Malduch Kacic
+	1235.1.1={
+		birth=yes
+	}
+	1285.1.1={
+		death=yes
+	}
+}
+1000229209 = { 
+	name="Osor"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229207
+	1230.1.1={
+		birth=yes
+	}
+	1274.1.1={
+		death=yes
+	}
+}
+### Omis/Imotska gets taken over by the Subcic until Bosnia takes the principality and the Kacic family regain influence in 1326 now centerd on Makarska
+1000229210 = { 
+	name="Zaljko"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229208 # should it be Radoš or Osor? Not certain.
+	1265.1.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+1000229211 = { 
+	name="Baran"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229210 # Zaljko Kacic
+	1285.1.1={
+		birth=yes
+	}
+	1365.1.1={
+		death=yes
+	}
+}
+1000229212 = { 
+	name="Vukic"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229211 # Baran Kacic
+	1310.1.1={
+		birth=yes
+	}
+	1370.1.1={
+		death=yes
+	}
+}
+1000229213 = { 
+	name="Andrijas"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229211 # Baran Kacic
+	1315.1.1={
+		birth=yes
+	}
+	1380.1.1={
+		death=yes
+	}
+}
+1000229214 = { 
+	name="Baran"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229211 # Baran Kacic
+	1320.1.1={
+		birth=yes
+	}
+	1385.1.1={
+		death=yes
+	}
+}
+1000229215 = { 
+	name="Vukasin"
+	dynasty=19029 # Kacic
+	religion=catholic
+	culture=croatian
+        father=1000229211 # Baran Kacic
+	1317.1.1={
+		birth=yes
+	}
+	1390.1.1={
+		death=yes
+	}
+}
+####
+#Nelipici
+####
+#Knez of Cetina
+1000229219 = {
+	name="Nelipac" # Nelipac Nelipici I, Knez of Cetina.
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229217 #Domald Snacic(sketchy)
+	1210.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes #mentioned 1244
+	}
+}
+1000229220 = {
+	name="Izan" # Izan I, Knez of Cetina. Zupan of Drežnik breifly.
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229219 #Nelipac Nelipici I
+	1244.1.1={
+		birth=yes
+	}
+	1327.1.1={
+		death=yes # Was awarded Dreznik in 1326
+	}
+}
+1000229221 = {
+	name="Nelipac" # Nelipac Nelipici II, Knez of Cetina. Zupan of Drežnik breifly. Took control of Knin 1322-1344(During his revolt agianst Hungary) Maybe best to make him duke of Dalmatia in that period.
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229220 #Izan Nelipici I
+	1275.1.1={
+		birth=yes
+	}
+#Married Vladislavom Kurjakovic
+	1344.1.1={
+		death=yes
+	}
+}
+1000229222 = {
+	name="Izana" # Izana II brother of Nelipac II
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229220 #Ivan Nelipici I
+	1280.1.1={
+		birth=yes
+	}
+	1310.1.1={
+		death=yes
+	}
+}
+1000229223 = {
+	name="Konstantin" # Son of Izana II, joint ruler with his uncle Nelipac II.  Held land between the rivers of Krke, Kljucicu and Necvenu. Knez of Hum during the early 14th century.
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229222 #Izana II Nelipici
+	1300.1.1={
+		birth=yes
+	}
+	1355.1.1={
+		death=yes
+	}
+}
+1000229224 = {
+	name="Nelipac" # Nelipac III, son of Konstantin Nelipici, kapetana of Skradin 1388-1394. Konstantin's branch dies out with him.
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229220 #Konstantin Nelipici
+	1335.1.1={
+		birth=yes
+	}
+	1394.1.1={
+		death=yes
+	}
+}
+1000229225 = {
+	name="Ivaniš" # Ivan II, Knez of Cetina, Vrbas(1360-1362) and Hum (1372-1379).
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229221 #Nelipac Nelipici II
+	1330.1.1={
+		birth=yes
+	}
+# Married Magaretom Merini( a noble family from Split)
+	1379.1.1={
+		death=yes
+	}
+}
+1000229226 = {
+	name="Ivaniš" # Ivan Nelipici III Knez of Cetina, Omis(1416-1434, handed too him by his sister Jelenu after her first husbands death) and Zadar?. Ban of Dalmatia ?-?, Ban of Croatia 1419-?.
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229225 #Ivan II
+        1360.1.1={
+		birth=yes
+	}
+	1434.1.1={
+		death=yes
+	}
+}
+1000229229 = {
+	name="Jelenu" # Jelena sister of Ivan III
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229225 #Ivan II
+	1376.1.1={
+		birth=yes
+	}
+#Married  Hrvoje Vukcic Hrvatinic 1401-1416 and 1416-1418 king Ostoja
+	1422.1.1={
+		death=yes
+	}
+}
+1000229227 = {
+	name="Katarinu" # daughter of Ivan III, held Cetina 1434-1436(confiscated by the crown)
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229226 #Ivan III
+        female = yes
+	1400.1.1={
+		birth=yes
+	}
+#Married Anža frankopan
+	1470.1.1={
+		death=yes
+	}
+}
+1000229228 = {
+	name="Margaritu" # second daughter of Ivan III.
+	dynasty=1000101401 # Nelipici
+	religion="catholic"
+	culture="croatian"
+        father= 1000229226 #Ivan III
+        female = yes
+	1405.1.1={
+		birth=yes
+	}
+	1460.1.1={
+		death=yes
+	}
+}
+#####
+#Bans without known pedigree
+#
+1000229230 = {
+	name="Gojco" # Gojco ban of Croatia 1060-1069
+	dynasty=1000101402 # Mogorovic
+	religion="catholic"
+	culture="croatian"
+	1035.1.1={
+		birth=yes
+	}
+	1069.1.1={
+		death=yes
+	}
+}
+
+1000229231 = {
+	name="Izana" # made up name, plays the role of the mysterious Ban of Bosnia
+	dynasty=1000101403 # Kukar
+	religion="catholic"
+	culture="croatian"
+	1040.1.1={
+		birth=yes
+	}
+	1097.1.1={
+		death=yes
+	}
+}

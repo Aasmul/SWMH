@@ -1,0 +1,23 @@
+# 1055 - Pultusk
+
+# County Title
+title = c_pultusk
+
+# Settlements
+max_settlements = 4
+
+
+b_pultusk = castle
+b_czerwinsk = temple
+#b_wizna = temple
+#b_ostroleska = castle
+#b_zakroczym = temple
+#b_przasnysz = city
+#b_lomzapoland = castle
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+999.7.1 = { religion = catholic }

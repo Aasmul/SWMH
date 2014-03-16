@@ -1,0 +1,28 @@
+# 1299 - Bartia
+
+# County Title
+title = c_bartia
+
+# Settlements
+max_settlements = 5
+
+b_reszel = castle
+b_heilsberg = temple
+b_gierdawy = castle
+
+#b_rastembork = city
+#b_bartenstein = castle
+#b_schippenbeil = city
+#b_satoczno = castle
+#b_biskupiec = castle
+
+
+# Misc
+culture = prussian
+religion = baltic_pagan
+
+# History
+
+1240.1.1 = { b_bartenstein = castle }
+1273.1.1 = { religion = catholic } #death of Diwanus
+1273.1.1 = { culture = german }

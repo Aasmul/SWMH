@@ -1,0 +1,28 @@
+# 841 - Tangiers
+
+# County Title
+title = c_tangiers
+
+# Settlements
+max_settlements = 4
+
+b_tangiers = castle
+b_asilah = city
+b_kasrkutama = temple
+
+#b_laraiche = city
+#b_mulaybuselham = temple
+#b_alcazarquivir = city
+#b_ainbenamar = castle
+
+#b_charkia = castle
+#b_barrha = castle
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History
+
+
+

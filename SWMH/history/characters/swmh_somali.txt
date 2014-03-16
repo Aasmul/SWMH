@@ -1,0 +1,693 @@
+#Characters: 1000229100 - 1000229199
+
+34360 = {
+	name="Da'ud"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34378
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1032.1.1={
+		death="1032.1.1"
+	}
+}
+
+34361 = {
+	name="Ali"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34360
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+34362 = {
+	name="Da'ud"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34360
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1081.1.1={
+		death="1081.1.1"
+	}
+}
+
+34363 = {
+	name="Ali"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34362
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1106.1.1={
+		death="1106.1.1"
+	}
+}
+
+34364 = {
+	name="Hasan"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34362
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+34365 = {
+	name="Sulayman"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34362
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+34366 = {
+	name="Da'ud"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34365
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1158.1.1={
+		death="1158.1.1"
+	}
+}
+
+34367 = {
+	name="Sulayman"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34364
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1177.1.1={
+		death="1177.1.1"
+	}
+}
+
+34368 = {
+	name="Da'ud"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34367
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+34369 = {
+	name="Talut"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34367
+	1132.1.1={
+		birth="1132.1.1"
+	}
+	1181.1.1={
+		death="1181.1.1"
+	}
+}
+
+34370 = {
+	name="Hasan"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34367
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+34371 = {
+	name="Khalid"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34367
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+34372 = {
+	name="Ali"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34367
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1217.1.1={
+		death="1217.1.1"
+	}
+}
+
+34373 = {
+	name="Sulayman"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34372
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+
+34374 = {
+	name="Da'ud"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34372
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+34375 = {
+	name="Ali"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34374
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1274.1.1={
+		death="1274.1.1"
+	}
+}
+
+34376 = {
+	name="Hussayn"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=167713
+	920.1.1={
+		birth="920.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+34377 = {
+	name="Ali"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34376
+	950.1.1={
+		birth="950.1.1"
+	}
+	1022.1.1={
+		death="1022.1.1"
+	}
+}
+
+34378 = {
+	name="Ali"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34377
+	970.1.1={
+		birth="970.1.1"
+	}
+	1027.1.1={
+		death="1027.1.1"
+	}
+}
+
+34379 = {
+	name="Khalid"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34378
+	1002.1.1={
+		birth="1002.1.1"
+	}
+	1035.1.1={
+		death="1035.1.1"
+	}
+}
+
+34380 = {
+	name="Sulayman"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34378
+	998.1.1={
+		birth="998.1.1"
+	}
+	1026.1.1={
+		death="1026.1.1"
+	}
+}
+
+34381 = {
+	name="Hasan"
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=34380
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+}
+
+167709 = {
+	name="Bahir"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	810.1.1={
+		birth="810.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+167710 = {
+	name="Mirza"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=167709
+	835.1.1={
+		birth="835.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+167711 = {
+	name="Bahir"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=167710
+	855.1.1={
+		birth="855.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+167712 = {
+	name="Muslihiddin"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=167710
+	860.1.1={
+		birth="860.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+167713 = {
+	name="Sadiq"
+	#placeholder
+	dynasty=100667
+	religion="sunni"
+	culture="somali"
+	father=167712
+	900.1.1={
+		birth="900.1.1"
+	}
+	980.1.1={
+		death="80.1.1"
+	}
+}
+
+######################################
+# SWMH Characters
+######################################
+
+#new Walashmá dynasty of Ifat
+1000229100 = {
+	name="Umar Dunya-Huz" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=32891
+	1169.1.1={
+		birth="1169.1.1"
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+1000229101 = {
+	name="Ali Baziwi" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229100
+	1189.1.1={
+		birth="1189.1.1"
+	}
+	1233.1.1={
+		death="1233.1.1"
+	}
+}
+
+1000229102 = {
+	name="Haqq ad-Dín" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229100
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+1000229103 = {
+	name="Husein" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229100
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+1000229104 = {
+	name="Nasr ad-Dín" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229100
+	1197.1.1={
+		birth="1197.1.1"
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+1000229105 = {
+	name="Mansur" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229101
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1253.1.1={
+		death="1253.1.1"
+	}
+}
+1000229106 = {
+	name="Jamal ad-Dín" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229101
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+1000229120 = {
+	name="Fatimah Aydargu" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229105
+	1227.1.1={
+		birth="1227.1.1"
+	}
+	1245.2.2={
+		add_spouse=1000229004
+	}
+	1272.1.1={
+		death="1272.1.1"
+	}
+}
+1000229107 = {
+	name="Abúd" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229106
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+1000229108 = {
+	name="Zubér" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229107
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+1000229109 = {
+	name="Layla"
+  female=yes 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229107
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+1000229110 = {
+	name="Nahwi" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229105
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+
+1000229111 = {
+	name="Haqq ud-Dín" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229110
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+1000229112 = {
+	name="Sabir ad-Dín Muhammad" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229110
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+1000229113 = {
+	name="Jamal ad-Dín" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229110
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+1000229114 = {
+	name="Nasr ad-Dín" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229110
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+
+1000229115 = {
+	name="Ali" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229112
+	1302.1.1={
+		birth="1302.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+1000229116 = {
+	name="Ahmed" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229112
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+1000229117 = {
+	name="Ahmed" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229115
+	1328.1.1={
+		birth="1328.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+1000229118 = {
+	name="Haqq ud-Dín" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229117
+	1345.1.1={
+		birth="1345.1.1"
+	}
+	1374.1.1={
+		death="1374.1.1"
+	}
+}
+1000229119 = {
+	name="Sa'ad ad-Dín" 
+	dynasty=1000101385
+	religion="sunni"
+	culture="somali"
+	father=1000229117
+	1353.1.1={
+		birth="1353.1.1"
+	}
+	1403.1.1={
+		death="1403.1.1"
+	}
+}
+
+
+#1000229100 = {
+#	name="Sadiq"
+#	#placeholder
+#	dynasty=100667
+#	religion="sunni"
+#	culture="somali"
+#	father=167712
+#	900.1.1={
+#		birth="900.1.1"
+#	}
+#	980.1.1={
+#		death="80.1.1"
+#	}
+#}
+
+
+#Free Characters: 1000229121 - 1000229199

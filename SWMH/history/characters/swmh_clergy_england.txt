@@ -1,0 +1,552 @@
+###############################################################
+#  SWMH British clergy
+###############################################################
+#SWMH British clergy Characters Range: 1000226000 - 1000226199
+###########
+#Archbishops of York
+###########
+1000226000 = {
+	name="Ecgbert" #732-766 
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	680.1.1 = {
+		birth="680.1.1"
+	}
+	766.1.1 = {
+		death="766.1.1"
+	}
+}
+1000226001 = {
+	name="Æthelbert" #767-780
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	700.1.1 = {
+		birth="700.1.1"
+	}
+	780.1.1 = {
+		death="780.1.1"
+	}
+}
+1000226002 = {
+	name="Eanbald" #780-796
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	730.1.1 = {
+		birth="730.1.1"
+	}
+	796.1.1 = {
+		death="796.1.1"
+	}
+}
+1000226003 = {
+	name="Eanbald" #796-808
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	738.1.1 = {
+		birth="738.1.1"
+	}
+	808.1.1 = {
+		death="808.1.1"
+	}
+}
+1000226004 = {
+	name="Wufsige" #808-837
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	759.1.1 = {
+		birth="759.1.1"
+	}
+	837.1.1 = {
+		death="837.1.1"
+	}
+}
+1000226005 = {
+	name="Wigmund" #837-854
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	780.1.1 = {
+		birth="780.1.1"
+	}
+	854.1.1 = {
+		death="854.1.1"
+	}
+}
+1000226006 = {
+	name="Wulfhere" #854-896
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	819.1.1 = {
+		birth="819.1.1"
+	}
+	896.1.1 = {
+		death="896.1.1"
+	}
+}
+1000226007 = {
+	name="Hrotheweard" #916-931
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	870.1.1 = {
+		birth="870.1.1"
+	}
+	931.1.1 = {
+		death="931.1.1"
+	}
+}
+1000226008 = {
+	name="Wulfstan"# 931-956
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	902.1.1 = {
+		birth="902.1.1"
+	}
+	956.1.1 = {
+		death="956.1.1"
+	}
+}
+1000226009 = {
+	name="Oscytel"# 958-971
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	923.1.1 = {
+		birth="923.1.1"
+	}
+	971.1.1 = {
+		death="971.1.1"
+	}
+}
+1000226010 = {
+	name="Edwald"# 971(resigned)
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	945.1.1 = {
+		birth="945.1.1"
+	}
+	1010.1.1 = {
+		death="1010.1.1"
+	}
+}
+1000226011 = {
+	name="Oswald"# 971-992
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	948.1.1 = {
+		birth="948.1.1"
+	}
+	992.1.1 = {
+		death="992.1.1"
+	}
+}
+1000226012 = {
+	name="Eadwulf"# 995-1002
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	956.1.1 = {
+		birth="956.1.1"
+	}
+	1002.1.1 = {
+		death="1002.5.6"
+	}
+}
+1000226013 = {
+	name="Wulfstan"# 1002-1023
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	966.1.1 = {
+		birth="966.1.1"
+	}
+	1023.1.1 = {
+		death="1023.5.28"
+	}
+}
+1000226014 = {
+	name="Ælfric"# Ælfric Puttoc 1023-1041 and 1042-1051
+	# 
+        dynasty=1000100000
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	988.1.1 = {
+		birth="988.1.1"
+	}
+	1051.1.22 = {
+		death="1051.1.22"
+	}
+}
+1000226015 = {
+	name="Æthelric"# 1041-1042
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	990.1.1 = {
+		birth="990.1.1"
+	}
+	1059.1.1 = {
+		death="1059.1.1"
+	}
+}
+1000226016 = {
+	name="Cynesige"# 1051-1060
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	993.1.1 = {
+		birth="993.1.1"
+	}
+	1060.1.1 = {
+		death="1060.1.1"
+	}
+}
+1000226017 = {
+	name="Ealdred"# 1061-1069 
+	# 
+	religion="catholic"
+	culture="saxon"
+	trait="mastermind_theologian"
+	1009.1.1 = {
+		birth="1009.1.1"
+	}
+	1069.9.11 = {
+		death="1069.9.11"
+	}
+}
+1000226018 = {
+	name="Thomas"# 1070-1100
+	# 
+        dynasty=1000100060
+	religion="catholic"
+	culture="norman"
+	trait="mastermind_theologian"
+	1032.1.1 = {
+		birth="1032.1.1"
+	}
+	1100.11.18 = {
+		death="1100.11.18"
+	}
+}
+1000226019 = {
+	name="Gerad"# 1100-1108
+	# 
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1108.5.21 = {
+		death="1108.5.21"
+	}
+}
+1000226020 = {
+	name="Thomas"# 1109-1114
+	# 
+        dynasty=1000100060 #Nephew of Thomas I
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1114.2.14 = {
+		death="1114.2.14"
+	}
+}
+1000226021 = {
+	name="Thurstan"# 1119-1140
+	# 
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1140.2.6 = {
+		death="1140.2.6"
+	}
+}
+#161433 = { # 1140
+#	name="Waltheof"
+#	dynasty=5065 #de Senlis
+#	religion="catholic"
+#	culture="frankish"
+#	father=161431
+#	mother=199
+#	1098.1.1 = {
+#		birth="1098.1.1"
+#	}
+#	1159.8.3 = {
+#		death="1159.8.3"
+#	}
+#}
+1000226022 = {
+	name="Henry"# 1140
+	# 
+        dynasty=94
+	religion="catholic"
+	culture="frankish"
+	trait="mastermind_theologian"
+	1088.1.1 = {
+		birth="1088.1.1"
+	}
+	1189.1.1 = {
+		death="1189.1.1"
+	}
+}
+1000226023 = {
+	name="William"# 1143-1147 and 1153-1154
+	# 
+        dynasty=1000100150
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1154.6.8 = {
+		death="1154.6.8"
+	}
+}
+1000226024 = {
+	name="Hilary"# 1147
+	# 
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1169.7.1 = {
+		death="1169.7.1"
+	}
+}
+1000226025 = {
+	name="Henry"# 1147-1153
+	# 
+        dynasty=1000100151
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1096.1.1 = {
+		birth="1096.1.1"
+	}
+	1153.10.14 = {
+		death="1153.10.14"
+	}
+}
+1000226026 = {
+	name="Roger"# 1154-1181
+	# 
+        dynasty=1000100061
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1181.11.26 = {
+		death="1181.11.26"
+	}
+}
+#204516 = {
+#	name="Geoffrey"
+#	dynasty=106
+#	martial=13 # might have been a clerk but he was still a very effective general
+#	diplomacy=8
+#	intrigue=10
+#	stewardship=5
+#	religion="catholic"
+#	culture="english"
+#	trait="bastard"
+#	#trait="chaste"
+#       #trait="scholarly_theologian"
+#	trait=trait="brilliant_strategist"
+#	father=204500
+#	1152.1.1 = {
+#		birth="1152.1.1"
+#	}
+#       1189.9.23 = {
+#		trait="chaste # didn't become ordained as priest until the 23rd September 1189
+#	}
+#	1212.12.12 = {
+#		death="1212.12.12"
+#	}
+#}
+1000226027 = {
+	name="Simon"# 1215 # brother of Stephen Langton( 161335 ) the archbishop of Canterbury
+	# 
+        dynasty=1000100152
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1151.1.1 = {
+		birth="1151.1.1"
+	}
+	1248.1.1 = {
+		death="1248.1.1"
+	}
+}
+1000226028 = {
+	name="Walter"# 1216-1255
+        dynasty=1000100153
+	martial=4 
+	diplomacy=10
+	intrigue=11
+	stewardship=10
+	religion="catholic"
+	culture="english"
+	trait="thrifty_clerk"
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1255.5.1 = {
+		death="1255.5.1"
+	}
+}
+1000226029 = {
+	name="Sewal"# 1256-1258
+        dynasty=1000100154
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1258.5.10 = {
+		death="1258.5.10"
+	}
+}
+1000226030 = {
+	name="Giovanni"# 1265-1266 # saint Bonaventure
+        dynasty=1000035407
+	religion="catholic"
+	culture="central_italian"
+	trait="mastermind_theologian"
+	1221.1.1 = {
+		birth="1221.1.1"
+	}
+	1274.7.15 = {
+		death="1274.7.15"
+	}
+}
+1000226031 = {
+	name="Walter"# 1266-1279 # also bishop of Bath and Wells
+        dynasty=4011
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1279.4.1 = {
+		death="1279.4.1"
+	}
+}
+1000226032 = {
+	name="William"# 1279-1285
+        dynasty=1000100155
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1234.1.1 = {
+		birth="1234.1.1"
+	}
+	1285.8.27 = {
+		death="1285.8.27"
+	}
+}
+1000226033 = {
+	name="John"# 1286-1296
+        dynasty=1000100156
+	religion="catholic"
+	culture="english"
+        trait="bastard"
+	trait="mastermind_theologian"
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1296.5.11 = {
+		death="1296.5.11"
+	}
+}
+1000226034 = {
+	name="John"# 1298-1299
+        dynasty=1000100157
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1238.1.1 = {
+		birth="1238.1.1"
+	}
+	1299.8.15 = {
+		death="1299.8.15"
+	}
+}
+1000226035 = {
+	name="Thomas"# 1300-1304
+        dynasty=1000100158
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1304.9.22 = {
+		death="1304.9.22"
+	}
+}
+1000226036 = {
+	name="William"# 1306-1315
+        dynasty=4011 # was known as William of "Greenfield" but was also refferd to as "our kinsman" by Walter Giffard.
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1249.1.1 = {
+		birth="1249.1.1"
+	}
+	1315.12.6 = {
+		death="1315.12.6"
+	}
+}
+1000226037 = {
+	name="Thomas"# 1317-1340
+        dynasty=1000100159
+	religion="catholic"
+	culture="english"
+	trait="mastermind_theologian"
+	1280.1.1 = {
+		birth="1280.1.1"
+	}
+	1340.4.5 = {
+		death="1304.9.22"
+	}
+}

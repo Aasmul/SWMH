@@ -1,0 +1,26 @@
+# 1427 - Huntingdon
+
+# County Title
+title = c_huntingdon
+
+# Settlements
+max_settlements = 3
+
+b_huntingdon = castle
+#b_ramsey = temple
+#b_st_ives = city
+#b_godmanchester = city
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+880.1.1 = { culture = norse } # Danes settle down
+880.1.1 = { religion = norse_pagan } # Danes settle down
+917.1.1 = { religion = catholic } # Taken by Wessex
+975.1.1 = { b_ramsey = temple }
+1000.1.1 = { b_st_ives = city }
+1002.11.13 = { culture = saxon } # St. Brice's Day
+1100.11.11 = { culture = english }

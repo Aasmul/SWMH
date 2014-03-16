@@ -1,0 +1,19 @@
+# 1339 - Ikhmin
+
+# County Title
+title = c_ikhmin
+
+# Settlements
+max_settlements = 3
+b_ikhmin = castle
+b_hu = city
+
+#b_bulyana = temple
+
+# Misc
+culture = egyptian_arabic
+religion = miaphysite
+
+# History
+1076.1.1 = { religion = shiite } 
+1171.1.1 = { religion = sunni } 

@@ -1,0 +1,25 @@
+# 3 - Tyrconnell
+
+# County Title
+title = c_tyrconnell
+
+# Settlements
+max_settlements = 3
+
+b_donegal = castle
+b_raphoe = temple
+
+#b_moville = temple
+#b_ballymacswiney = temple
+#b_fahan = temple
+#b_ballyshannon = temple
+#b_kilmacrenan = temple
+#b_gartan = temple
+
+# Misc
+culture = irish
+religion = catholic
+terrain = hills
+
+# History
+

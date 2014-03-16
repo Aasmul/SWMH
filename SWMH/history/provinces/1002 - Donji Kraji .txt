@@ -1,0 +1,25 @@
+# 1002 - Donji Kraji
+
+# County Title
+title = c_donjikraji
+
+# Settlements
+max_settlements = 3
+
+b_jajce = castle
+b_greben_castle = castle
+#b_kotor_varos = city
+#b_kljuc = castle
+#b_bosanski_petrovac = city
+#b_bjelaj = city
+#b_zemljanik = castle
+
+ 
+# Misc
+culture = bosnian
+religion = catholic
+
+
+# History
+
+1232.1.1= { religion = bogomilist } 

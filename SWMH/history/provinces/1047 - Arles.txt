@@ -1,0 +1,20 @@
+# 1047 - Arles
+
+# County Title
+title = c_arles
+
+# Settlements
+max_settlements = 3
+
+b_arles = temple
+b_chateaudelemperi = castle
+b_salondeprovence = city
+
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History
+
+

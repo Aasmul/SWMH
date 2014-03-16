@@ -1,0 +1,7 @@
+850.1.1={
+	liege = d_oneill
+	holder = 1000226426  #"Martan" #Abbot of Clonmacnoise and Devenish
+}
+1060.1.1={
+	holder=1000226411 #"Flann", Abbot of Devenish
+}

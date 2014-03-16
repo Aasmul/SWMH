@@ -1,0 +1,38 @@
+985.1.1={
+	holding_dynasty = 1000053169 # af Giaethning - makes this a FAMILY_PALACE type Holding
+	liege="d_nordfrisland"
+	holder=1000144299
+}
+1040.1.1={
+	holder=1000144301
+}
+1076.1.1={
+	holder=1000144303
+}
+1104.1.1={
+	holder=1000144305
+}
+1133.1.1={
+	holder=1000144307
+}
+1178.1.1={
+	holder=1000144309
+}
+1198.1.1={
+	holder=1000144311
+}
+1234.1.1={
+	holder=1000144313
+}
+1269.1.1={
+	holder=1000144315
+}
+1298.1.1={
+	holder=1000144317
+}
+1335.1.1={
+	holder=1000144319
+}
+1362.1.1={
+	holder=0
+}

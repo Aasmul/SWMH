@@ -1,0 +1,20 @@
+# 1033 - Leuchenberg
+
+# County Title
+title = c_leuchenberg
+
+# Settlements
+max_settlements = 3
+b_leuchenberg = castle
+b_hals = castle
+#b_grafenwohr = city
+#b_pleystein = temple
+#b_reichenstein = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+

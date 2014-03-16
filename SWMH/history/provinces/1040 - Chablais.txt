@@ -1,0 +1,21 @@
+# 1040 - Chablais
+
+# County Title
+title = c_chablais
+
+# Settlements
+max_settlements = 3
+
+b_stmaurice = temple
+b_aigle = castle
+
+#b_monthey = city
+#b_martigny = temple
+#b_thonon = castle
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+1187.1.1 = { b_thonon = castle }

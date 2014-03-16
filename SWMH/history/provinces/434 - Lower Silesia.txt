@@ -1,0 +1,28 @@
+# 434 - Lower Silesia
+
+# County Title
+
+title = c_upper_silesia
+
+# Settlements
+max_settlements = 5
+b_wroclaw = castle
+b_brzeg = city
+b_sleza = temple
+#b_ostrow_tumski = temple
+#b_olesnica = castle
+#b_nysa = city
+#b_niemcza = castle
+#b_henrykow = castle
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+990.1.1 = { religion = catholic }
+1165.1.1 = { remove_settlement = b_sleza } 
+1165.1.1 = { b_ostrow_tumski = temple }
+1187.1.1 = { b_henrykow = temple }
+1250.1.1 = { culture = german } #German settlers
+

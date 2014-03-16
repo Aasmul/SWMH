@@ -1,0 +1,18 @@
+# 726 - Al Mafraq
+
+# County Title
+title = c_al_mafraq
+
+# Settlements
+max_settlements = 1
+
+b_qasralhayralgharbi = castle
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+
+

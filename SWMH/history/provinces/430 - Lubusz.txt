@@ -1,0 +1,23 @@
+# 430 - Lubusz
+
+# County Title
+title = c_lubusz
+
+# Settlements
+max_settlements = 4
+
+b_krosnoodrzanskie = castle
+b_lubusz = temple
+b_kostrzyn = city
+#b_torzym = castle
+#b_frankfurtoder = city
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+
+1000.1.1 = { culture = polish }
+1000.1.1 = { religion = catholic }
+

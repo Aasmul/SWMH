@@ -1,0 +1,14 @@
+800.1.1={
+	liege="c_foerde"
+	holder=1000228037 # Vemund
+}
+836.1.1={
+	holder=1000228038 # Berle-kari
+}
+876.1.1={
+	holder=1000228041 # Olvir Hnufa
+}
+925.1.1 = {
+	holder=0
+}
+

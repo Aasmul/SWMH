@@ -1,0 +1,24 @@
+# 1208 - Teruel
+
+# County Title
+title = c_teruel
+
+# Settlements
+max_settlements = 4
+b_mora_de_rubielos = castle
+b_teruel = city
+b_hijar = temple
+#b_utrillas = temple
+#b_calamocha = castle
+#b_montalban = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1066.1.1 = { 
+	b_teruel = ca_keep_1
+	b_teruel = ca_wall_1
+}

@@ -1,0 +1,27 @@
+# 52 - Northumberland
+
+# County Title
+title = c_northumberland
+
+# Settlements
+max_settlements = 5
+
+b_bamburgh = castle # Uthred!
+b_newcastle = city
+b_hexham = temple 
+b_lindisfarne = temple
+#b_warkworth = castle
+#b_alnwick = castle
+#b_norham = castle
+#b_morpeth = city
+#b_harbottle = castle
+#b_dunstanburgh = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+875.1.1 = { remove_settlement = b_lindisfarne } # burned brightly
+1093.1.1 = { b_lindisfarne = temple } # rebuilt
+1100.11.11 = { culture = english }

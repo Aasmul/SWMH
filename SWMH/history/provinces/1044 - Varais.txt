@@ -1,0 +1,22 @@
+# 1044 - Varais
+
+# County Title
+title = c_varais
+
+# Settlements
+max_settlements = 4
+b_baume = castle
+b_pontarlier = city
+
+#b_poligny = temple
+#b_salins = city
+#b_clairvauox = temple
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+
+1187.1.1 = { b_salins = city }
+1337.1.1 = { b_poligny = temple }

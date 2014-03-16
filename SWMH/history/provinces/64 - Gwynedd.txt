@@ -1,0 +1,29 @@
+# 64 - Gwynedd
+
+# County Title
+title = c_gwynedd
+
+# Settlements
+max_settlements = 5
+b_caernarfon = castle
+b_bangor_wales = city
+b_aberconwy = temple
+#b_dolgellau = castle
+#b_aberdaron = castle
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History
+
+1066.1.1 = { 
+	b_caernarfon = ca_keep_1
+	b_caernarfon = ca_training_grounds_1
+	b_caernarfon = ca_stable_1
+	b_caernarfon = ca_stable_2
+	b_caernarfon = ca_wall_1
+	b_caernarfon = ca_wall_2
+}

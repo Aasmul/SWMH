@@ -1,0 +1,25 @@
+# 1198 - Avila
+
+# County Title
+title = c_avila
+
+# Settlements
+max_settlements = 4
+b_avila = castle
+#b_arevalo = city
+#b_valdeiglesias = temple
+#b_valdecorneja = castle
+#b_piedrahita = city
+#b_bonilla = temple
+
+
+# Misc
+culture = castillan
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_avila = ca_keep_1
+	b_avila = ca_wall_1
+}

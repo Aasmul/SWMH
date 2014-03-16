@@ -1,0 +1,22 @@
+# 735 - Teluch
+
+# County Title
+title = c_teluch
+
+# Settlements
+max_settlements = 4
+
+b_marash = castle
+b_perre = temple
+#b_tavplur = castle
+#b_kapan = castle
+#b_alhadat = castle
+
+
+# Misc
+culture = armenian
+religion = miaphysite
+terrain = mountain
+
+# History
+

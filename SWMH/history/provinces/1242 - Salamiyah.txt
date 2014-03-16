@@ -1,0 +1,19 @@
+# 1242 - Salamiyah
+
+# County Title
+title = c_salamiyah
+
+# Settlements
+max_settlements = 2
+
+b_shmemiscastle = castle
+b_salamiyah = city
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+

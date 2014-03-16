@@ -1,0 +1,21 @@
+# 1081 - Odishi
+
+# County Title
+title = c_odishi
+
+# Settlements
+ max_settlements = 3
+b_zugdidi = castle
+b_poti = city
+#b_martvili = temple
+#b_anaklia = castle
+#b_khobi = castle
+#b_tsalenjikha = temple
+#b_jvari = temple
+ 
+
+# Misc
+culture = georgian
+religion = orthodox
+
+# History

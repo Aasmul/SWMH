@@ -1,0 +1,29 @@
+# 366 - Stettin
+
+# County Title
+title = c_stettin
+
+# Settlements
+max_settlements = 5
+
+b_dabie = castle
+b_stettin = city
+b_kammin = temple
+#b_pyritz = city
+#b_kolbatz = temple
+#b_treptow = city
+#b_naugard = castle
+#b_greifensberg = city
+#b_gollnow = city
+#b_stargardpommern = city
+
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+1140.1.1 = { b_stargardpommern = city }
+1199.1.1 = { religion = catholic }
+1243.1.1 = { trade_post = b_warendorp }
+1268.1.1 = { b_naugard = castle }

@@ -1,0 +1,37 @@
+# 1236 - Hazart
+
+# County Title
+title = c_hazart
+
+# Settlements
+max_settlements = 4
+
+b_hazart = castle
+b_zerdana = city
+b_harimantiochia = temple
+#b_corice = castle
+
+
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+
+# Mongol invasion 
+
+# Conquered by the Mamluks
+
+1268.1.1 = { culture = levantine_arabic }
+1268.1.1 = { religion = sunni } 
+
+
+
+
+
+
+
+
+

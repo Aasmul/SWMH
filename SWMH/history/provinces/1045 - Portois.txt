@@ -1,0 +1,19 @@
+# 1045 - Portois
+
+# County Title
+title = c_portois
+
+# Settlements
+max_settlements = 4
+
+b_oricourt = castle
+b_luxeuil = temple
+#b_lure = temple
+#b_marnay = city
+#b_fondremand = castle
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History

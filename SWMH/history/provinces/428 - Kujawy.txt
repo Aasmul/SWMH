@@ -1,0 +1,23 @@
+# 428 - Kujawy
+
+# County Title
+title = c_kujawy
+
+# Settlements
+max_settlements = 5
+b_inowroclaw = castle
+b_brzesckujawski = city
+b_kruszwica = temple
+
+#b_bydgoszcz = city
+#b_gniewkow = castle
+#b_wloclawek = temple
+#b_dobrzyn = city
+#b_radziejow = castle
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+999.7.1 = { religion = catholic }

@@ -1,0 +1,26 @@
+# 1041 - Aosta
+
+# County Title
+title = c_aosta
+
+# Settlements
+max_settlements = 5
+b_fenisaosta = castle
+b_aosta = temple
+b_verresaosta = city
+
+#b_usselaosta = castle
+#b_saintvincentaosta = castle
+#b_saintpierreaosta = castle
+#b_chatillionaosta = city
+#b_challantaosta = city
+#b_clyaosta = castle
+
+# Misc
+culture = arpitan
+religion = catholic
+
+# History
+
+1239.1.1 = { b_clyaosta = castle}
+1309.1.1 = { b_usselaosta = castle}

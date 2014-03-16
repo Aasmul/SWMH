@@ -1,0 +1,27 @@
+# 524 - Gemer
+
+# County Title
+title = c_gemer
+
+# Settlements
+max_settlements = 4
+
+b_gyorvar =castle
+b_szentmaratonhegy = temple
+b_moson = city
+#b_oroszvar = city
+#b_gyorszentmarton = castle
+#b_abda = temple
+#b_hebervar = castle
+#b_magyarovar = temple
+#b_kopcseny = city
+
+
+# Misc
+culture = moravian
+religion = catholic 
+
+# History
+950.1.1 = { culture = hungarian }
+
+

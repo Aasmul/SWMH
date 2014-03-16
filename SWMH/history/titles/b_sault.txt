@@ -1,0 +1,14 @@
+#Seigneurie de Sault
+
+
+1060.1.1={
+	liege="d_provence"
+	holder = 1000093020
+}
+1086.1.1={
+	holder = 1000093021
+}
+1113.6.1={
+	holder = 0
+}
+

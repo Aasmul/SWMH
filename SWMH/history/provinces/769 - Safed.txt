@@ -1,0 +1,26 @@
+# 769 - Safed# Toron
+
+# County Title
+title = c_safed
+
+# Settlements
+max_settlements = 5
+b_toron = castle
+b_banyas = city
+b_safed = temple
+#b_jishisrael = city
+#b_meronisreal = temple
+#b_chastelet = castle
+#b_hunin = castle
+
+
+
+ 
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+1098.1.1 = { b_chastelet = castle }

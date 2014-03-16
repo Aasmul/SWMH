@@ -1,0 +1,24 @@
+# 363 - Litomerice
+
+# County Title
+title = c_litomerice
+
+# Settlements
+max_settlements = 5
+b_litomerice = castle
+b_bilina = city
+b_doksany = temple
+#b_lipa = castle
+#b_duba = castle
+#b_usti = castle
+#b_frydlant = castle
+#b_decin = city
+
+
+# Misc
+culture = bohemian
+religion = slavic_pagan
+
+# History
+
+883.1.1 = { religion = catholic }

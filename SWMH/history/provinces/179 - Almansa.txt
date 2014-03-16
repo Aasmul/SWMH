@@ -1,0 +1,28 @@
+# 179 - Almansa
+
+# County Title
+title = c_almansa
+
+# Settlements
+max_settlements = 5
+b_villena = castle
+#b_almansa = castle
+b_albacete = city
+b_hellin = temple
+#b_alcaladeljucar = castle
+#b_villarrobledo = city
+#b_pozocanada = castle
+#b_tobarra = castle
+#b_caudete = castle
+#b_jorquera = castle
+#b_lagineta = castle
+#b_laroda = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1280.1.1 = { culture = castillan }
+1280.1.1 = { religion = catholic }

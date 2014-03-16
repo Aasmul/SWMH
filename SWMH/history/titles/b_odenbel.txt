@@ -1,0 +1,38 @@
+999.1.1={
+	holding_dynasty = 1000053171 # fan Odenbel - makes this a FAMILY_PALACE type Holding
+	liege="d_nordfrisland"
+	holder=1000144361
+}
+1042.1.1={
+	holder=1000144363
+}
+1080.1.1={
+	holder=1000144365
+}
+1101.1.1={
+	holder=1000144367
+}
+1156.1.1={
+	holder=1000144369
+}
+1188.1.1={
+	holder=1000144371
+}
+1226.1.1={
+	holder=1000144373
+}
+1261.1.1={
+	holder=1000144375
+}
+1293.1.1={
+	holder=1000144377
+}
+1306.1.1={
+	holder=1000144379
+}
+1325.1.1={
+	holder=1000144381
+}
+1362.1.1={
+	holder=0
+}

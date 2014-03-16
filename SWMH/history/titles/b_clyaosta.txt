@@ -1,0 +1,11 @@
+1240.1.1={
+	liege = "c_aosta"
+	holder = 1000091120
+}
+1270.1.2={
+	holder = 1000091122
+}
+1337.1.2={
+	holder = 1000091123
+}
+#Here end the list of barons for Cly, Pietro loses all his titles because was a tyrant, count Amedeo VI of Savoy take them away from him 

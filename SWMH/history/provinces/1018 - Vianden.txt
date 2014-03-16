@@ -1,0 +1,24 @@
+# 115 - Vianden
+
+# County Title
+title = c_vianden
+
+# Settlements
+max_settlements = 4
+
+b_vianden = castle
+b_prum = temple
+
+#b_duren = city
+#b_ham = castle
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+
+

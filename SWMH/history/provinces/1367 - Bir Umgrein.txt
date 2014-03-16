@@ -1,0 +1,17 @@
+# 1367 - Bir Umgrein
+
+# County Title
+title = c_birumgrein
+
+# Settlements
+max_settlements = 1
+b_birumgrein = castle
+
+# Misc
+culture = tagelmust
+religion = ibadi
+
+# History
+
+#islamization
+917.1.1 = { religion = sunni }

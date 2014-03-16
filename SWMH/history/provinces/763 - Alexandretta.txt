@@ -1,0 +1,38 @@
+# 763 - Alexandretta
+
+# County Title
+title = c_alexandretta
+
+# Settlements
+max_settlements = 4
+
+b_alexandretta = castle
+#b_portbonnel = castle
+b_rhosus = temple
+b_lamproncilicia= castle
+
+
+#b_myriandros = castle
+b_portella = city
+#b_sarvantikar = castle
+#b_larochederissole = castle
+
+# Misc
+culture = greek
+religion = miaphysite
+terrain = mountain
+
+# History
+
+
+# Mongol Invasion
+
+1220.1.1 = { remove_settlement = b_rhosus } 
+
+# Conquered by the Mamluks
+
+1268.1.1 = { culture = levantine_arabic }
+1268.1.1 = { religion = sunni } 
+
+
+

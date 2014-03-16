@@ -1,0 +1,26 @@
+# 1103 - Gallura
+
+# County Title
+title = c_gallura
+
+# Settlements
+max_settlements = 3
+
+b_dellafava = castle
+b_olbia = city
+
+#b_posadasardinia = city
+#b_tempiosardinia = temple
+#b_lamaddalena = castle
+#b_castellodimollara = castle
+#b_nugor = city
+#b_galfelli = temple
+
+
+
+# Misc
+culture = sardinian
+religion = catholic
+terrain = hills
+
+# History

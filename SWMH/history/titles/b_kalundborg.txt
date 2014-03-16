@@ -1,0 +1,27 @@
+990.1.1={
+	holder=101538 # Toke Trylle (Hvide)
+}
+1047.10.25={
+	holder=201530 # Skjalm Hvide (Hvide)
+}
+1113.1.1={
+	holder=201523 # Asser Skjalmsen (Hvide)
+}
+1167.1.26={ 
+	holder=201521 # Esbern Snarre (Hvide)
+}
+1204.1.2={
+	holder=170022 # Peder Strangesen (Ulfeldt), married Ingeborg Esbernsdatter.
+}
+1242.1.1={
+	holder=151009 # Niels Erlandsen (Galen), married Elisabeth Pedersdatter.
+}
+1285.1.1={
+	holder=151011 # Jens Nielsen (Galen)
+}
+1320.1.1={
+	holder=451600 # Peder Jensen (Galen)
+}
+1355.4.16={
+	holder=0
+}

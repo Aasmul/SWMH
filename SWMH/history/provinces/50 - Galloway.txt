@@ -1,0 +1,21 @@
+# 50 - Galloway
+
+# County Title
+title = c_galloway
+
+# Settlements
+max_settlements = 3
+b_threave = castle
+b_dundrennan = temple
+#b_kirkcudbright = city
+
+
+# Misc
+culture = scottish
+religion = catholic
+terrain = hills
+
+# History
+
+400.1.1 = { culture = cumbric } 
+1000.1.1 = { culture = scottish } 

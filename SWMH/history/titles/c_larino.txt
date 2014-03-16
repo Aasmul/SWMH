@@ -1,0 +1,44 @@
+817.10.1={
+	liege="d_benevento"
+}
+854.1.1={
+	holder = 163071
+}
+1057.1.1={
+	liege="d_apulia"
+	holder=85003 #Robert de Hauteville
+}
+1107.1.1={
+	holder=30870 #William de Hauteville
+}
+1137.1.1={
+	holder=30900 #Robert I de Bassonville
+}
+1154.1.1={
+	holder=30900 #Robert II de Bassonville
+}
+1182.9.15={
+	holder=73358
+}
+1200.1.1={
+	holder=73359
+}
+1240.1.1={
+	holder=73360
+}
+1249.1.1={
+	holder=73363
+}
+#des Baux dynasty 
+1266.2.26={
+	holder=32523
+}
+1268.10.12={
+	holder=32524
+}
+1305.9.25={
+	holder=32525
+}
+1321.1.1={
+	holder=32530
+}

@@ -1,0 +1,23 @@
+# 1454 - Leodhas
+
+# County Title
+title = c_leodhas
+
+# Settlements
+max_settlements = 3
+
+b_dun_carloway = castle
+b_st_moluag = temple
+#b_stornoway = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = hills
+
+# History
+867.1.1 = {
+	b_dun_carloway = ca_shipyard_1
+}
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norsegaelic }

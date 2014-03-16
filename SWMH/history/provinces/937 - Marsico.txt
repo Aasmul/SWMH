@@ -1,0 +1,24 @@
+# 937 - Marsico
+
+
+# County Title
+title = c_marsico
+
+# Settlements
+max_settlements = 4
+
+
+b_caggiano = castle
+b_marsico = city
+#b_castellodicastrocucco = castle
+b_maratea = temple
+#b_viggianello = city
+#b_tito = temple
+
+
+# Misc
+culture = langobardisch
+religion = catholic
+
+# History
+1086.1.1={ culture = southern_italian }

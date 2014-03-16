@@ -1,0 +1,8 @@
+
+1058.1.1={
+	holder=2012
+	liege="k_papal_state"
+}
+1087.1.1={
+	holder=0
+}

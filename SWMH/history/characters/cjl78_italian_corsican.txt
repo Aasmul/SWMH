@@ -1,0 +1,20 @@
+########
+#CJL78 Corsicans 1.000.167.040-1.000.167.049
+########
+
+########
+#Corsican Leader for Terra di Commune (fictional)
+########
+
+1000167040 = {
+	name="Dionisio"
+	dynasty=0
+	religion="catholic"
+	culture="corsican"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}

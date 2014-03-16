@@ -1,0 +1,23 @@
+# 1062 - Sponheim
+
+# County Title
+title = c_sponheim
+
+# Settlements
+max_settlements = 4
+b_sponheim = castle
+b_starkenburg = castle
+#b_alteburg= castle  
+#b_rheinfels = castle
+#b_enkirch = temple
+#b_grevenburg = castle  
+
+b_kreuznach = city  
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

@@ -1,0 +1,16 @@
+# 1479 - Fitri
+
+# County Title
+title = c_fitri
+
+# Settlements
+max_settlements = 2
+b_fitri = castle
+
+#b_kuka = temple
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

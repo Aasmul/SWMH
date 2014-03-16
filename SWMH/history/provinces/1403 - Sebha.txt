@@ -1,0 +1,18 @@
+# 1403 - Sebha
+
+# County Title
+title = c_sebha
+
+# Settlements
+max_settlements = 1
+
+b_sebha = castle
+
+# Misc
+culture = zanata
+religion = sunni
+
+# History
+
+
+

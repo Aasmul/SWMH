@@ -1,0 +1,20 @@
+# 1377 - Mema
+
+# County Title
+title = c_mema
+
+# Settlements
+max_settlements = 6
+b_mema = castle
+b_pehe = temple
+b_kolima = city
+
+#b_toladie = castle
+#b_akumbu = castle
+#b_nampala = city
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,18 @@
+# 405 - Chud # Shenkursk
+
+# County Title
+title = c_chud
+
+# Settlements
+max_settlements = 2
+
+b_shenkursk = castle
+#b_vazskij = city
+
+
+# Misc
+culture = vepsian
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }

@@ -1,0 +1,133 @@
+#Hwicce
+779.1.1={
+	liege = "d_hereford"
+}
+779.1.1={
+	holder = 1000226312 # Ingel Ealdorman of Hwicce 779ish-793
+}
+793.1.1={
+	holder = 1000226313 # Æthelmund Ealdorman 793ish-802
+}
+802.1.1={
+	holder = 1000226315 # 1000226391  Ealdorman 802-805ish
+}
+805.1.5={
+	holder=1000226398 # Coenwulf king of Mercia 796(december)-821, makes himself Eladorman.
+}
+821.1.1={
+	holder=1000226392 # Ceolwulf I king of Mercia 821-823
+}
+823.10.18={
+	holder=1000226396 # Beornwulf king of Mercia 823-826
+}
+826.1.1={
+	holder=1000226397 # Ludeca king of Mercia 826-827
+}
+827.1.1={
+	holder=1000226398 # Wiglaf king of Mercia 827-829 and 830-839
+}
+820.1.1={
+	holder=1000226200 #Wigmund king of Mercia 839-840, was Principes of Hwicces.
+}
+840.1.1={
+	holder=1000226201 # Wigstan king of Mercia 840
+}
+840.6.1={
+	holder=0
+}
+851.1.1={
+	holder = 1000226333 # Æthelred lord of the Mercians 883-911
+}
+879.1.1={
+	liege = "0"
+}
+883.1.1={
+	liege = "d_somerset"
+}
+911.1.1={
+	holder = 1000226334 # Æthelfled I lady of the Mercians 911-918
+}
+918.6.12={
+	holder = 1000226364 # Ælfwynn lady of the Mercians 12th june 918 - december 918
+}
+918.12.1={
+	holder=33350 #Æthelstan Ealdorman of Mercia 918-924(and 16 days as king of Mercia)
+}
+927.7.12={
+	liege="k_england"
+}
+940.1.5={
+	holder=1000226356 #Ealhhelm Ealdorman of south west Mercia 940-955
+}
+955.1.5={
+	holder=1000226389 #Eadric Ealdorman of Magonsæte ?-1010
+}
+1010.10.18={
+	holder=1000226316 #Leofwine Ealdorman of Hwicce 997-1028
+}
+1028.1.5={
+	holder=0
+}
+1052.1.1={
+	holder = 40418 # Ralph the Timid
+}
+1057.1.1={
+	liege="d_lancaster"
+}
+1057.1.5={
+	holder=5644 #Eadwin
+}
+1066.10.14={
+	liege="k_england"
+}
+1066.10.14={
+	holder=6806 #William de Crepon
+}
+1071.2.22={
+	holder=6807 #Roger de Crepon
+}
+1074.1.1={
+	holder=140 #William the Conqueror
+}
+1087.9.9={
+	holder=146 #William II Rufus
+}
+1100.8.3={
+	holder = 202992 #Henry I
+}
+1135.12.2={
+	holder=205851 #Stephen
+}
+1141.1.1={
+	holder = 204622 #Miles of Gloucester
+}
+1143.12.23={
+	holder = 7461 #Roger of Gloucester
+}
+1155.9.22={
+	holder=204500 #Henry II
+}
+1189.7.6={
+	holder=204510 #Richard I Lionheart
+}
+1199.4.6={
+	holder=204514 #John
+}
+1199.6.1={
+	holder=204600 #Henry de Bohun
+}
+1220.6.1={
+	holder=7462 #Humphrey de Bohun
+}
+1275.9.24={
+	holder=7463 #Humphrey de Bohun
+}
+1298.12.31={
+	holder=454561 #Humphrey de Bohun
+}
+1321.11.6={
+	holder=7464 #John of Bohun
+}
+1335.1.20={
+	holder=454560 #Humphrey de Bohun
+}

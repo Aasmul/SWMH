@@ -1,0 +1,25 @@
+# 1038 - Cheese
+
+# County Title
+title = c_cheese
+
+# Settlements
+max_settlements = 5
+
+
+b_chateaudoex = castle
+b_riaz = city
+b_montsalvens = castle
+
+#b_corbieres = castle
+#b_rougemont = temple
+#b_greyerz = castle
+#b_charmey = castle
+#b_bulle = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

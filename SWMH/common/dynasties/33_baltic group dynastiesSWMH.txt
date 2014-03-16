@@ -1,0 +1,49 @@
+######################################
+#New Baltic Dynasties
+######################################
+#
+#
+######################################
+#Baltic dynasties
+#Range: 1000100750 - 1000100849
+######################################
+1000100750 = {
+name="of Selija"
+ culture = lettigallish
+}
+1000100751 = {
+name="of Tãlava"
+ culture = lettigallish
+}
+1000100752 = {
+name="of Deltuva"
+ culture = lithuanian
+}
+1000100753 = {
+name="of Koknese"
+ culture = lettigallish
+}
+1000100754 = {
+name="of Jeriska"
+ culture = lettigallish
+}
+1000100755 = {
+name="Von Solre"
+ culture = german
+}
+1000100756 = {
+name="Tervete"
+ culture = lettigallish
+}
+1000100757 = {
+name="Von Solre"
+ culture = german
+}
+1000100758 = {
+name="d’Aulne"
+ culture = frankish
+}
+1000100759 = {
+name="von Werth"
+ culture = german
+}

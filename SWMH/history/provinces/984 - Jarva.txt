@@ -1,0 +1,22 @@
+# 984 - Jarva
+
+# County Title
+title = c_jarva
+
+# Settlements
+max_settlements = 3
+
+b_paide = castle
+b_keava = city
+#b_turi = = castle
+#b_pilistvere = castle
+
+
+
+# Misc
+culture = tsuudi
+
+religion = finnish_pagan
+
+# History
+1290.1.1 = { religion = catholic }

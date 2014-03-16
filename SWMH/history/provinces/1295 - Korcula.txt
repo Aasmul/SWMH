@@ -1,0 +1,22 @@
+# 1295 - Korcula
+
+# County Title
+title = c_korcula
+
+# Settlements
+max_settlements = 3
+
+b_korcula = castle
+b_blato = city
+#b_krkar = temple
+#b_lastovo = city
+#b_cara_korcula = city
+
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History
+
+1130.1.1 = { b_krkar = temple }

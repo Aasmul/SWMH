@@ -1,0 +1,29 @@
+# 541 - Peresechen
+
+# County Title
+title = c_peresechen
+
+# Settlements
+max_settlements = 4
+
+b_khornaolivia = castle
+b_velikaolivia = castle
+#b_novaolivia = temple
+#b_kotovskolivia = city
+#b_kodymaolivia = castle
+#b_baltaolivia = castle
+#b_ribnitaolivia = castle
+#b_serbkaolivia = castle
+
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox}
+1030.1.1 = {culture = pecheneg}
+1030.1.1 = {religion = tengri_pagan}
+
+
+

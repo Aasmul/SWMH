@@ -1,0 +1,16 @@
+# 865 - Rafha
+
+# County Title
+title = c_rafha
+
+# Settlements
+max_settlements = 1 
+b_talabija = castle
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+

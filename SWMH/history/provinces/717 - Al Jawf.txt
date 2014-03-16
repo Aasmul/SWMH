@@ -1,0 +1,17 @@
+# 717 - Al Jawf
+
+# County Title
+title = c_al_jawf
+
+# Settlements
+max_settlements = 2
+
+b_mawijanarabia = castle
+b_sumanarabia = city
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

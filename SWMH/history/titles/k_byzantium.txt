@@ -1,0 +1,19 @@
+1204.8.1=
+{
+liege="e_latin_empire"
+#law = agnatic_succession
+#law = succ_primogeniture
+}
+1204.8.1=
+{
+holder=213523 #Bonifazio I
+}
+1207.9.4=
+{
+holder=31346 #Demetrio I
+}
+#conqued by Epirus
+1224.1.1=
+{
+holder=0
+}

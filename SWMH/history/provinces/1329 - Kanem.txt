@@ -1,0 +1,18 @@
+# 1329 - Kanem
+
+# County Title
+title = c_kanem
+
+# Settlements
+max_settlements = 4
+b_kanem = castle
+b_djimi = city
+b_mao = temple
+
+#b_manan = temple
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,28 @@
+# 1180 - Saintpol
+
+# County Title
+title = c_saintpol
+
+# Settlements
+max_settlements = 4
+
+
+b_saintpol = castle
+b_hesdin = city
+b_auchyleshesdin = temple
+
+#b_auxilechateau = castle
+#b_frevent = temple
+#b_heuchin = city
+
+
+
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+
+
+

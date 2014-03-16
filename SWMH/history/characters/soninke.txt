@@ -1,0 +1,601 @@
+#161000 - 161010
+#161094 - 161102
+#184010 - 183501
+#184010 - 183501
+
+#1000144500 - 1000144520
+#1000144680
+
+
+161000 = {
+	name="Bassi"
+	dynasty=1030000
+	religion="west_african_pagan"
+	culture="soninke"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+161001 = {
+	name="Tunka Menin"
+	dynasty=1030000
+	religion="west_african_pagan"
+	culture="soninke"
+	father=161000
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+161002 = {
+	name="Kambine Diaresso"
+	dynasty=1030000
+	religion="west_african_pagan"
+	culture="soninke"
+	father=161001
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1076.1.1={
+		religion="sunni"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+161003 = {
+	name="Sulayman"
+	dynasty=1030000
+	religion="sunni"
+	culture="soninke"
+	father=161002
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+161004 = {
+	name="Bannu Bubu"
+	dynasty=1030000
+	religion="sunni"
+	culture="soninke"
+	father=161002
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+161005 = {
+	name="Majan Wagadu"
+	dynasty=1030000
+	religion="sunni"
+	culture="soninke"
+	father=161004
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+161006 = {
+	name="Gane"
+	dynasty=1030000
+	religion="sunni"
+	culture="soninke"
+	father=161004
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+161007 = {
+	name="Musa"
+	dynasty=1030000
+	religion="sunni"
+	culture="soninke"
+	father=161004
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+161008 = {
+	name="Birama"
+	dynasty=1030000
+	religion="sunni"
+	culture="soninke"
+	father=161007
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+161009 = {
+	name="Diara"
+	dynasty=1030001
+	religion="west_african_pagan"
+	culture="soninke"
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+161010 = {
+	name="Soumaoro"
+	dynasty=1030001
+	religion="west_african_pagan"
+	culture="soninke"
+	father=161009
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+161094 = {
+	name="Fuluku"
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="soninke"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+161095 = {
+	name="Mamadi"
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="soninke"
+	father=161094
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+161096 = {
+	name="Mamoudou"
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="soninke"
+	father=161095
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+161097 = {
+	name="Nintasanay"
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="soninke"
+	father=161096
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+161098 = {
+	name="Ali"
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="soninke"
+	father=161097
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+
+161099 = {
+	name="Salman"
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="soninke"
+	father=161098
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+
+161100 = {
+	name="Kalabi"
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="soninke"
+	father=161099
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+161101 = {
+	name="Dankaran"
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="soninke"
+	father=161100
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+161102 = {
+	name="Bannu"
+	#placeholder
+	dynasty=1030011
+	religion="sunni"
+	culture="soninke"
+	father=161101
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+#####TOG
+184010 = {
+	name="Dramane"
+	dynasty=1030000
+	religion="west_african_pagan"
+	culture="soninke"
+	695.1.1={
+		birth="695.1.1"
+	}
+	745.1.1={
+		death="740.1.1"
+	}
+}
+
+184011 = {
+	name="Seydou"
+	dynasty=1030000
+	religion="west_african_pagan"
+	culture="soninke"
+	father=184010
+	725.1.1={
+		birth="725.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+184012 = {
+	name="Drissa"
+	dynasty=1030000
+	religion="west_african_pagan"
+	culture="soninke"
+	father=184010
+	730.1.1={
+		birth="730.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+184013 = { 
+	name="Mayan Dyabe" #First historical contact with islam
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=soninke
+	father=184012
+	770.1.1={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+
+184014 = {
+	name="Konaté"
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=soninke
+	father=184013
+	805.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+
+184015 = {
+	name=Zoumana
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=soninke
+	father=184014
+	830.1.1={
+		birth=yes
+	}
+	898.1.1={
+		death=yes
+	}
+}
+
+184016 = {
+	name="Iasine"
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=soninke
+	father=184015
+	875.1.1={
+		birth="875.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+184017 = {
+	name="Djibril"
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=soninke
+	father=184016
+	905.1.1={
+		birth="905.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+184018 = {
+	name="Adama"
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=soninke
+	father=184017
+	925.1.1={
+		birth="925.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+184019 = {
+	name="Ousmane"
+	dynasty=1030000
+	religion=west_african_pagan
+	culture=soninke
+	father=184018
+	970.1.1={
+		birth="970.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+183501 = {
+	name="Hargani"
+	dynasty=1042631
+	religion=west_african_pagan
+	culture=soninke
+	825.1.1={
+		birth="825.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+
+#############################################################
+################ SWMH NEW CHARACTERS ########################
+#############################################################
+
+#Niakhate rulers of Kingui
+1000144500 = {
+	name="Sirman Mesane"
+	dynasty=1000053560
+	religion="west_african_pagan"
+	culture="soninke"
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1086.1.11={
+		death="1086.1.11"
+	}
+}
+1000144501 = {
+	name="Mana Maghan"
+	dynasty=1000053560
+	religion="west_african_pagan"
+	culture="soninke"
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+1000144502 = {
+	name="Niakhata"
+	dynasty=1000053560
+	religion="west_african_pagan"
+	culture="soninke"
+	845.1.1={
+		birth="845.1.1"
+	}
+	886.1.11={
+		death="886.1.11"
+	}
+}
+
+#Kiffa rulers of Awdaghust(c_aoudaghost)
+1000144508 = {
+	name="Niaware"
+	dynasty=1000053563
+	religion="west_african_pagan"
+	culture="soninke"
+	832.1.1={
+		birth="832.1.1"
+	}
+	886.1.11={
+		death="886.1.11"
+	}
+}
+1000144509 = {
+	name="Sogolon"
+	female=yes
+	dynasty=1000053563
+	religion="west_african_pagan"
+	culture="soninke"
+	father=1000144508
+	849.1.1={
+		birth="849.1.1"
+	}
+	906.1.11={
+		death="906.1.11"
+	}
+}
+#Tunkara rulers of Mema
+1000144510 = {
+	name="Biranin"
+	dynasty=1000053561
+	religion="west_african_pagan"
+	culture="soninke"
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1083.1.1={
+		death="1083.1.1"
+	}
+}
+
+1000144511 = {
+	name="Fare Birama"
+	dynasty=1000053561
+	religion="west_african_pagan"
+	culture="soninke"
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000144520 = {
+	name="Musa"
+	dynasty=1000053561
+	religion="west_african_pagan"
+	culture="soninke"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1235.1.1={
+		death="1235.1.1"
+	}
+}
+
+#Kante rulers of Soso
+1000144680 = {
+	name="Mamadi"
+	dynasty=1030001
+	religion="west_african_pagan"
+	culture="soninke"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1114.1.1={
+		death="1114.1.1"
+	}
+}
+
+#Placeholder tribal rulers for 867
+1000228260 = {
+	name="Daffi"
+	#placeholder
+	dynasty=1000100885 #Soninke tribe
+	religion="west_african_pagan"
+	culture="soninke"
+	838.1.1={
+		birth="838.1.1"
+	}
+	
+	879.1.1={
+		death="879.1.1"
+	}
+}
+
+# 1000228261 - 1000228279 free Soninke characters

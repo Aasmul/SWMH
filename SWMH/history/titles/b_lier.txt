@@ -1,0 +1,54 @@
+1066.1.1={
+	liege="c_brabant"
+}
+1066.1.1={
+	holder=33193
+}
+1115.1.1={
+	holder=33195
+}
+1136.1.1={
+	holder=33194
+}
+1139.1.1={
+	holder=33196
+}
+1152.1.1={
+	holder=33197
+}
+1174.1.1={
+	holder=206850 #Godfried III
+}
+1190.8.21=
+{
+	liege="d_brabant"
+}
+1190.8.21=
+{
+	holder=206852 #Hendrik III
+}
+1235.9.5=
+{
+	holder=487057 #Hendrik IV
+}
+1248.2.1=
+{
+	holder=487056 #Hendrik V
+}
+1261.2.28=
+{
+	holder=33188 #Hendrik VI
+}
+1267.1.1=
+{
+	holder=487040 #Jan I
+}
+1294.5.2=
+{
+	holder=487042 #Jan II
+}
+1312.10.27=
+{
+	holder=487044 #Jan III
+}
+

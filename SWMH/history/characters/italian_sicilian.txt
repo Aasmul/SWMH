@@ -1,0 +1,298 @@
+###############################################################
+#  Sicilian characters
+###############################################################
+
+##############################################################################################
+#Moncada
+31413 = {
+	name="Guglielmo Raimondo"
+	dynasty=64 #Moncada
+	religion="catholic"
+	culture="sicilian"
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1318.1.1 = {
+		add_spouse=31411
+	}
+	1344.1.1 = {
+		death="1344.1.1"
+	}
+}
+31414 = {
+	name="Guglielmo Raimondo"
+	dynasty=64 #Moncada
+	religion="catholic"
+	culture="sicilian"
+	father=31413
+	mother=31411
+	1320.1.1 = {
+		birth="1320.1.1"
+	}
+	1370.1.1 = {
+		death="1370.1.1"
+	}
+}
+31415 = {
+	name="Pericone"
+	dynasty=64 #Moncada
+	religion="catholic"
+	culture="sicilian"
+	father=31413
+	mother=31411
+	1321.1.1 = {
+		birth="1321.1.1"
+	}
+	1371.1.1 = {
+		death="1371.1.1"
+	}
+}
+31416 = {
+	name="Clara"
+	female=yes
+	dynasty=64 #Moncada
+	religion="catholic"
+	culture="sicilian"
+	father=31413
+	mother=31411
+	1322.1.1 = {
+		birth="1322.1.1"
+	}
+	1372.1.1 = {
+		death="1372.1.1"
+	}
+}
+##############################################################################################
+#di Chiaramonte
+71128 = {
+	name="Constanza"
+	female=yes
+	dynasty=65
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="sicilian"
+	trait="craven"
+	trait="fair"
+	trait="flamboyant_schemer"
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1348.1.1 = {
+		death="1348.1.1"
+	}
+}
+71755 = {
+	name="Giovanni"
+	dynasty=65
+	religion="catholic"
+	culture="sicilian"
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1310.1.1 = {
+		add_spouse=461567
+	}
+	1345.1.1 = {
+		death="1345.1.1"
+	}
+}
+##############################################################################################
+#Fimetta
+31407 = {
+	name="Aloysia"
+	female=yes
+	dynasty=7213 #Fimetta
+	religion="catholic"
+	culture="sicilian"
+	1238.1.1 = {
+		birth="1238.1.1"
+	}
+	1288.1.1 = {
+		death="1288.1.1"
+	}
+}
+##############################################################################################
+#di Rocca
+31412 = {
+	name="Clara"
+	female=yes
+	dynasty=7214 #di Rocca
+	religion="catholic"
+	culture="sicilian"
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+##############################################################################################
+#de Pecoriari
+31491 = {
+	name="Pecoraro" 
+	dynasty=7217 #de Pecoriari
+	religion="catholic"
+	culture="sicilian"
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1233.1.1 = {
+		death="1233.1.1"
+	}
+}
+31492 = {
+	name="Margherita"
+	female=yes 
+	dynasty=7217 #de Pecoriari
+	religion="catholic"
+	culture="sicilian"
+	father=31491
+	1204.1.1 = {
+		birth="1204.1.1"
+	}
+	1264.1.1 = {
+		death="1264.1.1"
+	}
+}
+##############################################################################################
+#Chinard
+34461 = {
+	name="Gazo"
+	dynasty=7307
+	religion="catholic"
+	culture="sicilian"
+	1230.1.1={
+		birth="1230.1.1"
+	}	
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+##############################################################################################
+#di Avola
+461560 = {
+	name="Orlando "
+	# AKA: Orlando 
+	dynasty=8763
+	martial=4
+	diplomacy=8
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="sicilian"
+	trait="bastard"
+	father=461500
+	mother=461501
+	1296.1.1 = {
+		birth="1296.1.1"
+	}
+	1361.1.1 = {
+		death="1361.1.1"
+	}
+}
+461561 = {
+	name="Alfonso"
+	dynasty=8763
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="sicilian"
+	trait="slothful"
+	father=461560
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1365.1.1 = {
+		death="1365.1.1"
+	}
+}
+461562 = {
+	name="Federigo"
+	dynasty=8763
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=6
+	religion="catholic"
+	culture="sicilian"
+	father=461560
+	1316.1.1 = {
+		birth="1316.1.1"
+	}
+	1366.1.1 = {
+		death="1366.1.1"
+	}
+}
+461563 = {
+	name="Giovanni"
+	# AKA: Juan
+	dynasty=8763
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="sicilian"
+	trait="wroth"
+	trait="charismatic_negotiator"
+	father=461560
+	1318.1.1 = {
+		birth="1318.1.1"
+	}
+	1368.1.1 = {
+		death="1368.1.1"
+	}
+}
+##############################################################################################
+#Polizzi
+71757 = {
+	name="Mafalda"
+	dynasty=8776
+	female=yes
+	religion="catholic"
+	culture="sicilian"
+	1299.1.1 = {
+		birth="1299.1.1"
+	}
+	1364.1.1 = {
+		death="1364.1.1"
+	}
+}
+##############################################################################################
+#
+##############################################################################################
+#
+##############################################################################################
+#
+##############################################################################################
+#
+##############################################################################################
+#
+##############################################################################################
+#
+##############################################################################################
+#di Trinacria dynasty=8775
+##############################################################################################
+#Crispo dynasty=13023
+##############################################################################################
+#di Messina dynasty=100339
+##############################################################################################
+#di Palermo dynasty=100340
+##############################################################################################
+#di Trapani dynasty=100341
+##############################################################################################
+#di Agrigento dynasty=100342
+##############################################################################################
+#di Siracusa dynasty=100343
+##############################################################################################
+#di Valenti dynasty=101852
+##############################################################################################
+#Pescatore dynasty=102034
+
+
+

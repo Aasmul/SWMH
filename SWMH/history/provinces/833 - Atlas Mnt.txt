@@ -1,0 +1,23 @@
+# 833 - Atlas Mnt
+
+# County Title
+title = c_atlas_mnt
+
+# Settlements
+max_settlements = 4
+
+b_qalathuwara = castle  # Qal'at Bani Huwara
+b_tiaret = city
+
+#b_aflu = temple
+#b_saida = castle
+
+#b_bordj = temple
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+

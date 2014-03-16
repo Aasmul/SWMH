@@ -1,0 +1,30 @@
+# 310 - Anhalt
+
+# County Title
+title = c_anhalt
+
+# Settlements
+max_settlements = 5
+
+
+b_bernburg = castle
+b_zerbst = city
+
+#b_aschersleben = city
+#b_kothen = temple
+#b_plotzkau = castle
+#b_mansfeld = castle
+#b_dessau = city
+#b_arnstein = castle
+#b_querfurt = castle
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+
+1066.1.1 = { culture = german } 
+1066.1.1 = { religion = catholic } 
+
+1250.1.1= { b_dessau = city } 

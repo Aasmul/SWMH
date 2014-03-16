@@ -1,0 +1,85 @@
+866.1.1={
+	holder=1000226700 #Docibilis I, first hypatus of Gaeta
+}
+906.1.1={
+	holder=1000226701 #John I, second hypatus of Gaeta
+}
+930.1.1={
+	holder=1000226702 #Docibilis II, first duke of Gaeta
+}
+954.1.1={
+	holder=1000226703 #John I, second duke of Gaeta
+}
+###CJL78 - rulers (Dukes) of Gaeta
+1066.1.1={
+	liege="d_capua"
+	holder=1000167000 #Geoffrey Ridel
+}
+1086.1.1={
+	holder=1000167001 #Reginald Ridel
+}
+1090.1.1={
+	holder=1000167002 #Gualganus Ridel
+}
+1091.1.1={
+	holder=1000167003 #Lando (or Landulf - possibly a Lombard or Greek descendant; will be Norman for gameplay)
+}
+1103.1.1={
+	holder=1000167004 #William de Blosseville
+}
+1105.1.1={
+	holder=1000167005 #Richard ("of Aquila")
+}
+1111.1.1={
+	holder=73350 #Richard Drengot (as regent for nephew Jonathan from 1112, in own name from 1121-1140)
+}
+1135.1.1={
+	liege="k_sicily"
+}
+#CJL78 - hereafter directly to Kings of Sicily
+1140.1.1={
+	holder = 211502 #Roger I (? II of Sicily)
+}
+1154.2.26={
+	holder = 211501 #William I
+}
+1166.5.7 = {
+	holder = 211500 #William II
+}
+#CJL78 - end edits
+1172.6.16={
+	holder = 211500
+}
+1189.11.11={
+	holder = 211509
+}
+1194.2.20={
+	holder = 211512
+}
+1194.10.1={
+	holder = 212507
+}
+1197.9.28={
+	holder = 212513
+}
+1250.12.13={
+	holder = 30760
+}
+1254.5.21={
+	holder = 30785
+}
+1258.1.1={
+	holder = 7636
+}
+1266.2.26={
+	holder = 455406
+}
+1282.8.30={
+	liege=k_naples
+}
+1285.1.7={
+	holder=461710
+}
+1309.5.5={
+	holder=461700
+}

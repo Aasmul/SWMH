@@ -1,0 +1,5 @@
+
+1000064000 = {
+	name="de Blosseville"
+	culture = norman
+}

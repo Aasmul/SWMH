@@ -1,0 +1,25 @@
+# 985 - Selija
+
+# County Title
+title = c_selija
+
+# Settlements
+max_settlements = 2
+
+b_selpils = castle
+#b_jekabpils = city
+#b_nereta = city
+#b_jaunjelgava = castle
+
+# Misc
+culture = lettigallish
+religion = baltic_pagan
+
+# History
+
+1218.1.1 = { b_selpils = temple } # Bishopery of Selija
+1218.1.1 = { religion = catholic } # Bishopery of Selija
+1218.1.1 = { b_jekabpils = castle }
+1226.1.1 = { b_selpils = castle } # To Livonian order
+1226.1.1 = { b_jekabpils = city }
+

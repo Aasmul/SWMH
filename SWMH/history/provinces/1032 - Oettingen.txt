@@ -1,0 +1,22 @@
+# 1032 - Oettingen
+
+# County Title
+title = c_oettingen
+
+# Settlements
+max_settlements = 3
+
+b_oettingen = castle
+b_pappenheim = castle
+
+#b_wallerstein = temple
+#b_baldern = city
+#b_spielberg = castle
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

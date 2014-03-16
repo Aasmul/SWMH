@@ -1,0 +1,154 @@
+#Hwicce
+779.1.1={
+	liege = "d_hereford"
+}
+779.1.1={
+	holder = 1000226312 # Ingel Ealdorman of Hwicce 779ish-793
+}
+793.1.1={
+	holder = 1000226313 # Æthelmund Ealdorman 793ish-802
+}
+802.1.1={
+	holder = 1000226315 # 1000226391  Ealdorman 802-805ish
+}
+805.1.5={
+	holder=1000226398 # Coenwulf king of Mercia 796(december)-821, makes himself Eladorman.
+}
+821.1.1={
+	holder=1000226392 # Ceolwulf I king of Mercia 821-823
+}
+823.10.18={
+	holder=1000226396 # Beornwulf king of Mercia 823-826
+}
+826.1.1={
+	holder=1000226397 # Ludeca king of Mercia 826-827
+}
+827.1.1={
+	holder=1000226398 # Wiglaf king of Mercia 827-829 and 830-839
+}
+820.1.1={
+	holder=1000226200 #Wigmund king of Mercia 839-840, was Principes of Hwicces.
+}
+840.1.1={
+	holder=1000226201 # Wigstan king of Mercia 840
+}
+840.6.1={
+	holder=0
+}
+851.1.1={
+	holder = 1000226333 # Æthelred lord of the Mercians 883-911
+}
+879.1.1={
+	liege = "0"
+}
+883.1.1={
+	liege = "d_somerset"
+}
+911.1.1={
+	holder = 1000226334 # Æthelfled I lady of the Mercians 911-918
+}
+918.6.12={
+	holder = 1000226364 # Ælfwynn lady of the Mercians 12th june 918 - december 918
+}
+918.12.1={
+	holder=33350 #Æthelstan Ealdorman of Mercia 918-924(and 16 days as king of Mercia)
+}
+927.7.12={
+	liege="k_england"
+}
+940.1.5={
+	holder=1000226356 #Ealhhelm Ealdorman of south west Mercia 940-955
+}
+955.1.5={
+	holder=33350 #Æthelstan
+}
+997.1.5={
+	holder=1000226316 #Leofwine Ealdorman of Hwicce 997-1028
+}
+1028.1.5={
+	holder=0
+}
+1066.1.1={
+	liege="d_lancaster"
+}
+1066.1.5={
+	holder=82040 #Wulfstan
+}
+1066.10.14={
+	liege="k_england"
+}
+1095.1.20={
+	holder=129058 #Samson
+}
+1112.5.5={
+	holder=129059 #Theulf
+}
+1123.10.20={
+	holder=129060 #Simon of Worcester
+}
+1150.3.20={
+	holder=129061 #John of Pageham
+}
+1157.12.1={
+	holder=129062 #Alured
+}
+1160.7.31={
+	holder=129063 #Roger of Worcester
+}
+1179.8.9={
+	holder=129064 #Baldwin of Forde
+}
+1186.5.25={
+	holder=129065 #William of Nothall
+}
+1190.5.2={
+	holder=129066 #Robert FitzRalph
+}
+1193.6.27={
+	holder=129067 #Henry de Sully
+}
+1195.10.25={
+	holder=129068 #John of Coutances
+}
+1198.9.24={
+	holder=129069 #Mauger of Worcester
+}
+1212.7.1={
+	holder=129070 #Randulf of Evesham
+}
+1214.1.20={
+	holder=129071 #Walter de Gray
+}
+1216.4.3={
+	holder=129072 #Sylvester of Worcester
+}
+1218.7.16={
+	holder=129073 #William de Blois
+}
+1236.8.17={
+	holder=129074 #Walter de Cantilupe
+}
+1266.1.11={
+	holder=129075 #Nicholas of Ely
+}
+1268.3.2={
+	holder=129076 #Godfrey Giffard
+}
+1302.1.26={
+	holder=129077 #William Gainsborough
+}
+1307.9.17={
+	holder=129078 #Walter Reynolds
+}
+1313.5.1={
+	holder=129079 #Walter Maidstone
+}
+1317.3.28={
+	holder=129080 #Thomas Cobham
+}
+1327.8.27={
+	holder=129081 #Adam Orleton
+}
+1333.12.1={
+	holder=82042 #Simon Montacute
+}

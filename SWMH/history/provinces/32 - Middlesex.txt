@@ -1,0 +1,27 @@
+# 32 - Middlesex
+
+# County Title
+title = c_middlesex
+
+# Settlements
+max_settlements = 6
+
+b_westminster = castle
+b_london = city
+b_st_pauls = temple
+#b_tower_of_london = castle
+#b_isleworth = castle
+#b_baynardscastle = castle
+b_fullham = temple
+#b_kensington = castle
+#b_chelsea = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+
+# History
+1078.1.1 = { b_tower_of_london = castle }
+1100.11.11 = { culture = english }
+

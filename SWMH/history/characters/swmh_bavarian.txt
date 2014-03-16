@@ -1,0 +1,148 @@
+###############################################################
+#  Bavarian characters
+###############################################################
+#Bavarian character Range: 1000228401 - 1000228549
+###########
+### von Pitten
+1000228401 = { 
+	name="Gottfried" # first graf of Pitten
+        dynasty = 1000101001 # Wels-Lambach 
+	religion="catholic"
+	culture=german
+        #father= Arnold II von Kärntner Mark (Margrave of Carinthia)
+        #mother= Regilla de Verdun
+	1005.1.1={
+		birth=yes
+	}
+	1050.2.8={
+		death=yes
+	}
+}
+1000228402 = { 
+	name="Mathlide" # daughter of Gottfried
+        dynasty = 1000101001 # Wels-Lambach 
+	religion="catholic"
+	culture=german
+        father= 1000228401 # Gottfried von Pitten
+        female=yes
+	1037.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+1000228403 = { 
+	name="Ekbert" # Ekbert I von Formbach-Neubrug,  husband of Mathilde, graf of Formbach, Neuburg, Künziggau and Pitten
+        dynasty = 1000101002 # Formbach-Neuburg
+	religion="catholic"
+	culture=german
+        #father= Theimo II von Formbach
+	1022.1.1={
+		birth=yes
+	}
+	1049.1.1 = {
+		add_spouse=161981 #Mathilde von Pitten
+	}
+	1109.8.17={
+		death=yes
+	}
+}
+1000228404 = { 
+	name="Eberhard" # Eberhard von Formbach-Neuburg
+        dynasty = 1000101002 # Formbach-Neuburg
+	religion="catholic"
+	culture=german
+        father= 1000228403
+        #A bit of confusion as too who the mother was, but was probably an earlier wife.
+	1040.1.1={
+		birth=yes
+	}
+	1100.5.4={
+		death=yes
+	}
+}
+1000228405 = { 
+	name="Ekbert" # Ekbert II von Formbach-Pitten
+        dynasty = 1000101002 # Formbach-Neuburg
+	religion="catholic"
+	culture=german
+        father= 1000228403 # Ekbert von Formbach-Neuburg
+        mother= 1000228402 # Mathilde von Pitten
+	1051.1.1={
+		birth=yes
+	}
+	1144.11.24={
+		death=yes
+	}
+}
+1000228406 = { 
+	name="Ekbert" # Ekbert III von Formbach-Pitten
+        dynasty = 1000101002 # Formbach-Neuburg
+	religion="catholic"
+	culture=german
+        father= 1000228405 # Ekbert II von Formbach-Neuburg
+	1078.1.1={
+		birth=yes
+	}
+	1158.8.5={
+		death=yes
+	}
+}
+1000228407 = { 
+	name="Mathilde" # Mathilde von Formbach-Pitten
+        dynasty = 1000101002 # Formbach-Neuburg
+	religion="catholic"
+	culture=german
+        father= 1000228405 # Ekbert II von Formbach-Neuburg
+        female=yes
+	1080.1.1={
+		birth=yes
+	}
+	1160.11.7={
+		death=yes
+	}
+}
+1000228408 = { 
+	name="Kunigunde" # Kunigunde von Formbach-Pitten
+        dynasty = 1000101002 # Formbach-Neuburg
+	religion="catholic"
+	culture=german
+        father= 1000228405 # Ekbert II von Formbach-Neuburg
+        female=yes
+	1083.1.1={
+		birth=yes
+	}
+	1175.1.1={
+		death=yes # Sometime after 1170
+	}
+}
+1000228409 = { 
+	name="Dietmar" # Dietmar von Formbach-Pitten
+        dynasty = 1000101002 # Formbach-Neuburg
+	religion="catholic"
+	culture=german
+        father= 1000228403 # Ekbert von Formbach-Neuburg
+        mother= 1000228402 # Mathilde von Pitten
+	1055.1.1={
+		birth=yes
+	}
+	1137.1.1={
+		death=yes 
+	}
+}
+1000228410 = { 
+	name="Kunigunde" # Kunigunde von Formbach-Pitten
+        dynasty = 1000101002 # Formbach-Neuburg
+	religion="catholic"
+	culture=german
+        father= 1000228403 # Ekbert von Formbach-Neuburg
+        mother= 1000228402 # Mathilde von Pitten
+        female=yes
+	1057.1.1={
+		birth=yes
+	}
+	1156.1.1={
+		death=yes 
+	}
+}

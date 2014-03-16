@@ -1,0 +1,18 @@
+# 1322 - Kebbi
+
+# County Title
+title = c_kebbi
+
+# Settlements
+max_settlements = 4
+b_gaya = castle
+b_birnin-kebbi = city
+b_argungu = temple
+
+#b_dosso = castle
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

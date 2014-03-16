@@ -1,0 +1,24 @@
+# 1191 - Lugo
+
+# County Title
+title = c_lugo
+
+# Settlements
+max_settlements = 4
+b_lugo = castle
+b_villalba = city
+b_mondonedo= temple
+#b_sarria = castle
+#b_ribadeo = city
+#b_ocebreiro= temple
+
+
+# Misc
+culture = galician
+religion = catholic
+
+# History
+1066.1.1 = { 
+	b_lugo = ca_keep_1
+	b_lugo = ca_wall_1
+}

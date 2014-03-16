@@ -1,0 +1,16 @@
+# 1481 - Wadai
+
+# County Title
+title = c_wadai
+
+# Settlements
+max_settlements = 2
+b_abeche = city
+
+#b_wara = temple
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

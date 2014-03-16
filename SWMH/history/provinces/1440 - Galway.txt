@@ -1,0 +1,23 @@
+# 1440 - Galway
+
+# County Title
+title = c_galway
+
+# Settlements
+max_settlements = 4
+
+b_tuam = castle
+b_galway = city
+
+#b_clonfert = temple
+#b_kilmacduagh = temple
+#b_athenry = castle
+#b_ardrahan = castle
+#b_dunmore = castle
+#b_ballinasloe = castle
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

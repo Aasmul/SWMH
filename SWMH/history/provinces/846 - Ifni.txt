@@ -1,0 +1,27 @@
+# 846 - Ifni
+
+# County Title
+title = c_ifni
+
+# Settlements
+max_settlements = 3 
+
+b_nullamta = castle
+b_ifni = city
+
+#b_guelmim = temple
+
+#b_ouaouteit = temple
+#b_rgab = castle
+#b_mihrleft = castle
+#b_belkassem = castle
+#b_tizgui = castle
+
+# Misc
+culture = masmuda
+religion = ibadi
+
+# History
+1030.1.1 = { religion = sunni }
+
+

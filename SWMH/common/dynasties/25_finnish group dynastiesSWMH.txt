@@ -1,0 +1,84 @@
+######################################
+#New Finnish group Dynasties
+######################################
+#
+#
+######################################
+#Finnish group dynasties
+#Range 1.000.053.350-1.000.053.379
+#Range2: 1000100650 - 1000100749
+######################################
+1000053350 = {
+	name="Harjulane"
+	culture = tsuudi
+}
+1000053351 = {
+	name="Virulane"
+	culture = tsuudi
+}
+1000053352 = {
+	name="Järvalane"
+	culture = tsuudi
+}
+1000053353 = {
+	name="Ugandilane"
+	culture = tsuudi
+}
+1000053354 = {
+	name="Vaialane"
+	culture = tsuudi
+}
+1000053355 = {
+	name="Laanlane"
+	culture = tsuudi
+}
+1000053356 = {
+	name="Saarlane"
+	culture = tsuudi
+}
+1000053357 = {
+	name="of Vanemalane"
+	culture = tsuudi
+}
+1000053358 = {
+	name="of Mõtsa Puoll"
+	culture = livonian
+}
+1000053359 = {
+	name="of Sakala"
+	culture = livonian
+}
+1000053360 = {
+	name="of Toreida"
+	culture = livonian
+}
+1000053361 = {
+	name="Inkerilainen"
+	culture = ingrian
+}
+1000053362 = {
+	name="of Vanema"
+	culture = livonian
+}
+###the five clans of Virumaa
+1000053363 = {
+	name="Kilikunda"
+	culture = tsuudi
+}
+1000053364 = {
+	name="Mahu"
+	culture = tsuudi
+}
+1000053365 = {
+	name="Lemmu" # Lemmu/Pudiviru
+	culture = tsuudi
+}
+1000053366 = {
+	name="Rebala"
+	culture = tsuudi
+}
+1000053367 = {
+	name="Alutaguse"
+	culture = tsuudi
+}
+###

@@ -1,0 +1,24 @@
+# 7 - Oriel # aka Louth
+
+# County Title
+title = c_oriel
+
+# Settlements
+max_settlements = 3
+
+b_dundalk = castle
+b_annagassan = castle
+
+#b_drogheda = castle
+#b_louth = city
+#b_ardee = castle
+#b_mellifont = temple
+
+# Misc
+culture = irish
+religion = catholic
+
+# History
+880.1.1 = { remove_settlement = b_annagassan } # longphort abandoned
+900.1.1 = { b_louth = city }
+1047.10.25 = { culture = norsegaelic }

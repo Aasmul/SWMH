@@ -1,0 +1,20 @@
+# 195 - Caceres
+
+# County Title
+title = c_caceres
+
+# Settlements
+max_settlements = 3
+
+b_talavera = castle
+#b_alia = city
+#b_oropesa = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1244.4.23 = { culture = castillan }
+1244.4.23 = { religion = catholic }

@@ -1,0 +1,20 @@
+# 1079 - Tecklenburg
+
+# County Title
+title = c_tecklenburg
+
+# Settlements
+max_settlements = 4
+
+b_tecklenburg = castle
+#b_ibbenburen = castle
+#b_rheda = castle
+#b_iburg = castle
+#b_quackenbruck = temple
+b_meppen = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

@@ -1,0 +1,27 @@
+#Dynasties: 1.000.036.000 - 1.000.036.999 
+
+#1000036000 d'Alzonne
+1000036000 = {
+	name="de Alzonne" 
+	culture="occitan"
+
+}
+#1000036001 de Besièrs
+1000036001 = {
+	name="de Besièrs" 
+	culture="occitan"
+
+}
+#1000036002 de Carcassonna
+1000036002 = {
+	name="de Carcassonna" 
+	culture="occitan"
+
+}
+
+1000036003 = {
+	name="de Beauvais" 
+	#pour les évêques de Beauvais roturiers
+	culture="frankish"
+}
+

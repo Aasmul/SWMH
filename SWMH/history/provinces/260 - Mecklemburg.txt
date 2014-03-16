@@ -1,0 +1,30 @@
+# 260 - Mecklemburg
+
+# County Title
+title = c_mecklemburg
+
+# Settlements
+max_settlements = 5
+
+b_mecklemburg = castle
+b_rerik = city
+b_wismar = city
+b_sternberg = temple # Rethra
+
+#b_grevesmuhlen = castle
+#b_butzow = temple
+#b_lutzow = castle
+
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+
+1160.8.2={ religion=catholic }
+
+
+1200.1.1= { culture=german } 
+1235.1.1 = { trade_post = b_bardewik }
+

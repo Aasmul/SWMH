@@ -1,0 +1,105 @@
+########
+#CJL78 Tuscans 1.000.167.130-1.000.167.139
+########
+
+########
+#Aldobrandeschi (of Santa Fiora/Grosseto area)
+#fictional, cannot find any individuals' information
+########
+
+1000167130 = {
+	name="Ildebrando"
+	dynasty=1042000
+	religion="catholic"
+	culture="tuscan"
+	1050.1.1 = {
+		birth="1050.1.1" 
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+1000167131 = {
+	name="Ildebrando"
+	dynasty=1042000
+	religion="catholic"
+	culture="tuscan"
+	father=1000167130
+	1080.1.1 = {
+		birth="1080.1.1" 
+	}
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+
+1000167132 = {
+	name="Ildebrando"
+	dynasty=1042000 
+	religion="catholic"
+	culture="tuscan"
+	father=1000167131
+	1120.1.1 = {
+		birth="1120.1.1" 
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+
+1000167133 = {
+	name="Ildebrando"
+	dynasty=1042000
+	religion="catholic"
+	culture="tuscan"
+	father=1000167132
+	1160.1.1 = {
+		birth="1160.1.1" 
+	}
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+
+1000167134 = {
+	name="Ildebrando"
+	dynasty=1042000
+	religion="catholic"
+	culture="tuscan"
+	father=1000167133
+	1200.1.1 = {
+		birth="1200.1.1" 
+	}
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+
+1000167135 = {
+	name="Guglielmo" #the "Gran Tosco" mentioned by Dante
+	dynasty=1042000
+	religion="catholic"
+	culture="tuscan"
+	father=1000167134
+	1254.1.1 = {
+		birth="1254.1.1" 
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+
+1000167136 = {
+	name="Ildebrando"
+	dynasty=1042000
+	religion="catholic"
+	culture="tuscan"
+	father=1000167135
+	1280.1.1 = {
+		birth="1280.1.1" 
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}

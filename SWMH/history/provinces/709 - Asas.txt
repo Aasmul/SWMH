@@ -1,0 +1,27 @@
+# 709 - Asas
+
+# County Title
+title = c_asas
+
+# Settlements
+max_settlements = 6
+
+b_ar-rafiqa = castle
+b_rakka = city
+b_resafa = temple
+b_qalatjabar = castle
+#b_zarzakka = temple
+#b_bizunasyria = temple
+#b_talabyad = castle
+
+
+
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+1187.1.1 = { b_talabyad = castle } 

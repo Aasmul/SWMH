@@ -1,0 +1,17 @@
+######################################
+#New Bavarian Dynasties
+######################################
+#
+#
+######################################
+#Bavarian dynasties
+#Range 1000101001 - 1000101099
+######################################
+1000101001 = {
+	name="von Wels-Lambach"
+	culture = german
+}
+1000101002 = {
+	name="von Formbach-Neuburg"
+	culture = german
+}

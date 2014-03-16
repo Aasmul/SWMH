@@ -1,0 +1,22 @@
+# 409 - Bezhetsky Verh # Ladoga
+
+# County Title
+title = c_bezhetsky_verh
+
+# Settlements
+max_settlements = 3
+
+b_staryaladoga = castle
+b_tikhvin = temple
+b_pikalyovo = city
+#b_kirishi = city
+
+# Misc
+culture = ingrian
+religion = finnish_pagan
+
+# History
+867.1.1 = {
+	b_staryaladoga = ca_shipyard_1
+}
+988.1.1 = {religion = orthodox }

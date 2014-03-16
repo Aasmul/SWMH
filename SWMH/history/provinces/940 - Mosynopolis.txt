@@ -1,0 +1,23 @@
+# 940 - Mosynopolis
+
+# County Title
+title = c_mosynopolis
+
+# Settlements
+max_settlements = 3
+
+
+b_prodromos = castle
+b_mosynopolis = city
+#b_polystylon = castle
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+1189.1.1 = { trade_post = b_dandolo }
+
+1384.1.1 = { culture = turkish }
+1384.1.1 = { religion = sunni }

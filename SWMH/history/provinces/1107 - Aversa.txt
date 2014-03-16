@@ -1,0 +1,32 @@
+# 1107 - aversa
+
+# County Title
+title = c_aversa
+
+# Settlements
+max_settlements = 4
+
+
+b_aversa = castle
+
+b_cumae = temple
+
+#b_pozzuoli = temple
+#b_ischia = castle
+#b_baiaaversa = castle
+#b_capri = castle
+#b_bacoliaversa = city
+#b_volturnum = city
+#b_maranoaversa = castle
+#b_giuglianoincampania = temple
+
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+950.1.1 = {religion = catholic }
+950.1.1 = {culture = langobardisch }
+1090.1.1 = { trade_post = b_dandolo }
+1118.1.1={ culture = southern_italian }

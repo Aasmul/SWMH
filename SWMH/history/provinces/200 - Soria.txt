@@ -1,0 +1,26 @@
+# 200 - Soria
+
+# County Title
+title = c_soria
+
+# Settlements
+max_settlements = 4
+b_gormaz = castle
+b_soria = city
+b_osma = temple
+#b_medinaceli = castle
+#b_almazan = city
+#b_huerta = temple
+
+culture = castillan
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_gormaz = ca_keep_1
+	b_gormaz = ca_stable_1
+	b_gormaz = ca_militia_barracks_1
+	b_gormaz = ca_wall_1
+	b_gormaz = ca_wall_2
+}

@@ -1,0 +1,18 @@
+# 947 - Brycheiniog
+
+# County Title
+title = c_brycheiniog
+
+# Settlements
+max_settlements = 3
+b_aberhonddu = castle
+b_crug_hywel = city
+#b_talgarth = temple
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History

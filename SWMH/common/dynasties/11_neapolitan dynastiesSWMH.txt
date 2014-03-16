@@ -1,0 +1,154 @@
+######################################
+#New neapolitan dynasties
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1000035641-1000035690
+######################################
+
+1000035641 = {
+name="Acquaviva"
+ culture = neapolitan
+}
+1000035642 = {
+name="D'Angiò"
+ culture = neapolitan
+}
+1000035643 = {
+name="Caracciolo"
+ culture = neapolitan
+}
+1000035644 = {
+name="Carafa"
+ culture = neapolitan
+}
+1000035645 = {
+name="Sanseverino"
+ culture = neapolitan
+}
+1000035646 = {
+name="Sergi"
+ culture = neapolitan
+}
+1000035647 = {
+name="Tocco"
+ culture = neapolitan 
+}
+#(already present in the big list, signed as southern, but they were neapolitan)
+1000035648 = {
+name="Abbate de Castello"
+ culture = neapolitan
+}
+1000035649 = {
+name="Acciapaccia"
+ culture = neapolitan
+}
+1000035650 = {
+name="Antinori"
+ culture =neapolitan
+}
+1000035651 = {
+name="Alagna"
+ culture = neapolitan
+}
+1000035652 = {
+name="Cantelmo"
+ culture = neapolitan
+}
+1000035653 = {
+name="Capano"
+ culture = neapolitan
+}
+1000035654 = {
+name="Capasso"
+ culture = neapolitan
+}
+1000035655 = {
+name="Capece"
+ culture = neapolitan
+}
+1000035656 = {
+name="D'Afflitto"
+ culture = neapolitan
+}
+1000035657 = {
+name="Dentice"
+ culture = neapolitan
+}
+1000035658 = {
+name="Filangieri"
+ culture = neapolitan
+}
+1000035659 = {
+name="Pignatelli"
+ culture = neapolitan
+}
+1000035660 = {
+name="Pironti"
+ culture = neapolitan
+}
+1000035661 = {
+name="Rizzo"
+ culture = neapolitan
+}
+1000035662 = {
+name="Ruggi"
+ culture = neapolitan
+}
+1000035663 = {
+name="Avarna"
+ culture = neapolitan
+}
+1000035664 = {
+name="Della Marra"
+ culture = neapolitan
+}
+1000035665 = {
+name="Di Sangro"
+ culture = neapolitan
+}
+1000035666 = {
+name="Fontanarosa"
+ culture = neapolitan
+}
+1000035667 = {
+name="Gesualdo"
+ culture = neapolitan
+}
+1000035668 = {
+name="Lancellotti"
+ culture = neapolitan
+}
+1000035669 = {
+name="Nuzzo"
+ culture = neapolitan
+}
+1000035670 = {
+name="Pagano"
+ culture = neapolitan
+}
+1000035671 = {
+name="Sanfelice"
+ culture = neapolitan
+}
+1000035672 = {
+name="Zurlo"
+ culture = neapolitan
+}
+
+
+
+
+
+
+######################################
+#Generic dynasites
+#Range 1000035691-1000035710
+######################################
+
+
+
+
+

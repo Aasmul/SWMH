@@ -1,0 +1,7 @@
+962.1.1={ 
+	liege="k_england"
+	holder = 1000226367 # Byrhtnoth, Earldorman of Essex ?-991.
+}
+991.8.10={
+	holder=0 # 
+}         

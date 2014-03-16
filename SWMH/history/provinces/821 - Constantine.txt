@@ -1,0 +1,23 @@
+# 821 - Constantine
+
+# County Title
+title = c_constantine
+
+# Settlements
+max_settlements = 3
+
+b_constantine = castle
+b_elkhroub = temple
+
+#b_guerrah = city
+
+#b_guelma = city
+#b_oumelbouaghi = castle
+#b_tadjenanet = castle
+#b_mechtakebira = castle
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History

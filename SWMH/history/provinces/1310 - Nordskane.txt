@@ -1,0 +1,31 @@
+# 1310 - NordSkåne
+
+# County Title
+title = c_nordskane
+
+# Settlements
+max_settlements = 4
+
+b_kernen = castle
+b_helsingborg = city
+b_krapperup = castle
+#b_vramsgunnarstorp = city
+#b_billesholm = castle
+#b_rydeback = city
+#b_vegelholm = castle
+#b_tomarp = castle
+#b_angelholm = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = hills
+
+# History
+1018.1.1 = { religion = catholic } 
+1047.10.25 = { culture = danish } 
+1066.1.1 = {
+	b_kernen = ca_keep_1
+	b_kernen = ca_militia_barracks_1
+	b_kernen = ca_wall_1   
+}

@@ -1,0 +1,25 @@
+# 255 - Thüringen
+
+# County Title
+title = c_thuringen
+
+# Settlements
+max_settlements = 5
+
+b_wartburg = castle
+b_erfurt = city
+b_gleichen = castle
+#b_waschenberg = castle
+
+#b_muhlhausen = temple
+#b_eisenach = castle
+#b_eichsfeld = castle
+#b_reuss = castle
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

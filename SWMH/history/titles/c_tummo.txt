@@ -1,0 +1,13 @@
+866.1.1= {
+  liege="d_zaghawa"
+  holder=1000228600
+}
+890.1.1= {
+  holder=1000228601
+}
+
+1064.1.1=
+{
+liege="d_fezzan"
+holder=1000144666
+}

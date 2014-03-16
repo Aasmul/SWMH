@@ -1,0 +1,21 @@
+# 165 - Cadiz
+
+# County Title
+title = c_cadiz
+
+# Settlements
+max_settlements = 4
+
+b_carmona = temple
+b_ecija = city
+b_osuna = castle
+#b_lora_del_rio = castle
+#b_sevimoron = city
+
+
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1279.1.1 = { culture = castillan }
+1279.1.1 = { religion = catholic }

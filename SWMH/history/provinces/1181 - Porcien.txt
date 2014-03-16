@@ -1,0 +1,23 @@
+# 1181 - Porcien
+
+# County Title
+title = c_porcien
+
+# Settlements
+max_settlements = 3 #max = 7
+b_porcien = castle
+b_rumigny = city
+#b_montcornet = castle
+#b_signylabbeye = temple
+#b_sedan = castle
+
+
+
+
+culture = frankish
+religion = catholic
+
+# History
+#1123.1.1  = { b_xxx = castle }
+#1153.1.1  = { b_xxx = city }
+#1225.1.1  = { b_xxx = temple }

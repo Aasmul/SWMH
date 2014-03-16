@@ -1,0 +1,31 @@
+# 455 - Steiermark
+
+# County Title
+title = c_steiermark
+
+# Settlements
+max_settlements = 5
+b_eppenstein = castle
+b_graz = city
+b_seckau = temple
+b_stubing = castle #Stübing
+#b_admont = temple
+#b_goss = temple # Göss
+#b_leibnitz = temple
+#b_leoben = city
+#b_judenburg = city
+#b_bruck = city
+#b_kapfenberg = castle
+#b_murau = castle
+#b_landsberg = castle
+#b_voitsberg = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+
+

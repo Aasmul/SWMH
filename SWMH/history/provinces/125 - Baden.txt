@@ -1,0 +1,22 @@
+# 125 - Baden
+
+# County Title
+title = c_baden
+
+# Settlements
+max_settlements = 5
+
+b_hodenhagen = castle
+b_baden = city
+#b_besigheim = city
+#b_pforzheim = city
+#b_durlach = castle
+#b_backnang = city
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

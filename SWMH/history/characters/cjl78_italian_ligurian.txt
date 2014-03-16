@@ -1,0 +1,146 @@
+########
+#CJL78 Ligurians 1.000.167.050-1.000.167.059
+########
+
+########
+#Counts of Ventimiglia
+########
+
+1000167050 = {
+	name="Corrado"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	1000.1.1 = {
+		birth="1000.1.1" #unknown
+	}
+	1038.1.1 = {
+		death="1038.1.1"
+	}
+}
+
+1000167051 = {
+	name="Ottone"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	father=1000167050
+	1020.1.1 = {
+		birth="1020.1.1" #unknown
+	}
+	1080.1.1 = {
+		death="1080.1.1" #unknown
+	}
+}
+
+1000167052 = {
+	name="Oberto"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	father=1000167051
+	1070.1.1 = {
+		birth="1070.1.1" #unknown
+	}
+	1140.1.1 = {
+		death="1140.1.1" #unknown
+	}
+}
+
+1000167053 = {
+	name="Corrado"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	father=1000167050
+	1035.1.1 = {
+		birth="1035.1.1" #unknown
+	}
+	1085.1.1 = {
+		death="1085.1.1" #unknown
+	}
+}
+
+1000167054 = {
+	name="Corrado"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	father=1000167053
+	1065.1.1 = {
+		birth="1065.1.1" #unknown
+	}
+	1110.1.1 = {
+		death="1110.1.1" #unknown
+	}
+}
+
+1000167055 = {
+	name="Guido"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	father=1000167052 #probably not but installed by Genoa; making this relation for continuity's sake if starting a game as this character
+	1110.1.1 = {
+		birth="1110.1.1" #unknown
+	}
+	1167.1.1 = {
+		death="1167.1.1" #unknown
+	}
+}
+
+1000167056 = {
+	name="Ottone"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	father=1000167055 #Assumption
+	1150.1.1 = {
+		birth="1150.1.1" #unknown
+	}
+	1200.1.1 = {
+		death="1200.1.1" #unknown
+	}
+}
+
+1000167057 = {
+	name="Emmanuele"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	father=1000167056 #Assumption
+	1180.1.1 = {
+		birth="1180.1.1" #unknown
+	}
+	1230.1.1 = {
+		death="1230.1.1" #unknown
+	}
+}
+
+1000167058 = {
+	name="Guglielmo"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	father=1000167056 #Assumption
+	1185.1.1 = {
+		birth="1185.1.1" #unknown
+	}
+	1240.1.1 = {
+		death="1240.1.1" #unknown
+	}
+}
+
+1000167059 = {
+	name="Enrico"
+	dynasty=1000064001 #di Ventimiglia
+	religion="catholic"
+	culture="ligurian"
+	father=1000167058 #"Conte di Iscla", totally making up this relation for continuity's sake if starting a game as this character
+	1230.1.1 = {
+		birth="1230.1.1" #unknown
+	}
+	1300.1.1 = {
+		death="1300.1.1" #unknown
+	}
+}

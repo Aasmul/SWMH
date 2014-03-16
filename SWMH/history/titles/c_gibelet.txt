@@ -1,0 +1,65 @@
+860.1.1 = {
+	holder=159737
+}
+1066.1.1=
+{
+	holder=20769
+}
+1070.1.1=
+{
+	holder = 144232
+}
+1072.1.1=
+{
+	holder = 144233
+}
+1099.1.1={
+	holder = 144234
+}
+#Guglielmo Embriaco
+1109.7.12={
+	holder=1000091082
+}
+1109.7.12=
+{
+	liege="d_tripoli"
+}
+#Ugo Embriaco
+1115.1.1={
+	holder=1000091083
+}
+#Guglielmo Embriaco 2
+1135.1.13={
+	holder=1000091084
+}
+#Bertrando Embriaco
+1157.1.2={
+	holder=1000091085
+}
+#Ugo Embriaco 2
+1162.1.2={
+	holder=1000091086
+}
+#Ugo Embriaco 3
+1182.1.2={
+	holder=1000091087
+}
+#Guido Embriaco, last ruler of Gibelet under Kingdom of Jerusalem
+1197.1.5={
+	holder=1000091088
+}
+#Enrico Embriaco
+1241.6.2={
+	holder=1000091091
+}
+#Guido 2
+1271.1.2={
+	holder=1000091095
+}
+#Pietro, last christian baron of Gibelet
+1282.1.2 = {
+	holder=1000091096
+}
+1289.3.1 = {
+	holder=0
+}

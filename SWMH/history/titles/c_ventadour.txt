@@ -1,0 +1,86 @@
+778.1.1={
+	liege="k_aquitaine"
+}
+778.1.1={
+	holder = 6392 
+}
+781.1.1={
+	holder = 90095
+}
+817.1.1={
+	holder = 90096 
+}
+838.1.14={
+	holder = 90104 
+}
+855.1.1={
+	holder = 42020 
+}
+866.1.30={
+	holder = 90123 
+}
+879.1.1={
+	holder = 90155 
+}
+884.12.12={
+	liege="d_aquitaine"
+}
+884.12.12={
+	holder = 90127 
+}
+934.1.1={
+	holder = 230
+}
+945.1.1={
+	holder = 40070
+}
+988.1.1={
+	holder = 320
+}
+997.1.1={
+	holder = 322
+}
+1030.1.1={
+	liege="d_poitou"
+}
+1030.1.1={
+	holder=40284 #Archambaud III de Comborn
+}
+1053.1.1={	
+	holder=40290 #Bernard I de Comborn/turenne
+}
+1123.1.1={
+	holder=205626 #Archambaud IV de Comborn
+}
+1147.1.1={
+	holder=205605 #Archambaud V de Comborn
+}
+1152.1.1 = {
+	liege = "d_aquitaine"
+}
+1174.10.5={
+	holder=138084 #Archambaud VI de Comborn
+}
+1207.10.5={
+	holder=138086 #Bernard II de Comborn
+}
+1256.8.1={
+	holder=138085 #Guichard I de Comborn
+}
+1259.12.11={
+	holder=138089 #Archambaud VII de comborn
+}
+1278.1.1={
+	holder=138087 #Hélie I de Comborn
+}
+1286.1.1={
+	holder=138088 #Guichard II de comborn
+}
+1330.12.11={
+	holder=138081 #Guichard IV de Comborn
+}
+1337.1.1=
+{
+liege="d_burgundy"
+}
+

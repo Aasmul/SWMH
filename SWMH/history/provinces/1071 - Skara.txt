@@ -1,0 +1,36 @@
+# 1071 - Skara
+
+# County Title
+title = c_skara
+
+# Settlements
+max_settlements = 5
+
+b_lacko = castle
+b_skara = temple
+b_arneasborg = castle
+#b_galakvist = castle
+#b_ymseborg = castle
+#b_nabbeborg = castle
+#b_varnhem = temple
+#b_lidkoping = city
+#b_husaby = temple
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1047.10.25 = { culture = gothic } 
+1060.8.2 = {religion = catholic}
+
+1066.1.1 = { 
+	b_lacko = ca_keep_1
+	b_lacko = ca_stable_1
+	b_lacko = ca_militia_barracks_1
+	b_lacko = ca_wall_1
+	b_lacko = ca_wall_2
+	b_skara = tp_monastery_1
+}
+1187.1.1 = { b_galakvist = castle }

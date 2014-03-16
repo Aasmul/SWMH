@@ -1,0 +1,28 @@
+# 77 - Artois
+
+# County Title
+title = c_artois
+
+# Settlements
+max_settlements = 6
+b_bethune = castle
+b_arras = city
+b_therouanne = temple
+
+#b_abbeydeachin = temple
+#b_loos = city
+#b_montmonrency = castle
+#b_olhain = castle
+#b_lens = city
+#b_bapaume = castle
+#b_saintvaast = temple
+
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+
+
+

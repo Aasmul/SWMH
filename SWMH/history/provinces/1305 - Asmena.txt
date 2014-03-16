@@ -1,0 +1,21 @@
+# 1305 - Asmena
+# County Title
+title = c_asmena
+
+# Settlements
+max_settlements = 4
+
+b_kreva = castle
+b_asmena = city
+b_alsenai = castle
+
+#b_norviliskes = temple
+#b_iuje = temple
+#b_losk = city
+
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History

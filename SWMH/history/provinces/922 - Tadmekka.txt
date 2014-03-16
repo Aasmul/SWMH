@@ -1,0 +1,29 @@
+# 922 - Tadmekka
+
+# County Title
+title = c_tadmekka
+
+# Settlements
+max_settlements = 4
+
+b_tadmekka = castle
+
+#b_essako = city # Es Souk
+#b_kidal = temple
+#b_tessalit = castle
+
+# Misc
+culture = songhai
+religion = west_african_pagan
+
+# History
+
+#Berber colonization
+1057.1.1 = { culture = tuareg }
+
+1057.1.1 = {
+	b_essako = city
+}
+
+#islamization
+1057.1.1 = { religion = sunni }

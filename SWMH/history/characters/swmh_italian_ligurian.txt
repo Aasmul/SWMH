@@ -1,0 +1,1085 @@
+###############################################################
+#  SWMH ligurian characters
+###############################################################
+# SWMH Character Range: 1000091065 - 1.000.092.999
+##############################################################################################
+
+#De Fornari family (two characters)
+#First acknowledge De Fornari in year 1118, petty nobles of Genova, no date of birth or death avaiable#
+1000091065 = {
+	name="Giustiniani Otto"
+	dynasty=1000035294 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1150.1.1 = {
+		death="1150.1.1"
+	}
+}
+#Giovanni was in Genova in year 1334, no date of birth or death avaiable# 
+1000091066 = {
+	name="Giovanni"
+	dynasty=1000035294 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+       	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+#Delle Piane family (two characters)
+#first acknowledge Delle Piane in year 1254, petty nobles, no date of birth and death avaiable#
+1000091067 = {
+	name="Oberto"
+	dynasty=1000035296 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1224.1.1 = {
+		birth="1224.1.1"
+	}
+	1294.1.1 = {
+		death="1294.1.1"
+	}
+}
+#Fulco was probably his brother, acknowledged in year 1255, no date of birth and death avaiable#
+1000091068 = {
+	name="Fulco"
+	dynasty=1000035296 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1226.1.1 = {
+		birth="1226.1.1"
+	}
+	1296.1.1 = {
+		death="1296.1.1"
+	}
+}
+
+
+#Di Negro family, no characters at all, better leave them as casual generated characters#
+
+
+
+#Tartaro family aka Imperiale family, in 1378 the family ruled the whole Corsica
+#Giovanni il Tartaro was a genoese noble who lived in Caffa, as the place was inhabitated by Tatars he get the nickname of il Tartaro (the Tatar), in year 1100 he returned to Genova# 
+1000091069 = {
+	name="Giovanni"
+	dynasty=1000035298 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1150.1.1 = {
+		death="1150.1.1"
+	}
+}
+#A descendant of Giovanni, he was recorded in year 1188 as peace counsellor between Genova and Pisa, unknown father and dates of birth and death#
+1000091070 = {
+	name="Ospinello"
+	dynasty=1000035298 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1168.1.1 = {
+		birth="1168.1.1"
+	}
+	1238.1.1 = {
+		death="1238.1.1"
+	}
+}
+#Opizzino was brother of Ospinello, he was recorded in year 1225 as genoese ambassador in Asti, unknown father and dates of birth and death
+1000091071 = {
+	name="Opizzino"
+	dynasty=1000035298 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+#Lanfranco was an admiral, in year 1302 he armed some galeass for Philip IV of France then he was admiral during a crusade, no dates avaiable#
+1000091072 = {
+	name="Lanfranco"
+	dynasty=1000035298 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1272.1.1 = {
+		birth="1272.1.1"
+	}
+	1332.1.1 = {
+		death="1332.1.1"
+	}
+}
+
+#Staglieno family, their origin trace back to the period of the late roman republic, the founding father was the magistrate Gaio Elio Staleno citated in 66 BC by Ciceron, no characters noted during CK2 timeframe, better leave them as casual generated characters#
+
+#Cattaneo family, they ruled Varazze, Masone, Tagliolo and Lerma as counts  
+#Conradus aka Corrado was the founding father of this family that once was called Della Volta, in year 938 he was alive but unknown birth or death date
+1000091073 = {
+	name="Corrado"
+	dynasty=1000035300 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	923.1.1 = {
+		birth="923.1.1"
+	}
+	980.1.1 = {
+		death="980.1.1"
+	}
+}
+#Oria was daughter of Corrado, in year 1000 she married Arduino, count of Narbona, they had 4 sons, popularly acknowledged as sons of D'Oria (figli di D'Oria), from that nickname the family Doria was born#
+1000091074 = {
+	name="Oria"
+	dynasty=1000035300 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091073
+	972.1.1 = {
+		birth="972.1.1"
+	}
+	1040.1.1 = {
+		death="1040.1.1"
+	}
+}
+#Ingone aka Ingo was nephew of Corrado, he was alive in year 1044, he was an influent citizien of Genova
+1000091075 = {
+	name="Ingo"
+	dynasty=1000035300 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1005.1.1 = {
+		birth="1005.1.1"
+	}
+	1065.1.1 = {
+		death="1065.1.1"
+	}
+}
+#Oberto was the first member who takes the surname Della Volta, elected consul of genova in 1080
+1000091076 = {
+	name="Oberto"
+	dynasty=1000035300 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091075
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+#Ingo 2, he was the real ruler of Genova during his life, was elected consul many times, in 1147 he fought against moors in Almeria and was victorious, in 1161 he was consul and peace ambassador between Genova and the Emperor Frederick I, the Emperor himself give him the "dignità di Cattaneo" from that point on the family changed name from Della Volta to Cattaneo   
+1000091077 = {
+	name="Ingo"
+	dynasty=1000035300 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091076
+	1088.1.1 = {
+		birth="1088.1.1"
+	}
+	1182.1.1 = {
+		death="1182.1.1"
+	}
+}
+#Bonifacio was son of Ingo 2, in year 1154 Ramon Berenguer IV, count of Barcelona, gives to Bonifacio the castle of Flix in Spain
+1000091078 = {
+	name="Bonifacio"
+	dynasty=1000035300 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091077
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+#Marchio, another son of Ingo 2, killed after being elected consul by peasants mobs in autumn 1164
+1000091079 = {
+	name="Marchio"
+	dynasty=1000035300 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091077
+	1111.1.1 = {
+		birth="1111.1.1"
+	}
+	1169.1.10 = {
+		death="1169.1.10"
+	}
+}
+#Jacopo, another son of Ingo 2, killed in 1169 during a street fight in Genova
+1000091080 = {
+	name="Jacopo"
+	dynasty=1000035300 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091077
+	1112.1.1 = {
+		birth="1112.1.1"
+	}
+	1169.1.1 = {
+		death="1169.1.1"
+	}
+}
+#Ugo, maybe he was a cousin of Ingo 2, he was Archbishop of genova from 1163 to his death in 1188
+1000091081 = {
+	name="Ugo"
+	dynasty=1000035300 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1188.1.1 = {
+		death="1188.1.1"
+	}
+}
+
+#Embriaci family, they were rulers of Gibelletto ("Giblet", "Gibelet" or "Jebail") in the county of Tripoli in Holy land
+#Guglielmo Embriaco, he arrived in Holy land in 1099, he died after 1110
+1000091082 = {
+	name="Guglielmo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1069.1.1 = {
+		birth="1069.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+#Ugo, son of Guglielmo 1 died in an unprecisate date before 1136, ruler of Gibelletto
+1000091083 = {
+	name="Ugo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091082
+	1089.1.1 = {
+		birth="1089.1.1"
+	}
+	1135.1.12 = {
+		death="1135.1.12"
+	}
+}
+#Guglielmo 2, son of Gugliemo 1, ruler of Gibelletto
+1000091084 = {
+	name="Guglielmo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091082
+	1091.1.1 = {
+		birth="1091.1.1"
+	}
+	1157.1.1 = {
+		death="1157.1.1"
+	}
+}
+#Bertrando, son of Guglielmo 2, ruler of Gibelletto
+1000091085 = {
+	name="Bertrando"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091084
+	1115.1.1 = {
+		birth="1115.1.1"
+	}
+	1162.1.1 = {
+		death="1162.1.1"
+	}
+}
+#Ugo 2, son of Guglielmo 2, lord of Gibelletto
+1000091086 = {
+	name="Ugo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091084
+	1122.1.1 = {
+		birth="1122.1.1"
+	}
+	1182.1.1 = {
+		death="1182.1.1"
+	}
+}
+#Ugo 3, son of Ugo 2, lord of Gibelletto, he had a daughter too, Plaisance
+1000091087 = {
+	name="Ugo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091086
+	1145.1.1 = {
+		birth="1145.1.1"
+	}
+	1197.1.5 = {
+		death="1197.1.5"
+	}
+}
+#Guido, son of Ugo 3, lord of Gibelletto, he had 2 daughters too, Maria and Agnese
+1000091088 = {
+	name="Guido"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091087
+	1197.1.1 = {
+		birth="1197.1.1"
+	}
+	1241.1.1 = {
+		death="1241.1.1"
+	}
+}
+#Raimondo, son of Guido
+1000091089 = {
+	name="Raimondo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091088
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1285.1.1 = {
+		death="1285.1.1"
+	}
+}
+#Bertrando, son of Guido
+1000091090 = {
+	name="Bertrando"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091088
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+#Enrico, son of Guido, lord of Gibelletto, he married Isabella of Ibelin in 1250, he had a daughter too, Maria
+1000091091 = {
+	name="Enrico"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091088
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1271.1.1 = {
+		death="1271.1.1"
+	}
+}
+#Baliano (he's orlando Bloom :-P), son of Enrico.
+1000091092 = {
+	name="Baliano"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091091
+	1257.1.1 = {
+		birth="1257.1.1"
+	}
+	1313.1.1 = {
+		death="1313.1.1"
+	}
+}
+#Baldovino, son of Enrico
+1000091093 = {
+	name="Baldovino"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091091
+	1253.1.1 = {
+		birth="1253.1.1"
+	}
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+#Giovanni, son of Enrico
+1000091094 = {
+	name="Giovanni"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091091
+	1255.1.1 = {
+		birth="1255.1.1"
+	}
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+#Guido 2, son of Enrico, lord of Gibelletto, he married Margherita de Grenier, daughter of Giuliano de grenier lord of Sidon, he had a daughter too, Maria
+1000091095 = {
+	name="Guido"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091091
+	1251.1.1 = {
+		birth="1251.1.1"
+	}
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+#Pietro, son of Guido 2, last lord of Gibelletto
+1000091096 = {
+	name="Pietro"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091095
+	1271.1.1 = {
+		birth="1271.1.1"
+	}
+	1341.1.1 = {
+		death="1341.1.1"
+	}
+}
+#Guglielmo, lord of Besmedin, son of Guglielmo 2, he originated another branch of the family
+1000091097 = {
+	name="Guglielmo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091084
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1190.1.1 = {
+		death="1190.1.1"
+	}
+}
+#Ugo, lord of Besmedin, son of Guglielmo, nephew of Guglielmo 2, he had a daughter too, Agnese
+1000091098 = {
+	name="Ugo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091097
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+#Raimondo, lord of Besmedin, son of Ugo, he had Ugo, Bertrando and Susanna who died young, Eschiva, Agnese and Maria as daughters
+1000091099 = {
+	name="Raimondo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091098
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1253.1.1 = {
+		death="1253.1.1"
+	}
+}
+#Giovanni 1, son of Raimondo, he had a daughter too, Maria (giving a name in medieval times was hard indeed :-P)
+1000091100 = {
+	name="Giovanni"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091099
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1270.1.1 = {
+		death="1270.1.1"
+	}
+}
+#Giovanni 2, son of Giovanni 1, no heirs
+1000091101 = {
+	name="Giovanni"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091100
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1315.1.1 = {
+		death="1315.1.1"
+	}
+}
+#Enrico, lord of Besmedin, son of raimondo, no heirs
+1000091102 = {
+	name="Enrico"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091099
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+#Gerardo, son of Ugo
+1000091103 = {
+	name="Gerardo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091098
+	1185.1.1 = {
+		birth="1185.1.1"
+	}
+	1225.1.1 = {
+		death="1225.1.1"
+	}
+}
+#Guglielmo 2, son of Ugo, he had Eudes, Gerardo, Eufemia, Agnese who died young, he had other 2 daughters Stefania and Maria (again :-P)
+1000091104 = {
+	name="Guglielmo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091098
+	1187.1.1 = {
+		birth="1187.1.1"
+	}
+	1243.1.1 = {
+		death="1243.1.1"
+	}
+}
+#Adamo, lord of Adelon, son of Ugo
+1000091105 = {
+	name="Adamo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091098
+	1182.1.1 = {
+		birth="1182.1.1"
+	}
+	1252.1.1 = {
+		death="1252.1.1"
+	}
+}
+#Giovanni 3, lord of Saint-Foucy, son of Guglielmo 2, he had 2 daughters Maria (...no comment) and Eschiva
+1000091106 = {
+	name="Giovanni"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091104
+	1217.1.1 = {
+		birth="1217.1.1"
+	}
+	1282.1.1 = {
+		death="1282.1.1"
+	}
+}
+#Guglielmo 3, son of Giovanni 3, no heirs
+1000091107 = {
+	name="Guglielmo"
+	dynasty=1000035301 #id taken from our ligurian dynasties#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091106
+	1247.1.1 = {
+		birth="1247.1.1"
+	}
+	1317.1.1 = {
+		death="1317.1.1"
+	}
+}
+#Doria family
+#Arduino the first acknowledge Doria, he was a frankish lord who married Oria Della Volta (AKA Cattaneo family) 
+1000091140 = {
+	name="Arduino"
+	dynasty=13041 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="frankish"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	941.1.1 = {
+		birth="941.1.1"
+	}
+	1001.1.1 = {
+		death="1001.1.1"
+	}
+}
+#He was governor of March of Ancona, ducky of Spoleto and Romagna for King Manfred of Sicily
+1000091108 = {
+	name="Percivalle"
+	dynasty=13041 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1264.1.1 = {
+		death="1264.1.1"
+	}
+}
+#Nicolò Doria, unknown dates of birth and death, he was father of Branca Doria who later ruled sardinia
+1000091109 = {
+	name="Nicolò"
+	dynasty=13041 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1265.1.1 = {
+		death="1265.1.1"
+	}
+}
+#Branca Doria, he controlled Alghero, was assassinated
+1000091110 = {
+	name="Branca"
+	dynasty=13041 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091109
+	1233.1.1 = {
+		birth="1233.1.1"
+	}
+	1325.1.1 = {
+		death="1325.1.1"
+	}
+}
+#Bernabò Doria, son of Branca, probably he was assassinated with his father Branca, he was lord of Sassello and Logoduro
+1000091111 = {
+	name="Bernabò"
+	dynasty=13041 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091110
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1325.1.1 = {
+		death="1325.1.1"
+	}
+}
+#Brancaleone Doria, son of Bernabò
+1000091112 = {
+	name="Brancaleone"
+	dynasty=13041 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091111
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1355.1.1 = {
+		death="1355.1.1"
+	}
+}
+#Brancaleone 2, bastard son of Brancaleone, husband of Eleonora d'Arborea, he was killed some months before the battle of Sanluri
+1000091113 = {
+	name="Brancaleone"
+	dynasty=13041 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="bastard"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        father=1000091112
+	1337.1.1 = {
+		birth="1337.1.1"
+	}
+	1409.4.30 = {
+		death="1409.4.30"
+	}
+}
+#Lamba Doria, genoese admiral, he fought against venice and won the battle of Curzola in 1298, taking captives in the same battle Marco Polo and the venetian admiral Andrea Dandolo
+1000091114 = {
+	name="Lamba"
+	dynasty=13041 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1323.1.1 = {
+		death="1323.1.1"
+	}
+}
+#Oberto Doria, brother of Lamba, genoese admiral, he fought and won against Pisa at the battle of Meloria, he was the diarch ruler of Genova with Oberto Spinola
+1000091115 = {
+	name="Oberto"
+	dynasty=13041 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1295.1.1 = {
+		death="1295.1.1"
+	}
+}
+
+#Cybo family, the most notable member of this family was Giovanni Battista Cybo, most known as pope Innocenzo VIII, they became important in a period well after CK2 timeframe, however they were present in the timeframe, leave them as casual generated characters#
+
+#Ceva family, just one member, they derived from Del Vasto family, unfortunately no date of birth or death, he was marquise of Ceva, his father was born in 1060 and died in 1130, so I ipotize that he was born around 1090
+1000091141 = {
+	name="Anselmo"
+	dynasty=8703 #id taken from vanilla file#
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="ligurian"
+	add_trait="skilled_tactician"
+	add_trait="proud"
+        1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

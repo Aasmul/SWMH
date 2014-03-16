@@ -1,0 +1,17 @@
+# 1507 - Marya
+
+# County Title
+title = c_marya
+
+# Settlements
+max_settlements = 2
+b_marya = castle
+b_bogos = city
+
+# Misc
+culture = beja
+religion = miaphysite
+
+# History
+
+  

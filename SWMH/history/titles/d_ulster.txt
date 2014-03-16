@@ -1,0 +1,90 @@
+644.1.1={
+	holder = 6190 # Máel Cobo
+}
+647.1.1={
+	holder = 6191 # Blathmac
+}
+692.1.1={
+	holder = 6193 # Bécc Bairrche
+}
+708.1.1={
+	holder = 6194 # Aed Róin
+}
+750.1.1={
+	holder = 6195 # Fiachnae
+}
+789.1.1={
+	holder = 1000226437 # Tommaltach Dál nAraidi
+}
+790.1.1={
+	holder = 6196 # Eochaid
+}
+857.1.1={
+	holder = 1000226434 # Cathalan
+}
+871.1.1={
+	holder = 1000226435 # Lethlobar Dál nAraidi
+}
+882.1.1={
+	holder = 6198 # Eochocán
+}
+898.1.1={
+	holder = 6199 # Áed
+}
+937.1.1={
+	holder = 6200 # Matudán
+}
+950.1.1={
+	holder = 6201 # Ardgal
+}
+972.1.1={
+	holder = 6202 # Eochaid
+}
+1016.1.1={
+	holder = 6203 # Niall
+}
+1065.1.1={
+	holder = 6180 # Cú Uladh
+}
+1071.1.1={
+	holder = 6205
+}
+1091.1.1={
+	holder = 6206
+}
+1114.1.1={
+	holder = 7280
+}
+1122.1.1={
+	holder = 7283
+}
+1127.1.1={
+	holder = 7282
+}
+1166.1.1={
+	holder = 7281
+}
+1176.1.1={
+	holder = 214000
+}
+1199.1.1={
+	liege="d_ulster"
+}
+1199.1.1={
+	holder = 204022
+}
+1243.1.1={
+	holder = 454152
+}
+1271.12.28=
+{
+	holder = 454106
+}
+1329.7.29={
+	holder = 454613
+}
+1333.6.6={
+	holder=454614
+}
+
+

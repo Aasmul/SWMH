@@ -1,0 +1,23 @@
+# 1035 - Hohenloe
+
+# County Title
+title = c_hohenloe
+
+# Settlements
+max_settlements = 4
+
+b_hochlach = castle
+b_uffenheim = city
+
+#b_waldenburg = castle
+#b_neustein = castle
+#b_mockmuhl = city
+#b_weikersheim = temple
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

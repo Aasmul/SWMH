@@ -1,0 +1,12 @@
+1066.10.14 = {
+	holder = 1000227352 # Nigel d'Oilly
+}
+1126.1.1 = {
+	holder = 1000227354 # Robert II d'Oilly
+}
+1142.1.1 = {
+	holder = 1000227356 # Henry d'Oilly
+}
+1219.1.1 = {
+	holder = 0 #?
+}

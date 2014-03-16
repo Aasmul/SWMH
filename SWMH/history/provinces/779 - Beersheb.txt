@@ -1,0 +1,21 @@
+# 779 - Beersheb #Nablus
+
+# County Title
+title = c_beersheb
+
+# Settlements
+max_settlements = 4
+
+b_bethsan = castle
+b_nablus = city
+b_jericho = temple
+#b_syrsebastia = temple
+#b_lafeve = castle
+#b_aynjalut = city
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

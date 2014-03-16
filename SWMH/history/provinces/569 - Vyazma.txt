@@ -1,0 +1,20 @@
+# 569 - Vyazma
+
+# County Title
+title = c_vyazma
+
+# Settlements
+max_settlements = 4
+b_vyazma = castle
+b_rzhev = city
+#b_verigino = temple #Formin
+#b_sychyovka = city
+#b_oscen = castle
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+

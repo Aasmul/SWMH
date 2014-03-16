@@ -1,0 +1,68 @@
+860.1.1={
+	liege="d_sjaelland"
+}
+860.1.1={
+	holder = 1000144476
+}
+892.1.1={
+	holder = 1000144492 #Toke Jarl of Fyn
+}
+917.1.1={
+	liege = "k_denmark"
+}
+940.1.1={
+	holder = 1000144492 #Palner Tokesen Jarl of Fyn
+}
+964.1.1={
+	holder = 1000144498 # Toke Palnersen aka Palner-Toke, Jarl of Fyn
+}
+990.1.1={
+	holder=101538 # Toke Trylle
+}
+1047.10.25={
+	liege = "d_sjaelland"
+	holder=201530 # Skjalm Hvide
+}
+1113.1.1={
+	liege = "k_denmark"
+	holder=201532 # Ebbe Skjalmsen
+}
+1150.1.26={
+	holder=201534 # Sune Ebbesen
+}
+1186.1.26={
+	holder=201537 # Ebbe Sunesøn
+}
+1203.1.2={
+	holder=201501 # Valdemar Sejr
+}
+1241.3.28={
+	holder=451510 # Erik Plogpenning
+}
+1250.8.9={
+	holder=451524 # Abel
+}
+1252.6.29={
+	holder=451513 # Christoffer I
+}
+1259.5.29={
+	holder=451514 # Erik Klipping
+}
+1286.11.22={
+	holder=451515 # Erik Menved
+}
+1319.11.13={
+	holder=451520 # Christoffer II
+}
+1332.8.2={
+	holder=451500 # Valdemar Atterdag
+}
+
+1337.1.1=
+{
+liege="d_holstein"
+}
+1337.1.1=
+{
+holder=451940
+}

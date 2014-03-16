@@ -1,0 +1,28 @@
+# 458 - Istria
+
+# County Title
+title = c_istria
+
+# Settlements
+max_settlements = 3
+
+b_mitterburg = castle
+#b_brsec = castle
+#b_pinguente = city
+#b_pietrapelosa = castle
+b_motovun = city
+#b_lupoglav = castle
+b_pican = temple
+#b_labin = city
+
+
+
+
+# Misc
+culture = karantanci
+religion = catholic
+
+# History
+
+1110.1.1 = { trade_post = b_contarini }
+

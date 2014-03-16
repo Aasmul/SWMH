@@ -1,0 +1,21 @@
+# 983 - Ely
+
+# County Title
+title = c_ely
+
+# Settlements
+max_settlements = 3
+
+b_ely = temple
+b_wisbech = castle
+#b_thorney = temple
+b_littleport = city# 17.000 Eels a year!
+#b_chatteris = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1100.11.11 = { culture = english }
+ 

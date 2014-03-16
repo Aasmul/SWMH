@@ -1,0 +1,24 @@
+# 324 - Corsica
+
+# County Title
+title = c_corsica
+
+# Settlements
+max_settlements = 4
+b_cinarca = castle
+#b_ajaccio = city
+b_bonifacio = city
+b_mariani = temple
+#b_portevecchio = city
+#b_capodibolo = castle
+#b_sartene = city
+
+
+# Misc
+culture = corsican
+religion = catholic
+terrain = mountain
+
+# History
+
+1077.1.1 = { trade_post = b_spinola }

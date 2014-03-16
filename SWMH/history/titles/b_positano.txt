@@ -1,0 +1,8 @@
+#CJL78 - to simulate the Greek Dukes of Amalfi's independence from Salerno and relationship with Napoli
+1066.1.1={
+	holder=0
+	liege=d_napoli
+}
+1074.1.1={
+	liege=c_amalfi
+}

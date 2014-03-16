@@ -1,0 +1,27 @@
+# 535 - Vladimir Volynsky
+
+# County Title
+title = c_vladimir_volynsky
+
+# Settlements
+max_settlements = 6
+
+b_vladimirvolynsky = castle
+b_lutsk = temple
+b_staryichortoryisk = castle
+b_ustyluh = temple
+
+#b_luboml = castle
+#b_turiisk = city
+#b_stepan = city
+#b_ivanichy = castle
+#b_kaminkashyrskyi = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+
+1187.1.1 = { b_luboml = city }

@@ -1,0 +1,22 @@
+# 215 - Agen
+
+# County Title
+title = c_agen
+
+# Settlements
+max_settlements = 4
+b_penne = castle
+b_agen = temple
+b_casseneuil = city
+#b_moissac = temple
+#b_luzech = castle
+#b_abbayedeysses = temple
+
+
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History

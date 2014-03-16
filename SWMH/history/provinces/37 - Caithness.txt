@@ -1,0 +1,19 @@
+# 37 - Caithness
+
+# County Title
+title = c_caithness
+
+# Settlements
+max_settlements = 4
+b_dornoch = castle
+b_durness = temple
+#b_dunrobin = castle
+#b_golspie = city
+
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History
+

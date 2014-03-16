@@ -1,0 +1,25 @@
+# 1141 - Ventimiglia
+
+# County Title
+title = c_ventimiglia
+
+# Settlements
+max_settlements = 4
+
+b_castellodellalucertola = castle
+b_ventimiglia = city
+
+#b_apricale = city
+#b_monaco = castle
+#b_mentone = city
+#b_sanremo = temple
+#b_campogrosso = castle
+#b_roquebrunecapmartin = city
+#b_castellodidolceacqua = castle
+#b_castelappio = castle
+
+# Misc
+culture = ligurian
+religion = catholic
+
+# History

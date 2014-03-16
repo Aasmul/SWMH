@@ -1,0 +1,26 @@
+# 568 - Smolensk
+
+# County Title
+title = c_smolensk
+
+# Settlements
+max_settlements = 5
+
+b_gnezdovo = castle #Varagian fortress and tradestation, likely known as Sviecesko at the time. 
+b_smolensk = city
+#b_dukhovshchina = temple
+b_dorogobuzh = castle
+
+#b_kasplya = castle
+#b_demidov = city
+#b_zhichitsy = castle
+#b_verzavsk = temple
+#b_belyy = city
+#b_lucin = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

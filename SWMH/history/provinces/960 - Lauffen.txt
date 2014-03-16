@@ -1,0 +1,21 @@
+# 960 - Lauffen
+
+# County Title
+title = c_lauffen
+
+# Settlements
+max_settlements = 4
+
+b_lauffen = castle
+#b_eberbach = castle
+b_mosbach = temple
+b_darmstadt = city
+#b_marksburg = castle
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

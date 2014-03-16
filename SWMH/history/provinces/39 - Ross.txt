@@ -1,0 +1,18 @@
+# 39 - Ross
+
+# County Title
+title = c_ross
+
+# Settlements
+max_settlements = 4
+b_tain = castle
+b_rosemarkie = temple
+#b_dingwall = castle
+#b_fortrose = temple
+
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History

@@ -1,0 +1,25 @@
+# 1203 - Guipuzcoa
+
+# County Title
+title = c_guipuzcoa
+
+# Settlements
+max_settlements = 4
+b_irun = castle
+b_eibar = city
+b_sansebastian = temple
+#b_tolosa = city
+#b_ordicia = castle
+#b_onyate = city
+
+# Misc
+culture = basque
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_irun = ca_town_1
+	b_irun = ca_keep_1
+	b_irun = ca_wall_1
+}

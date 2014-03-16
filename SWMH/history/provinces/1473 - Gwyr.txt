@@ -1,0 +1,17 @@
+# 1473 - Gwyr
+
+# County Title
+title = c_gwyr
+# Settlements
+max_settlements = 3
+b_loughor = castle
+b_swansea = city
+#b_margam = temple
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History

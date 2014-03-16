@@ -1,0 +1,14 @@
+# 1416 - Fuerteventura
+
+# County Title
+title = c_fuerteventura
+# Settlements
+max_settlements = 1
+b_fuerteventura = castle
+
+
+# Misc
+culture = zanata
+religion = west_african_pagan
+
+# History

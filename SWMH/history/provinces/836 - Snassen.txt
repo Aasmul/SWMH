@@ -1,0 +1,21 @@
+# 836 - Snassen
+
+# County Title
+title = c_snassen
+
+# Settlements
+max_settlements = 3
+
+b_tanas = castle
+b_sidiakacha = temple
+
+#b_tendrara = city
+
+#b_ahfir = castle
+
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

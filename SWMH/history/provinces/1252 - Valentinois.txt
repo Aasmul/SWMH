@@ -1,0 +1,30 @@
+# 1252 - Valentinois
+
+# County Title
+title = c_valentinois
+
+# Settlements
+max_settlements = 4
+
+b_chateaudesadhemar = castle
+b_valence = temple
+b_die = city
+#b_montelimar = city
+#b_romans = temple
+#b_valreas = city
+#b_stantoine = temple
+#b_chamaret = castle
+#b_chateaudecrest = castle
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History
+
+1297.1.1 = { b_stantoine = temple }
+
+
+
+
+

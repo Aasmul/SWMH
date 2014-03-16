@@ -1,0 +1,19 @@
+# 1490 - Soba
+
+# County Title
+title = c_soba
+
+# Settlements
+max_settlements = 4
+b_soba = castle
+b_altekaina = temple
+
+#b_rufaa = city
+#b_arbagi = castle
+
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

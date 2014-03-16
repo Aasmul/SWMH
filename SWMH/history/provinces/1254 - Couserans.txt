@@ -1,0 +1,20 @@
+# 1254 - Couserans
+
+# County Title
+title = c_couserans
+
+# Settlements
+max_settlements = 3
+
+b_chateaumirabat = castle
+b_saintlizier = temple
+b_chateaudeseix = city
+#b_saintgirons = city
+
+
+
+# Misc
+religion = catholic
+culture = occitan
+# History 
+

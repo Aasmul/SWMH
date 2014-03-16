@@ -1,0 +1,27 @@
+# 1088 - Vanand
+
+# County Title
+title = c_vanand
+
+# Settlements
+ max_settlements = 5
+b_kars = castle
+b_kaghzvan = city
+b_surparakelots = temple
+#b_zarishat = castle
+#b_tekor = castle
+#b_kechran = castle
+#b_sarighamish = castle
+#b_surpstephanos = temple
+ 
+
+# Misc
+culture = armenian
+religion = miaphysite
+
+# History
+
+1320.1.1 = { 
+	culture = kurdish 
+	religion = sunni 
+}

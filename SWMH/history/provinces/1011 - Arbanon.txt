@@ -1,0 +1,22 @@
+# 1011 - Arbanon
+
+# County Title
+title = c_arbanon
+
+# Settlements
+max_settlements = 4
+
+b_kruje = castle
+b_petrela = city
+b_berat = castle
+
+#b_devol = castle
+#b_rubik = temple
+
+
+# Misc
+culture = arberian
+religion = orthodox
+terrain = mountain
+
+# History

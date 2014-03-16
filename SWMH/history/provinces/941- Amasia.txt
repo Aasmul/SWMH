@@ -1,0 +1,26 @@
+# 941 - Amasia
+
+# County Title
+title = c_amasia
+
+# Settlements
+max_settlements = 3
+
+b_phadisane = castle
+b_amasia = city
+#b_eupatoria = caslte
+
+
+
+# Misc
+culture = greek
+religion = orthodox
+terrain = mountain
+
+# History
+
+
+
+1214.1.1 = { culture = turkish }
+1214.1.1 = { religion = sunni }
+1291.1.1 = { b_dazimon = castle } 

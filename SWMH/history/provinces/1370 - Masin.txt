@@ -1,0 +1,20 @@
+# 1370 - Masin
+
+# County Title
+title = c_masin
+
+# Settlements
+max_settlements = 1
+b_kedama = castle
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History
+
+#berber colonization
+980.1.1 = { culture = zanata }
+
+#islamization
+1057.1.1 = { religion = sunni }

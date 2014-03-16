@@ -1,0 +1,26 @@
+6828 = {
+	name="Miemo"
+	religion="finnish_pagan"
+	culture="vepsian"
+	dynasty=1029143
+	add_trait=content
+	837.1.1={
+		birth=yes
+	}
+	885.1.1={
+		death=yes
+	}
+}
+159715 = {
+	name="Karhu"
+	religion="finnish_pagan"
+	culture="vepsian"
+	dynasty=1029144
+	trait="tough_soldier"
+	834.1.1={
+		birth=yes
+	}
+	925.1.1={
+		death=yes
+	}
+}

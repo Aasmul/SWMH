@@ -1,0 +1,15 @@
+# 1495 - Ghazali
+
+# County Title
+title = c_ghazali
+
+# Settlements
+max_settlements = 1
+
+b_ghazali = temple # Miaphysite Holy Site
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

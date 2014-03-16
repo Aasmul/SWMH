@@ -1,0 +1,34 @@
+# 54 - Isle of Man
+
+# County Title
+title = c_isle_of_man
+
+# Settlements
+max_settlements = 4
+b_rushen = castle
+b_peel = temple
+#b_douglas = city
+#b_maughold = castle
+
+
+# Misc
+culture = irish
+religion = catholic
+terrain = hills
+
+# History
+867.1.1 = {
+	b_rushen = ca_shipyard_1
+}
+1047.10.25 = { culture = norsegaelic }
+1066.1.1 = { 
+	b_rushen = ca_keep_1
+	b_rushen = ca_training_grounds_1
+	b_rushen = ca_stable_1
+	b_rushen = ca_stable_2
+	b_rushen = ca_wall_1
+	b_rushen = ca_wall_2
+}
+
+
+

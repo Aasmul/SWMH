@@ -1,0 +1,26 @@
+# 539 - Marmaros
+
+# County Title
+title = c_marmaros
+
+# Settlements
+max_settlements = 4
+
+b_veszpramvar = castle
+b_zirc = city
+b_bakonybel = temple
+#b_ugodvar = castle
+#b_csesznek = castle
+#b_dobronte = city
+#b_vazsonyko = castle
+#b_somlovar = castle
+#b_belhungary = temple
+
+# Misc
+culture = moravian
+religion = catholic 
+
+# History
+950.1.1 = { culture = hungarian }
+
+

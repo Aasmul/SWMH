@@ -1,0 +1,24 @@
+# 124 - Pfalz
+
+# County Title
+title = c_pfalz
+
+# Settlements
+max_settlements = 5
+b_kaiserslautern = castle
+b_worms = temple
+b_heidelberg = city
+#b_hagenau = city
+b_stahleck = castle
+#b_trifels = castle
+#b_speyer = temple
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+

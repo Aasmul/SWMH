@@ -1,0 +1,21 @@
+# 1218 - Sebastia
+
+# County Title
+title = c_sebastia
+
+# Settlements
+max_settlements = 3
+b_dazimon = castle
+b_sebastia = city
+b_tephrice = temple
+
+# Misc
+culture = greek
+religion = miaphysite
+
+# History
+1091.8.26 = { 
+	culture = kurdish
+	religion = sunni 
+}
+1190.1.1 = { culture = turkish }

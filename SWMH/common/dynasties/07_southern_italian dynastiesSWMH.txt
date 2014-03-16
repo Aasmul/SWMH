@@ -1,0 +1,68 @@
+######################################
+#New southern_italian dynasties
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1000035431-1000035480
+######################################
+
+1000035431 = {
+name="Ruffo"
+ culture = southern_italian
+}
+1000035432 = {
+name="Castriota"
+ culture = southern_italian
+}
+1000035433 = {
+name="D'Amico"
+ culture = southern_italian
+}
+1000035434 = {
+name="Dé Monti"
+ culture = southern_italian
+}
+1000035435 = {
+name="Ligorio"
+ culture = southern_italian
+}
+1000035436 = {
+name="Longo"
+ culture = southern_italian
+}
+1000035437 = {
+name="Paladini"
+ culture = southern_italian
+}
+1000035438 = {
+name="Pentasuglia"
+ culture = southern_italian
+}
+1000035439 = {
+name="Falluca"
+ culture = southern_italian
+}
+1000035440 = {
+name="Borrello"
+ culture = southern_italian
+}
+1000035441 = {
+name="Pignatelli"
+ culture = southern_italian
+}
+
+
+
+
+
+
+######################################
+#Generic dynasites
+#Range 1000035481-1000035500
+######################################
+
+
+
+

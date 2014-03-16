@@ -1,0 +1,35 @@
+# 232 - Monferrato
+
+# County Title
+title = c_monferrato
+
+# Settlements
+max_settlements = 6
+
+b_castellodigabiano = castle
+b_chivasso = castle
+b_asti = temple
+b_acqui = city
+
+#b_alba = city
+#b_casale = city
+#b_canelli = city
+#b_nizzamonferrato = temple
+#b_alessandria = temple
+#b_moncalvopiemonte = castle
+#b_bergamasco = castle
+#b_castellodeipaleologi = castle
+#b_caminopiemonte = castle
+#b_cremolino = castle
+#b_castelloditorreratti = castle
+#b_morbello = castle
+#b_orsarabormida = castle
+#b_neive = temple
+#b_sandamianodasti = city
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

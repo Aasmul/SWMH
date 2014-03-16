@@ -1,0 +1,20 @@
+# 781 - Darum # Gaza
+
+# County Title
+title = c_darum
+
+# Settlements
+max_settlements = 4
+b_darum = castle
+b_gaza = city
+b_radwan = temple
+#b_salqah = castle
+#b_abasan = temple
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+1259.1.1 = { trade_post = b_morosini }

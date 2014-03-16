@@ -1,0 +1,22 @@
+# 793 - Makuria
+
+# County Title
+title = c_makuria
+
+# Settlements
+max_settlements = 6
+b_meroe = castle
+b_nuri = temple
+b_kareima = city
+b_djebel_barka = temple
+
+#b_korti = castle
+#b_tankasi = castle
+
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History
+1337.1.1 = { b_korti = castle }

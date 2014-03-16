@@ -1,0 +1,21 @@
+# 462 - Krizevci # Vukova
+
+# County Title
+title = c_krizevci
+
+# Settlements
+max_settlements = 4
+
+b_vukovar = castle
+b_ilok = castle
+b_osijek = city
+#b_dakovo = temple
+#b_nasice = city
+#b_gorjani = castle
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History
+1250.1.1 = { b_dakovo = temple }

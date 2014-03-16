@@ -1,0 +1,26 @@
+# 943 - Knin
+
+# County Title
+title = c_knin
+
+# Settlements
+max_settlements = 4
+
+b_knin = castle
+b_cucevo = city
+b_necven = castle
+#b_gradina_drnis = castle
+#b_kamicak = castle
+
+# Misc
+culture = croatian
+religion = orthodox
+
+# History
+900.1.1 = {religion = catholic }
+
+1150.1.1 = {b_necven = castle }
+1200.1.1 = {b_cucevo = city }
+
+
+

@@ -1,0 +1,85 @@
+853.1.1={
+	liege="d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+866.7.2={
+	holder = 168041
+}
+#d'Bellême 
+958.1.1={
+	liege="d_normandy"
+	holder = 1000227375 # Ives d'Bellême, seignur de Bellême ?-1005.
+}
+1005.1.1={
+	holder = 1000227377 # William d'Bellême, seignur de Bellême 1005-1028.
+}
+1028.1.1={
+	holder = 1000227385 # Robert d'Bellême, seignur de Bellême 1028-1035.
+}
+1035.1.1={
+	holder = 448 # William II d'Bellême, seignur de Bellême 1035-1047ish and again 1049ish-1052.
+}
+1047.1.1={
+	holder = 1000227390 # Arnulf d'Bellême, Segniur de Belleme 1147ish-1149ish
+}
+1049.1.1={
+	holder = 448 # William II d'Bellême, seignur de Bellême 1035-1047ish and again 1049ish-1052.
+}
+1052.1.1={
+	holder= 152 #Roger II de Montgomerie comte de Alencon 1052-1079ish? or were it technically Maud that held the honour?
+}
+1079.1.1={
+	holder = 41004 #Robert de Bellême 3rd Earl of Shrewsbury, Segniur de Bellême and segniur de Alencon 1079ish-1119
+}
+1119.1.1={
+	holder = 168182 # William de Bellême, de Segniur de Alencon 1119-1171 and count of Pontheiu 1106-1126
+}
+1171.6.30={
+	holder = 1000227393 #John de Bellême, comte de Alencon 1171-1191
+}
+1191.2.14={
+	holder = 1000227394 #John II de Bellême, comte de Alencon 1191-1191
+}
+1191.5.14={
+	holder = 1000227395 #Robert de Bellême, comte de Alencon 1191-1217
+}
+# Robert had been allowed too keep his land following the French takeover(by beeing flexible....), but following his death the land was claimed by the french crown.
+#Direct Capetians
+1217.9.8={
+	holder=205506 # Philippe I Auguste
+}
+1223.7.14={
+	holder = 455402 #Louis I le Lion
+}
+1226.11.8={
+	holder = 455404 #Louis II (saint Louis)
+}
+1270.8.25={
+	holder = 455528 # Philippe II le Hardi
+}
+1285.10.5={
+	holder = 455526 # Philippe III le Bel
+}
+1314.11.29={
+	holder = 455836 # Louis III le Hutin
+}
+1316.6.5={ #in fact 1316.11.5 as a posthumus heir, but ck2 can't handle interregnum
+	holder= 70137 # Jean II le Posthume
+}
+1316.11.19={ #corrected from 1316.6.5
+	holder= 455509 # Philippe IV le Long, son of 455526.
+}
+1322.1.3={
+	holder = 455414 # Charles I le Bel
+}
+
+#House of Valois
+1328.2.1={
+	holder=455500 # Philippe V
+}
+
+1332.1.1={
+	holder = 455502 #Jean III
+}

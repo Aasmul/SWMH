@@ -1,0 +1,27 @@
+# 1003 - Primorje
+
+# County Title
+title = c_primorje
+
+# Settlements
+max_settlements = 4
+
+b_kraljic_krajina = castle
+b_bar = temple
+#b_ulcinj = castle
+#b_budva = city
+b_kotor = city
+#b_risan = castle
+#b_perast = city
+#b_herceg_novi = city
+
+
+# Misc
+culture = serbian
+religion = orthodox
+
+# History
+
+1066.1.1 = { remove_settlement = b_kraljic_krajina } # Old Dukjlan court abadoned
+1066.1.1 = { b_ulcinj = castle}
+1066.1.1 = { capital = b_ulcinj }

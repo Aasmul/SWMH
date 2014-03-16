@@ -1,0 +1,26 @@
+# 1303 - Neumark
+
+# County Title
+title = c_neumark
+
+# Settlements
+max_settlements = 4
+
+b_zehden = castle
+b_konigsbergneumark = city
+b_soldin = castle
+#b_arnswalde = city
+#b_reetz = temple
+#b_friedeberg city
+#b_dramburg = city
+#b_schiavelbein = castle
+#b_oderberg = castle
+
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+1250.1.1 = { religion = catholic }
+1250.1.1 = { culture = german }

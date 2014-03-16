@@ -1,0 +1,30 @@
+# 474 - Cephalonia
+
+# County Title
+title = c_cephalonia
+
+# Settlements
+max_settlements = 3
+
+b_kefalonia = castle
+b_lefkas = temple
+
+#b_zante = castle
+#b_paxos = castle
+#b_ithaca = castle
+#b_cerigo = castle
+
+# Misc
+culture = greek
+religion = orthodox
+terrain = mountain
+
+# History
+
+
+#foundation of the bishopric of Kefalonia
+
+
+1207.1.1 = { religion = catholic }
+1207.1.1 = { culture = italian }
+

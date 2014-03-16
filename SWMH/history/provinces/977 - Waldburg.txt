@@ -1,0 +1,26 @@
+# 977 - Waldburg
+
+# County Title
+title = c_waldburg
+
+# Settlements
+max_settlements = 3
+
+b_waldburg = castle
+b_ravensburg = city
+#b_biberach = temple
+#b_sanktgeorgen = temple #Sankt Georgen
+#b_schussenried = temple
+#b_wangen = city
+#b_isny = city
+#b_leutkirch = city
+#b_zeil = castle
+#b_trauchburg = castle 
+#b_marstetten = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

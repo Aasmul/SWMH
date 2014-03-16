@@ -1,0 +1,16 @@
+# 1397 - El Golea
+
+# County Title
+title = c_elgolea
+
+# Settlements
+max_settlements = 1
+b_elgolea = city
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+

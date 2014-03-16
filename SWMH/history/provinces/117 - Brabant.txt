@@ -1,0 +1,27 @@
+# 117 - Brabant
+
+# County Title
+title = c_brabant
+
+# Settlements
+max_settlements = 5
+b_leuven = castle
+b_tienen = city
+b_aarschot = castle
+
+
+#b_horstcastle = castle
+#b_diestcity = city
+#b_bonletz = castle
+#b_dongleberg = castle
+#b_gembloux = temple
+#b_nivelles = temple
+#b_herstal = castle
+#b_chatelet = castle
+
+
+# Misc
+culture = dutch
+religion = catholic
+
+# History

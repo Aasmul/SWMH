@@ -1,0 +1,20 @@
+# 1511 - Lasta
+
+# County Title
+title = c_lasta
+
+# Settlements
+max_settlements = 4
+b_kubar = castle
+b_debredamo = temple
+b_bugena = city
+
+#b_sekota = castle
+
+# Misc
+culture = ethiopian
+religion = miaphysite
+
+# History
+
+  

@@ -1,0 +1,78 @@
+#1000144530 - 1000144546
+#free - free
+
+
+1000144530 = {
+	name="War Ndyabe"
+	dynasty=1000053580
+	religion="sunni"
+	culture="wolof"
+	1001.1.1={
+		birth="1001.1.1"
+	}
+	1040.5.1={
+		death="1040.5.1"
+	}
+}
+1000144531 = {
+	name="Labi"
+	dynasty=1000053580
+	religion="sunni"
+	culture="wolof"
+	father=1000144530
+	1031.12.12={
+		birth="1031.12.12"
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+1000144532 = {
+	name="Ndyabe"
+	dynasty=1000053580
+	religion="west_african_pagan"
+	culture="wolof"
+	838.12.12={
+		birth="838.12.12"
+	}
+	886.1.1={
+		death="886.1.1"
+	}
+}
+
+1000144540 = {
+	name="Ndyay"
+	dynasty=1000053581
+	religion="west_african_pagan"
+	culture="wolof"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1098.1.1={
+		death="1098.1.1"
+	}
+}
+1000144545 = {
+	name="Lamane"
+	dynasty=1000053582
+	religion="sunni"
+	culture="wolof"
+	1049.1.1={
+		birth="1049.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+1000144546 = {
+	name="Labi"
+	dynasty=1000053582
+	religion="west_african_pagan"
+	culture="wolof"
+	849.1.1={
+		birth="849.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}

@@ -1,0 +1,23 @@
+# 838 - El Rif
+
+# County Title
+title = c_el_rif
+
+# Settlements
+max_settlements = 3
+
+b_taza = castle
+b_ketama = temple
+
+#b_saka = city
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+
+# History
+
+
+
+

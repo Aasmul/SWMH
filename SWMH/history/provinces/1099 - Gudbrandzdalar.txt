@@ -1,0 +1,25 @@
+# 1099 - Gudbrandzdalar
+
+# County Title
+title = c_gudbrandzdalar
+
+# Settlements
+max_settlements = 3
+
+b_hundorp = castle # Hundþorp
+#b_lom = temple # Lóm
+b_dovre = castle # Dofrar
+#b_vinstra = city # Liðstaðir
+#b_otta = city # Breiðin
+#b_einbugga = city # Einbú
+#b_lesja = city # Lesjar
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History 
+1022.1.1 = { b_lom = temple }
+1047.10.25 = { culture = norwegian } 
+1130.1.1 = { religion = catholic }

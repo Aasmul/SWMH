@@ -1,0 +1,21 @@
+# 951 - Schwerin
+
+# County Title
+title = c_schwerin
+
+# Settlements
+max_settlements = 4
+
+b_boizenburg = castle
+b_schwerin = temple
+#b_malchow = city
+#b_parchim = castle
+#b_hagenow = city
+
+
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+

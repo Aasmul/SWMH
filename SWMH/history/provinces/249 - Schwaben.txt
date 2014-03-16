@@ -1,0 +1,27 @@
+# 249 - Schwaben
+
+# County Title
+title = c_schwaben
+
+
+# Settlements
+max_settlements = 4
+
+b_montfort = castle
+b_bregenz = city
+b_lindau = temple
+#b_vaduz = castle
+#b_dornbirn = city
+#b_sonnenberg_montfort = castle
+#b_langenargen = city
+#b_feldkirch = city
+#b_rankweil = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+#800.1.1 = { name = "Bregenz" }
+#1000.1.1 = { name = "Montfort" }

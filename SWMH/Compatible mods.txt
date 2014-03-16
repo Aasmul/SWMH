@@ -1,0 +1,56 @@
+We highly recomend taking advantage of Paradoxes awesome modular modsystem too tailor your own game experince. 
+
+Compatible mods we highly recomend giving a go(please check the mods themselves for current compability of versions. Version changes/updates can take a lot of time and compabilty might therefor not match 100% with this list at the time of reading):
+
+Armories ARKO Pack by Arko. A wonderfully versatile coa mod, adding dynastic, entity and random coa(if you are playing in or near the islamic part of the the map, you got to run this mod^^) 
+
+Project Balance by Meneth. Get your historical balance fix with Meneth's minimalistic yet extremely comprehensive balance tuning.
+
+Vanilla Immersion, Events, and Traits by cybrxkhan. Events and flavour extravaganza.
+The Imersion module is not yet compatible(could be soon though so keep an eye on it^^), but the others should work seamlesly 
+
+Culturally different province icons by Vipe1. Finding vanilla to bland? then Vipe1 got a tasty way of spiceing up your holdings.
+
+Jure uxuris by Damocles. Your titled wife don't know whats good for her? Then there might be ways of dealing with it....
+
+High res Mountain Mod by Fishman786 Getting slightly nauseous by those mountains? Then Fishman786 got a nice cure for you.
+
+Better looking Garbs by Pnutmaster. Because apperence matters.
+
+Compatch of chatnoir17's Köppen Climate Classification for CK2 and SWMH 2.811 by Vipe1. Too hot or too cold?
+
+Additional Objectives 2.0 by ZachPruckowski.
+
+Culturally different citites by Velho e Bom Joe. Expand your archetectural horizon.
+
+Syren's Nicknames.You've guessed it^^
+
+#### Usually compatible mods that haven't been updated to latest CK2 patch yet or for other reason isn't compatible right now.
+
+NBRT+ by EOOQE. Grapichal enhancment for the map connoisseur. Do your eyes a favor and let EOOQE's border and texture magic give them a respite.
+Currently no longer available on the Forum :(, hopefully we will get a second chance to see EOOQE deploy his unique graphical skills one day.
+
+DEIOU by Evander. Fancy a bigger map? then Evanders beautiful DEIOU could be just what you have been looking for.
+The compatible version is not currently updated for the latest version of SWMH.
+
+Lupus Agnum by Maestro Ugo. War!
+Not currently updated for 1.101
+
+Friends & Foes by ash001
+You will need the light version(that isn't available yet)
+Not currently updated for 1.101
+
+New Duelengine by Jordarkelf.
+Not currently updated for 1.101
+
+No more random heresies by jordarkelf.
+Not currently updated for 1.101.
+
+Dungeon and Sieges by Waylit 
+Not currently updated for 1.101.
+
+{ MOD } Zulu Invasion by Neondt
+
+XYLO-kit(treeeeeeeeeeesss) and REC (shineeeeeeeeey things) both can be found in Arko's minimod corner.
+Not currently updated for 1.101. 
+

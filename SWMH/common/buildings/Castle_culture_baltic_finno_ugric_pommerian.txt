@@ -1,0 +1,216 @@
+	#Baltic raidingcamp
+castle = {
+	ca_culture_group_baltic_1 = {
+		desc = ca_culture_group_baltic_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = baltic
+					culture = finnish
+					culture = ingrian
+					culture = tsuudi
+					culture = livonian
+					culture = pommeranian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 150
+		build_time = 730
+		light_infantry = 40
+		heavy_infantry = 10
+		light_infantry_offensive = 0.15
+		heavy_infantry_offensive = 0.1
+		ai_creation_factor = 101
+
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_baltic_2 = {
+		desc = ca_culture_group_baltic_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = baltic
+					culture = finnish
+					culture = ingrian
+					culture = tsuudi
+					culture = livonian
+					culture = pommeranian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_group_baltic_1
+		build_cost = 250
+		build_time = 1095
+		light_infantry = 50
+		heavy_infantry = 15
+		light_infantry_offensive = 0.15
+		heavy_infantry_offensive = 0.1
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_baltic_3 = {
+		desc = ca_culture_group_baltic_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = baltic
+					culture = finnish
+					culture = ingrian
+					culture = tsuudi
+					culture = livonian
+					culture = pommeranian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_group_baltic_2
+		build_cost = 350
+		build_time = 2190
+		light_infantry = 60
+		heavy_infantry =20
+		light_infantry_offensive = 0.15
+		heavy_infantry_offensive = 0.1
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_baltic_4 = {
+		desc = ca_culture_group_baltic_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = baltic
+					culture = finnish
+					culture = ingrian
+					culture = tsuudi
+					culture = livonian
+					culture = pommeranian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_group_baltic_3
+		build_cost = 450
+		build_time = 2190
+		light_infantry = 70
+		heavy_infantry = 25
+		light_infantry_offensive = 0.15
+		heavy_infantry_offensive = 0.1
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+#Finnic hunter lodge
+	ca_culture_group_finno_ugric_1 = {
+		desc = ca_culture_group_finno_ugric_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = samoyed
+					culture = mordvin
+					culture = komi
+					culture = karelian
+					culture = vepsian
+					culture = mari
+					culture = lappish
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 150
+		build_time = 730
+		light_infantry = 30
+		archers = 30
+		archers_offensive = 0.075
+		light_infantry_offensive = 0.075
+		ai_creation_factor = 101
+
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_finno_ugric_2 = {
+		desc = ca_culture_group_finno_ugric_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = samoyed
+					culture = mordvin
+					culture = komi
+					culture = karelian
+					culture = vepsian
+					culture = mari
+					culture = lappish
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_group_finno_ugric_1
+		build_cost = 250
+		build_time = 1095
+		light_infantry = 40
+		archers = 40
+		archers_offensive = 0.075
+		light_infantry_offensive = 0.075
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_finno_ugric_3 = {
+		desc = ca_culture_group_finno_ugric_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = samoyed
+					culture = mordvin
+					culture = komi
+					culture = karelian
+					culture = vepsian
+					culture = mari
+					culture = lappish
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_group_finno_ugric_2
+		build_cost = 350
+		build_time = 2190
+		light_infantry = 50
+		archers = 50
+		archers_offensive = 0.075
+		light_infantry_offensive = 0.075
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_finno_ugric_4 = {
+		desc = ca_culture_group_finno_ugric_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = samoyed
+					culture = mordvin
+					culture = komi
+					culture = karelian
+					culture = vepsian
+					culture = mari
+					culture = lappish
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_group_finno_ugric_3
+		build_cost = 450
+		build_time = 2190
+		light_infantry = 60
+		archers = 60
+		archers_offensive = 0.075
+		light_infantry_offensive = 0.075
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+}

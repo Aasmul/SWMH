@@ -1,0 +1,33 @@
+# 1068 - Toreida
+
+# County Title
+title = c_toreida
+
+# Settlements
+max_settlements = 6
+
+b_toreida = castle
+b_ikskila = temple
+b_riga = city
+
+#b_sigulda = castle
+#b_salaspils = castle
+#b_adazi = castle
+#b_krimulda = castle
+#b_aizkraukle = castle
+#b_lielvarde = temple
+#b_ropazi = castle
+#b_malpils = castle
+#b_kekava = city
+#b_babite = castle
+
+
+# Misc
+culture = livonian
+religion = finnish_pagan
+
+# History
+1199.1.1 = { b_sigulda = castle } 
+1199.1.1 = { capital = b_ikskila } #bishopric of Riga
+1199.1.1 = { religion = catholic }
+1293.1.1= { trade_post = b_pat_luneburg }

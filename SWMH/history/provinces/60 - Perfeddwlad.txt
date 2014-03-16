@@ -1,0 +1,19 @@
+# 60 - Perfeddwlad
+
+# County Title
+title = c_perfeddwlad
+
+# Settlements
+max_settlements = 4
+b_deganwy = castle
+b_llanelwy = city
+#b_dinbych = temple
+#b_rhuddlan = castle
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History

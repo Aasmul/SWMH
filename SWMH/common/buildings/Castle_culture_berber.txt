@@ -1,0 +1,132 @@
+# Zanata cavalry	
+castle = {
+         ca_culture_group_north_african_1 = {
+		desc = ca_culture_group_north_african_1_desc
+		potential = {
+			FROM = { OR = {
+					culture_group = north_african
+					culture = andalusian_arabic
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_cavalry = 30
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_north_african_2 = {
+		desc = ca_culture_group_north_african_1_desc
+		potential = {
+			FROM = { OR = {
+					culture_group = north_african
+					culture = andalusian_arabic
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_group_north_african_1
+		build_cost = 300
+		build_time = 1095
+		light_cavalry = 40
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_north_african_3 = {
+		desc = ca_culture_group_north_african_1_desc
+		potential = {
+			FROM = { OR = {
+					culture_group = north_african
+					culture = andalusian_arabic
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_group_north_african_2
+		build_cost = 400
+		build_time = 2190
+		light_cavalry = 50
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_north_african_4 = {
+		desc = ca_culture_group_north_african_1_desc
+		potential = {
+			FROM = { OR = {
+					culture_group = north_african
+					culture = andalusian_arabic
+				}
+                        }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_group_north_african_3
+		build_cost = 500
+		build_time = 2190
+		light_cavalry = 60
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+
+  # Nomadic tribe building
+  ca_culture_group_desert_nomad_1 = {
+		desc = ca_culture_group_desert_nomad_1_desc
+		potential = {
+			terrain = desert
+			FROM = {
+        OR = {
+					culture = tagelmust
+					culture = tuareg
+					culture = zanata
+					culture = beja
+					culture = bedouin_arabic
+					culture = afar
+					culture = zaghawa
+					culture = daju
+					culture = mossi
+				}
+      }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		build_cost = 120
+		build_time = 365
+		retinuesize = 240
+		light_cavalry_offensive = 0.20
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.5
+	}
+  ca_culture_group_desert_nomad_2 = {
+		desc = ca_culture_group_desert_nomad_2_desc
+		potential = {
+			FROM = { 
+        OR = {
+					culture = tagelmust
+					culture = tuareg
+					culture = zanata
+					culture = beja
+					culture = bedouin_arabic
+				}
+      }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		prerequisites = { ca_wall_1 }
+		upgrades_from = ca_culture_group_desert_nomad_1
+		build_cost = 200
+		build_time = 1095
+		retinuesize = 320
+		light_cavalry_offensive = 0.25
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.6
+	}
+}

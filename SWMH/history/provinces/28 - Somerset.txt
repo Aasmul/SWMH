@@ -1,0 +1,32 @@
+# 28 - Somerset
+
+# County Title
+title = c_somerset
+
+# Settlements
+max_settlements = 5
+
+b_ilchester = castle
+b_taunton = city
+b_wells = temple # seat of the bishop to 1088, then moved to Bath abbey(but he was still bishop of Wells and abbot of Bath).
+b_bath = temple 
+#b_somerton = city
+#b_bridgewater = = city
+#b_bruton = temple
+#b_muchelney = temple
+#b_pitney = city
+#b_castle_cary = castle
+#b_stogursey = castle
+#b_dunster = castle
+#b_neitherstowey castle
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+
+1100.11.11 = { culture = english }
+
+

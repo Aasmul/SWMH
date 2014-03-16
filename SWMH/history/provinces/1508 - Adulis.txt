@@ -1,0 +1,17 @@
+# 1508 - Adulis
+
+# County Title
+title = c_adulis
+
+# Settlements
+max_settlements = 2
+b_adulis = castle
+b_misiwwa = city
+
+# Misc
+culture = afar
+religion = miaphysite
+
+# History
+
+  

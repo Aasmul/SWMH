@@ -1,0 +1,19 @@
+# 1350 - Zuwara
+
+# County Title
+title = c_zuwara
+
+# Settlements
+max_settlements = 4
+
+b_medenine = castle
+b_zuwara = city
+
+#b_tataouine = temple
+#b_jarjis = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History

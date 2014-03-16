@@ -1,0 +1,58 @@
+864.1.1={
+	liege = "d_croatia"
+}
+864.1.1={
+	holder=167855
+}
+1066.1.1=
+{
+#liege="d_croatia"
+#law = agnatic_succession
+#law = succ_seniority
+}
+1055.1.1=
+{
+holder=1000229200 # Vinihi Lapcanu
+}
+1110.1.1=
+{
+	holder=93542
+}
+#Frankopan dynasty
+
+1131.4.2=
+{
+holder=219990
+}
+1163.1.1=
+{
+holder=219991
+}
+1198.1.1=
+{
+holder=219992
+}
+1209.1.1=
+{
+holder=32631
+}
+1232.1.1=
+{
+holder=32634
+}
+1260.1.1=
+{
+holder=32635
+}
+1262.1.1=
+{
+holder=32636
+}
+1316.1.1=
+{
+holder=470020
+}
+1322.1.1=
+{
+holder=470021
+}

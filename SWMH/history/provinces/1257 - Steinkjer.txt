@@ -1,0 +1,24 @@
+# 1257 - Steinkjer
+
+# County Title
+title = c_steinkjer
+
+# Settlements
+max_settlements = 3
+
+b_egge = castle # Egg
+b_steinkjer = city # Steinker
+b_maere = temple # Mærin
+#b_stormoen = castle # Stafr
+#b_sul = city # Sula
+#b_steine = city # Stiklarstaðir
+#b_hustad = city # Húsastaðir
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1030.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norwegian } 

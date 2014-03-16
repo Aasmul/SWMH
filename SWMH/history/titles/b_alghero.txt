@@ -1,0 +1,9 @@
+1258.1.1={
+	liege="c_logudoro"
+}
+#Branca Doria
+1258.1.1={
+	holder=1000091110
+}
+
+ 

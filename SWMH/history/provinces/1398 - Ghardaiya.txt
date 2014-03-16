@@ -1,0 +1,17 @@
+# 1398 - Ghardaiya
+
+# County Title
+title = c_ghardaiya
+
+# Settlements
+max_settlements = 1
+b_ghardaiya = city
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+
+

@@ -1,0 +1,26 @@
+# 1526 - Strumica
+# County Title
+title = c_strumica
+
+# Settlements
+max_settlements = 5
+
+b_stip = castle
+b_rila = temple
+b_strumica = city
+#b_prosek = castle
+#b_melnik = city
+#b_petrich = castle
+
+
+
+# Misc
+culture = bulgarian
+religion = orthodox
+
+# History
+
+
+
+
+

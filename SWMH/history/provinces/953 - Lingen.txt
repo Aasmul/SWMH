@@ -1,0 +1,19 @@
+# 953 - Lingen
+
+# County Title
+title = c_bentheim
+
+# Settlements
+max_settlements = 3
+
+b_bentheim = castle
+b_lingen = city
+#b_nordhorn = city
+#b_emilcheim = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+ 

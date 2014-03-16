@@ -1,0 +1,20 @@
+# 1260 - Caesarea
+
+# County Title
+title = c_caesarea
+
+# Settlements
+max_settlements = 5
+
+b_caymont = castle
+b_syrcaesarea = temple
+b_arsuf = castle
+b_calansue = city
+#b_syrcaco = castle
+#b_recordana = castle
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

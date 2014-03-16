@@ -1,0 +1,27 @@
+# 810 - Leptis Magna     # Misurata
+
+# County Title
+title = c_leptis_magna
+
+# Settlements
+max_settlements = 2
+
+b_misratah = city
+
+#b_leptismagna = castle
+#b_alhasun = temple
+
+#b_abunujaym = castle
+#b_alghiran = castle
+#b_qirdah = castle
+#b_naimah = castle
+#b_gioda = castle
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+
+1171.1.1 = { religion = sunni }

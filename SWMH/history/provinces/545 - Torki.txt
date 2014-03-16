@@ -1,0 +1,25 @@
+# 545 - Torki #suceava
+
+# County Title
+title = c_torki
+
+# Settlements
+max_settlements = 5
+
+b_suceava = castle
+b_bogdana = temple
+b_botosanimoldavia  = city
+#b_harlaumoldavia  = castle
+#b_herta = castle 
+#b_dorohoi = city
+#b_humor = temple
+
+
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+1050.1.1 = {culture = romanian }

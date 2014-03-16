@@ -1,0 +1,15 @@
+# 1346 - Aghaila
+
+# County Title
+title = c_aghaila
+
+# Settlements
+max_settlements = 1
+b_alaghaila = castle
+
+# Misc
+culture = zanata
+religion = sunni
+
+# History
+

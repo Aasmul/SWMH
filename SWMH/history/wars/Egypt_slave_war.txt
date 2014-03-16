@@ -1,0 +1,19 @@
+name = "Egyptian slave war"
+
+casus_belli={
+	casus_belli=claim
+	actor=1000144656
+	recipient=1000144659
+	landed_title=c_manfalut
+	date=1066.8.8
+}
+
+1066.8.8 = {
+	add_attacker = 1000144656
+	add_defender = 1000144659
+}
+
+1068.10.10= {
+	rem_attacker = 1000144656
+	rem_defender = 1000144659
+}

@@ -1,0 +1,24 @@
+# 174 - Albarracin
+
+# County Title
+title = c_albarracin
+
+# Settlements
+max_settlements = 4
+b_tramacastilla = castle
+b_albarracin = city
+b_bronchales = temple
+#b_monreal_del_campo = castle
+#b_jabaloyas = temple
+#b_calomarde = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1066.1.1 = { 
+	b_tramacastilla = ca_keep_1
+	b_tramacastilla = ca_wall_1
+}

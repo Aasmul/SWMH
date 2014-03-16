@@ -1,0 +1,18 @@
+# 1494 - Abu Hammad
+
+# County Title
+title = c_abuhammad
+
+# Settlements
+max_settlements = 3
+
+b_abuhammad = castle
+b_kurgus = city
+
+#b_alusheir = temple
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

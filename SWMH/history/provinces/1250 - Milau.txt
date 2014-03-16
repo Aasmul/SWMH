@@ -1,0 +1,22 @@
+# 1250 - Milau
+
+# County Title
+title = c_milau
+
+# Settlements
+max_settlements = 4
+
+b_rivieresurtarn = castle
+b_millau = city
+b_nantmillau = temple
+#b_templarlacavalerie = castle 
+#b_creissels = city
+#b_saintromedecernon = castle
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History
+
+1181.1.1  = { b_templarlacavalerie = castle }

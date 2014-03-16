@@ -1,0 +1,32 @@
+# 1213 - Viseu
+
+# County Title
+title = c_viseu
+
+# Settlements
+max_settlements = 4
+b_aveiro = castle
+b_viseu = temple
+#b_lamego = city
+#b_castro_daire = temple
+#b_penedono = castle
+#b_mangualde = castle
+#b_moimenta_da_beira = castle
+#b_mortagua = castle
+#b_nelas = castle
+#b_penalva_do_castelo = castle
+#b_satao = castle
+#b_sernancelhe = castle
+#b_tarouca = castle
+
+#b_ilhavo = city
+#b_ovar = temple
+
+
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History
+

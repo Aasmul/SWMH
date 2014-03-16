@@ -1,0 +1,139 @@
+###############################################################
+#  SWMH Occitan Characters
+###############################################################
+#Range: 1000227200 - 1000227349
+###############################################################
+#
+###########
+#de Carcasonne and de Razès
+###########
+1000227200 = {
+	name="Bello" # comte from 790
+        dynasty=100213 # de Carcasonne
+	religion="catholic"
+	culture="occitan"
+	755.1.1 = {
+		birth=yes
+	}
+	810.1.1 = {
+		death=yes
+	}
+}
+1000227201 = {
+	name="Guisclafred" # comte from 810
+        dynasty=100213
+	religion="catholic"
+	culture="occitan"
+        father=1000227200
+	778.1.1 = {
+		birth=yes
+	}
+	821.1.1 = {
+		death=yes
+	}
+}
+1000227202 = {
+	name="Olibia" # comte from 821
+        dynasty=100213
+	religion="catholic"
+	culture="occitan"
+        father=1000227200
+	781.1.1 = {
+		birth=yes
+	}
+	837.1.1 = {
+		death=yes
+	}
+}
+#163063 = {
+#	name="Bernard" # comte 837-844? or just liege lord?
+#	dynasty=100217
+#	religion="catholic"
+#	culture="frankish"
+#	father=168130
+#	796.1.1 = {
+#		birth="796.1.1"
+#	}
+#	824.1.1 = {
+#		add_spouse=168141
+#	}
+#	844.5.1 = {
+#		death="844.5.1"
+#	}
+#}
+1000227203 = {
+	name="Olibia" # comte of Carcasonne from 837 or 865-877
+        dynasty=100213
+	religion="catholic"
+	culture="occitan"
+        father=1000227202
+	824.1.1 = {
+		birth=yes
+	}
+	877.1.1 = {
+		death=yes
+	}
+}
+#127025 = { 
+#	name="Acfred"  # comte of Razès from 837 and Carcasonne from 877
+#	dynasty=100213
+#	martial=7
+#	diplomacy=6
+#	intrigue=6
+#	stewardship=7
+#	religion="catholic"
+#	culture="occitan"
+#       father=1000227202# SWMH
+#	820.1.1 = {
+#		birth="820.1.1"
+#	}
+#	885.1.1 = {
+#		add_spouse=127024
+#	}
+#	906.2.18 = {
+#		death="906.2.18"
+#	}
+#}
+1000227204 = {
+	name="Bencion" # comte of Carcasonne from 906
+        dynasty=100213
+	religion="catholic"
+	culture="occitan"
+        father=1000227203
+	855.1.1 = {
+		birth=yes
+	}
+	908.1.1 = {
+		death=yes
+	}
+}
+1000227205 = {
+	name="Acfred" # comte of Razès from 906 and Carcasonne from 908
+        dynasty=100213
+	religion="catholic"
+	culture="occitan"
+        father=1000227203
+	868.1.1 = {
+		birth=yes
+	}
+	934.1.1 = {
+		death=yes
+	}
+}
+1000227206 = {
+	name="Arsenda" # comtess of Razès from 934 married to Arnaud I de Comminges
+        dynasty=100213
+        female=yes
+	religion="catholic"
+	culture="occitan"
+        father=1000227205
+	908.1.1 = {
+		birth=yes
+	}
+        933.1.1 = {
+		add_spouse=40180
+	}
+	992.1.1 = {
+		death=yes
+	}
+}

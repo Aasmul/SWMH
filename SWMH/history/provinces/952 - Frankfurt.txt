@@ -1,0 +1,22 @@
+# 952 - Frankfurt
+
+# County Title
+title = c_frankfurt
+
+# Settlements
+max_settlements = 6
+
+
+b_hanau = castle
+b_eppstein = castle
+#b_aschaffenburg = city
+b_frankfurt = city
+b_offenbach = city
+#b_birstein = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

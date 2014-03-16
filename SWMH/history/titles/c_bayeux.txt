@@ -1,0 +1,85 @@
+853.1.1={
+	liege="d_anjou"
+	holder = 6440 #Robert le fort
+	law=succ_primogeniture
+	law=cognatic_succession
+}
+866.7.2={
+	holder = 168041
+}
+989.1.1={
+	liege="d_normandy"
+	holder=260 #Robert le Danois
+}
+#Comte de d'Ivry/Bayeux
+990.1.1={
+	holder = 1000227373 # Rodulf/Raoul d'Ivry comte d'Ivry/Bayeux 1000ish
+}
+1015.1.1={
+	holder = 1000227374 # Hugo/Huges d'Ivry ,Bishop of Bayeux 1015-1059 possibly also comte d'Ivry/Bayeux.
+}
+#vicomte de Bessin/Bayeux
+1049.1.1={
+	holder = 82060 #Ranulf I de Briquessart/Meschin vicomte de Bessin/Bayeux
+}
+1090.1.1={
+	holder=82062 #Ranulf II de Briquessart/Meschin vicomte de Bessin/Bayeux
+}
+1129.1.10={
+	holder = 204687 #Ranulf(Geron) III de Briquessart/Meschin vicomte de Bessin/Bayeux
+}
+#House of Anjou
+1135.12.2={
+	holder = 205851 #Étienne de Blois
+}
+#Plantagenêts
+1144.1.1={
+	holder = 204506 #Geoffroy Plantagenêt
+}
+1151.7.9={
+	holder=204500 #Henri II Plantagenêt
+}
+1189.7.6={
+	holder = 204510 #Richard I Cœur-de-Lion
+}
+1199.4.6={
+	holder = 204514 #Jean I Sans Terre
+}
+
+#Direct Capetians
+1204.1.1={
+	holder=205506 # Philippe I Auguste
+}
+1223.7.14={
+	holder = 455402 #Louis I le Lion
+}
+1226.11.8={
+	holder = 455404 #Louis II (saint Louis)
+}
+1270.8.25={
+	holder = 455528 # Philippe II le Hardi
+}
+1285.10.5={
+	holder = 455526 # Philippe III le Bel
+}
+1314.11.29={
+	holder = 455836 # Louis III le Hutin
+}
+1316.6.5={ #in fact 1316.11.5 as a posthumus heir, but ck2 can't handle interregnum
+	holder= 70137 # Jean II le Posthume
+}
+1316.11.19={ #corrected from 1316.6.5
+	holder= 455509 # Philippe IV le Long, son of 455526.
+}
+1322.1.3={
+	holder = 455414 # Charles I le Bel
+}
+
+#House of Valois
+1328.2.1={
+	holder=455500 # Philippe V
+}
+
+1332.1.1={
+	holder = 455502 #Jean III
+}

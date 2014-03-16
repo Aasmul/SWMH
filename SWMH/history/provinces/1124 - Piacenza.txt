@@ -1,0 +1,43 @@
+# 1124 - Piacenza
+
+# County Title
+title = c_piacenza
+
+# Settlements
+max_settlements = 5
+
+b_piacenza = city
+b_bardipiacenza = castle
+b_abbaziadisansavino = temple
+b_roccadolgisio = castle
+
+#b_castellodivigoleno = castle
+#b_fidenza = city
+#b_salsomaggioreterme = castle
+#b_roccabianca = castle
+#b_roccadeirossi = castle
+#b_agazzano = castle
+#b_castellodellaboffalora = castle
+#b_borgonovovaltidone = castle
+#b_calendasco = city
+#b_carpanetopiacentino = castle
+#b_castellodirezzanello = castle
+#b_gazzola = city
+#b_castellodirivalta = castle
+#b_gropparello = castle
+#b_montechino = castle
+#b_castellodimonteventano = castle
+#b_castellodiriva = castle
+#b_pontenure = city
+#b_castellodipaderna = castle
+#b_rivargo = castle
+#b_castellodisarmato = castle
+#b_castellodistatto = castle
+
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

@@ -1,0 +1,36 @@
+# 1256 - Mortain
+
+# County Title
+title = c_mortain
+
+# Settlements
+max_settlements = 3
+
+b_mortain = castle
+b_domfront = castle
+#b_flers = city
+#b_tinchebray = castle
+#b_abbayedelonlay = temple
+
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+911.1.1 = { # Viking takeover
+	remove_settlement = b_domfront
+        b_mortain = castle
+        b_domfront = castle
+
+	b_mortain = ca_keep_1
+	b_mortain = ca_training_grounds_1
+	b_mortain = ca_stable_1
+	b_mortain = ca_wall_1
+	b_mortain = ca_wall_2
+	b_mortain = ca_militia_barracks_1
+	b_mortain = ca_barracks_1
+	b_mortain = ca_town_1
+}
+1100.11.11 = { culture = frankish }
+

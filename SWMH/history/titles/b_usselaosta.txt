@@ -1,0 +1,13 @@
+1310.1.1={
+	liege = "c_aosta"
+	holder = 1000091126
+}
+1320.1.2={
+	holder = 1000091128
+}
+1359.1.2={
+	holder = 1000091130
+}
+#Francesco the last baron of Ussel, he killed his brother and was deprived of all his titles
+1395.1.2={
+	holder = 1000091136}

@@ -1,0 +1,27 @@
+# 469 - Zeta # Crna Gora
+
+# County Title
+title = c_zeta
+
+# Settlements
+max_settlements = 4
+
+b_skadar = castle
+b_podgorica = city
+#b_drivast = temple
+#b_cetinje= castle
+#b_zabljak_crnojevica = castle
+#b_lezhe = temple
+#b_danj = castle
+b_dioclea = temple
+
+
+# Misc
+culture = serbian
+religion = orthodox
+
+# History
+1066.1.1 = { remove_settlement = b_dioclea } # sacked for the last time somewehere around 1080.
+1066.1.1 = { b_drivast = temple } # Bishopery of Drivast in 1089.
+1130.1.1 = { trade_post = b_dandolo }
+1362.1.1 = { b_zabljak_crnojevica = castle } # Crnojevic

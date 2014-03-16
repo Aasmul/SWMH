@@ -1,0 +1,17 @@
+# 1380 - Kaba
+
+# County Title
+title = c_kaba
+
+# Settlements
+max_settlements = 3
+b_kaba = castle
+
+#b_cantor = city
+#b_bati = temple
+
+# Misc
+culture = wolof
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,27 @@
+# 422 - Scalovia
+
+# County Title
+title = c_scalovia
+
+# Settlements
+max_settlements = 4
+
+b_ragnit = castle
+b_tilze = temple
+#b_caloypede = city
+
+#b_rusne = city
+#b_pagegiai = city
+#b_silokarciama = city
+#b_paminia = city
+#b_veivirzenai = castle
+
+# Misc
+culture = prussian
+religion = baltic_pagan
+
+# History
+1252.1.1 = { b_caloypede = city }
+1255.1.1= { trade_post = b_pat_luneburg }
+1290.1.1 = { religion = catholic }
+

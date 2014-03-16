@@ -1,0 +1,31 @@
+# 963 - Jeriska
+
+# County Title
+title = c_jeriska
+
+# Settlements
+max_settlements = 5
+
+b_jersika = castle
+b_koknese = temple
+b_marciena = castle
+
+#b_krustpils = castle
+#b_berzaune = castle
+#b_laudonas = castle
+#b_lubana = city
+#b_ergli = castle
+#b_madona = city
+#b_livani = castle
+#b_varaklani = city
+
+
+# Misc
+culture = lettigallish
+religion = baltic_pagan
+
+# History
+1180.1.1 = { b_koknese = castle } # Principlaity of Koknese
+1238.1.1 = { b_koknese = temple } #too bishopric of Riga
+1238.1.1 = { capital = b_koknese }
+1238.1.1 = { religion = catholic }

@@ -1,0 +1,26 @@
+# 203 - Lleida
+
+# County Title
+title = c_lleida
+
+# Settlements
+max_settlements = 4
+b_aitona = castle
+b_lleida = temple
+b_cervera = city
+#b_bell_lloch = castle
+#b_prades = castle
+#b_granyena = castle
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+
+1066.1.1 = { 
+	b_aitona = ca_keep_1
+	b_aitona = ca_wall_1
+}
+1164.1.1 = { culture= catalan }
+1164.1.1 = { religion = catholic }

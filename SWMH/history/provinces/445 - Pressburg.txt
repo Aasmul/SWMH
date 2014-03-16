@@ -1,0 +1,22 @@
+# 445 - Pressburg
+
+# County Title
+title = c_pressburg
+
+# Settlements
+max_settlements = 5
+b_pressburg = castle
+b_mariavolgy = city
+b_nagyszombat = temple
+
+b_modor = castle
+#b_feherko = castle
+#b_szakolca = city
+#b_deveny = castle
+#b_bazin= castle
+
+# Misc
+culture = moravian
+religion = catholic
+
+# History

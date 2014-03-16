@@ -1,0 +1,17 @@
+# 1436 - Fermanagh
+
+# County Title
+title = c_fermanagh
+
+# Settlements
+max_settlements = 2
+
+b_devenish = temple
+#b_enniskillen = city
+
+# Misc
+culture = irish
+religion = catholic
+terrain = hills
+
+# History

@@ -1,0 +1,25 @@
+# 136 - Dijon
+
+# County Title
+title = c_dijon
+
+# Settlements
+max_settlements = 6
+b_dijon = castle
+b_gevrey = city
+b_autun = temple
+
+#b_champagny = temple
+#b_chagny = castle
+#b_citeaux = temple
+#b_meursault = castle
+#b_beaune = city
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+1000.1.1  =  { capital = b_dijon }
+1098.1.1   = { b_citeaux = temple }
+1203.1.1   = { b_beaune = city }

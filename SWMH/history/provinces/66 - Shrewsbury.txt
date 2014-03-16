@@ -1,0 +1,24 @@
+# 66 - Shrewsbury # Shropshire
+
+# County Title
+title = c_shrewsbury
+
+# Settlements
+max_settlements = 4
+b_ludlow = castle
+b_shrewsbury = city
+b_wenlock = temple
+#b_clun = castle
+#b_bridgnorth = castle
+#b_oswestry = castle
+#b_whittington = castle
+#b_alberbury = castle
+#b_moreton_corbet = castle
+#b_newport_shropshire = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1100.11.11 = { culture = english }

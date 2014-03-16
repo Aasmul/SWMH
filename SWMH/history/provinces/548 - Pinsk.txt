@@ -1,0 +1,22 @@
+# 548 - Pinsk
+
+# County Title
+title = c_pinsk
+
+# Settlements
+max_settlements = 4
+
+b_pinsk = castle
+b_luninets = city
+b_lyubeshiv = temple
+
+#b_motal = city
+
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+

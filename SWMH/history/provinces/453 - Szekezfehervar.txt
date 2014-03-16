@@ -1,0 +1,25 @@
+# 453 - Szekezfehervar
+
+# County Title
+title = c_szekezfehervar
+
+# Settlements
+max_settlements = 4
+
+b_csongrad = castle
+b_szentes = city
+b_szeged = temple
+#b_dorozsma = city
+#b_szegvar = castle
+#b_gyo = city
+#b_magocs = castle
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+
+

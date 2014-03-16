@@ -1,0 +1,21 @@
+# 1048 - Graisivaudan
+
+# County Title
+title = c_graisivaudan
+
+# Settlements
+max_settlements = 4
+b_vif = castle
+b_voreppe = temple
+
+#b_grenoble = city
+#b_valbonnais = temple
+#b_lamure = city
+#b_pontcharra = castle
+
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History

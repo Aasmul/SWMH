@@ -1,0 +1,7 @@
+860.1.1={
+	holder=1000144508
+	liege=d_tagant
+}
+886.1.1={
+	holder=0
+}

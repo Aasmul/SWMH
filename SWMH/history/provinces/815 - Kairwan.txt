@@ -1,0 +1,21 @@
+# 815 - Kairwan
+
+# County Title
+title = c_kairwan
+
+# Settlements
+max_settlements = 6
+
+b_kairouan = castle
+b_alabbasiyaifr = city #Al-Abbasiya-Ifriqi
+b_rakkada = temple
+b_sabiba = city
+
+#b_eljem = castle #El Jem
+#b_subaytila = castle
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History

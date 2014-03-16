@@ -1,0 +1,17 @@
+# 1387 - Sibiridugu
+
+# County Title
+title = c_sibiridugu
+
+# Settlements
+max_settlements = 3
+b_sibi = castle
+b_bamako = temple
+
+#b_tabou = city
+
+# Misc
+culture = manden
+religion = west_african_pagan
+
+# History

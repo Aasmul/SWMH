@@ -1,0 +1,22 @@
+# 244 - Bern
+
+# County Title
+title = c_bern
+
+# Settlements
+max_settlements = 4
+b_fribourg = castle
+b_bern = city
+b_solothurn = temple
+
+#b_interlaken = temple
+#b_burgdorf = castle
+#b_murten = city
+#b_herzogenbuchsee = temple
+#b_trub = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History

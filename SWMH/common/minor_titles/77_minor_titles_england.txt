@@ -1,0 +1,156 @@
+title_marcher_lord = {
+	dignity = 0.05
+	grant_limit = 5
+	opinion_effect = 10
+	show_as_title = no
+	realm_in_name = no
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = k_england
+                        NOT={ OR = {
+			culture = cumbric
+			culture = cornish
+			culture = breton
+			culture = welsh
+			culture = irish
+                        culture = scottish
+			culture = anglonorse
+                        culture = norse
+                        culture = norsegaelic
+                        culture = saxon
+                        }
+		}
+		OR = { has_landed_title = c_perfeddwlad
+                       has_landed_title = c_brycheiniog
+                       has_landed_title = c_powys
+                       has_landed_title = c_powys_wenwynwyn
+                       has_landed_title = c_buellt
+                       has_landed_title = c_rhwng
+                       has_landed_title = c_gwent
+                       has_landed_title = c_hereford
+                       has_landed_title = c_worcester
+                       has_landed_title = c_shrewsbury
+                       has_landed_title = c_chester              
+	}
+        }
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+}
+title_marcher_earl = {
+	dignity = 3
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = no
+	monthly_prestige = 0.02
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = k_england
+                        NOT={ OR = {
+			culture = cumbric
+			culture = cornish
+			culture = breton
+			culture = welsh
+			culture = irish
+			culture = anglonorse
+                        culture = norse
+                        culture = norsegaelic
+                        culture = saxon
+                        culture = scottish
+                        }
+		}
+                }
+		OR = { 
+                       has_landed_title = d_hereford
+                       has_landed_title = d_powys          
+	             }
+        }
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_marcher_earl_scotland = {
+	dignity = 3
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = no
+	monthly_prestige = 0.02
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = k_scotland
+                        NOT={ OR = {
+			culture = cumbric
+			culture = cornish
+			culture = breton
+			culture = welsh
+			culture = irish
+			culture = anglonorse
+                        culture = norse
+                        culture = norsegaelic
+                        culture = saxon
+                        }
+		}
+                }
+		OR = { has_landed_title = d_lancaster
+                       has_landed_title = d_northumberland
+                       has_landed_title = d_lothian
+                       has_landed_title = d_galloway           
+	}
+        }
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_earl_of_arundel= {
+	dignity = 3
+	grant_limit = 1
+	opinion_effect = 15
+	show_as_title = yes
+	realm_in_name = no
+	monthly_prestige = 0.015
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = k_england
+		}
+				OR = {
+					has_landed_title = b_arundel
+					any_vassal = { has_landed_title = b_arundel }
+				}
+           
+        }
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}

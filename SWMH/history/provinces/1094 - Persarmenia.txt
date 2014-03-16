@@ -1,0 +1,31 @@
+# 1094 - Persarmenia
+
+# County Title
+title = c_persarmenia
+
+# Settlements
+ max_settlements = 3
+b_zaravand = castle
+b_arna = city
+b_kurijan = temple
+#b_zarehavan = castle
+#b_tamber = castle
+#b_trabigavar = castle
+#b_marigavar = castle
+#b_arsi = castle
+ 
+
+# Misc
+culture = armenian
+religion = miaphysite
+
+# History
+1084.1.1 = { culture = kurdish }
+1219.1.1 = { 
+	culture = armenian
+	religion = orthodox 
+}
+1320.1.1 = { 
+	culture = kurdish 
+	religion = sunni 
+}

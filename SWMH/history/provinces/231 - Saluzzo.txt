@@ -1,0 +1,33 @@
+# 231 - Saluzzo
+
+# County Title
+title = c_saluzzo
+
+# Settlements
+max_settlements = 4
+
+b_racconigi = castle
+b_saluzzo = city
+b_abbziadisandalmass = temple
+
+#b_cuneo = city
+#b_abbaziadisanquintino = temple
+#b_castellodellamanta = castle
+#b_savigliano = city
+#b_busca = city
+#b_paesana = temple
+#b_caraglio = castle
+
+
+
+
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+
+
+

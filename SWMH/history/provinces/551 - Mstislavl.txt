@@ -1,0 +1,25 @@
+# 551 - Mstislavl
+
+# County Title
+title = c_mstislavl
+
+# Settlements
+max_settlements = 5
+
+b_mstitslavl = castle
+b_slauharad = temple
+#b_mogliev = city
+#b_krychaw = castle
+
+#b_bychaw = castle
+#b_khislvichi = city
+#b_chocimsk = city #Saroj
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+1150.1.1 = { b_krychaw = castle }
+1250.1.1 = { b_mogliev = city }

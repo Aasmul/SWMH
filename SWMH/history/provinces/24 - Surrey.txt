@@ -1,0 +1,27 @@
+# 24 - Surrey
+
+# County Title
+title = c_surrey
+
+# Settlements
+max_settlements = 4
+
+b_reigate = castle
+#b_lambeth = castle # to the archbishop of Canterbury ca 1200
+b_guildford = city
+b_farnham = temple # to the bishop of Winchester
+#b_southwark = city
+#b_woking = temple # not certain if it was still a monestary in 1066 or if it had become a royal manor already
+#b_chertsey = temple
+#b_waverley = temple
+#b_croydon = city
+#b_dorking = castle
+
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1100.11.11 = { culture = english } 

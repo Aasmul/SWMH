@@ -1,0 +1,17 @@
+# 1400 - Tuggurt
+
+# County Title
+title = c_tuggurt
+
+# Settlements
+max_settlements = 1
+
+b_tukkurt = castle
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+

@@ -1,0 +1,26 @@
+# 312 - Meissen
+
+# County Title
+title = c_meissen
+
+# Settlements
+max_settlements = 5
+b_dresden = castle
+b_dohna = city
+b_meissen = temple
+
+#b_belgern = castle
+#b_strehla = castle
+#b_rabenau = castle
+#b_radeburg = city
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+
+883.1.1 = { culture = german }
+883.1.1 = { religion = catholic }
+# silver mines of Freiberg founded in 1186 (not listed)
+1186.1.1 = { b_radeburg = city }

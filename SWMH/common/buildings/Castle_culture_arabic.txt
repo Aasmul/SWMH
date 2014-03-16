@@ -1,0 +1,172 @@
+	# Arabian Camel Cavalry
+castle = {
+	ca_culture_group_arabic_1 = {
+		desc = ca_culture_group_arabic_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = bedouin_arabic
+					culture = maghreb_arabic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_cavalry = 30
+		light_cavalry_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_arabic_2 = {
+		desc = ca_culture_group_arabic_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = bedouin_arabic
+					culture = maghreb_arabic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_group_arabic_1
+		build_cost = 300
+		build_time = 1095
+		light_cavalry = 40
+		light_cavalry_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_arabic_3 = {
+		desc = ca_culture_group_arabic_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = bedouin_arabic
+					culture = maghreb_arabic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_group_arabic_2
+		build_cost = 400
+		build_time = 2190
+		light_cavalry = 50
+		light_cavalry_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_arabic_4 = {
+		desc = ca_culture_group_arabic_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = bedouin_arabic
+					culture = maghreb_arabic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_group_arabic_3
+		build_cost = 500
+		build_time = 2190
+		light_cavalry = 60
+                light_cavalry_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	# Al-Faris cavalry
+	ca_culture_group_horse_arabic_1 = {
+		desc = ca_culture_group_horse_arabic_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = levantine_arabic
+					culture = egyptian_arabic
+					culture = sicilian_arabic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_cavalry = 30
+		light_cavalry_offensive = 0.1
+		light_cavalry_defensive = 0.05
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_horse_arabic_2 = {
+		desc = ca_culture_group_horse_arabic_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = levantine_arabic
+					culture = egyptian_arabic
+					culture = sicilian_arabic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_group_horse_arabic_1
+		build_cost = 300
+		build_time = 1095
+		light_cavalry = 40
+		light_cavalry_offensive = 0.1
+		light_cavalry_defensive = 0.05
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_horse_arabic_3 = {
+		desc = ca_culture_group_horse_arabic_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = levantine_arabic
+					culture = egyptian_arabic
+					culture = sicilian_arabic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_group_horse_arabic_2
+		build_cost = 400
+		build_time = 2190
+		light_cavalry = 50
+		light_cavalry_offensive = 0.1
+		light_cavalry_defensive = 0.05
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_horse_arabic_4 = {
+		desc = ca_culture_group_horse_arabic_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = levantine_arabic
+					culture = egyptian_arabic
+					culture = sicilian_arabic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_group_horse_arabic_3
+		build_cost = 500
+		build_time = 2190
+		light_cavalry = 60
+		light_cavalry_offensive = 0.1
+		light_cavalry_defensive = 0.05
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+}

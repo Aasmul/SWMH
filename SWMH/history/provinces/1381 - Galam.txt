@@ -1,0 +1,17 @@
+# 1381 - Galam
+
+# County Title
+title = c_galam
+
+# Settlements
+max_settlements = 3
+b_galam = castle
+b_gundiuru = city
+
+#b_bondu = temple
+
+# Misc
+culture = wolof
+religion = west_african_pagan
+
+# History

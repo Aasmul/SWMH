@@ -1,0 +1,21 @@
+#CJL78 - Bishops of Como through 1127
+
+1062.1.1={
+	liege="c_como"
+	holder=1000167018
+}
+1085.1.1={
+	holder=1000167019
+}
+1098.1.1={
+	holder=1000167020
+}
+1125.1.1={
+	holder=1000167021
+}
+1127.1.1={
+	liege="c_como"
+}
+1159.1.1={
+	holder=0
+}

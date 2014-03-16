@@ -1,0 +1,19 @@
+# 954 - zeitz
+
+# County Title
+title = c_zeitz
+
+# Settlements
+max_settlements = 3
+b_zeitz = castle
+#b_halle = city
+#b_naumburg = temple
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+
+1066.1.1 = { culture = german } 
+1066.1.1 = { religion = catholic } 

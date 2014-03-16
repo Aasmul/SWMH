@@ -1,0 +1,18 @@
+# 926 - Bambuk
+
+# County Title
+title = c_bambuk
+
+# Settlements
+max_settlements = 4
+b_bambuk = castle
+b_yaresna = city
+
+#b_fegui = temple
+#b_alahina = castle
+
+# Misc
+culture = manden
+religion = west_african_pagan
+
+# History

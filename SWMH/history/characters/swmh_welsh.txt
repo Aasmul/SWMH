@@ -1,0 +1,146 @@
+#1000228300 - 1000228400
+#free - free
+
+################ Bricheiniog 1000 - 1100 by Axl ######################
+
+1000228300 = {
+	name="Elisse" # Elissaii ap Tudor
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	970.1.1={
+		birth="970.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000228301 = {
+	name="Eidde" # Son of Elisse ap Tudor
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	father=1000228300
+	1005.1.1={
+		birth="1005.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000228302 = {
+	name="Gruffudd" # Son of Eidde ap Elisse
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	father=1000228301
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000228303 = {
+	name="Gruffudd" # Son of Elisse ap Tudor
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	father=1000228300
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000228304 = {
+	name="Selyf" # Son of Gruffudd ap Elisse
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	father=1000228303
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+1000228305 = {
+	name="Tewdws" # Son of Gruffudd ap Elisse
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	father=1000228303
+	1032.1.1={
+		birth="1032.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+1000228306 = {
+	name="Einion" # Son of Gruffudd ap Elisse
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	father=1000228303
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+
+1000228307 = {
+	name="Einion" # Son of Selyf ap Gruffudd
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	father=1000228304
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000228308 = {
+	name="Elen" # Daughter of Einion ap Selyf
+	female=yes
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	father=1000228307
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+1000228309 = {
+	name="Trahaearn" # Son of Einion ap Selyf, Trahaearn "Fawr"
+	dynasty=1000100950
+	religion="catholic"
+	culture="welsh"
+	father=1000228307
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+################ Bricheiniog 1000 - 1100 by Axl ######################

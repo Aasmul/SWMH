@@ -1,0 +1,247 @@
+#CJL78 Normans 
+#In Capua: 1.000.167.000-1.000.167.009
+#In Apulia: 1.000.167.090-1.000.167.099
+
+#####
+#Capua - Dukes of Gaeta and Counts of Alife
+#####
+1000167000 = {
+	name="Geoffrey"
+	dynasty=7182 #Ridel (aka Ridell or Ridello)
+	religion="catholic"
+	culture="norman"
+	1020.1.1 = {
+		birth="1020.1.1" #unknown
+	}
+	1086.1.1 = {
+		death="1086.1.1"
+	}
+}
+
+1000167001 = {
+	name="Reginald"
+	dynasty=7182 #Ridel (aka Ridell or Ridello)
+	religion="catholic"
+	culture="norman"
+	father=1000167000
+	1040.1.1 = {
+		birth="1040.1.1" #unknown
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+
+1000167002 = {
+	name="Gualganus"
+	dynasty=7182 #Ridel (aka Ridell or Ridello)
+	religion="catholic"
+	culture="norman"
+	father=1000167001
+	1078.1.1 = {
+		birth="1078.1.1" #unknown
+	}
+	1091.1.1 = {
+		death="1091.1.1"
+	}
+}
+
+1000167003 = {
+	name="Lando"
+	religion="catholic"
+	culture="norman"
+	1050.1.1 = {
+		birth="1050.1.1" #unknown
+	}
+	1103.1.1 = {
+		death="1103.1.1" #unknown; overthrown in 1103
+	}
+}
+
+1000167004 = {
+	name="William"
+	dynasty=1000064000 #de Blosseville
+	religion="catholic"
+	culture="norman"
+	1060.1.1 = {
+		birth="1060.1.1" #unknown
+	}
+	1105.1.1 = {
+		death="1105.1.1" #unknown; overthrown in 1105
+	}
+}
+
+1000167005 = {
+	name="Richard"
+	dynasty=676 #Drengot
+	religion="catholic"
+	culture="norman"
+	1080.1.1 = {
+		birth="1080.1.1" #unknown
+	}
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+
+1000167006 = {
+	name="Rainulf" #Count of Alife; grandson of Count Rainulf of Alife, brother of Richard I of Capua
+	#AKA Ranulf III
+	dynasty=676 #Drengot
+	religion="catholic"
+	culture="norman"
+	father=190002
+	1080.1.1 = {
+		birth="1080.1.1" #unknown
+	}
+	1139.4.30 = {
+		death="1139.4.30"
+	}
+}
+
+#1000167007
+#1000167008
+#1000167009
+
+#####
+#Conti di Boiano, after ~1100 Conti di Molise
+#####
+
+1000167090 = {
+	name="Guimond"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	1030.1.1 = {
+		birth="1030.1.1" #unknown
+	}
+	1082.1.1 = {
+		death="1082.1.1"
+	}
+}
+
+1000167091 = {
+	name="Rodulf"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	father=1000167090
+	1048.1.1 = {
+		birth="1048.1.1" #unknown
+	}
+	1092.1.1 = {
+		death="1092.1.1"
+	}
+}
+
+1000167092 = {
+	name="Robert"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	father=1000167090
+	1050.1.1 = {
+		birth="1050.1.1" #unknown
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+1000167093 = {
+	name="Guimond"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	father=1000167090
+	1055.1.1 = {
+		birth="1055.1.1" #unknown
+	}
+	1105.1.1 = {
+		death="1105.1.1"
+	}
+}
+
+1000167094 = {
+	name="Hugues"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	father=1000167091
+	1068.1.1 = {
+		birth="1068.1.1" #unknown
+	}
+	1105.1.1 = {
+		death="1105.1.1"
+	}
+}
+
+1000167095 = {
+	name="Robert"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	father=1000167091
+	1070.1.1 = {
+		birth="1070.1.1" #unknown
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+
+1000167096 = {
+	name="Simone"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	father=1000167094
+	1085.1.1 = {
+		birth="1085.1.1" #unknown
+	}
+	1118.1.1 = {
+		death="1118.1.1"
+	}
+}
+
+1000167097 = {
+	name="Richard"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	father=1000167096 #relationship not known
+	1100.1.1 = {
+		birth="1100.1.1" #unknown
+	}
+	1176.1.1 = {
+		death="1176.1.1"
+	}
+}
+
+1000167098 = {
+	name="Roger"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	father=1000167097 #relationship not known
+	1130.1.1 = {
+		birth="1130.1.1" #unknown
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+1000167099 = {
+	name="Tomaso"
+	dynasty=101705 #de Moulin/de Moulins
+	religion="catholic"
+	culture="norman"
+	father=1000167098 #relationship not known
+	1170.1.1 = {
+		birth="1170.1.1" #unknown
+	}
+	1241.1.1 = {
+		death="1241.1.1"
+	}
+}

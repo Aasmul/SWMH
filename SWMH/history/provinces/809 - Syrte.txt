@@ -1,0 +1,28 @@
+# 809 - Syrte
+
+# County Title
+title = c_syrte
+
+# Settlements
+max_settlements = 1
+
+b_syrte = castle
+
+#b_abuhadi = city
+#b_assultan = temple
+#b_assidr = castle
+#b_lanuf = castle
+#b_bishr = castle
+#b_nawfalliyah = castle
+#b_qaryatbishr = castle
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+1050.1.1 = { culture = bedouin_arabic }
+1171.1.1 = { religion = sunni }
+
+

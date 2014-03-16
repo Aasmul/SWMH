@@ -1,0 +1,25 @@
+# 730 - Palmyra
+
+# County Title
+title = c_palmyra
+
+# Settlements
+max_settlements = 4
+
+b_baalshamin = castle
+b_arak = city
+b_palmyra = temple
+#b_fakhraldinalmaani = castle
+
+
+
+
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+

@@ -1,0 +1,36 @@
+# 307 - Werle
+
+# County Title
+title = c_werle
+
+# Settlements
+max_settlements = 5
+
+
+b_werle = castle
+b_stargard = castle
+b_waren = city
+
+#b_dargunabbey = temple
+#b_gustrow = city
+#b_strelitz = city
+#b_ahrensberg = castle
+#b_penzlin = castle
+#b_lychen = city
+#b_brodaabbey = temple
+
+
+
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+# Christianity only arrived with the Danish king Valdemar I
+1168.1.1 = { religion = catholic }
+1171.1.1 = { b_dargunabbey = temple }
+1226.1.1 = { b_gustrow = city }
+
+
+

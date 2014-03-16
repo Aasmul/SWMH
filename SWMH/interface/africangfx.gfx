@@ -1,0 +1,56 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_province_settlement_frame_africangfx"
+		texturefile = "gfx\\interface\\province_settlement_frame_muslimgfx.tga"
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_castle_africangfx"
+		texturefile = "gfx\\interface\\placeholder_castle_desert.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_city_africangfx"
+		texturefile = "gfx\\interface\\placeholder_city_desert.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_settlement_temple_africangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_desert.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_settlement_trade_post_africangfx"
+		texturefile = "gfx\\interface\\placeholder_trade_post_desert.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_settlement_family_palace_africangfx"
+		texturefile = "gfx\\interface\\placeholder_palace_desert.tga"
+		noOfFrames = 3
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_settlement_new_africangfx"
+		texturefile = "gfx\\interface\\province_new_settlement_desert.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_trade_post_africangfx"
+		texturefile = "gfx\\interface\\trade_post_muslim.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}
+}

@@ -1,0 +1,21 @@
+# 1514 - Angot
+
+# County Title
+title = c_angot
+
+# Settlements
+max_settlements = 5
+b_lalibela = castle
+b_adafa = temple
+b_berakit = temple
+
+#b_gashena = city
+#b_arbit = castle
+
+# Misc
+culture = ethiopian
+religion = miaphysite
+
+# History
+
+  

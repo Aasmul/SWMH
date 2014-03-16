@@ -1,0 +1,30 @@
+# 421 - Zhmud
+
+# County Title
+title = c_zhmud
+
+# Settlements
+max_settlements = 5
+
+b_zagare = castle
+b_raseiniai = city
+b_palanga = castle
+
+#b_kelme = castle
+#b_sventoji = city
+#b_varnai = castle
+#b_siauliai = city
+#b_jomiskis = castle
+#b_krazai = castle
+
+
+
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History
+
+1250.1.1 = { b_kelme = castle }
+1270.1.1= { trade_post = b_pat_luneburg }

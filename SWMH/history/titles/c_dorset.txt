@@ -1,0 +1,84 @@
+846.1.1={
+	liege="d_somerset"
+	holder=1000226218 # Osric ealdorman of Dorset 848-864+
+}
+871.1.1={
+	holder=1000226382 # Æthelwold youngest son of Ethelred I
+}
+899.10.27={
+	holder=1000226382 # Edward the Elder
+}
+924.8.3={
+	holder=33350 # Aethelstan the Glorious
+}
+927.7.12={
+	liege="k_england"
+}
+934.1.1={
+	liege="d_somerset"
+	holder=1000226350 # Eadric Earldorman of Wessex  ?-949
+}
+949.1.1={
+	holder=1000226348 #Æthelwald, probably Earldorman of Wessex 949-962
+}
+#962, Æthelwald murderd by the king. Most Westsaxon possesions of the family transferred to the family of Ælfhere.
+962.1.1={
+	holder=1000226358  #Ælfheah, Ealdorman of Hampshire 959-972. Brother of Ælfhere.
+}
+972.1.1={
+	holder=1000226368 # Æthelweard the historian, Earldorman of the western provinces(aka Wessex) 973-998. Maybe son of Eadric.
+}
+998.1.1={
+	liege="k_england"
+	holder=1000226371 # Æthelmær the Stout, Earldorman of the western provinces(aka Wessex) 1005-1015.
+}
+1005.1.1={
+	liege="d_somerset"
+}
+1015.1.1={
+	holder=106 # Aethelraed the Unready
+}
+1016.4.24={
+	holder=108 # Edmund Ironside
+}
+1016.11.30={
+	holder=120 # Godwine earl of Wessex
+}
+1051.1.1={
+	holder=120 # Odda of Deerhurst, Ealdorman of Somerset, Dorset, Devon and Cornwall 1051-1053
+}
+1053.4.15={
+	holder=122 # Harold Godwinson earl of wessex
+}
+1066.10.14=
+{
+	liege="k_england"
+	holder=140 # William the Conqueror
+}
+1087.9.9={
+	holder = 146
+}
+1100.8.3= {
+	holder = 202992
+} 
+1135.12.2={
+	holder = 205851
+}
+1154.10.25={
+	holder=204500
+}
+1187.1.1={
+	holder = 204514 
+}
+1216.10.28={
+	holder = 454522
+}
+1272.11.16={
+	holder = 454520
+}
+1307.1.2={
+	holder = 454510 #Edward II
+}
+1327.2.1={
+	holder=454500 #Edward III
+}

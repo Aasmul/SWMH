@@ -1,0 +1,21 @@
+# 1004 - Pozega
+
+# County Title
+title = c_pozega
+
+# Settlements
+max_settlements = 3
+
+b_pozega = castle
+b_brod = city
+#b_kutjevo = temple
+#b_kobas = temple
+#b_cernik_pozega = castle
+#b_zapolje_pozega = city
+
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History

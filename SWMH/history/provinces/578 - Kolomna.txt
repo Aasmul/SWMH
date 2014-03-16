@@ -1,0 +1,24 @@
+# 578 - Kolomna
+
+# County Title
+title = c_kolomna
+
+# Settlements
+max_settlements = 4
+
+b_kolomna = castle
+b_tula = castle
+#b_zaratysk = city
+#b_ozery = city
+#b_venev = city
+#b_dedilovo = temple
+
+
+# Misc
+culture = mordvin
+religion = finnish_pagan
+
+# History
+1130.1.1 = { religion = orthodox }
+1130.1.1 = { culture = russian }
+

@@ -1,0 +1,22 @@
+# 443 - Nitra
+
+# County Title
+title = c_nitra
+
+# Settlements
+max_settlements = 4
+b_nyitra = castle
+b_tapolcsany = city
+b_zobor = temple
+
+#b_surany = castle
+#b_zsambok = castle
+#b_komjat = castle
+#b_sempte = castle
+#b_galgoc = castle
+
+# Misc
+culture = moravian
+religion = catholic
+
+# History

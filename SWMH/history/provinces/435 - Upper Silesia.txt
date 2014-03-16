@@ -1,0 +1,21 @@
+# 435 - Upper Silesia
+
+title = c_lower_silesia
+
+# Settlements
+max_settlements = 4
+
+b_glogow = castle
+b_krosno = castle
+b_lubiaz = temple
+#b_zagan = castle
+#b_scinawa = city
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+990.1.1 = { religion = catholic }
+1250.1.1 = { culture = german }
+

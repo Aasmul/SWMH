@@ -1,0 +1,23 @@
+# 506 - Vidin
+
+# County Title
+title = c_vidin
+
+# Settlements
+max_settlements = 4
+
+b_svrljig = castle
+b_vidin = city
+#b_kozal = castle
+#b_klisurski = temple
+#b_belogradchik = castle
+b_archar = temple
+
+
+# Misc
+culture = bulgarian
+religion = orthodox
+
+# History
+
+ 

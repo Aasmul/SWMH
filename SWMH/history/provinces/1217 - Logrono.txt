@@ -1,0 +1,22 @@
+# 1217 - Logrono
+# County Title
+title = c_logrono
+
+# Settlements
+max_settlements = 4
+b_logronyo = castle
+b_alfaro = city
+b_calahorra = temple
+#b_arnedo = castle
+
+
+# Misc
+culture = castillan
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_logronyo = ca_keep_1
+	b_logronyo = ca_wall_1
+}

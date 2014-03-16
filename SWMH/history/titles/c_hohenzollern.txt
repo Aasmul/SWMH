@@ -1,0 +1,36 @@
+865.1.1={
+	liege=d_swabia
+	holder=90105 # Charles the Fat
+}
+876.8.28={
+	liege=k_germany
+	holder = 7991
+}
+1066.1.1=
+{
+	liege="d_swabia"
+}
+1066.1.1={
+	holder=212395
+}
+1125.1.1={
+	holder=212394
+}
+1145.1.1={
+	holder=212393
+}
+1200.1.1={
+	liege="e_hre"
+}
+1200.1.1={
+	holder=462356
+}
+1255.1.1={
+	holder=462355
+}
+1289.5.24={
+	holder=462351
+}
+1333.1.1={
+	holder=462350
+}

@@ -1,0 +1,31 @@
+# 362 - Domazlice
+
+# County Title
+title = c_domazlice
+
+# Settlements
+max_settlements = 6
+b_doudleby = castle
+b_pisek = city
+b_vyssi_brod = temple
+#b_rosenberg = castle
+#b_trebon = castle
+#b_netolice = castle
+#b_chynov = castle
+#b_budweis = city
+#b_tabor = city
+#b_milevsko = temple
+#b_zlata_koruna = temple
+
+
+# Misc
+
+culture = bohemian
+religion = slavic_pagan
+
+# History
+
+883.1.1 = { religion = catholic }
+1254.1.1 = { culture = german }
+1265.1.1 = { b_budweis = city }
+

@@ -1,0 +1,26 @@
+# 501 - Naissus
+
+# County Title
+title = c_naissus
+
+# Settlements
+max_settlements = 4
+
+b_pirot = castle
+b_nish = city
+#b_prokuplje = city
+#b_koprijan = castle
+#b_novobrdo = castle
+#b_vranje = city
+#b_gracanica = temple
+
+# Misc
+culture = romanian
+religion = orthodox
+
+# History
+
+892.1.1 = { culture = bulgarian }
+
+
+ 

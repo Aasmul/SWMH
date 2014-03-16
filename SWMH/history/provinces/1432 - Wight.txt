@@ -1,0 +1,16 @@
+# 1432 - Wight
+
+# County Title
+title = c_wight
+
+# Settlements
+max_settlements = 1
+
+b_carisbrooke = castle
+#b_east_cowes = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

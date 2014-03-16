@@ -1,0 +1,29 @@
+# 828 - Ouled Nail
+
+# County Title
+title = c_ouled_nail
+
+# Settlements
+max_settlements = 4
+
+b_bousaada = castle #Bou Sa'ada
+b_sidiheg = temple
+
+#b_ainzia = city #Ain Zia
+#b_roumana = castle
+#b_ainrich = castle
+#b_hassibenmadjeb = castle
+
+#b_tubirett = castle
+#b_bordjelcaid = castle
+#b_beneldir = castle
+
+# Misc
+culture = sanhaja
+religion = ibadi
+
+# History
+
+
+
+

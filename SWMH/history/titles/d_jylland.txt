@@ -1,0 +1,22 @@
+852.1.1={
+	holder = 6866 # Hårik II
+}
+865.1.1={
+	holder = 163113 # Bagsec
+}
+
+871.1.1={
+	holder = 0
+}
+961.1.1={
+	liege="k_denmark"
+}
+1051.1.1={
+	holder=101541 # Ulf Galica
+}
+1062.1.1={
+	holder=101542 # Thrugot Ulfssøn
+}
+1070.4.28={
+	holder=101542 # 0
+}

@@ -1,0 +1,17 @@
+# 716 - Ar'ar
+
+# County Title
+title = c_ar_ar
+
+# Settlements
+max_settlements = 3
+
+b_maridfortress = castle
+b_omaribnalkhattab = temple
+b_dumat_al_jundal = city
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

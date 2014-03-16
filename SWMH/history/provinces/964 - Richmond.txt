@@ -1,0 +1,26 @@
+# 964 - Richmond/Gillingshire
+
+# County Title
+title = c_richmond
+
+# Settlements
+max_settlements = 3
+
+b_gilling_west = castle
+b_middleham = city
+#b_richmond = castle
+
+
+# Misc
+
+culture = saxon
+religion = catholic
+
+# History
+866.1.1 = { culture = norse } # Danes settle down
+866.1.1 = { religion = norse_pagan } # Danes settle down
+931.1.1 = { religion = catholic } # Wulfstan becomes Archbishop of York
+1047.10.25 = { culture = danish } 
+1070.1.1 = { culture = saxon } # Harrying of the north
+1070.1.1 = { b_richmond = castle } 
+1100.11.11 = { culture = english } 

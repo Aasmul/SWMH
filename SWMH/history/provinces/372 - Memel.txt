@@ -1,0 +1,21 @@
+# 372 - Memel #Karšuva
+
+# County Title
+title = c_memel
+
+# Settlements
+max_settlements = 4
+
+b_jurbarkas = castle
+b_ariogala = castle
+#b_veliuona = castle
+#b_bayerburg = castle
+#b_lazdynai = city
+#b_taurage = city
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History
+

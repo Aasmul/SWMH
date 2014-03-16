@@ -1,0 +1,20 @@
+# 1166 - Brie
+
+# County Title
+title = c_brie
+
+# Settlements
+max_settlements = 4
+
+b_meaux = castle
+b_provins = city
+#b_montmirail = castle
+#b_chateauthierry = city
+
+
+
+culture = frankish
+religion = catholic
+
+# History
+

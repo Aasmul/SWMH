@@ -1,0 +1,25 @@
+# 492 - Strymon
+
+# County Title
+title = c_strymon
+
+# Settlements
+max_settlements = 5
+
+b_serres = castle
+b_amfipolis = temple
+b_philippi = city
+
+
+#b_chrysiopolis = city
+
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+
+
+

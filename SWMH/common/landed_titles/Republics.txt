@@ -1,0 +1,25 @@
+# Utlande:
+
+b_brethaestath = {
+	culture = danish
+	religion = catholic
+}
+
+b_giaethning = {
+	culture = danish
+	religion = catholic
+}
+
+b_braaklem = {
+	culture = frisian
+	religion = catholic
+}
+b_odenbel = {
+	culture = frisian
+	religion = catholic
+}
+
+b_taning = {
+	culture = frisian
+	religion = catholic
+}

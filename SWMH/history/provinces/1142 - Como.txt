@@ -1,0 +1,31 @@
+# 1142 - Como
+
+# County Title
+title = c_como
+
+# Settlements
+max_settlements = 5
+
+b_legnano = temple
+b_como = city
+b_lugano = castle
+b_sondrio = city
+
+#b_castellodibaradello = castle
+#b_castelloditirano = castle
+#b_tirano = city
+#b_castellodimontagnainvaltellina = castle
+#b_montagnainvaltellina = city
+#b_andalovaltellino = castle
+#b_castellodisondrio = castle
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+1127.1.1 = { capital = b_lugano }
+1193.12.25 = { capital = b_como }
+1240.1.1 = { capital = b_lugano }
+1240.1.1 = { b_chiavenna = castle }

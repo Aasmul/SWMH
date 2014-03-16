@@ -1,0 +1,17 @@
+# 1357 - Wajda
+
+# County Title
+title = c_wajda
+
+# Settlements
+max_settlements = 3
+
+b_oujda = castle
+b_jerada = city
+#b_ainbenimathar = temple
+
+# Misc
+culture = sanhaja
+religion = ibadi
+
+# History

@@ -1,0 +1,26 @@
+# 40 - Moray
+
+# County Title
+title = c_moray
+
+# Settlements
+max_settlements = 4
+b_forres = castle
+b_elgin = temple
+#b_kinloss = city
+#b_lochindorb = castle
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_forres = ca_keep_1
+	b_forres = ca_training_grounds_1
+	b_forres = ca_stable_1
+	b_forres = ca_stable_2
+	b_forres = ca_wall_1
+	b_forres = ca_wall_2
+}

@@ -1,0 +1,17 @@
+# 1375 - Soso
+
+# County Title
+title = c_soso
+
+# Settlements
+max_settlements = 3
+b_kirina = castle
+b_soso = city
+
+#b_beledugu = temple
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History

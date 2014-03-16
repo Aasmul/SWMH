@@ -1,0 +1,25 @@
+# 1196 - Palencia
+
+# County Title
+title = c_palencia
+
+# Settlements
+max_settlements = 4
+b_carrion = castle
+b_palencia = temple
+b_duenyas = city
+#b_saldanya = castle
+#b_aguilardecampoo = temple
+#b_astudillo = city
+
+
+# Misc
+culture = castillan
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_carrion = ca_keep_1
+	b_carrion = ca_wall_1
+}

@@ -1,0 +1,79 @@
+# Hungarian Husars
+castle = {
+	ca_culture_hungarian_1 = {
+		desc = ca_culture_hungarian_1_desc
+		potential = {
+			FROM = { 
+					culture_group = magyar
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_cavalry = 20
+		horse_archers = 10
+		light_cavalry_offensive = 0.15
+		horse_archers_offensive = 0.1
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_hungarian_2 = {
+		desc = ca_culture_hungarian_1_desc
+		potential = {
+			FROM = { 
+					culture_group = magyar
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_hungarian_1
+		build_cost = 300
+		build_time = 1095
+		light_cavalry = 25
+		horse_archers = 15
+		light_cavalry_offensive = 0.15
+		horse_archers_offensive = 0.1
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_hungarian_3 = {
+		desc = ca_culture_hungarian_1_desc
+		potential = {
+			FROM = { 
+					culture_group = magyar
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_hungarian_2
+		build_cost = 400
+		build_time = 2190
+		light_cavalry = 30
+		horse_archers = 20
+		light_cavalry_offensive = 0.15
+		horse_archers_offensive = 0.1
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_hungarian_4 = {
+		desc = ca_culture_hungarian_1_desc
+		potential = {
+			FROM = { 
+					culture_group = magyar
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_hungarian_3
+		build_cost = 500
+		build_time = 2190
+		light_cavalry = 35
+		horse_archers = 25
+		light_cavalry_offensive = 0.15
+		horse_archers_offensive = 0.1
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+}

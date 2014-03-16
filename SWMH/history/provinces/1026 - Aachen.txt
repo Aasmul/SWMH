@@ -1,0 +1,27 @@
+# 1026 - Aachen
+
+# County Title
+title = c_aachen
+
+# Settlements
+max_settlements = 2
+
+b_aachen = city
+#b_burtscheid = temple
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_aachen = ct_wall_1
+	b_aachen = ct_wall_2
+	b_aachen = ct_marketplace_1
+        b_aachen = ct_barracks_1
+	b_aachen = ct_training_grounds_1	
+}
+
+
+

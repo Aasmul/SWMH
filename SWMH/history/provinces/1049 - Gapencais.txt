@@ -1,0 +1,22 @@
+# 1049 - Gapencais
+
+# County Title
+title = c_gapencais
+
+# Settlements
+max_settlements = 4
+b_embrun = temple
+b_gap = city
+b_briancon = castle
+
+#b_stbonnet = temple #en Champsaur
+#b_serresn = city
+#b_veynes = castle
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History
+
+#NPPT lige Provence puis dauphiné

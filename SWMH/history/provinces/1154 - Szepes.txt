@@ -1,0 +1,29 @@
+# 1154 - Szepes
+
+# County Title
+title = c_szepes
+
+# Settlements
+max_settlements = 4
+
+b_szepesvaralja = castle
+b_szepesbela = city
+b_kesmark = castle
+
+#b_csurtotokhely = temple
+#b_hybbe = temple
+#b_olublo = castle
+#b_hanusflava = castle
+#b_hethars = castle
+#b_locse = castle
+
+# Misc
+culture = croatian # White Croats
+religion = catholic
+
+# History
+
+890.1.1 = { culture = moravian }
+
+
+

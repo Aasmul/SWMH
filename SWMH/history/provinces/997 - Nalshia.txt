@@ -1,0 +1,22 @@
+# 997 - Nalshia
+
+# County Title
+title = c_utena
+
+# Settlements
+max_settlements = 4
+
+b_utenele = castle
+b_svencionys = temple
+b_utena = city
+#b_uzpaliai = castle
+#b_tauragnai = castle
+#b_pastavy = temple
+
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History
+

@@ -1,0 +1,23 @@
+# 1458 - Ile
+
+# County Title
+title = c_ile
+
+# Settlements
+max_settlements = 3
+
+b_finlaggan = castle
+#b_kildalton = temple
+#b_colonsay = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = hills
+
+# History
+867.1.1 = {
+	b_finlaggan = ca_shipyard_1
+}
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norsegaelic } 

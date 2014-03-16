@@ -1,0 +1,18 @@
+# 1441 - Annaly
+
+# County Title
+title = c_annaly
+
+# Settlements
+max_settlements = 3
+
+
+b_longford = castle
+b_granard = temple
+#b_moatfarrell = castle
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

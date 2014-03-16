@@ -1,0 +1,20 @@
+# 586 - Galich Mersky
+
+# County Title
+title = c_galich_mersky
+
+# Settlements
+max_settlements = 3
+
+b_buy = castle
+b_gradmersky = city
+#b_chukholma = city
+
+
+# Misc
+culture = mari
+religion = finnish_pagan
+
+# History
+1150.1.1 = { culture = russian } 
+1150.1.1 = { religion = orthodox } 

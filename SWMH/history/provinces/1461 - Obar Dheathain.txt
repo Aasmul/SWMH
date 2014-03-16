@@ -1,0 +1,29 @@
+# 1461 - Obar Dheathain
+
+# County Title
+title = c_obardheathain
+
+# Settlements
+max_settlements = 5
+
+b_aiberdeen = castle
+b_ellon = city
+b_st_machar = temple
+#b_inverurie = castle
+#b_fyvie = castle
+
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_aiberdeen = ca_keep_1
+	b_aiberdeen = ca_training_grounds_1
+	b_aiberdeen = ca_stable_1
+	b_aiberdeen = ca_stable_2
+	b_aiberdeen = ca_wall_1
+	b_aiberdeen = ca_wall_2
+}

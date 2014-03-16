@@ -1,0 +1,20 @@
+# 238 - Valais
+
+# County Title
+title = c_valais
+
+# Settlements
+max_settlements = 3
+
+b_sitten = temple
+b_brig = castle
+
+#b_siders = castle
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

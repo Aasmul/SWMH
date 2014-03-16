@@ -1,0 +1,15 @@
+800.1.1={
+        liege="d_more"
+	holder = 1000228005 # Ivar Halvdansson mørekonge
+}
+825.1.1={
+        liege="d_more"
+	holder = 1000228006 # Øystein Ivarsson mørekonge
+}
+858.1.1={
+        liege="d_more"
+	holder = 1000228007 # Hundtjov Mørekonge
+}
+877.1.1={
+	holder = 0 # goes to the Mørejarls after the first battle of Solskjell
+}

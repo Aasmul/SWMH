@@ -1,0 +1,18 @@
+# 1352 - Qashtiliya
+
+# County Title
+title = c_qashtiliya
+
+# Settlements
+max_settlements = 3
+
+b_qamuda = castle
+b_qafsa = temple
+b_tazwir = city
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History
+

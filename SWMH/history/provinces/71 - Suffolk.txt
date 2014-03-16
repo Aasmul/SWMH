@@ -1,0 +1,34 @@
+# 71 - Suffolk
+
+# County Title
+title = c_suffolk
+
+# Settlements
+max_settlements = 4
+
+b_ipswich = castle
+b_dunwich = city
+#b_lidgate = castle
+#b_eye = temple
+#b_walton = castle
+b_bury_st_edmunds = temple
+#b_lowestoft = city
+#b_stow = city
+#b_framlingham = castle
+#b_bungay = castle
+#b_orford = castle
+#b_clare = castle
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+869.1.1 = { culture = norse } # Fall of East Anglia
+869.1.1 = { religion = norse_pagan } # Fall of East Anglia
+879.1.1 = { religion = catholic } # Guthrum becomes Æþelstan
+1002.11.13 = { culture = saxon } # St. Brice's Day
+1078.1.1 = { b_eye = temple }
+1100.11.11 = { culture = english }
+1331.1.1 = { trade_post = b_vorrade }

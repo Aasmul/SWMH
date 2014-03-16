@@ -1,0 +1,24 @@
+# 1445 - Wicklow
+
+# County Title
+title = c_wicklow
+
+# Settlements
+max_settlements = 3
+
+b_glendalough = temple
+b_wicklow = castle
+
+#b_carnew = city
+#b_arklow = castle
+
+
+# Misc
+culture = norse
+religion = catholic
+
+# History
+867.1.1 = {
+	b_wicklow = ca_shipyard_1
+}
+1047.10.25 = { culture = norsegaelic }

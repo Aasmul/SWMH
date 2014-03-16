@@ -1,0 +1,28 @@
+# 359 - Innsbruck # Traungau
+
+# County Title
+title = c_innsbruck
+
+# Settlements
+max_settlements = 5
+
+b_steyr = castle # from Österreich
+b_linz = city
+b_lambach = temple
+b_schaunberg = castle
+#b_kremsmunster = temple # Kremsmünster
+#b_sanktflorian = temple
+#b_wilhering = temple 
+#b_enns = city
+#b_eferding = city
+#b_wels = city
+#b_traun = castle
+#b_wildberg = castle
+#b_rebgau = castle
+#b_freudenstein = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History

@@ -1,0 +1,22 @@
+# 121 - Nassau
+
+# County Title
+title = c_nassau
+
+# Settlements
+max_settlements = 4
+b_nassau = castle
+b_wetzlar = city
+
+#b_falkenstein_nassau = castle
+b_solms = castle
+#b_braunfels = city
+#b_laurenburg = castle
+#b_isenburg = castle
+#b_schaldeck = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History

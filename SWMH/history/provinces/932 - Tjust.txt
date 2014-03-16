@@ -1,0 +1,22 @@
+# 932 - Tjust # AKA Värend
+# County Title
+title = c_tjust
+
+# Settlements
+max_settlements = 2
+
+b_kronoberg = castle
+b_vaxjo = temple
+#b_aringsas = city
+#b_alvesta = temple
+#b_jat = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1047.10.25 = { culture = gothic } 
+1130.1.1 = {
+	religion = catholic
+}

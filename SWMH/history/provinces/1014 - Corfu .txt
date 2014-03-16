@@ -1,0 +1,21 @@
+# 1014 - Corfu
+
+# County Title
+title = c_corfu
+
+# Settlements
+max_settlements = 3
+
+b_angelokastro = castle
+b_corfu = city 
+#b_palaiofrourio = castle
+
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+1066.1.1 = { trade_post = b_morosini }
+

@@ -1,0 +1,24 @@
+# 1297 - Pomesania
+
+# County Title
+title = c_pomesania
+
+# Settlements
+max_settlements = 4
+
+b_dzierzgon = castle
+b_prabuty = temple
+#b_marienwerder = castle
+#b_sztum = city
+#b_malbork = castle
+
+
+# Misc
+culture = prussian
+religion = baltic_pagan
+
+# History
+1236.1.1 = { b_marienwerder = castle }
+1248.1.1 = { religion = catholic } #bishopery of pomesania
+1249.1.1 = { culture = german } # did not join the second uprising
+1274.1.1 = { b_malbork = castle }

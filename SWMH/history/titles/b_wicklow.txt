@@ -1,0 +1,8 @@
+855.1.1={
+	liege="d_western_isles"
+	holder = 168330
+}
+1056.1.1={
+	liege = c_leinster
+	holder = 1000226404 #"Gofraid" of Wexford
+}

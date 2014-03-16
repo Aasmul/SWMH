@@ -1,0 +1,39 @@
+# 1304 - Sydsjaelland
+
+# County Title
+title = c_sydsjaelland
+
+# Settlements
+max_settlements = 4
+
+b_vordingborg = castle
+b_naestved = city
+b_skovkloster = temple
+#b_valloslot = castle
+#b_praestoe = city
+#b_jungshoved = castle
+#b_heddinge = city
+#b_faxe = city
+
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = farmlands
+
+# History
+1018.1.1 = { religion = catholic } 
+1047.10.25 = { culture = danish } 
+1066.1.1 = { 
+	b_vordingborg = ca_keep_1
+	b_vordingborg = ca_stable_1
+	b_vordingborg = ca_militia_barracks_1
+        b_vordingborg = ca_militia_barracks_2
+	b_vordingborg = ca_wall_1
+	b_vordingborg = ca_wall_2
+	b_naestved = ct_wall_1
+	b_naestved = ct_port_1
+	b_naestved = ct_barracks_1
+}
+#1135.1.1 = { b_skovkloster = temple }
+1180.1.1 = { b_valloslot = castle }

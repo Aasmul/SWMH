@@ -1,0 +1,332 @@
+#######################################
+# HRE special titles by Aasmul
+#######################################
+
+title_archchancellor_of_germany = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = no
+
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+		has_landed_title = d_mainz
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_archchancellor_of_burgundy = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = no
+
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+		has_landed_title = d_trier 
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_archchancellor_of_italy = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = no
+
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+		has_landed_title = d_koln 
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_archcupbearer_of_hre = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = yes
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+		has_landed_title = k_bohemia 
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_archsteward_of_hre = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = yes
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+		OR = { has_landed_title = d_lower_lorraine
+                       has_landed_title = k_bavaria     
+                       has_landed_title = d_pfalz           
+	}
+        }
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_archmarshal_of_hre = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = yes
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+		OR = { has_landed_title = d_saxony
+                       has_landed_title = k_saxony                
+	}
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_archchamberlain_of_hre = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = yes
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+                    has_landed_title = d_brandenburg
+              
+        }
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_archtreasurer_of_hre = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = yes
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+		OR = { has_landed_title = d_lower_lorraine
+                       has_landed_title = d_brunswick  
+                       has_landed_title = d_pfalz         
+	}
+        }
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+title_archbannerbearer_of_hre = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = yes
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+		OR = { has_landed_title = d_brunswick
+                        has_landed_title = k_franconia
+                        has_landed_title = k_lower_lorraine
+                        has_landed_title = k_upper_lorraine
+                        has_landed_title = k_frisia
+                        has_landed_title = k_carinthia 
+                        has_landed_title = k_germany               
+	}
+        }
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+#Rector of burgundy by hansa_LP89
+title_rector_of_burgundy = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 10
+	show_as_title = yes
+	realm_in_name = no
+
+	monthly_prestige = 0.005
+	
+	allow = {
+		is_female = no
+		FROM = {
+			is_feudal = yes
+			has_landed_title = e_hre
+		}
+                has_landed_title = d_zahringen 
+	}
+	
+	gain_effect = {
+	}
+	lose_effect = {
+	}
+
+	message = yes
+}
+# Archduke of Austria, and archmaster of the hunt by Ruwaard
+
+title_archmaster_of_the_hunt_of_hre = {
+    dignity = 0.05
+    grant_limit = 1
+    opinion_effect = 10
+    show_as_title = yes
+    realm_in_name = yes
+    monthly_prestige = 0.005
+    
+    allow = {
+        is_female = no
+        FROM = {
+            is_feudal = yes
+            has_landed_title = e_hre
+        }
+        OR = {
+            has_landed_title = d_meissen
+            has_landed_title = d_franconia
+            has_landed_title = d_swabia
+            has_landed_title = k_franconia
+            has_landed_title = k_lower_lorraine
+            has_landed_title = k_upper_lorraine
+            has_landed_title = k_frisia
+            has_landed_title = k_carinthia 
+            has_landed_title = k_germany    
+        }    
+    }
+    
+    gain_effect = {
+    }
+    lose_effect = {
+    }
+
+    message = yes
+}
+#title_erzherzog_of_osterreich = {
+#    dignity = 3
+#    grant_limit = 1
+#    opinion_effect = 10
+#    show_as_title = yes
+#   realm_in_name = no
+#
+#    monthly_prestige = 0.02
+#    
+#    allow = {
+#        is_female = no
+#        FROM = {
+#            is_feudal = yes
+#            has_landed_title = e_hre
+#        }
+#      AND = {
+#        has_landed_title = d_osterreich
+#        OR = {    
+#            has_landed_title = d_carinthia
+#            has_landed_title = d_styria
+#            has_landed_title = d_tyrol
+#        }    
+# }
+#}    
+#    gain_effect = {
+#    }
+#    lose_effect = {
+#    }
+#
+#    message = yes
+#}

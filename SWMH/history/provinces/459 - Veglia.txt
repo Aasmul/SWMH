@@ -1,0 +1,22 @@
+# 469 - Veglia 
+
+# County Title
+title = c_veglia
+
+# Settlements
+max_settlements = 3
+
+b_krk = castle
+b_baska = temple
+#b_omisalj = city
+b_vrbnik_krk = city
+#b_dobrinj = city
+
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History
+
+1146.1.1 = { trade_post = b_contarini }

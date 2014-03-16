@@ -1,0 +1,28 @@
+# 961 - Branicevo
+
+# County Title
+title = c_branicevo
+
+# Settlements
+max_settlements = 5
+
+b_ram = castle
+b_branicevo = city
+b_cuprija_ravno = city
+#b_manasija = temple
+#b_sutjeska = temple
+#b_ravanica_monestary = temple
+#b_stalac = castle
+#b_krusevac = city
+#b_golubac = castle
+#b_zhdrelo = castle
+#b_kucevo = castle
+
+
+# Misc
+culture = bulgarian
+religion = orthodox
+
+# History
+
+ 

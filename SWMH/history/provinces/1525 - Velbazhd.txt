@@ -1,0 +1,25 @@
+# 1525 - Velbazhd
+
+# County Title
+title = c_velbazhd
+
+# Settlements
+max_settlements = 3
+
+b_pernik = castle
+b_velbazhd = castle
+#b_zletovo = temple
+#b_zemen = temple
+#b_osogovo = temple
+
+
+# Misc
+culture = bulgarian
+religion = orthodox
+
+# History
+
+
+
+
+

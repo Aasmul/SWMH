@@ -1,0 +1,19 @@
+# 1097 - Dzopk
+
+# County Title
+title = c_dzopk
+
+# Settlements
+ max_settlements = 3
+b_horberd = castle
+b_arshamasat = city
+#b_handzit = temple
+#b_koghoberd = castle
+#b_paghin = city
+
+ 
+# Misc
+culture = armenian
+religion = miaphysite
+
+# History

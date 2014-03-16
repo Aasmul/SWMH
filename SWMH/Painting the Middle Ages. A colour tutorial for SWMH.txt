@@ -1,0 +1,18 @@
+How to change the color of an entity:
+
+1. Open up landedtitles.txt(can be found in the landedtitle folder located in the commonfolder of the mod) and search on the entity's codetag(will often contain the english name of the entity you are looking for)
+If looking for the the Holy roman empire the tag is: e_hre
+
+2. Just beneath the entity tag will be two RGB color codes, its the first one of these you are intereted in.
+
+Since the HRE color is somthing that many feel strongly about, and it understandably can be hard to reach a consensus on, you will find a couple of the more popular colors as spare RGB values between the first and the second RGB entry of it.
+(a "#" infront of an entry means the engine dosn't read what comes after the # on that line) 
+In order to get one of the others simply put a # infront of the one currently used and remove the # from infront of the color you want instead, then save.
+The HRE should now change to the new color ingame :-)
+
+(3.) If wanting a custom color you should then look around for rgb color options in a grapichal editor like; GIMP(free), Photoshop(exspensive) or Paint.net(free)
+Its adviceable to use GIMP or photoshop for this purpose, the paint.net colordisplay dosn't render the colors very well and you won't get the same hue ingame as you thought you just had found.
+
+(4.) Having found your color, replace the old landedtitle RGB values with the new ones, and save.
+
+(5.) You should now get the color ingame you were looking for:) 

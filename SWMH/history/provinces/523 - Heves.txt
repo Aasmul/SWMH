@@ -1,0 +1,26 @@
+# 523 - Heves
+
+# County Title
+title = c_heves
+
+# Settlements
+max_settlements = 4
+
+b_heves = castle
+b_eger = temple
+b_gyonguos = city
+#b_poroszlo = castle
+#b_kisnana = castle
+#b_ballagzentmiklos = castle
+#b_petervasara = castle
+#b_jaszarokszallas = castle
+#b_jaszapati = castle
+#b_jaszbereny = castle
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }

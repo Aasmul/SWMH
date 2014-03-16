@@ -1,0 +1,112 @@
+# SWMH Zaghawa characters
+
+# Characters: 1000228600 - 1000228649
+# Dynasties: 1000101130 - 1000101149
+
+
+1000228600 = {
+	name="Kuti" #Zaghawa 860-890
+	dynasty=1000101130
+	religion="west_african_pagan"
+	culture="zaghawa"
+	841.1.1 = {
+		birth="841.1.1"
+	}
+	890.1.1 = {
+		death="890.1.1"
+	}
+}
+1000228601 = {
+	name="Timan" #Zaghawa 890-925
+	dynasty=1000101130
+	religion="west_african_pagan"
+	culture="zaghawa"
+	father=1000228600
+	862.1.1 = {
+		birth="862.1.1"
+	}
+	925.1.1 = {
+		death="925.1.1"
+	}
+}
+1000228602 = {
+	name="Yahya" #Zaghawa 1066-1080
+	dynasty=1000101130
+	religion="west_african_pagan"
+	culture="zaghawa"
+	1038.1.1 = {
+		birth="1038.1.1"
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+1000228603 = {
+	name="Hishi" #Zaghawa 1080-1113
+	dynasty=1000101130
+	religion="west_african_pagan"
+	culture="zaghawa"
+	father=1000228602
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1113.1.1 = {
+		death="1113.1.1"
+	}
+}
+1000228604 = {
+	name="Ibrahim" #Zaghawa 1113-1140
+	dynasty=1000101130
+	religion="west_african_pagan"
+	culture="zaghawa"
+	father=1000228603
+	1087.1.1 = {
+		birth="1087.1.1"
+	}
+	1140.1.1 = {
+		death="1140.1.1"
+	}
+}
+1000228605 = {
+	name="Yahya" #Zaghawa 1140-1178
+	dynasty=1000101130
+	religion="west_african_pagan"
+	culture="zaghawa"
+	father=1000228604
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1178.1.1 = {
+		death="1178.1.1"
+	}
+}
+1000228606 = {
+	name="Shartay" #Zaghawa 1178-1210
+	dynasty=1000101130
+	religion="west_african_pagan"
+	culture="zaghawa"
+	father=1000228605
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1210.1.1 = {
+		death="1210.1.1"
+	}
+}
+
+
+1000228607 = {
+	name="Shartay" #placeholder 1178-1210
+	dynasty=1000101133  #Tubu in Koufra and Tibesti
+	religion="west_african_pagan"
+	culture="zaghawa"
+	father=0
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
+}
+
+# free Characters: 1000228608 - 1000228649

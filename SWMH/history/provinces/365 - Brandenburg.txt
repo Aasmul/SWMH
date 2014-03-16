@@ -1,0 +1,30 @@
+# 365 - Brandenburg
+
+# County Title
+title = c_brandenburg
+
+# Settlements
+max_settlements = 6
+
+b_copenick = castle
+b_brandenburg = castle
+
+#b_brenna = city
+#b_spandau = castle
+#b_boztow = city
+#b_lehin = temple
+#b_bernau = city
+#b_berlin = city
+#b_muncheberg = temple
+#b_templin = city
+#b_prenzlau = city
+
+# Misc
+
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+1160.1.1 = { culture = german }
+1160.1.1 = { religion = catholic } 
+1187.1.1 = { b_brenna = city } 

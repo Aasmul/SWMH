@@ -1,0 +1,18 @@
+# 1492 - Butana
+
+# County Title
+title = c_butana
+
+# Settlements
+max_settlements = 3
+b_meruwah = castle
+b_shendi = temple
+
+#b_naqa = city
+
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

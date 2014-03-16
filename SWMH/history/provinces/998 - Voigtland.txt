@@ -1,0 +1,24 @@
+# 998 - Voigtland
+# County Title
+title = c_voigtland
+
+# Settlements
+max_settlements = 4
+
+b_weida = castle
+b_plauen = city
+b_greiz = castle
+
+#b_voigtsberg = castle
+#b_ronneberg = castle
+#b_schoneck = city
+#b_gera= temple
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+
+883.1.1 = { culture = german }
+883.1.1 = { religion = catholic }

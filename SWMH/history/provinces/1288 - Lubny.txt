@@ -1,0 +1,20 @@
+# 1288 - Lubny
+
+# County Title
+title = c_lubny
+
+# Settlements
+max_settlements = 3
+
+b_lubny = castle
+#b_snityn = city
+#b_lukolm = castle
+#b_grosin = city
+#b_vosin = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

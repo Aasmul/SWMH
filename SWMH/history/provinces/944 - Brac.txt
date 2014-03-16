@@ -1,0 +1,21 @@
+# 944 - Brac
+
+# County Title
+title = c_brac
+
+# Settlements
+max_settlements = 2
+
+b_nerezisca = castle
+#b_supetar = city
+b_bol_brac = temple
+#b_murciva = temple
+
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History
+
+#1150.1.1 = { b_supetar = city }

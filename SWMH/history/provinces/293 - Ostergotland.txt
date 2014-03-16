@@ -1,0 +1,29 @@
+# 293 - Östergötland
+
+# County Title
+title = c_ostergotland
+
+# Settlements
+max_settlements = 5
+
+b_stegeborg = castle
+b_skanninge = city	
+b_linkoping = temple	
+
+#b_soderkoping = city	
+
+#b_vreta = temple 	
+#b_alvastra = temple 	
+#b_vadstena = temple 	
+#b_norrkoping = castle	
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1047.10.25 = { culture = gothic } 
+1060.8.2 = {religion = catholic}
+
+1187.1.1 = { b_soderkoping = city }
+1235.1.1= { trade_post = b_wittenborg }

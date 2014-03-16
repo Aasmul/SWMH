@@ -1,0 +1,18 @@
+# 1506 - Tigre
+
+# County Title
+title = c_tigre
+
+# Settlements
+max_settlements = 3
+b_tigre = castle
+b_wegera = temple
+
+#b_weldibba = city
+
+# Misc
+culture = ethiopian
+religion = miaphysite
+
+# History
+

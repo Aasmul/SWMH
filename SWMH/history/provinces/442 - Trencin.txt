@@ -1,0 +1,25 @@
+# 442 - Trencín
+
+# County Title
+title = c_trencin
+
+# Settlements
+max_settlements = 4
+b_trencsen = castle
+b_becko = city
+b_rajec = temple
+
+#b_puho = castle
+#b_nagybiccse = castle
+#b_zniovaralja = castle
+#b_turocszenmarton = castle
+#b_zsolna = castle
+#b_kiszucaujhely = castle
+#b_illava = castle
+
+# Misc
+culture = moravian
+religion = catholic
+
+# History
+

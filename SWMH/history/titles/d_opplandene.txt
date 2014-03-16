@@ -1,0 +1,8 @@
+850.1.1={
+	liege="d_opplandene"
+	holder = 161301 # Eystein Glumra king or jarl of Oppland
+}
+872.1.1={
+	holder = 0
+}
+

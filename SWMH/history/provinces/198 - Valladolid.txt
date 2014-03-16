@@ -1,0 +1,27 @@
+# 198 - Valladolid
+
+# County Title
+title = c_valladolid
+
+# Settlements
+max_settlements = 4
+b_penyafiel = castle
+b_valladolid = city
+#b_hornija = temple
+#b_medinaderioseco = city
+#b_uruenya = castle
+
+# Misc
+culture = castillan
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_penyafiel = ca_town_1
+	b_penyafiel = ca_keep_1
+	b_penyafiel = ca_stable_1
+	b_penyafiel = ca_militia_barracks_1
+	b_penyafiel = ca_wall_1
+	b_penyafiel = ca_wall_2
+}

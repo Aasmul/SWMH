@@ -1,0 +1,23 @@
+# 427 - Galindia
+
+# County Title
+title = c_galindia
+
+# Settlements
+max_settlements = 3
+
+b_lotzen = castle
+b_sensburg = city
+
+#b_ortelsburg = castle
+#b_johannisburg = castle
+#b_angersburg = castle
+
+
+# Misc
+culture = prussian
+religion = baltic_pagan
+
+# History
+
+1300.1.1 = { religion = catholic }

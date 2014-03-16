@@ -1,0 +1,26 @@
+# 1012 - Prizren
+
+# County Title
+title = c_prizren
+
+# Settlements
+max_settlements = 5
+
+b_zvecan = castle
+#b_vushtri = city
+b_pristina = city
+b_prizren = temple
+#b_pec_hvosno = temple
+#b_strpce = castle
+
+
+
+# Misc
+culture = serbian
+religion = slavic_pagan
+
+# History
+
+880.1.1 = { religion = orthodox }
+
+1266.1.1 = { b_pec_hvosno = temple }

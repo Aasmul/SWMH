@@ -1,0 +1,31 @@
+# 1246 - Aunis
+
+# County Title
+title = c_aunis
+
+# Settlements
+max_settlements = 4
+b_chatelaillon = castle
+b_larochelle = city
+b_godsgrace = temple
+
+#b_vauclaircastle = castle
+#b_maransaunis = castle
+#b_surgeres = city
+#b_fourasaunis = castle
+
+
+
+
+
+culture = frankish
+religion = catholic
+
+# History
+#1137.1.1   = { b_vauclaircastle = castle }
+
+
+
+
+
+

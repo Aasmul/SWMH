@@ -1,0 +1,17 @@
+# 176 - Molina
+
+# County Title
+title = c_molina
+
+# Settlements
+max_settlements = 4
+b_molina = castle
+b_siguenza = temple
+#b_atienza = city
+
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1144.1.1 = { culture = castillan }
+1144.1.1 = { religion = catholic }

@@ -1,0 +1,20 @@
+# 1439 - Sligo
+
+# County Title
+title = c_sligo
+
+# Settlements
+max_settlements = 3
+
+
+b_drumcliffe = temple
+#b_sligo = castle
+#b_templehouse = castle
+#b_ballymote = castle
+
+# Misc
+culture = irish
+religion = catholic
+terrain = hills
+
+# History

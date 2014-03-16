@@ -1,0 +1,30 @@
+# 341 - Trapani
+
+# County Title
+title = c_trapani
+
+# Settlements
+max_settlements = 5
+b_erice = castle
+b_trapani = temple
+b_marsala = city
+b_partanna = castle
+
+#b_alcarno = castle
+#b_salemi = city
+#b_calamonuci = city
+#b_sanguiseppelato = castle #San Giuseppe Lato
+#b_castelvertrano = city
+#b_mazara = temple
+#b_castellammaredelgolfo = castle
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History
+1097.1.1={ culture = sicilian }
+1097.1.1={ religion = catholic }
+1151.1.1 = { trade_post = b_caetani }
+1285.1.1  = { trade_post = b_fieschi }
+

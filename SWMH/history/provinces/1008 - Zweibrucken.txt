@@ -1,0 +1,21 @@
+# 1008 - Zweibrucken
+# County Title
+title = c_zweibrucken
+
+# Settlements
+max_settlements = 4
+
+b_zweibrucken = castle
+b_veldenz = city
+b_hornbach= temple
+#b_vittlich = city
+#b_lemberg = castle
+#b_sclossveldenz = castle
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

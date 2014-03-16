@@ -1,0 +1,22 @@
+# 549 - Beresty
+
+# County Title
+title = c_beresty
+
+# Settlements
+max_settlements = 4
+b_beresty = castle
+b_kobryn = city
+#b_dzivin = temple
+#b_bialapodlaska = city
+#b_kamyanyets = castle
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+1276.1.1 = { b_kamyanyets = castle }
+
+

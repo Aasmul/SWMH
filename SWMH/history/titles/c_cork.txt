@@ -1,0 +1,6 @@
+850.1.1={
+	liege = "d_munster"
+}
+1066.1.1 = {
+	holder = 1000226423 # "Finghin", Count of Cork
+}

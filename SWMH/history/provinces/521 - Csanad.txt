@@ -1,0 +1,22 @@
+# 521 - Csanad
+
+# County Title
+title = c_csanad
+
+# Settlements
+max_settlements = 5
+
+b_zombor = castle
+b_csanad = city
+b_besenyo = temple
+#b_osijek = temple
+#b_virovitica = castle
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+

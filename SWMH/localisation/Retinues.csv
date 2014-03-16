@@ -1,0 +1,132 @@
+RETTYPE_CUL_KARANTANCI;Vitez;Vitez;Vitez;;Vitez;;;;;;;;;x
+RETTYPE_CUL_MORAVIAN;Rytír;Rytír;Rytír;;Rytír;;;;;;;;;x
+RETTYPE_CUL_POMMERANIAN;Druzyna;Druzyna;Druzyna;;Druzyna;;;;;;;;;x
+RETTYPE_CUL_CROATIAN;Uskok;Uskok;Uskok;;Uskok;;;;;;;;;x
+RETTYPE_CUL_BOSNIAN;Vlastela;Vlastela;Vlastela;;Vlastela;;;;;;;;;x
+RETTYPE_CUL_SERBIAN;Vlastela;Vlastela;Vlastela;;Vlastela;;;;;;;;;x
+RETTYPE_CUL_BULGARIAN;Bolqr;Bolqr;Bolqr;;Bolqr;;;;;;;;;x
+RETTYPE_CUL_BOHEMIAN;Rytír;Rytír;Rytír;;Rytír;;;;;;;;;x
+RETTYPE_CUL_ROMANIAN;Calarasi;Calarasi;Calarasi;;Calarasi;;;;;;;;;x
+RETTYPE_CUL_HUNG;Bandérium;Bandérium;Bandérium;;Bandérium;;;;;;;;;x
+RETTYPE_CUL_FINNO_UGRIC;Soturi Lempo;Soturi Lempo;Soturi Lempo;;Soturi Lempo;;;;;;;;;x
+RETTYPE_CUL_BALT;Karavirs Perkons;Karavirs Perkons;Karavirs Perkons;;Karavirs Perkons;;;;;;;;;x
+RETTYPE_CUL_NORMAN;Chevalier;Chevalier;Chevalier;;Chevalier;;;;;;;;;x
+RETTYPE_CUL_SOUTH_SLA;Gusar;Gusar;Gusar;;Gusar;;;;;;;;;x
+RETTYPE_CUL_BRETTON;Marc'heg;Marc'heg;Marc'heg;;Marc'heg;;;;;;;;;x
+RETTYPE_CUL_SCOT;Schiltron;Schiltron;Schiltron;;Schiltron;;;;;;;;;x
+RETTYPE_CUL_IRISH;Gallóglach;Gallóglach;Gallóglach;;Gallóglach;;;;;;;;;x
+RETTYPE_CUL_NORSEGAELIC;Gallóglach;Gallóglach;Gallóglach;;Gallóglach;;;;;;;;;x
+RETTYPE_CUL_CORNISH;Marc'heg;Marc'heg;Marc'heg;;Marc'heg;;;;;;;;;x
+RETTYPE_CUL_WELSH;Longbow;Longbow;Longbow;;Longbow;;;;;;;;;x
+RETTYPE_CUL_ENG;Longbow;Longbow;Longbow;;Longbow;;;;;;;;;x
+RETTYPE_CUL_FRISIAN;Goedendag Burgerwacht;Goedendag Burgerwacht;Goedendag Burgerwacht;;Goedendag Burgerwacht;;;;;;;;;x
+RETTYPE_CUL_ANGLONORSE;Heimþegi;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
+RETTYPE_CUL_SAXON;Þingalið;Þingalið;Þingalið;;Þingalið;;;;;;;;;x
+RETTYPE_CUL_NORWEGIAN;Heiðþegi;Heiðþegi;Heiðþegi;;Heiðþegi;;;;;;;;;x
+RETTYPE_CUL_DANISH;Heimþegi;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
+RETTYPE_CUL_GOTHIC;Heimþegi;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
+RETTYPE_CUL_SWEDISH;Heimþegi;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
+RETTYPE_CUL_DUTCH;Goedendag Burgerwacht;Goedendag Burgerwacht;Goedendag Burgerwacht;;Goedendag Burgerwacht;;;;;;;;;x
+RETTYPE_CUL_GERMAN;Ritter;Ritter;Ritter;;Ritter;;;;;;;;;x
+RETTYPE_CUL_RUS;Druzhýna;Druzhýna;Druzhýna;;Druzhýna;;;;;;;;;x
+RETTYPE_CUL_POLISH;Druzyna;Druzyna;Druzyna;;Druzyna;;;;;;;;;x
+RETTYPE_CUL_LITHUANIAN;Perkuno Karys;Perkuno Karys;Perkuno Karys;;Perkuno Karys;;;;;;;;;x
+RETTYPE_CUL_E_AFR;Zãbãnnya;Zãbãnnya;Zãbãnnya;;Zãbãnnya;;;;;;;;;x
+RETTYPE_CUL_IRANIAN;Khwarezmiyya;Khwarezmiyya;Khwarezmiyya;;Khwarezmiyya;;;;;;;;;x
+RETTYPE_CUL_MONGOL;Kheshig;Kheshig;Kheshig;;Kheshig;;;;;;;;;x
+RETTYPE_CUL_BYZ;Kataphraktos;Kataphraktos;Kataphraktos;;Kataphraktos;;;;;;;;;x
+RETTYPE_CUL_TURKISH;Sipahi;Sipahi;Sipahi;;Sipahi;;;;;;;;;x
+RETTYPE_CUL_ALTAIC;Kheshig;Kheshig;Kheshig;;Kheshig;;;;;;;;;x
+RETTYPE_CUL_GEORGIAN;Mona'spa;Mona'spa;Mona'spa;;Mona'spa;;;;;;;;;x
+RETTYPE_CUL_ITA;Cavaliere;Cavaliere;Cavaliere;;Cavaliere;;;;;;;;;x
+RETTYPE_CUL_SARDINIAN;Cavaliere;Cavaliere;Cavaliere;;Cavaliere;;;;;;;;;x
+RETTYPE_CUL_SICILIAN;Cavaliere;Cavaliere;Cavaliere;;Cavaliere;;;;;;;;;x
+RETTYPE_CUL_CORSICAN;Cavaliere;Cavaliere;Cavaliere;;Cavaliere;;;;;;;;;x
+RETTYPE_CUL_CENTRAL_ITALIAN;Cavaliere;Cavaliere;Cavaliere;;Cavaliere;;;;;;;;;x
+RETTYPE_CUL_SOUTHER_ITALIAN;Cavaliere;Cavaliere;Cavaliere;;Cavaliere;;;;;;;;;x
+RETTYPE_CUL_NEAPOLITAN;Cavaliere;Cavaliere;Cavaliere;;Cavaliere;;;;;;;;;x
+RETTYPE_CUL_TUSCAN;Cavaliere;Cavaliere;Cavaliere;;Cavaliere;;;;;;;;;x
+RETTYPE_CUL_LIGURIAN;Balestriero Genoveso;Balestriero Genoveso;Balestriero Genoveso;;Balestriero Genoveso;;;;;;;;;x
+RETTYPE_CUL_ARPITAN;Chevalier;Chevalier;Chevalier;;Chevalier;;;;;;;;;x
+RETTYPE_CUL_VENETIAN;Oltremarino;Oltremarino;Oltremarino;;Oltremarino;;;;;;;;;x
+RETTYPE_CUL_LANGOBARDISCH;Spatharius;Spatharius;Spatharius;;Spatharius;;;;;;;;;x
+RETTYPE_CUL_N_AFR;Zenata;Zenata;Zenata;;Zenata;;;;;;;;;x
+RETTYPE_CUL_ARAB;Al-Faris;Al-Faris;Al-Faris;;Al-Faris;;;;;;;;;x
+RETTYPE_CUL_CATALAN;Almughavar;Almughavar;Almughavar;;Almughavar;;;;;;;;;x
+RETTYPE_CUL_ANDALUSIAN;Zenata;Zenata;Zenata;;Zenata;;;;;;;;;x
+RETTYPE_CUL_CASTILLIAN;Cabellero;Cabellero;Cabellero;;Cabellero;;;;;;;;;x
+RETTYPE_CUL_PORTUGESE;Cavaleiro;Cavaleiro;Cavaleiro;;Cavaleiro;;;;;;;;;x
+RETTYPE_CUL_GALICIAN;Cavaleiro;Cavaleiro;Cavaleiro;;Cavaleiro;;;;;;;;;x
+RETTYPE_CUL_OCCTIAN;Chevalier;Chevalier;Chevalier;;Chevalier;;;;;;;;;x
+RETTYPE_CUL_ARAGONESE;Cabellero;Cabellero;Cabellero;;Cabellero;;;;;;;;;x
+RETTYPE_CUL_LEONESE;Cabellero;Cabellero;Cabellero;;Cabellero;;;;;;;;;x
+RETTYPE_CUL_FRANKISH;Chevalier;Chevalier;Chevalier;;Chevalier;;;;;;;;;x
+RETTYPE_CUL_ALBANIAN;Stratiotes;Stratiotes;Stratiotes;;Stratiotes;;;;;;;;;x
+RETTYPE_CUL_ARMENIAN;Naxarar;Naxarar;Naxarar;;Naxarar;;;;;;;;;x
+RETTYPE_CUL_BASQUE;Zaldun;Zaldun;Zaldun;;Zaldun;;;;;;;;;x
+RETTYPE_CUL_ESTONIAN;Malev;Malev;Malev;;Malev;;;;;;;;;x
+RETTYPE_CUL_ROMAN;Praetoriani;Praetoriani;Praetoriani;;Praetoriani;;;;;;;;;x
+RETTYPE_CUL_AVAR;Sclavinia;Sclavinia;Sclavinia;;Sclavinia;;;;;;;;;x
+RETTYPE_CUL_NORSE;Heimþegi;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
+RETTYPE_CUL_BEDOUIN_NOMAD;Bedouin tribe;Tribu Bédouine;Beduinen-Stamm ;;Tribu Beduina;;;;;;;;;x
+#Goedendag Burgerwacht, 13th century flemish polearm militia;;;;;;;;;;;;;;
+#Khwarezmiyya, Khwarzim mercenary unit;;;;;;;;;;;;;;
+#Sipahi, heavy feudal cavalry formed in the 14th century;;;;;;;;;;;;;;
+#Mutaharrik Tulaiha(mobile guard), arab elite  mounted force 637-660AD;;;;;;;;;;;;;;
+#al-faris, generic Arab proffesional light cavelery(equivalent to knight/man at arms);;;;;;;;;;;;;;
+#Barbuta, knight and sergant of arms mercenary(two person unit);;;;;;;;;;;;;;
+# Picchiere, Italian pikeman(dosn't really seem to have been as videly used by the city states as conventional(TWC^^) wisdom would have it);;;;;;;;;;;;;;
+# Lipka Totoriu, Lipka tatars arrived in Lithuania in the 14th century and subsequently formed a big part of the cavalery force.;;;;;;;;;;;;;;
+# Balestriero Genoveso, Genoese crossbowman;;;;;;;;;;;;;;
+# Oltremarino, heavy infantry unit based on Dalmatian Slavs;;;;;;;;;;;;;;
+#Zãbãnnya, Ethiopian for guard;;;;;;;;;;;;;;
+#Spatharius, latin version for sword bearer, component of the ERE household guard, acording to Origo Gentis Langobardorum, Albuins bodyguards has this title.;;;;;;;;;;;;;;
+#Mona'spa, Royal guard of the Georgian king(since 544AD).;;;;;;;;;;;;;;
+#Heiðþegi, Norwegian housecarl in oldnorse;;;;;;;;;;;;;;
+#Heimþegi, Danish housecarl in oldnorse;;;;;;;;;;;;;;
+#Almogavars, very hardy Catalan light infatry;;;;;;;;;;;;;;
+#Kheshig, guard retinue of a Mongolian Khan;;;;;;;;;;;;;;
+#Kataphraktos, ERE heavy elite cavalry;;;;;;;;;;;;;;
+#Ritter, German for knight;;;;;;;;;;;;;;
+#Chevalier, French for knight;;;;;;;;;;;;;;
+#Cabellero, Spanish for knight;;;;;;;;;;;;;;
+# Cavaliere, old Italian for knight;;;;;;;;;;;;;;
+#Rytír, Czech for knight;;;;;;;;;;;;;;
+#Zenata, name for both a Berber tribe and the military unit they composed in the Almohad state, its after this unit type the Iberian Christian Jinetes is molded ;;;;;;;;;;;;;;
+#Huscarl, Saxon housecarl;;;;;;;;;;;;;;
+#Druzyna, related to the Druzhina(same word), but unlike their Russian couterparties, the norse influences were considerable smaller. Formed as an elite unite of 3000 proffesional soldiers(cavalery) they were the first distinctive Polish nobility on a level below the duke. And came to be the foundation for the development of the knightly class.;;;;;;;;;;;;;;
+#Gallóglach, heavy norse inspired infantry.;;;;;;;;;;;;;;
+#Gusar, Serbian for Hussars(the origin of the term is from 14th-17th century Serbian mecenaries);;;;;;;;;;;;;;
+#Zholners, term for a 15-16th century meceanry unit, that served in the borderlands of the Lithuanian Duchy, mainly of Bohemian orrigen.;;;;;;;;;;;;;;
+#Schiltron, Scotish pike infantry;;;;;;;;;;;;;;
+#Bandérium(Bandériumot?Bandériumok?), noble or royal retinue molded on western knights(named after the italian bandera for standard/flag). Was introduced on  by the house of Anjou and later expanded by the house of Luxembourg. The idea was to replace the reliance on western mercenaries ;;;;;;;;;;;;;;
+#Perkunas kovotojas, warri;;;;;;;;;;;;;;
+#Kempionu Perkunas, champion of Perkunas(god of thunder and weaponry, especially axes), lithuanian;;;;;;;;;;;;;;
+#Karys Perkunas, warrior of Perkunas, lithuanian;;;;;;;;;;;;;;
+#Kovotojas Perk?nas, champions/warrior/follower of Perkunas, lithuanian;;;;;;;;;;;;;;
+#Perkuns, Perkunas in prussian;;;;;;;;;;;;;;
+#Karavurs Perkons, warrior of Perkuans in lativan;;;;;;;;;;;;;;
+#Proniiars(or pronya), Serbian medival heavy cavalary molded on the byzantine model.;;;;;;;;;;;;;;
+#Vlastela, Bosnian(and Serbian?)  for noble, also used as term for medival cavalary retinues;;;;;;;;;;;;;;
+#Bolqr(singular), Bulgarian for Boyar, usage had switched from heavly cavelry(7-9th cenury) to heavy infantry and archers, getting a name for any of these units hasn't been possible.;;;;;;;;;;;;;;
+#Uskok(singular), Croatian elite infantry units serving under the Habsburgs 16-18th cenury;;;;;;;;;;;;;;
+#Druzhýna, Rus warband(also used by the Vlach, but haven't found Romanian term for it yet);;;;;;;;;;;;;;
+#Vitez, Slovene for Knight;;;;;;;;;;;;;;
+#Ukko(same as Thor and Perkunas) finnish pagan god of thunder;;;;;;;;;;;;;;
+#Lempo, Feindish finno-pagan god, asociated with archery, wilderness and danger;;;;;;;;;;;;;;
+#Soturi, finnish for warrior;;;;;;;;;;;;;;
+#Capelletto, stradioti of Albaian origin employed by the Venetians ;;;;;;;;;;;;;;
+#Stratiotis/Stratiotes, greek for soldier and the word that Stratioti(Albanian light mercenary cavlary) derives from.;;;;;;;;;;;;;;
+#Didebuls, small feudal like landholders mainly a product of Cillia, cavalary?(haven't been able to vertify it other places than twc and other modforums);;;;;;;;;;;;;;
+#Azat, lower and middle nobility,  mainstay Armenian cavalary, often employed as mercenaries after the fall to the turks. ;;;;;;;;;;;;;;
+#Naxarar, Armenian high nobility(baron/count style),exsisted both in old armenia and Cillia.;;;;;;;;;;;;;;
+#Sepuh's, Armenian cavalery type?(haven't been able to vertify it other places than twc and other modforums);;;;;;;;;;;;;;
+#Asud, mongolian Alan guard retinue(only known used in mongolia and china);;;;;;;;;;;;;;
+# Jasin, Mongolian for Alan;;;;;;;;;;;;;;
+#Zaldun, Basque for knight;;;;;;;;;;;;;;
+#Malev, pagan estonian raiding unit in singular;;;;;;;;;;;;;;
+#Praetoriani, Pretorian guard probably in pluralis. I suck at Latin so singular form will have to wait.;;;;;;;;;;;;;;
+"# Sclavinia,  comes of ""Slavs"", but was also used bythe ERE as the term for Avar landed/noble soldiers. Singular. Note to self, I think there was a particular Avar heavily scale armored cavalry unit, remeber to check what that one was called, somthing with dragons.";;;;;;;;;;;;;;
+#Arimanni, Longobardich feudalistic cavalry. Originaly reserved for the nobiltiy(5-8th centuryish) but eventually reduced to free peasents in their required services as men at arms(9-12th century);;;;;;;;;;;;;;
+#Arsenalotto, venetians arsenal employees, also served as honour guard and fire brigade.;;;;;;;;;;;;;;
+#C?l?rasi, Moldavian light skrimish cavalry;;;;;;;;;;;;;;

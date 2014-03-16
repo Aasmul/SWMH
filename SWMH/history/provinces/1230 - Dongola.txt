@@ -1,0 +1,21 @@
+# 1230 - Dongola
+
+# County Title
+title = c_dongola
+
+# Settlements
+max_settlements = 6
+
+b_dongola = castle
+b_tumbus = temple
+b_kerma = city
+
+#b_eddeba = castle
+#b_old_dongola = city
+#b_grnetti = castle
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

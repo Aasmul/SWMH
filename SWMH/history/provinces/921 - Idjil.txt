@@ -1,0 +1,22 @@
+# 921 - Idjil
+
+# County Title
+title = c_idjil
+
+# Settlements
+max_settlements = 1
+b_idjil = castle
+
+#b_zouerat = city #Zouérat
+#b_tazadit = temple
+#b_rouessa = castle
+#b_fderick = castle #Fdérick
+
+# Misc
+culture = tagelmust
+religion = ibadi
+
+# History
+
+#islamization
+945.1.1 = { religion = sunni }

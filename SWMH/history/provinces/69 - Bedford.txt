@@ -1,0 +1,38 @@
+# 69 - Bedford
+
+# County Title
+title = c_bedford
+
+# Settlements
+max_settlements = 4
+
+b_bedford = castle
+b_ampthill = city
+#b_flitwick = castle
+#b_luton = castle
+#b_great_barford = castle
+#b_gannock = castle
+#b_dunstable = temple
+#b_woburn = temple
+#b_leighton = city
+#b_westoning = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+
+880.1.1 = { culture = norse } # Danes settle down
+880.1.1 = { religion = norse_pagan } # Danes settle down
+914.1.11 = { religion = catholic } # Submitted to Wessex
+916.1.7 = { culture = saxon } # Thurketel leaves for France
+1066.1.1 = { 
+	b_bedford = ca_keep_1
+	b_bedford = ca_training_grounds_1
+	b_bedford = ca_stable_1
+	b_bedford = ca_wall_1
+	b_bedford = ca_militia_barracks_1
+	b_bedford = ca_barracks_1
+}
+1100.11.11 = { culture = english }

@@ -1,0 +1,21 @@
+# 1169 - Beauvais
+
+# County Title
+title = c_beauvais
+
+# Settlements
+max_settlements = 4 #max = 7
+b_beauvais = temple
+b_breteuil = city
+b_clermont = castle
+#b_liancourt = castle
+#b_creil = city
+
+
+culture = frankish
+religion = catholic
+
+# History
+#1123.1.1  = { b_xxx = castle }
+#1153.1.1  = { b_xxx = city }
+#1225.1.1  = { b_xxx = temple }

@@ -1,0 +1,19 @@
+# 1272 - Volokolamsk
+
+# County Title
+title = c_volokolamsk
+
+# Settlements
+max_settlements = 4
+b_zubtsov = castle
+b_volokolamsk = city
+#b_dorogobuz = temple
+#b_horvactver = castle
+#b_holmtver = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

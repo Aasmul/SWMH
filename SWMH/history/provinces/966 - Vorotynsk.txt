@@ -1,0 +1,19 @@
+# 966 - Vorortynsk
+
+# County Title
+title = c_vorotynsk
+
+# Settlements
+max_settlements = 4
+
+b_vorotynsk = castle
+b_mosalsk = castle
+b_meshchovsk = castle
+#b_serpeysk = castle 
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

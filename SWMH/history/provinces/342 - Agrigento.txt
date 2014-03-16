@@ -1,0 +1,34 @@
+# 342 - Agrigento
+
+# County Title
+title = c_agrigento
+
+# Settlements
+max_settlements = 4
+
+
+b_castellodiluna = castle
+#b_canicatti = castle
+b_sciacca = city
+#b_burgiosicily = castle
+b_agricento = temple
+#b_racalmutu = castle
+#b_caltabellotta = city
+#b_montallegro = castle
+#b_raffadali = city
+
+
+
+
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+terrain = hills
+
+# History
+1111.1.1 = { trade_post = b_ziani }
+1111.1.1={ culture = sicilian }
+1111.1.1={ religion = catholic }
+
+1337.1.1 = { remove_settlement = b_agricento }

@@ -1,0 +1,26 @@
+# 59 - Chester
+
+# County Title
+title = c_chester
+
+# Settlements
+max_settlements = 4
+
+b_frodsham = castle
+b_chester = city
+#b_halton = castle
+#b_macclesfield = city
+#b_malpas = castle
+#b_sandbach = city
+#b_nantwich = castle
+#b_beeston = castle
+#b_shotwick = castle
+#b_aldford = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1070.1.1 = { b_halton = castle }
+1100.11.11 = { culture = english }

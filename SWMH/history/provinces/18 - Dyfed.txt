@@ -1,0 +1,28 @@
+# 18 - Dyfed
+
+# County Title
+title = c_dyfed
+
+# Settlements
+max_settlements = 4
+b_penfro = castle
+b_tyddewi = temple
+b_hwlffordd = city
+#b_llanismel = castle
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History
+
+1066.1.1 = { 
+	b_penfro = ca_keep_1
+	b_penfro = ca_training_grounds_1
+	b_penfro = ca_stable_1
+	b_penfro = ca_stable_2
+	b_penfro = ca_wall_1
+	b_penfro = ca_wall_2
+}

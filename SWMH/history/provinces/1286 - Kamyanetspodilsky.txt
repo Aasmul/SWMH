@@ -1,0 +1,22 @@
+# 1286 - Kamyanetspodilsky
+
+# County Title
+title = c_kamyanetspodilsky
+
+# Settlements
+max_settlements = 4
+
+b_kamyanetspodilsky = castle
+b_skalapodilska = castle
+b_sokilets = temple
+#b_kolodiivka = castle
+
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }
+1240.1.1 = { remove_settlement = b_skalapodilska }
+1337.1.1 = { b_skalapodilska = castle }

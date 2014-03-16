@@ -1,0 +1,230 @@
+###################################################################
+###################################################################
+# Elvain's West African dynasties
+###################################################################
+###################################################################
+
+
+#1030000 - Cisse (Soninke)
+#1030001 - Kante (Soninke/Sosso)
+#161009-161010 1000144680-1000144685 - characters
+#1030002 - Keita (Manden)
+#1030003 - Bereté
+#161019, 
+#1030010 - Traore (Manden)
+#161085-161093
+
+#1000053560 - Niakhate (Soninke)
+#1000144500-1000144509 - characters
+#1000053561 - Tunkara (Soninke)
+#1000144520-1000144519 - characters
+#1000053562
+#1000053563
+
+#1000053570 - Konate (Manden)
+#1000144620-1000144629 - characters
+#1000053571 - Toure (Manden)
+#1000144630-1000144639 - characters
+#1000053572 - Kamara (Manden)
+#1000144640-1000144649 - characters
+#1000053573 - Kone (Manden)
+#1000144650-1000144655 - characters
+
+#1000053580 - Torodbe (Wolof)
+#1000144530-1000144537
+#1000053581 - Walo (Wolof)
+#1000144540-1000144544 - characters
+#1000053582 - Silla (Wolof)
+#1000144545-1000144549 - characters
+#1000053590-1000053599 - Berber dynasties
+#1000054000-1000054049 - Berber dynasties
+#1000144550-1000144619 - characters
+#1000144656-1000144679 - Elvain's flavour characters
+
+# Soninke-original
+
+#1030000 = {
+#	name="Cisse"
+#	culture = soninke
+#}
+#1030001 = {
+#	name="Diarisso"
+#	culture = soninke
+#}
+#1030007 = {
+#	name="Sonni"
+#	culture = soninke
+#}
+#1030008 = {
+#	name="Askiya"
+#	culture = soninke
+#}
+#1030016 = {
+#	name="Mossi"
+#	culture = soninke
+#}
+
+###################################################################
+# Soninke-new
+
+1000053560 = {
+	name="Niakhate"
+	culture = soninke
+}
+1000053561 = {
+	name="Tunkara"
+	culture = soninke
+}
+1000053562 = {
+	name="Diawara"
+	culture = soninke
+}
+1000100885 = {
+	name="Soninke"
+	culture = soninke
+}
+
+# 1000100886 - 1000100889
+
+###################################################################
+# Manden
+
+#1030002 = {
+#	name="Keita"
+#	culture = manden
+#}
+#1030003 = {
+#	name="Bereté"
+#	culture = manden
+#}
+#1030010 = {
+#	name="Traoré"
+#	culture = manden
+#}
+1000053570 = {
+	name="Konaté"
+	culture = manden
+}
+1000053571 = {
+	name="Touré"
+	culture = manden
+}
+1000053572 = {
+	name="Koné"
+	culture = manden
+}
+1000053573 = {
+	name="Kamara"
+	culture = manden
+}
+1000053574 = {
+	name="Diakhanke" # of Bambuk
+	culture = manden
+}
+
+###################################################################
+# Wolof
+
+1000053580 = {
+	name="Torodbe"
+	culture = wolof
+}
+1000053581 = {
+	name="Walo"
+	culture = wolof
+}
+1000053582 = {
+	name="Silla"
+	culture = wolof
+}
+1000053583 = {
+	name="Joof"
+	culture = wolof
+}
+1000053584 = {
+	name="Njie"
+	culture = wolof
+}
+1000053585 = {
+	name="Faal"
+	culture = wolof
+}
+
+
+###################################################################
+# Kanuri
+
+1000101100 = {
+	name="Sayfawa"
+	culture = kanuri
+}
+1000101101 = {      # a dynasty, which was probably of Zaghawa origin
+	name="Duguwa"
+	culture = kanuri
+}
+1000101102 = {
+	name="Kay"       # a Kanuri clan, which lived towards Bornu
+	culture = kanuri
+}
+1000101103 = {
+	name="Teda"      # clan/people that live towards Kawar, separate people, which can also be taken under Zaghawa
+	culture = kanuri
+}
+1000101104 = {
+	name="Dabír"     # a Kanemba tribe, which no longer exists
+	culture = kanuri
+}
+1000101105 = {
+	name="Kunkuna"   # a Kanemba tribe, which no longer exists
+	culture = kanuri
+}
+
+#1000101106 - 1000101119 - free Kanuri dynasties
+
+###################################################################
+# Zaghawa
+
+1000101130= {
+	name="Zaghawa"
+	culture = zaghawa
+}
+1000101131 = {
+	name="Duguwa"
+	culture = kanuri
+}
+1000101132= {
+	name="Tomaghra"
+	culture = zaghawa
+}
+1000101133= {       # a people, who lived probably in the area of Tibesti
+	name="Tubu"
+	culture = zaghawa
+}
+
+#1000101134 - 1000101139 - free Zaghawa dynasties
+
+
+###################################################################
+# Hausa
+
+1000101150= {
+	name="Durbawa" 
+	culture = hausa
+}
+1000101151= {
+	name="Daura" 
+	culture = hausa
+}
+1000101152= {
+	name="Habe" 
+	culture = hausa
+}
+1000101153= {
+	name="Gobiri" 
+	culture = hausa
+}
+1000101154= {
+	name="Gabas" 
+	culture = hausa
+}
+#1000101155 - 1000101199 - free Hausa dynasties

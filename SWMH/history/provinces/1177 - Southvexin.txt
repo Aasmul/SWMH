@@ -1,0 +1,20 @@
+# 1177 - Southvexin
+
+# County Title
+title = c_southvexin
+
+# Settlements
+max_settlements = 3
+b_larocheguyon = castle
+b_pontoise = city
+
+#b_vigny = castle
+#b_magnyenvexin = temple
+#b_mantes = city
+#b_fontenay = city
+
+culture = frankish
+religion = catholic
+
+# History
+

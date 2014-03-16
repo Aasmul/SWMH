@@ -1,0 +1,272 @@
+########
+#CJL78 Mediano Italians 1.000.167.200-1.000.167.219
+########
+
+########
+#Crescenzi of Nerola - This family built the castle at Nerola in IX century and ruled the lands in the area until 1235
+#No info on individuals, but Crescentius was a common family name, hence Crescenzi. There is only 1 at the 1066 start, the others are fillers
+########
+
+1000167200 = {
+	name="Crescenzo"
+	dynasty=1000064006 #Crescenzi
+	religion="catholic"
+	culture="central_italian"
+	1050.1.1 = {
+		birth="1050.1.1" 
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+
+1000167201 = {
+	name="Crescenzo"
+	dynasty=1000064006 #Crescenzi
+	religion="catholic"
+	culture="central_italian"
+	father=1000167200
+	1070.1.1 = {
+		birth="1070.1.1" 
+	}
+	1130.1.1 = {
+		death="1130.1.1"
+	}
+}
+
+1000167202 = {
+	name="Crescenzo"
+	dynasty=1000064006 #Crescenzi
+	religion="catholic"
+	culture="central_italian"
+	father=1000167201
+	1100.1.1 = {
+		birth="1100.1.1" 
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+
+1000167203 = {
+	name="Crescenzo"
+	dynasty=1000064006 #Crescenzi
+	religion="catholic"
+	culture="central_italian"
+	father=1000167202
+	1140.1.1 = {
+		birth="1140.1.1" 
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+
+1000167204 = {
+	name="Crescenzo"
+	dynasty=1000064006 #Crescenzi
+	religion="catholic"
+	culture="central_italian"
+	father=1000167203
+	1165.1.1 = {
+		birth="1165.1.1" 
+	}
+	1235.4.12 = {
+		death="1235.4.12" 
+	}
+}
+
+#####
+#
+#####
+
+#1000167205 = {
+#	name=""
+#	dynasty=0
+#	religion="catholic"
+#	culture="central_italian"
+#	10.1.1 = {
+#		birth="10.1.1" 
+#	}
+#	10.1.1 = {
+#		death="10.1.1" 
+#	}
+#}
+
+#####
+#Lords of Fermo (fictional)
+#####
+
+1000167206 = {
+	name="Fulvio"
+	dynasty=1000064010
+	religion="catholic"
+	culture="central_italian"
+	1040.1.1 = {
+		birth="1040.1.1" 
+	}
+	1100.1.1 = {
+		death="1100.1.1" 
+	}
+}
+
+1000167207 = {
+	name="Fortunato"
+	dynasty=1000064010
+	religion="catholic"
+	culture="central_italian"
+	father=1000167206
+	1065.1.1 = {
+		birth="1065.1.1" 
+	}
+	1125.1.1 = {
+		death="1125.1.1" 
+	}
+}
+
+1000167208 = {
+	name="Fabio"
+	dynasty=1000064010
+	religion="catholic"
+	culture="central_italian"
+	father=1000167207
+	1090.1.1 = {
+		birth="1090.1.1" 
+	}
+	1137.1.1 = {
+		death="1137.1.1" 
+	}
+}
+
+#####
+#Lords of Urbino (fictional)
+#####
+
+1000167209 = {
+	name="Ubaldo"
+	dynasty=1000064009
+	religion="catholic"
+	culture="central_italian"
+	1040.1.1 = {
+		birth="1040.1.1" 
+	}
+	1100.1.1 = {
+		death="1100.1.1" 
+	}
+}
+
+1000167210 = {
+	name="Ugo"
+	dynasty=1000064009
+	religion="catholic"
+	culture="central_italian"
+	father=1000167209
+	1065.1.1 = {
+		birth="1065.1.1" 
+	}
+	1125.1.1 = {
+		death="1125.1.1" 
+	}
+}
+
+1000167211 = {
+	name="Ulisse"
+	dynasty=1000064009
+	religion="catholic"
+	culture="central_italian"
+	father=1000167210
+	1090.1.1 = {
+		birth="1090.1.1" 
+	}
+	1155.1.1 = {
+		death="1155.1.1" 
+	}
+}
+
+#####
+#Lords of Montefeltro (fictional)
+#####
+
+1000167212 = {
+	name="Michele"
+	dynasty=1000035378
+	religion="catholic"
+	culture="central_italian"
+	1040.1.1 = {
+		birth="1040.1.1" 
+	}
+	1100.1.1 = {
+		death="1100.1.1" 
+	}
+}
+
+1000167213 = {
+	name="Maurizio"
+	dynasty=1000035378
+	religion="catholic"
+	culture="central_italian"
+	father=1000167212
+	1065.1.1 = {
+		birth="1065.1.1" 
+	}
+	1125.1.1 = {
+		death="1125.1.1" 
+	}
+}
+
+1000167214 = {
+	name="Manuele"
+	dynasty=1000035378
+	religion="catholic"
+	culture="central_italian"
+	father=1000167213
+	1090.1.1 = {
+		birth="1090.1.1" 
+	}
+	1155.1.1 = {
+		death="1155.1.1" 
+	}
+}
+
+#####
+#Rulers of Camerino (fictional)
+#####
+
+1000167215 = {
+	name="Cosimo"
+	dynasty=0
+	religion="catholic"
+	culture="central_italian"
+	1040.1.1 = {
+		birth="1040.1.1" 
+	}
+	1100.1.1 = {
+		death="1100.1.1" 
+	}
+}
+
+1000167216 = {
+	name="Claudio"
+	dynasty=0
+	religion="catholic"
+	culture="central_italian"
+	1065.1.1 = {
+		birth="1065.1.1" 
+	}
+	1125.1.1 = {
+		death="1125.1.1" 
+	}
+}
+
+1000167217 = {
+	name="Cristiano"
+	dynasty=0
+	religion="catholic"
+	culture="central_italian"
+	1090.1.1 = {
+		birth="1090.1.1" 
+	}
+	1155.1.1 = {
+		death="1155.1.1" 
+	}
+}

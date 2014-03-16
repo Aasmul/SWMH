@@ -1,0 +1,18 @@
+# 786 - Eilat
+
+# County Title
+title = c_eilat
+
+# Settlements
+max_settlements = 3
+
+b_wadielsybiaya = castle
+b_eltormonestary = temple
+b_monestaryofsaincathrine = temple
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

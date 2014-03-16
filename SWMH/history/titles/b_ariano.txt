@@ -1,0 +1,15 @@
+#CJL78 - give Robert Guiscard the barony in Benevento
+
+1053.1.1=
+{
+holder=1128 #Robert Guiscard
+liege=d_apulia
+}
+1085.1.1=
+{
+holder=0
+}
+1130.1.1=
+{
+liege=k_sicily
+}

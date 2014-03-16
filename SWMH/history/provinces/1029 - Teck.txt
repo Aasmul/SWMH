@@ -1,0 +1,25 @@
+# 1029 - Teck
+
+# County Title
+title = c_teck
+
+# Settlements
+max_settlements = 4
+
+b_hohenstauffen = castle
+b_teck = castle
+#b_owen = temple
+#b_rottenburg = city
+#b_kirchheim = city
+#b_goppingen = city
+#b_nurtingen = city
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+

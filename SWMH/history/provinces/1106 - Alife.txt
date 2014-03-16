@@ -1,0 +1,26 @@
+# 1106 - Alife
+
+# County Title
+title = c_alife
+
+# Settlements
+max_settlements = 3
+
+b_alife = castle
+b_puglianello = castle
+
+#b_gioiasannitica = castle
+#b_alvignano = city
+#b_cusanomutri = temple
+#b_faicchio = city
+
+
+
+
+
+# Misc
+culture = langobardisch
+religion = catholic
+
+# History
+1118.1.1={ culture = southern_italian }

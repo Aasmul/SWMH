@@ -1,0 +1,85 @@
+#CJL78 - Dukes of Naples
+700.1.1={
+	holder=1000167307 #Ioannes I of Napoli
+}
+850.1.1={
+	holder=1000167300 #Sergios I of Napoli
+}
+865.1.1={
+	holder=1000167301 #Sergios II of Napoli
+}
+878.1.1={
+	holder=1000167302 #Ioannes II of Napoli
+}
+919.1.1={
+	holder=1000167303 #Ioannes III of Napoli
+}
+969.1.1={
+	holder=1000167304 #Sergios III of Napoli
+}
+999.1.1={
+	holder=1000167305 #Ioannes IV of Napoli
+}
+1002.1.1={
+	holder=1000167306 #Sergios IV of Napoli
+}
+1036.1.1={
+	holder=30820 #Ioannes V of Napoli
+}
+1053.4.1={
+	holder=20498 #Sergios V of Napoli
+}
+1075.11.1={
+	holder=20531 #Sergios VI of Napoli
+}
+1107.9.1={
+	holder=30822 #Ioannes VI of Napoli
+}
+1123.4.1={
+	holder=30824 #Sergios VII of Napoli
+}
+1130.12.25={
+	liege="k_sicily"
+}
+1137.1.1={
+	holder = 127085 #Alphonse I de Hauteville
+}
+1144.2.26 = {
+	holder = 211501 #William I
+}
+1166.5.7 = {
+	holder = 211500 #William II
+}
+1189.11.11 = {
+	holder = 211509 #Tancred di Lecce
+}
+1194.2.20 = {
+	holder = 211512 #William III di Lecce
+}
+1194.10.1 = {
+	holder = 212507 #Heinrich VI
+}
+1197.9.28={
+	holder = 212513 #Friedrich II
+}
+1250.12.13={
+	holder = 30760 #Konrad Hohenstaufen
+}
+1254.5.21={
+	holder = 30785 #Konradin Hohenstaufen
+}
+1258.1.1={
+	holder = 7636 #Manfred Hohenstaufen
+}
+1266.2.26={
+	holder = 455406 #Charles I d'Anjou
+}
+1282.8.30={
+	liege="k_naples"
+}
+1285.1.7={
+	holder =461710 #Charles II
+}
+1309.5.5={
+	holder=461700 #Robert I
+}

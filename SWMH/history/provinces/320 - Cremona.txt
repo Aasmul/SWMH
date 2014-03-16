@@ -1,0 +1,25 @@
+# 320 - Cremona
+
+# County Title
+title = c_cremona
+
+# Settlements
+max_settlements = 4
+
+b_soncino = castle
+b_crema = city
+b_cremona = temple
+
+#b_isano = temple
+#b_soresina = city
+#b_sospiro = city
+#b_trigolo = castle
+#b_casalmaggiore = city
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+
+1066.1.1 = { capital = b_crema }

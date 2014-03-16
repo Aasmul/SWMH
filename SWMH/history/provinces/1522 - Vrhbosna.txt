@@ -1,0 +1,28 @@
+# 1522 - Vrhbosna
+# County Title
+title = c_vrhbosna
+
+# Settlements
+max_settlements = 5
+
+b_bobovac = castle
+b_visoki = city
+b_mile = temple
+#b_olovac = city
+#b_hodidjed = castle
+#b_mostre = temple #Theological university 1175
+#b_praca = city
+#b_kraljeva_sutjeska = temple
+
+ 
+
+
+
+
+# Misc
+culture = bosnian
+religion = catholic
+
+# History
+
+1232.1.1= { religion = bogomilist } 

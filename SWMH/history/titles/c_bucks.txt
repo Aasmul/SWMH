@@ -1,0 +1,76 @@
+852.1.1={
+	liege = "d_hereford"
+}
+852.1.1={
+	holder = 163102
+}
+874.1.1={
+	liege = "d_somerset"
+	holder = 0
+}
+927.7.12={
+	liege="k_england"
+}
+940.1.1={
+	holder=1000226363  # Æthelstan Rota, ealdorman in southern Mercia(mainly Buckinghamshire and Oxfordshire) 940-970
+}
+957.1.1={
+	liege = "d_hereford"
+}
+970.10.18={
+	holder=0
+}
+1004.10.22={
+	liege="k_england"
+}
+1007.1.1={
+	liege = "d_hereford"
+}
+1066.1.5=
+{
+	liege="k_england"
+holder=122 # Harold Godwinson
+}
+1066.10.14=
+{
+holder=140 #William the Conqueror
+}
+1087.9.9=
+{
+holder=146 #William II Rufus
+}
+1093.1.1=
+{
+holder=32143 #Walter I Giffard, earl of Buckingham
+}
+1102.7.15=
+{
+holder=161452 #Walter II Giffard, earl of Buckingham
+}
+1164.9.18=
+{
+holder=204770 #Richard de Clare, earl of Pemboroke and Buckingham
+}
+###To the Crown
+1176.4.20=
+{
+holder=204500 #Henry II
+}
+1189.7.6={
+	holder=204510 #Richard I Lionheart
+}
+1199.4.6={
+	holder=204514 #John
+}
+1216.10.28={
+	holder=454522 #Henry III
+}
+1272.11.16={
+	holder=454520 #Edward I Longshanks
+}
+1307.1.2={
+	holder=454510 #Edward II
+}
+1327.2.1={
+	holder=454500 #Edward III
+}

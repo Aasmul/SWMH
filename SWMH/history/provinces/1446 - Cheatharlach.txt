@@ -1,0 +1,16 @@
+# 1446 - Cheatharlach # Carlow
+
+# County Title
+title = c_carlow
+
+# Settlements
+max_settlements = 2
+
+b_old_leighlin = temple
+#b_carlow = castle
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

@@ -1,0 +1,23 @@
+# 528 - Sieradzko-Leczyckie
+
+# County Title
+title = c_sieradzko-leczyckie
+
+# Settlements
+max_settlements = 4
+b_sieradz = castle
+b_sulejow = temple
+
+#b_warta = city
+#b_wolborz = city
+#b_radomsko = castle
+#b_piotrkow = castle
+
+
+# Misc
+culture = polish
+religion = slavic_pagan
+
+# History
+999.7.1 = { religion = catholic }
+1187.1.1 = { b_warta = city }

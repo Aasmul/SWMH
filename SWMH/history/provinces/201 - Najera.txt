@@ -1,0 +1,27 @@
+# 201 - Nájera
+
+# County Title
+title = c_najera
+
+# Settlements
+max_settlements = 4
+b_najera = castle
+b_haro = city
+b_santodomingodelacalzada = temple
+#b_anguiano = castle
+#b_san_millan = temple
+
+# Misc
+culture = castillan
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_najera = ca_town_1
+	b_najera = ca_keep_1
+	b_najera = ca_stable_1
+	b_najera = ca_militia_barracks_1
+	b_najera = ca_wall_1
+	b_najera = ca_wall_2
+}

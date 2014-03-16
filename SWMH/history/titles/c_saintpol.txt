@@ -1,0 +1,75 @@
+862.1.1={
+	liege="k_france"
+	holder = 168183 #Rudolf Unruochinger
+}
+877.10.6={
+	liege="d_flanders"
+	holder = 90109 #Boudewijn I
+}
+879.1.1={
+	holder = 90108
+}
+918.9.10={
+	holder = 32135
+}
+933.11.13={
+	holder = 10069
+}
+971.1.1={
+	holder = 10067 
+}
+1025.1.1={
+	holder = 10065
+}
+1049.1.1={
+	holder=20142 #Eustache II
+}
+1066.1.1=
+{
+	liege="d_flanders"
+}
+1066.1.1=
+{
+	holder=93502
+}
+1100.1.1=
+{
+	holder=93503
+}
+1105.1.1=
+{
+	holder=93504
+}
+1138.1.1=
+{
+	holder=93505
+}
+1180.4.28=
+{
+	liege="k_france"
+}
+1180.4.28=
+{
+	holder=205522
+}
+1190.3.15={
+	holder=205506
+}
+1223.7.14={
+	holder = 455402
+}
+1226.11.8={
+	holder = 455405
+}
+1250.2.8={
+	holder = 455546
+}
+1302.7.11={
+	holder = 91147
+}
+1329.10.28={
+	holder = 455741
+}
+1330.1.21={
+	holder = 455913
+}

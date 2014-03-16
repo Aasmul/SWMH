@@ -1,0 +1,27 @@
+# 950 - Sonderjylland
+
+# County Title
+title = c_sonderjylland
+
+# Settlements
+max_settlements = 5
+
+b_haderslevhus = castle
+b_kolding = city
+b_ribe = temple
+
+#b_riberhus = castle
+#b_koldinghus = castle
+#b_rosborg = castle
+#b_vejle = city
+#b_haderslev = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1018.1.1 = { religion = catholic } 
+1047.10.25 = { culture = danish } 
+
+

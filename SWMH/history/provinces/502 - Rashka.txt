@@ -1,0 +1,25 @@
+# 502 - Rashka
+
+# County Title
+title = c_rashka
+
+# Settlements
+max_settlements = 5
+
+b_stari_ras = castle
+b_sjenica = city
+b_zica = temple
+#b_prijepolje = city
+#b_studenica = temple
+b_maglic = castle
+#b_mileseva = temple
+
+
+# Misc
+culture = serbian
+religion = slavic_pagan
+
+# History
+
+880.1.1 = { religion = orthodox }
+

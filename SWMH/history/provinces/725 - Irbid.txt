@@ -1,0 +1,22 @@
+# 725 - Irbid
+
+# County Title
+title = c_irbid
+
+# Settlements
+max_settlements = 4
+
+b_hasbaya = castle
+b_nawasyria = temple
+b_irbid = city
+#b_izrasyria =castle
+
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+

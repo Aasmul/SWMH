@@ -1,0 +1,27 @@
+# 210 - Foix
+
+# County Title
+title = c_foix
+
+# Settlements
+max_settlements = 4
+b_foix = castle
+b_roquefeuil = temple
+b_mirepoix = city
+
+#b_pamiers = temple
+#b_montsegur = castle
+#b_usson = castle
+#b_niortdesault = castle
+#b_castagnac = castle
+#b_larroque = castle
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History
+1162.1.1   = { b_castagnac = castle }
+1200.1.1 = { religion = cathar }
+1244.3.16 = { religion = catholic}

@@ -1,0 +1,29 @@
+# 986 - Metsepole
+
+# County Title
+title = c_metsepole
+
+# Settlements
+max_settlements = 3
+
+b_limbazi = castle
+b_straupe = city
+
+#b_cesis = castle
+#b_stalbe = castle
+#b_raiskum = castle
+#b_autzem = castle
+#b_lielstraupe = castle
+
+
+# Misc
+culture = livonian
+religion = finnish_pagan
+
+# History
+
+1202.1.1 = { b_cesis = castle } # Metsepole subjugated, Order castle.
+1202.1.1 = { capital = b_cesis }
+1224.1.1 = { b_limbazi = temple } # too Riga bishopery.
+1224.1.1 = { capital = b_limbazi }
+1224.1.1 = { religion = catholic }

@@ -1,0 +1,25 @@
+# 1104 - Logudoro
+
+# County Title
+title = c_logudoro
+
+# Settlements
+max_settlements = 4
+
+b_ardara = castle
+b_sassari = city
+b_portotorres = temple
+#b_bosa = city
+#b_serravallesardinia = castle
+#b_osilio = castle
+#b_castelsardo = castle
+#b_alghero = castle
+
+# Misc
+culture = sardinian
+religion = catholic
+terrain = hills
+
+# History
+
+1258.1.1 = { b_alghero = castle}

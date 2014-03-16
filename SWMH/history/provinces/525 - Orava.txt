@@ -1,0 +1,21 @@
+# 525 - Orava
+
+# County Title
+title = c_orava
+
+# Settlements
+max_settlements = 3
+
+b_arva = castle
+#b_rozsahegy = city
+#b_nameszto = castle
+#b_liptoszentmiklos
+#b_nemetlipcse = temple
+#b_alsokubin = city
+#b_turdossin = temple
+
+# Misc
+culture = moravian
+religion = catholic
+
+# History

@@ -1,0 +1,20 @@
+# 1192 - Jaen
+
+# County Title
+title = c_jaen
+
+# Settlements
+max_settlements = 5
+b_andujar = castle
+b_baeza = city
+b_jaen = temple
+#b_ubeda = castle
+#b_alcaudete = castle
+#b_arjona = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History

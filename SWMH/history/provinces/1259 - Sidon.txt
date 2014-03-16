@@ -1,0 +1,21 @@
+# 1259- Sidon
+
+# County Title
+title = c_sidon
+# Settlements
+max_settlements = 4
+
+b_syrbelfort = castle
+b_sidon = city
+b_maghdouche = temple
+b_cavedetyron = castle
+#b_nabiteh = temple
+#b_jezzine = city
+#b_sidonseacastle = castle
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

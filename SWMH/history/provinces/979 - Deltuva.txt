@@ -1,0 +1,25 @@
+# 979 - Deltuva
+
+# County Title
+title = c_deltuva
+
+# Settlements
+max_settlements = 5
+
+b_deltuva = castle
+b_ukmerge = castle
+b_giedraiciai = temple
+#b_moletai = temple
+#b_anyksciai = temple
+#b_kurkliai = temple
+#b_balninkai = city
+#b_sesuoliai = temple
+#b_dubingiai = castle
+
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History
+

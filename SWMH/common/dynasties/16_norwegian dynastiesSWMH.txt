@@ -1,0 +1,56 @@
+######################################
+#New norwegian dynasties
+######################################
+#
+#
+######################################
+#Range1000053600-1000053699
+######################################
+1000053600 = {
+name="Slæðe"
+ culture = norwegian
+}
+1000053601 = {
+name="Paus"
+ culture = norwegian
+}
+1000053602 = {
+name="Skaktavl"
+ culture = norwegian
+}
+1000053603 = {
+name="Hrafn"
+ culture = norwegian
+}
+1000053604 = {
+name="Haukur"
+ culture = norwegian
+}
+1000053605 = {
+name="Loftur"
+ culture = norwegian
+}
+1000053606 = {
+name="Torfi"
+ culture = norwegian
+}
+1000053607 = {
+name="Bjørn"
+ culture = norwegian
+}
+1000053608 = {
+name="Eggert"
+ culture = norwegian
+}
+1000053609 = {
+name="Hummer"
+ culture = norwegian
+}
+1000053610 = {
+name="Skak"
+ culture = norwegian
+}
+1000053611 = {
+name="Kalips"
+ culture = norwegian
+}

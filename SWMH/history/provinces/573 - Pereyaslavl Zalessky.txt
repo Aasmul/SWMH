@@ -1,0 +1,23 @@
+# 573 - Pereyaslavl Zalessky
+
+# County Title
+title = c_pereyaslavl_zalessky
+
+# Settlements
+max_settlements = 4
+
+b_pereyaslavlzalessky = castle
+b_rybinsk = city
+b_nikitskij = temple
+#b_yaroslavka = city
+
+# Misc
+culture = mari
+religion = finnish_pagan
+
+# History
+988.1.1 = {
+	culture = russian
+	religion = orthodox
+}
+

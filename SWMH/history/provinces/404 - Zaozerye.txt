@@ -1,0 +1,19 @@
+# 404 - Zaozerye # Tudozerskij
+
+# County Title
+title = c_zaozerye
+
+# Settlements
+max_settlements = 2
+
+b_tudorzerkij = castle
+#b_vytegra = city
+
+
+# Misc
+culture = vepsian
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }
+1150.1.1 = { culture = russian }

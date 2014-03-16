@@ -1,0 +1,21 @@
+#Seignuers de Longueville
+1030.1.1 = {
+	holder = 32142 # Walter Giffard I
+        liege = "d_normandy"
+}
+1066.10.14={
+	 liege = "k_england"
+}
+1084.1.1 = {
+	holder = 32143 # Walter Giffard II, 1st earl of Buckinghamshire   
+}
+1102.7.15=
+{
+holder=161452 #Walter III Giffard, second earl of Buckinghamshire
+}
+1164.9.18=
+{
+holder=0
+liege = "0"
+}
+

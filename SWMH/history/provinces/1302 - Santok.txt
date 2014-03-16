@@ -1,0 +1,24 @@
+# 1302 - Santok
+
+# County Title
+title = c_santok
+
+# Settlements
+max_settlements = 3
+
+b_santok = castle
+b_drzen = castle
+#b_gorzow = city
+#b_tuczno = city
+#b_pila = city
+#b_swiebodzi = city
+
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+1150.1.1 = { culture = polish }
+1150.1.1 = { religion = catholic }
+1250.1.1 = { b_gorzow = city }

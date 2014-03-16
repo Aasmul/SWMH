@@ -1,0 +1,36 @@
+# 452 - Pecs # Tolna
+
+# County Title
+title = c_pecs
+
+# Settlements
+max_settlements = 5
+
+b_tolna = castle
+b_pecs = city
+b_nagyvaty = temple
+
+#b_pecsvarad = castle
+#b_szekszard = temple
+#b_regoly = castle
+#b_madogsa = temple
+#b_paks = castle
+#b_dombovar = city
+#b_tamasi = temple
+#b_simontornya = city
+#b_dobrokoz = castle
+#b_pecsvarad = castle
+#b_dunaszekcso = castle
+#b_darda = castle
+#b_siklos = temple
+#b_mohacs = city
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+1187.1.1 = { b_pecsvarad = castle } 
+

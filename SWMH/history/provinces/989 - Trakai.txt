@@ -1,0 +1,24 @@
+# 989 - Trakai
+
+# County Title
+title = c_trakai
+
+# Settlements
+max_settlements = 5
+
+b_trakai = castle
+b_raudondvaris = castle
+b_kaunas = city
+
+#b_trakaiislandcastle = castle
+#b_alytus = castle
+#b_birstonas = temple # medival wellnesspa
+#b_jieznas = temple
+#b_pazaislis = temple
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History
+

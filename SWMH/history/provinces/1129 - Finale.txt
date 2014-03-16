@@ -1,0 +1,31 @@
+# 1129 - Finale
+
+# County Title
+title = c_finale
+
+# Settlements
+max_settlements = 3
+
+b_finaleligure = castle
+b_albenga = temple
+#b_oneglia = city
+#b_andoraligure = castle
+#b_castelgavone = castle
+#b_pietraligure = castle
+#b_castelsangiovannifinale = castle
+#b_caliceligure = city
+#b_tovosangiacomo = temple
+#b_bormida = temple
+#b_osiglia = city
+#b_carcare = city
+#b_calizzano = city
+
+
+
+# Misc
+culture = ligurian
+religion = catholic
+
+# History
+
+

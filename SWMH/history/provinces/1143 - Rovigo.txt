@@ -1,0 +1,32 @@
+# 1143 - Rovigo
+
+# County Title
+title = c_rovigo
+
+# Settlements
+max_settlements = 4
+
+b_este = castle
+b_rovigo = city
+b_adria = temple
+#b_montagnana = city
+#b_occhiobello = city
+#b_monselice = city
+#b_roccadeglialberi = castle
+#b_castellodisanzeno = castle
+#b_cavarzere = city
+#b_badiapolesine = temple
+#b_lendinara = city
+#b_castellodicini = castle
+
+
+
+# Misc
+culture = venetian
+religion = catholic
+
+# History
+1115.7.24 = { capital = b_rovigo }
+1196.1.1 = { capital = b_este }
+1310.1.1 = { capital = b_adria }
+1317.1.1 = { capital = b_este }

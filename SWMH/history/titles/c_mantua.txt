@@ -1,0 +1,26 @@
+855.9.20={
+	liege="k_italy"
+}
+859.1.1={
+	holder=168334
+}
+961.1.1={
+	liege="d_verona"
+}
+1066.1.1={
+	liege="d_toscana"
+	holder=7757
+}
+1115.7.24={
+	liege="e_hre"
+	#comune after Matilda's death
+}
+1318.1.1={
+	holder=413024 #first Gonzaga
+}
+1319.1.1={
+	liege="0"
+}
+1328.1.1={
+	holder=413027
+}

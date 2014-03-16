@@ -1,0 +1,22 @@
+# 229 - Forcalquier
+
+# County Title
+title = c_forcalquier
+
+# Settlements
+max_settlements = 4
+b_forcalquier = castle
+b_digne = temple
+b_sault = castle
+
+#b_apt = city
+#b_nyons = city
+#b_sisteron = castle
+#b_riez = temple
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History
+1187.1.1 = { b_sisteron = castle }

@@ -1,0 +1,15 @@
+# 1226 - Ghat
+
+# County Title
+title = c_ghat
+
+# Settlements
+max_settlements = 1
+
+b_ghat = city
+
+# Misc
+culture = tuareg
+religion = ibadi
+
+# History

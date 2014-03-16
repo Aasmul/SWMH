@@ -1,0 +1,22 @@
+# 1399 - Wargla
+
+# County Title
+title = c_wargla
+
+# Settlements
+max_settlements = 4
+
+b_ouargla = castle
+b_sadrata = castle
+
+#b_taghyart = castle
+#b_karima = castle
+
+# Misc
+culture = zanata
+religion = ibadi
+
+# History
+
+
+

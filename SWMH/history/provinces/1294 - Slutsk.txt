@@ -1,0 +1,19 @@
+# 1294 - Slutsk
+
+# County Title
+title = c_slutsk
+
+# Settlements
+max_settlements = 4
+
+b_slutsk = castle
+b_kapyl = city
+b_kletsk = castle
+#b_nesvizh = castle #castle since 1553, was a city beforehand
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+988.1.1 = {religion = orthodox }

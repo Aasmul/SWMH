@@ -1,0 +1,9 @@
+843.1.1={
+	liege="d_musab"
+	holder = 1000228830
+}
+
+1066.1.1={
+  holder=1000144553
+  liege="d_tuat"
+}

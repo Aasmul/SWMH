@@ -1,0 +1,20 @@
+# 49 - Carrick
+
+# County Title
+title = c_carrick
+
+# Settlements
+max_settlements = 3
+b_turnberry = castle
+b_crossraguel = temple
+#b_maybole = city
+
+# Misc
+culture = scottish
+religion = catholic
+terrain = hills
+
+# History
+
+400.1.1 = { culture = cumbric } 
+1000.1.1 = { culture = scottish } 

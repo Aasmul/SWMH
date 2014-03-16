@@ -1,0 +1,18 @@
+# 1006 - Krasso
+# County Title
+title = c_krasso
+
+# Settlements
+max_settlements = 3
+
+b_krasso = castle
+b_orsova = city
+#b_dognagska = castle
+#b_resicabanya = temple
+
+# Misc
+culture = bulgarian
+religion = orthodox
+
+# History
+950.1.1 = { religion = catholic }

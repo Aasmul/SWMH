@@ -1,0 +1,17 @@
+# 1039 - Amous
+
+# County Title
+title = c_amous
+
+# Settlements
+max_settlements = 3
+b_dole = castle
+b_gray = city
+#b_auxonne = castle
+
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History

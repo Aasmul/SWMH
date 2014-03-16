@@ -1,0 +1,22 @@
+# 1243 - Kafrtab
+
+# County Title
+title = c_kafrtab
+
+# Settlements
+max_settlements = 4
+
+b_kafr_tab = castle
+#b_maaratannuman = city
+#b_bara = castle
+#b_serjilla = castle
+
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+
+

@@ -1,0 +1,22 @@
+# 1168 - Béziers
+
+# County Title
+title = c_beziers
+
+# Settlements
+max_settlements = 5
+b_beziers = castle
+b_pezenas = city
+b_agde = temple
+b_castelnaudeguers = castle
+
+#b_minerve = castle
+#b_puisserguier = city
+#b_faugeres = castle
+
+
+culture = occitan
+religion = catholic
+
+# History
+1123.1.1  = { b_minerve = castle }

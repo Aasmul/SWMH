@@ -1,0 +1,17 @@
+# 114 - Reims
+
+# County Title
+title = c_reims
+
+# Settlements
+max_settlements = 4
+b_reims = temple
+b_chalons = temple
+#b_louvois = castle
+b_vitry = castle
+
+culture = frankish
+religion = catholic
+
+# History
+

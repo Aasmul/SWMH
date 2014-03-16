@@ -1,0 +1,91 @@
+	# Dutch Urban Militia
+castle = {
+	ca_culture_dutch_1 = {
+		desc = ca_culture_dutch_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = dutch
+					culture = frisian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		pikemen = 15
+		light_infantry = 30
+		light_infantry_offensive = 0.075
+		pikemen_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_dutch_2 = {
+		desc = ca_culture_dutch_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = dutch
+					culture = frisian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_dutch_1
+		build_cost = 300
+		build_time = 1095
+		pikemen = 20
+		light_infantry = 40
+		light_infantry_offensive = 0.075
+		pikemen_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_dutch_3 = {
+		desc = ca_culture_dutch_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = dutch
+					culture = frisian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_dutch_2
+		build_cost = 400
+		build_time = 2190
+		pikemen = 25
+		light_infantry = 50
+		light_infantry_offensive = 0.075
+		pikemen_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_dutch_4 = {
+		desc = ca_culture_dutch_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = dutch
+					culture = frisian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_dutch_3
+		build_cost = 500
+		build_time = 2190
+		pikemen = 30
+		light_infantry = 60
+		light_infantry_offensive = 0.075
+		pikemen_offensive = 0.075
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+}

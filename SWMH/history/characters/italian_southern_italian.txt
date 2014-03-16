@@ -1,0 +1,1275 @@
+###############################################################
+#  southern_italian characters
+###############################################################
+
+##############################################################################################
+# d'Aquino
+
+71004 = {
+	name="Adenolfo"
+	dynasty=8682
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="detached_priest"
+	add_trait="humble"
+	father=71006
+	1243.1.1 = {
+		birth="1243.1.1"
+	}
+	1256.1.1 = {
+		add_spouse=71002
+	}
+	1294.1.1 = {
+		death="1294.1.1"
+	}
+}
+
+71005 = {
+	name="Cubitosa"
+	dynasty=8682
+	female=yes
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="intricate_webweaver"
+	add_trait="proud"
+	father=71006
+	1245.1.1 = {
+		birth="1245.1.1"
+	}
+	1301.1.1 = {
+		death="1301.1.1"
+	}
+}
+
+71006 = {
+	name="Tommaso"
+	dynasty=8682
+	martial=8
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="tough_soldier"
+	add_trait="gregarious"
+	1218.1.1 = {
+		birth="1218.1.1"
+	}
+	1273.3.15 = {
+		death="1273.3.15"
+	}
+}
+
+32552 = {
+	name="Giovanna"
+	female=yes
+	dynasty=8682 #d'Aquino
+	religion="catholic"
+	culture="southern_italian"
+	father=71006
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1292.1.1 = {
+		death="1292.1.1"
+	}
+}
+##############################################################################################
+#Tocco
+
+32541 = {
+	name="Guglielmo"
+	dynasty=7250 #Tocco
+	religion="catholic"
+	culture="southern_italian"
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1311.1.1 = {
+		add_spouse=32540
+	}	
+	1335.9.22 = {
+		death="1335.9.22"
+	}
+}
+
+32542 = {
+	name="Pietro"
+	dynasty=7250 #Tocco
+	religion="catholic"
+	culture="southern_italian"
+	father=32541
+	mother=32540
+	1312.1.1 = {
+		birth="1312.1.1"
+	}
+	
+	1381.5.23 = {
+		death="1381.5.23"
+	}
+}
+32543 = {
+	name="Leonardo"
+	dynasty=7250 #Tocco
+	religion="catholic"
+	culture="southern_italian"
+	father=32541
+	mother=32540
+	1314.1.1 = {
+		birth="1314.1.1"
+	}
+	
+	1375.3.20 = {
+		death="1375.3.20"
+	}
+}
+##############################################################################################
+#de Lauria
+71702 = {
+	name="Beatrice"
+	dynasty=7050
+	female=yes
+	religion="catholic"
+	culture="southern_italian"
+	father=71703
+	mother=71013
+	1278.1.1 = {
+		birth="1278.1.1"
+	}
+	1281.1.1 = {
+		name="Beatriu"
+		culture="catalan"
+	}
+	1322.1.1 = {
+		death="1322.1.1"
+	}
+}
+71703 = {
+	name="Ruggiero" # AKA: Roger de Lauria
+	dynasty=7050
+	martial=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="brilliant_strategist"
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1273.1.1 = {
+		add_spouse=71013
+	}
+	1281.1.1 = {
+		name="Roger"
+		culture="catalan"
+	}
+	1300.1.1 = {
+		add_spouse=71706
+	}
+	1305.1.19 = {
+		death="1305.1.19"
+	}
+}
+##############################################################################################
+#di Brindisi
+211531 = {
+	name="Margaritone"
+	dynasty=7188
+	martial=7
+	diplomacy=7
+	intrigue=3
+	stewardship=7
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="diligent"
+	add_trait="proud"
+	add_trait="skilled_tactician"
+	1147.1.1 = {
+		birth="1147.1.1"
+	}
+	1170.1.1 = {
+		add_spouse=211530
+	}
+	1194.1.1 = {
+	add_trait="maimed"
+	}
+	1197.1.1 = {
+		death="1197.1.1"
+	}
+}
+211532 = {
+	name="Guglielmo"
+	dynasty=7188
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	father=211531
+	mother=211530
+	1172.1.1 = {
+		birth="1172.1.1"
+	}
+	1204.1.1 = {
+		death="1204.1.1"
+	}
+}
+31402 = {
+	name="Maria" #real name unknown
+	female=yes
+	dynasty=7188 
+	religion="catholic"
+	culture="southern_italian"
+	father=211532
+	1188.1.1 = {
+		birth="1188.1.1"
+	}
+	1238.1.1 = {
+		death="1238.1.1"
+	}
+}
+31445 = {
+	name="Maria" #real name unknown
+	female=yes
+	dynasty=7188
+	religion="catholic"
+	culture="southern_italian"
+	father=211531
+	mother=211530
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1230.1.1 = {
+		death="1230.1.1"
+	}
+}
+##############################################################################################
+#Brictone
+30882 = {
+	name="Gilia"
+	female=yes
+	dynasty=7189
+	religion="catholic"
+	culture="southern_italian"
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1101.1.1 = {
+		death="1101.1.1"
+	}
+}
+##############################################################################################
+#de Machierato
+70946 = {
+	name="Martino"
+	# AKA: Martino de Machierato
+	dynasty=8692 #Machierato
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=4
+	learning=5
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="brilliant_strategist"
+	add_trait="humble"
+	1307.1.1 = {
+		birth="1307.1.1"
+		employer=462691
+	}
+	1325.1.1 = {
+		add_spouse=70942
+	}
+	1369.1.1 = {
+		death="1369.1.1"
+	}
+}
+##############################################################################################
+#di Montelongo
+70835 = {
+	name="Gregorio"
+	# AKA: Gergorio
+	dynasty=8710
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="diligent"
+	add_trait="content"
+	add_trait="mastermind_theologian"
+	
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1269.1.1 = {
+		death="1269.1.1"
+	}
+}
+##############################################################################################
+#Enganna
+71209 = {
+	name="Guglielmo"
+	dynasty=8715
+	martial=6
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="southern_italian"
+	1285.1.1 = {
+		birth="1285.1.1"
+	}
+	1304.1.1 = {
+		add_spouse=71208
+	}
+	1333.1.1 = {
+		death="1333.1.1"
+	}
+}
+##############################################################################################
+#Coniulo
+2017 = {
+	name="Giovanni"
+	dynasty=8784
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="kind"
+	add_trait="humble"
+	add_trait="martial_cleric"
+	1064.1.1 = {
+		birth="1064.1.1"
+	}
+	1118.1.21 = {
+	name="Gelasius"
+	# AKA: Giovanni
+	}
+	1119.1.29 = {
+		death="1119.1.29"
+	}
+}
+##############################################################################################
+#Angelerio
+71834 = {
+	name="Pietro"
+	dynasty=8796
+	martial=3
+	diplomacy=5
+	intrigue=3
+	stewardship=3
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="content"
+	add_trait="mystic"
+	add_trait="shy"
+	add_trait="scholarly_theologian"
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1292.4.4 = {
+		name="Celestine"
+	}
+	1294.12.13 = {
+		name="Pietro"
+	}
+	1296.5.19 = {
+		name="Celestine"
+		give_nickname=nick_the_saint
+		death="1296.5.19"
+	}
+}
+##############################################################################################
+#di Squillache
+72111 = {
+	name="Ramone"
+	dynasty=12117
+	religion="catholic"
+	culture="southern_italian"
+	father=72109
+	add_trait="bastard"
+	1308.1.1 = {
+		birth="1308.1.1"
+	}
+	1327.1.1 = {
+		death="1327.1.1"
+	}
+}
+##############################################################################################
+#di Brunforte
+73464 = {
+	name="Gualtiero"
+	dynasty=12249
+	religion="catholic"
+	culture="southern_italian"
+	1234.1.1={
+		birth="1234.1.1"
+	}
+	1289.1.1={
+		death="1289.1.1"
+	}
+}
+##############################################################################################
+#Masci
+71833 = {
+	name="Girolamo"
+	dynasty=13053
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="content"
+	add_trait="kind"
+	add_trait="detached_priest"
+	1227.9.30 = {
+		birth="1227.9.30"
+	}
+	1287.4.3 = {
+		name="Nicholas"
+	}
+	1292.4.4 = {
+		death="1292.4.4"
+	}
+}
+##############################################################################################
+#di Taranto
+
+211517 = {
+	name="Maria"
+	female=yes
+	dynasty=100344
+	martial=5
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="proud"
+	add_trait="gluttonous"
+	add_trait="thrifty_clerk"
+	1155.1.2 = {
+		birth="1155.1.2"
+	}
+	1205.1.2 = {
+		death="1205.1.2"
+	}
+}
+##############################################################################################
+#di Bari
+70818 = {
+	name="Beatrice"
+	female=yes
+	dynasty=100346
+	martial=5
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="ambitious"
+	add_trait="imbecile"
+	add_trait="amateurish_plotter"
+	
+	1311.1.1 = {
+		birth="1311.1.1"
+	}
+	1382.1.1 = {
+		death="1382.1.1"
+	}
+}
+##############################################################################################
+#Scripari
+32573 = {
+	name="Caterina"
+	female=yes
+	dynasty=7255 #Scripari
+	religion="catholic"
+	culture="southern_italian"
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1328.8.24 = {
+		death="1328.8.24"
+	}
+}
+##############################################################################################
+#Ruffo di Calabria
+70860 = {
+	name="Claretta"
+	female=yes	
+	dynasty=13077
+	religion="catholic"
+	culture="southern_italian"
+	father=32547
+	mother=32552
+	1268.1.1 = {
+		birth="1268.1.1"
+	}	
+	1299.1.1 = {
+		death="1299.1.1"
+	}
+}
+32545 = {
+	name="Giordano"
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32550
+	1213.1.1 = {
+		birth="1213.1.1"
+	}
+	1229.1.1 = {
+		add_spouse=32546
+	}	
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+32547 = {
+	name="Pietro" #count of Consenza
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32545
+	mother=32546
+	1231.1.1 = {
+		birth="1231.1.1"
+	}
+	1264.1.1 = {
+		add_spouse=32552
+	}	
+	1302.1.1 = {
+		death="1302.1.1"
+	}
+}
+32548 = {
+	name="Giordano"
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	1170.1.1 = {
+		birth="1170.1.1"
+	}
+	1220.1.1 = {
+		death="1220.1.1"
+	}
+}
+32549 = {
+	name="Pietro" #count of Consenza
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32548
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1257.1.1 = {
+		death="1257.1.1"
+	}
+}
+32550 = {
+	name="Giovanni" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32548
+	1191.1.1 = {
+		birth="1191.1.1"
+	}
+	1266.1.1 = {
+		death="1266.1.1"
+	}
+}
+32551 = {
+	name="Sigerio" #Marshall of Friedrich II
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	add_trait="skilled_tactician"
+	father=32550
+	1208.1.1 = {
+		birth="1208.1.1"
+	}
+	1250.1.1 = {
+		death="1250.1.1"
+	}
+}
+32553 = {
+	name="Giovanni" #count of Consenza
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32547
+	mother=32552
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1290.1.1 = {
+		add_spouse=32554
+	}	
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+32555 = {
+	name="Pietro" #count of Consenza
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32553
+	mother=32554
+	1300.1.1 = {
+		birth="1300.1.1"
+	}
+	1325.1.1 = {
+		add_spouse=32556
+	}
+	1344.1.1 = {
+		death="1344.1.1"
+	}
+}
+32557 = {
+	name="Antonia" 
+	female=yes
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32555
+	mother=32556
+	1327.1.1 = {
+		birth="1327.1.1"
+	}
+	1377.1.1 = {
+		death="1377.1.1"
+	}
+}
+32558 = {
+	name="Antonio" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32555
+	mother=32556
+	1331.1.1={
+		birth="1331.1.1"
+	}
+	1383.1.1={
+		death="1383.1.1"
+	}
+}
+32559 = {
+	name="Fulcone" #count of Reggio
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32550
+	1212.1.1 = {
+		birth="1212.1.1"
+	}
+	1236.1.1 = {
+		add_spouse=32560
+	}
+	1266.1.1 = {
+		death="1266.1.1"
+	}
+}
+32561 = {
+	name="Giordano" #count of Reggio
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32559
+	mother=32560
+	1237.1.1 = {
+		birth="1237.1.1"
+	}
+	1287.1.1 = {
+		death="1287.1.1"
+	}
+}
+32562 = {
+	name="Fulcone" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32559
+	mother=32560
+	1244.1.1 = {
+		birth="1244.1.1"
+	}
+	1276.1.1 = {
+		death="1276.1.1"
+	}
+}
+32563 = {
+	name="Enrico" #count of Reggio
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32559
+	mother=32560
+	1248.1.1 = {
+		birth="1248.1.1"
+	}
+	1280.1.1 = {
+		add_spouse=32566
+	}
+	1309.1.1 = {
+		death="1309.1.1"
+	}
+}
+
+32564 = {
+	name="Giordana"
+	female=yes
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32559
+	mother=32560
+	1238.1.1 = {
+		birth="1238.1.1"
+	}
+	1288.1.1 = {
+		death="1288.1.1"
+	}
+}
+
+32565 = {
+	name="Luigia"
+	female=yes
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32559
+	mother=32560
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+32567 = {
+	name="Pietro" #count of Reggio
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32563
+	mother=32566
+	1282.1.1 = {
+		birth="1282.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+32568 = {
+	name="Fulcone" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32563
+	mother=32566
+	1284.1.1 = {
+		birth="1284.1.1"
+	}
+	1346.1.1 = {
+		death="1346.1.1"
+	}
+}
+32569 = {
+	name="Ruggero" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32563
+	mother=32566
+	1286.1.1 = {
+		birth="1286.1.1"
+	}
+	1322.1.1 = {
+		death="1322.1.1"
+	}
+}
+32570 = {
+	name="Guglielmo" #Count of Reggio
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32563
+	mother=32566
+	1288.1.1 = {
+		birth="1288.1.1"
+	}	
+	1318.1.1 = {
+		add_spouse=32573
+	}		
+	1331.1.1 = {
+		add_spouse=32574
+	}
+	1332.1.1 = {	
+		add_trait="kinslayer"
+	}		
+	1361.12.8 = {
+		death="1361.12.8"
+	}
+}
+32571 = {
+	name="Pietro"
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32567
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1330.1.1={
+		add_spouse=32572
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+32575 = {
+	name="Enrico" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32570
+	mother=32573
+	1320.1.1 = {
+		birth="1320.1.1"
+	}
+	1357.1.1 = {
+		death="1357.1.1"
+	}
+}
+32576 = {
+	name="Colella"
+	female=yes
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32570
+	mother=32573
+	1319.1.1 = {
+		birth="1319.1.1"
+	}
+	1336.1.1 = {
+		death="1336.1.1"
+	}
+}
+32577 = {
+	name="Carlo" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32570
+	mother=32573
+	1321.1.1 = {
+		birth="1321.1.1"
+	}
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+32578 = {
+	name="Margherita" 
+	female=yes
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32570
+	mother=32573
+	1322.1.1 = {
+		birth="1322.1.1"
+	}
+	1352.1.1 = {
+		death="1352.1.1"
+	}
+}
+32579 = {
+	name="Luisa" 
+	female=yes
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32570
+	mother=32573
+	1324.1.1 = {
+		birth="1324.1.1"
+	}
+	1374.1.1 = {
+		death="1374.1.1"
+	}
+}
+32580 = {
+	name="Fulcone" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32570
+	mother=32574
+	1333.1.1 = {
+		birth="1333.1.1"
+	}
+	1391.1.1 = {
+		death="1391.1.1"
+	}
+}
+32581 = {
+	name="Ruggero" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32570
+	mother=32574
+	1335.1.1 = {
+		birth="1335.1.1"
+	}
+	1385.1.1 = {
+		death="1385.1.1"
+	}
+}
+32582 = {
+	name="Ruggero"
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32550
+	1209.1.1 = {
+		birth="1209.1.1"
+	}
+	1257.1.1 = {
+		death="1257.1.1"
+	}
+}
+32583 = {
+	name="Giordano" 
+	dynasty=13077 #Ruffo
+	religion="catholic"
+	culture="southern_italian"
+	father=32547
+	mother=32552
+	1266.1.1 = {
+		birth="1266.1.1"
+	}
+	1306.1.1 = {
+		death="1306.1.1"
+	}
+}
+##############################################################################################
+#di Licinardo
+32554 = {
+	name="Francesca"
+	female=yes
+	dynasty=7251 #di Licinardo
+	religion="catholic"
+	culture="southern_italian"
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+
+##############################################################################################
+#di San Lucido
+32566 = {
+	name="Margherita"
+	female=yes
+	dynasty=7253 #di San Lucido
+	religion="catholic"
+	culture="southern_italian"
+	1264.1.1 = {
+		birth="1264.1.1"
+	}
+	1309.1.1 = {
+		death="1309.1.1"
+	}
+}
+##############################################################################################
+#de Larsa
+34582 = {
+	name="Guglielmo"
+	dynasty=7310
+	religion="catholic"
+	culture="southern_italian"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1211.1.1={
+		death="1211.1.1"
+	}
+}
+##############################################################################################
+#Dynasties without characters
+#
+#
+##############################################################################################
+#Palizzi dynasty=66
+##############################################################################################
+#di Catanzaro dynasty=7190
+##############################################################################################
+#da Morrone dynasty=13054
+##############################################################################################
+#di Acerenza dynasty=22000
+##############################################################################################
+#d'Arena dynasty=100195
+##############################################################################################
+#di Lecce dynasty=100345
+##############################################################################################
+#di Apulia dynasty=100347
+##############################################################################################
+#di Foggia dynasty=100348
+#############################################################################################
+#Characters without dynasties
+#
+#
+#############################################################################################
+#bishops of benevento
+73472 = {
+	name="Ulderit"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1069.1.1={
+		death="1069.1.1"
+	}
+}
+73473 = {
+	name="Milone"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=mastermind_theologian
+	1006.1.1={
+		birth="1006.1.1"
+	}
+	1075.1.1={
+		death="1075.1.1"
+	}
+}
+73474 = {
+	name="Rofrit"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+73475 = {
+	name="Landolf"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1119.1.1={
+		death="1119.1.1"
+	}
+}
+73476 = {
+	name="Rofrit"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1078.1.1={
+		birth="1078.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+73477 = {
+	name="Landolf"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1079.1.1={
+		birth="1079.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+73478 = {
+	name="Gregorio"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1092.1.1={
+		birth="1092.1.1"
+	}
+	1145.1.1={
+		death="1145.1.1"
+	}
+}
+73479 = {
+	name="Roseola"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1146.1.1={
+		death="1146.1.1"
+	}
+}
+73480 = {
+	name="Pietro"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+73481 = {
+	name="Enrico"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1111.1.1={
+		birth="1111.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+73482 = {
+	name="Lombardo"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1179.1.1={
+		death="1179.1.1"
+	}
+}
+73484 = {
+	name="Ugolino"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1254.1.1={
+		death="1254.1.1"
+	}
+}
+73485 = {
+	name="Capoferro"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+73486 = {
+	name="Castrocielo"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1295.1.1={
+		death="1295.1.1"
+	}
+}
+73487 = {
+	name="Giovanni"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+73488 = {
+	name="Adenolfo"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+73489 = {
+	name="Giacomo"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1303.1.1={
+		death="1303.1.1"
+	}
+}
+73490 = {
+	name="Monaldo"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+73491 = {
+	name="Arnaldo"
+	religion="catholic"
+	culture="southern_italian"
+	add_trait=detached_priest
+	1287.1.1={
+		birth="1287.1.1"
+	}
+	1344.1.1={
+		death="1344.1.1"
+	}
+}

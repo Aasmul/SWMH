@@ -1,0 +1,18 @@
+#845.1.1={
+#	holder = 163109
+#}
+860.1.1={
+	holder = 163110 # Sigurd Ormeøje
+}
+917.1.1={
+	holder = 0
+}
+961.1.1={
+	liege = "k_denmark"
+}
+1047.10.25={
+	holder=201530 # Skjalm Hvide
+}
+1113.1.1={
+	holder=0
+}

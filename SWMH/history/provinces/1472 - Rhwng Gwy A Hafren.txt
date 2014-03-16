@@ -1,0 +1,19 @@
+# 1472 - Rhwng Gwy A Hafren
+
+# County Title
+title = c_rhwng
+
+# Settlements
+max_settlements = 3
+b_dolforwyn = castle
+b_abbeycwmhir = temple
+#b_aberedw = city
+
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History

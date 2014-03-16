@@ -1,0 +1,94 @@
+778.1.1={
+	liege="d_toulouse"
+}
+790.1.1={
+	holder = 1000227200 # Bello de Carcassonne
+}
+810.1.1={
+	holder = 1000227201 # Guisclafred de Carcassonne
+}
+821.1.1={
+	holder = 1000227202 # Olibia I de Carcassonne
+}
+837.1.1={
+	holder = 1000227203 # Olibia II de Carcassonne
+}
+877.1.1={
+	holder = 127025 # Acfred I de Carcassonne
+}
+906.2.18={
+	holder = 1000227204 # Bencion de Carcassonne
+}
+908.1.1={
+	holder = 1000227205 # Acfred II de Carcassonne
+}
+934.1.1={
+	holder = 40180#Arnaud I de Comminges by marriage to Arsenda de Carcasonne
+}
+957.11.27={
+	holder = 1000227206 #Arnaud I de Comminges dies leaving Arsenda to rule alone.
+}
+992.1.1={
+	holder = 40182 #Rogier I de Carcassonne
+        liege="d_toulouse"
+           }
+1011.4.1={
+	holder = 40186
+}
+1060.1.1={
+	holder = 138284 # #Raymond Roger de Carcassonne/Comminges
+}
+1066.1.1={
+	liege="d_toulouse"
+}
+1067.1.1={
+	holder=40204
+}
+1074.1.1={
+	holder = 7663
+}
+1129.1.1={
+	holder = 205571
+}
+1167.10.15={
+	holder = 205570
+}
+1194.1.1={
+	holder = 205572
+}
+1209.11.10={
+	holder = 204586
+}
+1218.6.25={
+	holder = 7466
+}
+1224.1.1={
+	liege="k_france"
+}
+1224.1.1={
+	holder = 455402 
+}
+1226.11.8={
+	holder = 455404 
+}
+1270.8.25={
+	holder = 455528 
+}
+1285.10.5={
+	holder = 455526 
+}
+1314.11.29={
+	holder = 455836 
+}
+1316.6.5={ 
+	holder= 70137 
+}
+1316.11.19={ 
+	holder= 455509 
+}
+1322.1.3={
+	holder = 455414 
+}
+1328.2.1={
+	holder=455500 
+}

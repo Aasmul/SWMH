@@ -1,0 +1,21 @@
+# 1108 - Larino
+
+# County Title
+title = c_larino
+
+# Settlements
+max_settlements = 3
+b_larinoloritello = castle
+b_termoli = city
+
+#b_sannicandro = castle
+#b_vastoloritello = city
+#b_sansalvoloritello = temple
+#b_campomarino = castle
+#b_guglionesi = city
+
+# Misc
+culture = southern_italian
+religion = catholic
+
+# History

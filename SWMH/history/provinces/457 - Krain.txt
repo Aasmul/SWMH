@@ -1,0 +1,27 @@
+# 457 - Krain
+
+# County Title
+title = c_krain
+
+# Settlements
+max_settlements = 4
+
+b_auersperg = castle
+b_krainburg = city
+b_sittich = temple
+#b_bischoflack = temple #karantanci = Škofja Loka
+#b_konstanjevica = temple #german = Landstrass
+#b_michelstetten = temple #karantanci = Velesovo
+#b_laibach = city
+#b_kamnik = city #German = Stein
+#b_rudolfswert = city
+#b_merling = castle #karantanci = Metlika
+#b_weichselberg = castle 
+#b_reifnitz = castle #karantanci = Ribnica
+#b_kostel = castle 
+
+# Misc
+culture = karantanci
+religion = catholic
+
+# History

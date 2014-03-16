@@ -1,0 +1,23 @@
+# 1159 - Auxois
+
+# County Title
+title = c_auxois
+
+# Settlements
+max_settlements = 4
+
+b_semur = castle
+b_avallon = temple
+b_saulieu = city
+
+#b_arnay = city
+#b_pouilly = castle
+#b_vezelay = temple
+
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+

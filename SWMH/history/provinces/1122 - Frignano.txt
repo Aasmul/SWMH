@@ -1,0 +1,21 @@
+# 1122 - Frignano
+
+# County Title
+title = c_frignano
+
+# Settlements
+max_settlements = 2
+
+b_frignanomodena = castle
+#b_serramazzoni = city
+#b_ligonchio = city
+#b_castelnovo = castle
+#b_salamedifelina = castle
+#b_pievepelago = temple
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

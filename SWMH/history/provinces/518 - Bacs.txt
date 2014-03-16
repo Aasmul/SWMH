@@ -1,0 +1,31 @@
+# 518 - Bacs
+
+# County Title
+title = c_bacs
+
+# Settlements
+max_settlements = 5
+
+b_bodrog = castle
+b_bajahungary = city
+b_bacs = castle
+
+#b_titel = temple
+#b_ko = temple
+#b_petervarad = castle
+#b_almas = temple
+#b_batmonostor = castle
+#b_obecse = castle
+#b_zintarev = temple
+#b_opalanka = city
+#b_ofutak = castle
+#b_ujvidek = city
+
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }

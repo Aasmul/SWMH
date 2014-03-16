@@ -1,0 +1,24 @@
+# 1404 - Murzuk
+
+# County Title
+title = c_murzuk
+
+# Settlements
+max_settlements = 6
+
+b_murzuk = castle
+b_mishtouta = city
+
+#b_dillaim = temple
+#b_djarma = castle
+#b_tassawa = city
+#b_tamzawa = castle
+
+# Misc
+culture = tuareg
+religion = sunni
+
+# History
+
+
+

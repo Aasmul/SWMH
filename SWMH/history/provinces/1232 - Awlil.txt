@@ -1,0 +1,21 @@
+# 1232 - Awlil
+
+# County Title
+title = c_awlil
+
+# Settlements
+max_settlements = 1
+
+b_awlil = city
+
+# Misc
+culture = wolof
+religion = west_african_pagan
+
+# History
+
+#berber colonization
+980.1.1 = { culture = tagelmust }
+
+#islamization
+1000.1.1 = { religion = sunni }

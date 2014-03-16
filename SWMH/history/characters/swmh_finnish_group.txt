@@ -1,0 +1,1057 @@
+###############################################################
+#  SWMH Finnish group Characters
+###############################################################
+#Range: 1000227550 - 1000227699
+###############################################################
+#
+########################################
+#Livonian
+########################################
+###Metsepole
+1000227550 = {
+	name="Ylo"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+	840.1.1 = {
+		birth=yes
+	}
+	899.1.1 = {
+		death=yes
+	}
+}
+1000227551 = {
+	name="Vade"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227550
+	871.1.1 = {
+		birth=yes
+	}
+	935.1.1 = {
+		death=yes
+	}
+}
+1000227552 = {
+	name="Ylo"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227551
+	897.1.1 = {
+		birth=yes
+	}
+	958.1.1 = {
+		death=yes
+	}
+}
+1000227553 = {
+	name="Vade"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227552
+	931.1.1 = {
+		birth=yes
+	}
+	979.1.1 = {
+		death=yes
+	}
+}
+1000227554 = {
+	name="Ylo"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227553
+	957.1.1 = {
+		birth=yes
+	}
+	995.1.1 = {
+		death=yes
+	}
+}
+1000227555 = {
+	name="Vade"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227554
+	980.1.1 = {
+		birth=yes
+	}
+	1043.1.1 = {
+		death=yes
+	}
+}
+1000227556 = {
+	name="Ylo"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227555
+	1006.1.1 = {
+		birth=yes
+	}
+	1059.1.1 = {
+		death=yes
+	}
+}
+1000227557 = {
+	name="Vade"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227556
+	1033.1.1 = {
+		birth=yes
+	}
+	1098.1.1 = {
+		death=yes
+	}
+}
+1000227558 = {
+	name="Ylo"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227557
+	1067.1.1 = {
+		birth=yes
+	}
+	1123.1.1 = {
+		death=yes
+	}
+}
+1000227559 = {
+	name="Vade"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227558
+	1098.1.1 = {
+		birth=yes
+	}
+	1165.1.1 = {
+		death=yes
+	}
+}
+1000227560 = {
+	name="Ylo"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227559
+	1131.1.1 = {
+		birth=yes
+	}
+	1192.1.1 = {
+		death=yes
+	}
+}
+1000227561 = {
+	name="Vade"
+        dynasty=1000053358 # of Mıtsa Puoll
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227560
+	1163.1.1 = {
+		birth=yes
+	}
+	1202.1.1 = {
+		death=yes
+	}
+}
+###Sakala
+1000227562 = {
+	name="Paike"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+	839.1.1 = {
+		birth=yes
+	}
+	895.1.1 = {
+		death=yes
+	}
+}
+1000227563 = {
+	name="Imauts"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227562
+	868.1.1 = {
+		birth=yes
+	}
+	922.1.1 = {
+		death=yes
+	}
+}
+1000227564 = {
+	name="Paike"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227563
+	888.1.1 = {
+		birth=yes
+	}
+	951.1.1 = {
+		death=yes
+	}
+}
+1000227565 = {
+	name="Imauts"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227564
+	930.1.1 = {
+		birth=yes
+	}
+	973.1.1 = {
+		death=yes
+	}
+}
+1000227566 = {
+	name="Paike"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227565
+	955.1.1 = {
+		birth=yes
+	}
+	990.1.1 = {
+		death=yes
+	}
+}
+1000227567 = {
+	name="Imauts"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227566
+	983.1.1 = {
+		birth=yes
+	}
+	1042.1.1 = {
+		death=yes
+	}
+}
+1000227568 = {
+	name="Paike"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227567
+	1008.1.1 = {
+		birth=yes
+	}
+	1059.1.1 = {
+		death=yes
+	}
+}
+1000227569 = {
+	name="Imauts"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227568
+	1034.1.1 = {
+		birth=yes
+	}
+	1099.1.1 = {
+		death=yes
+	}
+}
+1000227570 = {
+	name="Paike"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227569
+	1069.1.1 = {
+		birth=yes
+	}
+	1121.1.1 = {
+		death=yes
+	}
+}
+1000227571 = {
+	name="Imauts"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227570
+	1096.1.1 = {
+		birth=yes
+	}
+	1164.1.1 = {
+		death=yes
+	}
+}
+1000227572 = {
+	name="Paike"
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227571
+	1133.1.1 = {
+		birth=yes
+	}
+	1190.1.1 = {
+		death=yes
+	}
+}
+1000227573 = {
+	name="Lembitu" # Lembitu Elder of Sakala pre1211-1217
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227572
+	1162.1.1 = {
+		birth=yes
+	}
+	1217.9.21 = {
+		death=yes
+	}
+}
+1000227593 = {
+	name="Unnepewe" # Unnepewe brother of Lembitu, Elder of Sakala 1217-?
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227572
+	1167.1.1 = {
+		birth=yes
+	}
+	1220.1.1 = {
+		death=yes
+	}
+}
+1000227594 = {
+	name="Meeme" # Son of Lembitu?, Elder of Sakala ?-1224
+        dynasty=1000053359 # of Sakala
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227573
+	1185.1.1 = {
+		birth=yes
+	}
+	1224.1.1 = {
+		death=yes
+	}
+}
+### Torieda
+1000227574 = {
+	name="Ase"
+        dynasty=1000053360 # of Toreida
+	religion="finnish_pagan"
+	culture="livonian"
+	842.1.1 = {
+		birth=yes
+	}
+	901.1.1 = {
+		death=yes
+	}
+}
+1000227575 = {
+	name="Menikko"
+        dynasty=1000053360 # of Toreida
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227574
+	868.1.1 = {
+		birth=yes
+	}
+	932.1.1 = {
+		death=yes
+	}
+}
+1000227576 = {
+	name="Ase"
+        dynasty=1000053360 # of Toreida
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227575
+	896.1.1 = {
+		birth=yes
+	}
+	955.1.1 = {
+		death=yes
+	}
+}
+1000227577 = {
+	name="Menikko"
+        dynasty=1000053360 # of Toreida
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227576
+	929.1.1 = {
+		birth=yes
+	}
+	978.1.1 = {
+		death=yes
+	}
+}
+1000227578 = {
+	name="Ase"
+        dynasty=1000053360 # of Toreida
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227577
+	951.1.1 = {
+		birth=yes
+	}
+	993.1.1 = {
+		death=yes
+	}
+}
+1000227579 = {
+	name="Menikko"
+        dynasty=1000053360 # of Toreida
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227578
+	977.1.1 = {
+		birth=yes
+	}
+	1038.1.1 = {
+		death=yes
+	}
+}
+1000227580 = {
+	name="Ase"
+        dynasty=1000053360 # of Toreida
+	religion="finnish_pagan"
+	culture="livonian"
+        father=1000227579
+	1016.1.1 = {
+		birth=yes
+	}
+	1063.1.1 = {
+		death=yes
+	}
+}
+###Vanema
+1000227581 = {
+	name="Kulewene"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+	840.1.1 = {
+		birth=yes
+	}
+	899.1.1 = {
+		death=yes
+	}
+}
+1000227582 = {
+	name="Dabrelis"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227581
+	871.1.1 = {
+		birth=yes
+	}
+	935.1.1 = {
+		death=yes
+	}
+}
+1000227583 = {
+	name="Kulewene"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227582
+	897.1.1 = {
+		birth=yes
+	}
+	958.1.1 = {
+		death=yes
+	}
+}
+1000227584 = {
+	name="Dabrelis"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227583
+	931.1.1 = {
+		birth=yes
+	}
+	979.1.1 = {
+		death=yes
+	}
+}
+1000227585 = {
+	name="Kulewene"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227584
+	957.1.1 = {
+		birth=yes
+	}
+	995.1.1 = {
+		death=yes
+	}
+}
+1000227586 = {
+	name="Dabrelis"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227585
+	980.1.1 = {
+		birth=yes
+	}
+	1043.1.1 = {
+		death=yes
+	}
+}
+1000227587 = {
+	name="Dabrelis"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227586
+	1006.1.1 = {
+		birth=yes
+	}
+	1059.1.1 = {
+		death=yes
+	}
+}
+1000227588 = {
+	name="Dabrelis"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227587
+	1033.1.1 = {
+		birth=yes
+	}
+	1098.1.1 = {
+		death=yes
+	}
+}
+1000227589 = {
+	name="Kulewene"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227588
+	1067.1.1 = {
+		birth=yes
+	}
+	1123.1.1 = {
+		death=yes
+	}
+}
+1000227590 = {
+	name="Dabrelis"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227589
+	1098.1.1 = {
+		birth=yes
+	}
+	1165.1.1 = {
+		death=yes
+	}
+}
+1000227591 = {
+	name="Kulewene"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227590
+	1131.1.1 = {
+		birth=yes
+	}
+	1192.1.1 = {
+		death=yes
+	}
+}
+1000227592 = {
+	name="Dabrelis"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227591
+	1163.1.1 = {
+		birth=yes
+	}
+	1202.1.1 = {
+		death=yes
+	}
+}
+1000227627 = {
+	name="Kulewene"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227592
+	1184.1.1 = {
+		birth=yes
+	}
+	1231.1.17 = {
+		death=yes
+	}
+}
+1000227628 = {
+	name="Dabrelis"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+        father=1000227627
+	1210.1.1 = {
+		birth=yes
+	}
+	1253.1.1 = {
+		death=yes
+	}
+}
+########################################
+#Estonian
+########################################
+#Virumaa
+1000227595 = {
+	name="Igap‰iv"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+	846.1.1 = {
+		birth=yes
+	}
+	895.1.1 = {
+		death=yes
+	}
+}
+1000227596 = {
+	name="Tınn"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227595
+	873.1.1 = {
+		birth=yes
+	}
+	930.1.1 = {
+		death=yes
+	}
+}
+1000227597 = {
+	name="Igap‰iv"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227596
+	893.1.1 = {
+		birth=yes
+	}
+	955.1.1 = {
+		death=yes
+	}
+}
+1000227598 = {
+	name="Tınn"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227597
+	932.1.1 = {
+		birth=yes
+	}
+	976.1.1 = {
+		death=yes
+	}
+}
+1000227599 = {
+	name="Igap‰iv"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227598
+	961.1.1 = {
+		birth=yes
+	}
+	999.1.1 = {
+		death=yes
+	}
+}
+1000227600 = {
+	name="Tınn"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227599
+	984.1.1 = {
+		birth=yes
+	}
+	1031.1.1 = {
+		death=yes
+	}
+}
+1000227601 = {
+	name="Igap‰iv"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227600
+	1006.1.1 = {
+		birth=yes
+	}
+	1053.1.1 = {
+		death=yes
+	}
+}
+1000227602 = {
+	name="Tınn"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227601
+	1033.1.1 = {
+		birth=yes
+	}
+	1098.1.1 = {
+		death=yes
+	}
+}
+1000227603 = {
+	name="Igap‰iv"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227602
+	1063.1.1 = {
+		birth=yes
+	}
+	1125.1.1 = {
+		death=yes
+	}
+}
+1000227604 = {
+	name="Tınn"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227603
+	1091.1.1 = {
+		birth=yes
+	}
+	1165.1.1 = {
+		death=yes
+	}
+}
+1000227605 = {
+	name="Igap‰iv"
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227604
+	1123.1.1 = {
+		birth=yes
+	}
+	1192.1.1 = {
+		death=yes
+	}
+}
+1000227606 = {
+	name="Thabelin" # Thabelin, Elder of Pudiviru, hanged in 1219 by the Danes
+        dynasty=1000053365 # Lemmu/Pudiviru
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227605
+	1166.1.1 = {
+		birth=yes
+	}
+	1210.1.1 = {
+	religion="catholic" # baptised on Gotland
+	}
+	1219.1.1 = {
+		death=yes
+	}
+}
+1000227607 = {
+	name="Kyriavan" # Kyriavan, Elder of ? 
+        dynasty=1000053363 # Kilikunda
+	religion="finnish_pagan"
+	culture="tsuudi"
+	1168.1.1 = {
+		birth=yes
+	}
+	1222.1.1 = {
+		death=yes
+	}
+}
+###L‰‰nemaa
+#167737 = {
+#	name="Nalka"
+#	dynasty=9538
+#	religion="finnish_pagan"
+#	culture="tsuudi"
+#	840.1.1={
+#		birth="840.1.1"
+#	}
+#	890.1.1={
+#		death="890.1.1"
+#	}
+#}
+1000227608 = {
+	name="Kahus"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=167737
+	867.1.1 = {
+		birth=yes
+	}
+	932.1.1 = {
+		death=yes
+	}
+}
+1000227609 = {
+	name="Nalka"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227608
+	891.1.1 = {
+		birth=yes
+	}
+	957.1.1 = {
+		death=yes
+	}
+}
+1000227610 = {
+	name="Kahus"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227609
+	930.1.1 = {
+		birth=yes
+	}
+	978.1.1 = {
+		death=yes
+	}
+}
+1000227611 = {
+	name="Nalka"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227610
+	960.1.1 = {
+		birth=yes
+	}
+	993.1.1 = {
+		death=yes
+	}
+}
+1000227612 = {
+	name="Kahus"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227611
+	979.1.1 = {
+		birth=yes
+	}
+	1038.1.1 = {
+		death=yes
+	}
+}
+1000227613 = {
+	name="Nalka"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227612
+	1008.1.1 = {
+		birth=yes
+	}
+	1057.1.1 = {
+		death=yes
+	}
+}
+1000227614 = {
+	name="Kahus"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227613
+	1037.1.1 = {
+		birth=yes
+	}
+	1085.1.1 = {
+		death=yes
+	}
+}
+1000227615 = {
+	name="Nalka"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227614
+	1064.1.1 = {
+		birth=yes
+	}
+	1121.1.1 = {
+		death=yes
+	}
+}
+1000227616 = {
+	name="Kahus"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227615
+	1089.1.1 = {
+		birth=yes
+	}
+	1142.1.1 = {
+		death=yes
+	}
+}
+1000227617 = {
+	name="Nalka"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227616
+	1119.1.1 = {
+		birth=yes
+	}
+	1173.1.1 = {
+		death=yes
+	}
+}
+1000227618 = {
+	name="Nalka"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227617
+	1145.1.1 = {
+		birth=yes
+	}
+	1192.1.1 = {
+		death=yes
+	}
+}
+1000227619 = {
+	name="Kahus"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227618
+	1177.1.1 = {
+		birth=yes
+	}
+	1206.1.1 = {
+		death=yes
+	}
+}
+1000227620 = {
+	name="Nalka"
+        dynasty=9538
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227619
+	1201.1.1 = {
+		birth=yes
+	}
+	1228.1.1 = {
+		death=yes
+	}
+}
+########################################
+#Uganidans
+########################################
+1000227621 = {
+	name="L‰ttelemb"
+        dynasty=1000053353
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=28025
+	1060.1.1 = {
+		birth=yes
+	}
+	1110.1.1 = {
+		death=yes
+	}
+}
+1000227622 = {
+	name="Vilitıiv"
+        dynasty=1000053353
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227621
+	1093.1.1 = {
+		birth=yes
+	}
+	1140.1.1 = {
+		death=yes
+	}
+}
+1000227623 = {
+	name="L‰ttelemb"
+        dynasty=1000053353
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227622
+	1120.1.1 = {
+		birth=yes
+	}
+	1190.1.1 = {
+		death=yes
+	}
+}
+1000227624 = {
+	name="Vilitıiv"
+        dynasty=1000053353
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227623
+	1150.1.1 = {
+		birth=yes
+	}
+	1203.1.1 = {
+		death=yes
+	}
+}
+1000227625 = {
+	name="L‰ttelemb"
+        dynasty=1000053353
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227624
+	1178.1.1 = {
+		birth=yes
+	}
+	1215.1.1 = {
+		death=yes
+	}
+}
+1000227626 = {
+	name="Vilitıiv"
+        dynasty=1000053353
+	religion="finnish_pagan"
+	culture="tsuudi"
+        father=1000227625
+	1199.1.1 = {
+		birth=yes
+	}
+	1223.1.1 = {
+		death=yes
+	}
+}

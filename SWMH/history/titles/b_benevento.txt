@@ -1,0 +1,43 @@
+1059.1.1={
+	holder=73318
+	liege=c_benevento
+}
+1077.12.18={
+	holder=1128
+}
+1081.1.1={
+	holder=73376
+
+}
+1084.1.1={
+	holder=73379
+}
+1119.1.1={
+	holder=73381
+}
+1175.1.1={
+	holder=73387
+}
+1218.1.1={
+	holder=73389
+}
+1236.1.1={
+	holder=73390
+}
+1241.1.1={
+	holder=73360
+	liege=c_benevento
+}
+1249.1.1={
+	holder=73363
+}
+1265.1.1={
+	holder=73400
+	liege=k_papal_state
+}
+1280.1.1={
+	holder=73401
+}
+1312.1.1={
+	holder=73402
+}

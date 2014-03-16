@@ -1,0 +1,29 @@
+# 191 - Zamora
+
+# County Title
+title = c_zamora
+
+# Settlements
+max_settlements = 4
+b_zamora = castle
+b_sanabria = city
+b_tabara = temple
+#b_albadealiste = castle
+#b_fermoselle = city
+#b_castanyeda = temple
+
+# Misc
+culture = leonese
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_zamora = ca_town_1
+	b_zamora = ca_keep_1
+	b_zamora = ca_stable_1
+	b_zamora = ca_militia_barracks_1
+	b_zamora = ca_wall_1
+	b_zamora = ca_wall_2
+}
+

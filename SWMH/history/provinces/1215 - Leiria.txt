@@ -1,0 +1,23 @@
+# 1215 - Leiria
+
+# County Title
+title = c_leiria
+
+# Settlements
+max_settlements = 4
+b_leiria = castle
+b_batalha = castle
+b_alcobaca = temple
+#b_alvaiazere = castle
+#b_figueiro_dos_vinhos = castle
+#b_obidos = castle
+#b_pedrogao_grande = castle
+#b_pombal = castle
+#b_porto_de_mos = castle
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+

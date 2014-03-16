@@ -1,0 +1,22 @@
+# 1174 - Dreux
+
+# County Title
+title = c_dreux
+
+# Settlements
+max_settlements = 4
+b_dreux = castle
+b_montfortlamaury = castle
+#b_epernon = castle
+#b_maitenon = castle
+#b_houdan = castle
+#b_treon = city 
+#b_brezolles = temple
+
+culture = frankish
+religion = catholic
+
+# History
+
+
+

@@ -1,0 +1,21 @@
+# 1340 - Qus
+
+# County Title
+title = c_qus
+
+# Settlements
+max_settlements = 6
+b_qus = castle
+b_qina = city
+b_luxor = temple # al-Uqsur
+b_dandara = city
+
+#b_quft = castle
+#b_faw = castle
+
+# Misc
+culture = egyptian_arabic
+religion = miaphysite
+
+# History
+

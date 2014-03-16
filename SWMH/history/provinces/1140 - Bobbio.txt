@@ -1,0 +1,26 @@
+# 1140 - Bobbio
+
+# County Title
+title = c_bobbio
+
+# Settlements
+max_settlements = 4
+
+
+b_fortunago = castle
+b_bobbio = city
+b_abizziadisancolombano = temple
+#b_tortona = city
+#b_possodigruppo = temple
+#b_varzibobbio = city
+#b_ottone = city
+#b_castellodipiumesana = castle
+#b_castellodicalcinara = castle
+
+
+
+# Misc
+culture = italian
+religion = catholic
+
+# History

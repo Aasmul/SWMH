@@ -1,0 +1,20 @@
+# 1369 - Tagant
+
+# County Title
+title = c_tagant
+
+# Settlements
+max_settlements = 1
+b_tichitt = castle
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History
+
+#berber colonization
+980.1.1 = { culture = tagelmust }
+
+#islamization
+1055.1.1 = { religion = sunni }

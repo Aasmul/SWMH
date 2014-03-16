@@ -1,0 +1,23 @@
+# 1265 - Zatec
+
+# County Title
+title = c_zatec
+
+# Settlements
+max_settlements = 4
+b_zatec = castle
+b_louny = city
+b_osek = temple
+#b_loket = castle
+#b_chomutov = castle
+#b_most = city
+#b_ostrovzatec = temple
+
+
+# Misc
+culture = bohemian
+religion = slavic_pagan
+
+# History
+
+883.1.1 = { religion = catholic }

@@ -1,0 +1,17 @@
+# 1517 - Danakil
+
+# County Title
+title = c_danakil
+
+# Settlements
+max_settlements = 2
+b_afera = castle
+b_assale = temple
+
+# Misc
+culture = afar
+religion = sunni
+
+# History
+
+  

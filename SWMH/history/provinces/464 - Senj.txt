@@ -1,0 +1,22 @@
+# 464 - Senj # Lika
+
+# County Title
+title = c_senj
+
+# Settlements
+max_settlements = 3
+
+b_udbina_krbava = castle
+b_senj = temple
+b_bihac = city
+#b_kaseg = city
+#b_brinje = castle
+
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History
+
+1153.1.1 = { trade_post = b_contarini }

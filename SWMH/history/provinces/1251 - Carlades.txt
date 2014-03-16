@@ -1,0 +1,21 @@
+# 1251 - Carlades
+
+# County Title
+title = c_carlades
+
+# Settlements
+max_settlements = 4
+
+b_carlat = castle
+b_aurillac = temple
+#b_leabbeysauxillanges = temple
+#b_ybois = castle
+b_auvergnepleaux = city
+#b_cellesauverghne = castle
+
+
+# Misc
+culture = occitan
+religion = catholic
+
+# History

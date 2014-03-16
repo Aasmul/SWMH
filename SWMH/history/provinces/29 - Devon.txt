@@ -1,0 +1,32 @@
+# 29 - Devon
+
+# County Title
+title = c_devon
+
+# Settlements
+max_settlements = 5
+
+b_totnes = castle
+b_exeter = city
+b_crediton = temple
+b_lydford = city
+#b_rougemonten = castle
+
+#b_tavistock = temple
+#b_buckfast = temple
+#b_dartmouth = city
+#b_plympton = castle
+#b_lundy = castle # Templars, talking of weird places to set up shop.
+#b_okehampton = castle
+#b_axminster = city
+
+# Misc
+culture = cornish
+religion = catholic
+
+# History
+1050.1.1 = { remove_settlement = b_crediton } # bishop seat(909-1050) moved to Exeter and the town wasn't otherwise important.
+1050.1.1={ b_exeter = temple }
+1068.1.1 = { remove_settlement = b_lydford } # Lydford sacked and the population moved
+1068.1.1={ b_rougemonten = castle }
+1200.1.1={ culture = english }

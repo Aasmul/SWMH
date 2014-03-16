@@ -1,0 +1,24 @@
+# 499 - Tyrnovo
+
+# County Title
+title = c_tyrnovo
+
+# Settlements
+max_settlements = 6
+
+b_tarnovo = castle
+b_oryahovo = castle
+b_nikopol = castle
+b_lovech = city
+#b_kilifarevo = temple
+#b_transfiguration_monestary_tarnovo = temple
+
+
+# Misc
+culture = bulgarian
+religion = orthodox
+
+# History
+
+
+1187.1.1 = { b_kilifarevo = temple }  

@@ -1,0 +1,25 @@
+# 1021 - Arlon
+
+# County Title
+title = c_arlon
+
+# Settlements
+max_settlements = 4
+
+b_arlon = castle
+b_wilzenn = temple
+
+#b_useldange = castle
+#b_septfontaines = castle
+#b_longwy = city
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+
+
+
+

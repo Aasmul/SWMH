@@ -1,0 +1,28 @@
+# 584 - Nizhny Novgorod
+
+# County Title
+title = c_nizhny_novgorod
+
+# Settlements
+max_settlements = 4
+
+b_nizhnynovgorod = castle
+b_kstovo = city
+b_gorbatovo = temple
+
+#b_bogorodsk = city
+#b_knyaginino = city
+#b_rastyapino = castle
+#b_balakhna = city
+
+# Misc
+culture = mordvin
+religion = finnish_pagan
+# History
+1125.1.1 = { culture = russian }
+1125.1.1 = { religion = orthodox }
+
+
+
+
+

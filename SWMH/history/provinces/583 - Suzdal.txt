@@ -1,0 +1,30 @@
+# 583 - Suzdal
+
+# County Title
+title = c_suzdal
+
+# Settlements
+max_settlements = 5
+
+b_suzstarodub = castle
+b_suzdal = city
+b_kidksa = temple
+b_gorokhovets = castle
+
+#b_kovrov = city
+#b_shuya = castle
+#b_gavrilovposad = city
+#b_jaropoleczalesskij = temple
+#b_suzivanovo = city
+
+# Misc
+culture = mari
+religion = finnish_pagan
+
+# History
+988.1.1 = {
+	culture = russian
+	religion = orthodox
+}
+1187.1.1 = { b_shuya = castle }
+

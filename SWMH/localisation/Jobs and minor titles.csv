@@ -1,0 +1,132 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;
+########################################;;;;;;;;;;;;;;
+#JOBS;;;;;;;;;;;;;;
+########################################;;;;;;;;;;;;;;
+job_chancellor_greek;Logothetes tou Dromou;Logothetçs tou Dromou;Logothetçs tou Dromou;;Logothetçs tou Dromou;;;;;;;;;x
+job_marshal_greek;Megas Domestikos ;Megas Domestikos ;Megas Domestikos ;;Megas Domestikos ;;;;;;;;;x
+job_treasurer_greek;Megas Logothetes;Megas Logothetes;Megas Logothetes;;Megas Logothetes;;;;;;;;;x
+job_chancellor_welsh;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
+job_marshal_welsh;Penteulu;Penteulu;Penteulu;;Penteulu;;;;;;;;;x
+job_treasurer_welsh;Distain;Distain;Distain;;Distain;;;;;;;;;x
+job_spiritual_welsh;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+job_chancellor_swedish;Kansler;Kansler;Kansler;;Kansler;;;;;;;;;x
+job_marshal_swedish;Marsk;Marsk;Marsk;;Marsk;;;;;;;;;x
+job_treasurer_swedish;Dróttinn;Dróttinn;Dróttinn;;Dróttinn;;;;;;;;;x
+job_chancellor_danish;Kansler;Kansler;Kansler;;Kansler;;;;;;;;;x
+job_marshal_danish;Marsk;Marsk;Marsk;;Marsk;;;;;;;;;x
+job_treasurer_danish;Dróttinn;Dróttinn;Dróttinn;;Dróttinn;;;;;;;;;x
+job_chancellor_norwegian;Kansler;Kansler;Kansler;;Kansler;;;;;;;;;x
+job_marshal_norwegian;Marsk;Marsk;Marsk;;Marsk;;;;;;;;;x
+job_treasurer_norwegian;Dróttinn;Dróttinn;Dróttinn;;Dróttinn;;;;;;;;;x
+job_chancellor_scottish;Great Chamberlain;Great Chamberlain;Great Chamberlain;;Great Chamberlain;;;;;;;;;x
+job_marshal_scottish;Marischal;Marischal;Marischal;;Marischal;;;;;;;;;x
+job_treasurer_scottish;Great Steward;Great Steward;Great Steward;;Great Steward;;;;;;;;;x
+job_chancellor_english;Lord Chancellor;Lord Chancellor;Lord Chancellor;;Lord Chancellor;;;;;;;;;x
+job_marshal_english;Lord Constable;Lord Constable;Lord Constable;;Lord Constable;;;;;;;;;x
+job_treasurer_english;Lord Steward;Lord Steward;Lord Steward;;Lord Steward;;;;;;;;;x
+job_spiritual_saxon;Capellan;Capellan;Capellan;;Capellan;;;;;;;;;x
+job_chancellor_frankish;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+job_marshal_frankish;Connétable;Connétable;Connétable;;Connétable;;;;;;;;;x
+job_treasurer_frankish;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+job_chancellor_occitan;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+job_marshal_occitan;Connétable;Connétable;Connétable;;Connétable;;;;;;;;;x
+job_treasurer_occitan;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+job_marshal_castillan;Alférez;Alférez;Alférez;;Alférez;;;;;;;;;x
+job_chancellor_catalan;Canceller;Canceller;Canceller;;Canceller;;;;;;;;;x
+job_marshal_catalan;Senescal;Senescal;Senescal;;Senescal;;;;;;;;;x
+job_spymaster_catalan;Torsimany;Torsimany;Torsimany;;Torsimany;;;;;;;;;x
+job_treasurer_catalan;Mestre Racional;Mestre Racional;Mestre Racional;;Mestre Racional;;;;;;;;;x
+job_spiritual_catalan;Confessor;Confessor;Confessor;;Confessor;;;;;;;;;x
+job_viceroy name_catalan;Virrei;Virrei;Virrei;;Virrei;;;;;;;;;x
+job_treasurer_norman;Bailli;Bailli;Bailli;;Bailli;;;;;;;;;x
+job_chancellor_polish;Kanclerz;Kanclerz;Kanclerz;;Kanclerz;;;;;;;;;x
+job_marshal_polish;Marszalek ;Marszalek ;Marszalek ;;Marszalek ;;;;;;;;;x
+job_treasurer_polish;Podkomorzy ;Podkomorzy ;Podkomorzy ;;Podkomorzy ;;;;;;;;;x
+job_spymaster_polish;Podkanclerzy ;Podkanclerzy ;Podkanclerzy ;;Podkanclerzy ;;;;;;;;;x
+job_spiritual_polish;Kapelan;Kapelan;Kapelan;;Kapelan;;;;;;;;;x
+job_marshal_serbian;Vojvoda;Vojvoda;Vojvoda;;Vojvoda;;;;;;;;;x
+job_chancellor_russian;Dyak;Dyak;Dyak;;Dyak;;;;;;;;;x
+job_marshal_russian;Voevoda;Voevoda;Voevoda;;Voevoda;;;;;;;;;x
+job_treasurer_russian;Tiun;Tiun;Tiun;;Tiun;;;;;;;;;x
+job_spiritual_russian;Duhovnik;Duhovnik;Duhovnik;;Duhovnik;;;;;;;;;x
+job_spymaster_russian;Tayny Sovetnik;Tayny Sovetnik;Tayny Sovetnik;;Tayny Sovetnik;;;;;;;;;x
+job_chancellor_hungarian;Intézö;Intézö;Intézö;;Intézö;;;;;;;;;x
+job_marshal_hungarian;Hadvezér;Hadvezér;Hadvezér;;Hadvezér;;;;;;;;;x
+job_treasurer_hungarian;Kamarás;Kamarás;Kamarás;;Kamarás;;;;;;;;;x
+job_spiritual_hungarian;Udvari Káplán;Udvari Káplán;Udvari Káplán;;Udvari Káplán;;;;;;;;;x
+job_spymaster_hungarian;Kém;Kém;Kém;;Kém;;;;;;;;;x
+job_chancellor_andalusian_arabic;Grand Vizier;Grand Vizier;Grand Vizier;;Grand Vizier;;;;;;;;;x
+job_marshal_romanian;Spitar;Spitar;Spitar;;Spitar;;;;;;;;;x
+job_marshal_armenian;Sparapet;Sparapet;Sparapet;;Sparapet;;;;;;;;;x
+job_spiritual_armenian;Catholicos;Catholicos;Catholicos;;Catholicos;;;;;;;;;x
+job_chancellor_german;Kanzler;Kanzler;Kanzler;;Kanzler;;;;;;;;;x
+job_marshal_german;Marschall;Marschall;Marschall;;Marschall;;;;;;;;;x
+job_treasurer_german;Schatzmeister;Schatzmeister;Schatzmeister;;Schatzmeister;;;;;;;;;x
+job_spiritual_christian_german;Hofprediger;Hofprediger;Hofprediger;;Hofprediger;;;;;;;;;x
+job_spymaster_german;Hofspitzel;Hofspitzel;Hofspitzel;;Hofspitzel;;;;;;;;;x
+job_chancellor_muslim_andalusian_arabic;Grand Vizier;Grand Vizier;Grand Vizier;;Grand Vizier;;;;;;;;;x
+job_chancellor_muslim_arabic;Grand Vizier;Grand Vizier;Grand Vizier;;Grand Vizier;;;;;;;;;x
+job_chancellor_muslim_altaic;Grand Vizier;Grand Vizier;Grand Vizier;;Grand Vizier;;;;;;;;;x
+job_chancellor_muslim_iranian;Grand Vizier;Grand Vizier;Grand Vizier;;Grand Vizier;;;;;;;;;x
+job_chancellor_muslim_north_african;Grand Vizier;Grand Vizier;Grand Vizier;;Grand Vizier;;;;;;;;;x
+job_chancellor_dutch;Kanselier;Kanselier;Kanselier;;Kanselier;;;;;;;;;x
+job_spymaster_dutch;Spionmeester;Spionmeester;Spionmeester;;Spionmeester;;;;;;;;;x
+job_spiritual_dutch;Hofpredikant;Hofpredikant;Hofpredikant;;Hofpredikant;;;;;;;;;x
+job_marshal_dutch;Maarschalk;Maarschalk;Maarschalk;;Maarschalk;;;;;;;;;x
+job_treasurer_dutch;Penningmeester;Penningmeester;Penningmeester;;Penningmeester;;;;;;;;;x
+job_treasurer_frisian;Jildstikmaster;Jildstikmaster;Jildstikmaster;;Jildstikmaster;;;;;;;;;x
+job_marshal_frisian;Maarschalk;Maarschalk;Maarschalk;;Maarschalk;;;;;;;;;x
+job_chancellor_frisian;Kanselier;Kanselier;Kanselier;;Kanselier;;;;;;;;;x
+job_spymaster_frisian;Spionmaster;Spionmaster;Spionmaster;;Spionmaster;;;;;;;;;x
+job_spiritual_frisian;Hofdominy;Hofdominy;Hofdominy;;Hofdominy;;;;;;;;;x
+########################################;;;;;;;;;;;;;;
+#TITLES;;;;;;;;;;;;;;
+########################################;;;;;;;;;;;;;;
+title_master_of_the_horse_swedish;Stallmästare;Stallmästare;Stallmästare;;Stallmästare;;;;;;;;;x
+title_master_of_the_horse_lithuanian;Koniuszy;Koniuszy;Koniuszy;;Koniuszy;;;;;;;;;x
+title_master_of_the_horse_russian;Konyushy;Konyushy;Konyushy;;Konyushy;;;;;;;;;x
+title_master_of_the_horse_german;Oberststallmeister;Oberststallmeister;Oberststallmeister;;Oberststallmeister;;;;;;;;;x
+title_grand_butler_frankish;Grand Bouteiller;Grand Bouteiller;Grand Bouteiller;;Grand Bouteiller;;;;;;;;;x
+title_high_almoner_frankish;Grand Aumonier;Grand Aumonier;Grand Aumonier;;Grand Aumonier;;;;;;;;;x
+title_cupbearer_frankish;Échanson;Échanson;Échanson;;Échanson;;;;;;;;;x
+title_master_of_the_horse_frankish;Grand Écuyer;Grand Écuyer;Grand Écuyer;;Grand Écuyer;;;;;;;;;x
+title_master_of_the_hunt_frankish;Grand Veneur;Grand Veneur;Grand Veneur;;Grand Veneur;;;;;;;;;x
+title_seneschal_frankish;Grand Chambellan;Grand Chambellan;Grand Chambellan;;Grand Chambellan;;;;;;;;;x
+title_grand_butler_occitan;Grand Bouteiller;Grand Bouteiller;Grand Bouteiller;;Grand Bouteiller;;;;;;;;;x
+title_high_almoner_occitan;Grand Aumonier;Grand Aumonier;Grand Aumonier;;Grand Aumonier;;;;;;;;;x
+title_cupbearer_occitan;Échanson;Échanson;Échanson;;Échanson;;;;;;;;;x
+title_master_of_the_horse_occitan;Grand Écuyer;Grand Écuyer;Grand Écuyer;;Grand Écuyer;;;;;;;;;x
+title_master_of_the_hunt_occitan;Grand Veneur;Grand Veneur;Grand Veneur;;Grand Veneur;;;;;;;;;x
+title_seneschal_occitan;Grand Chambellan;Grand Chambellan;Grand Chambellan;;Grand Chambellan;;;;;;;;;x
+title_master_of_the_horse_castillan;Caballerizo Mayor;Caballerizo Mayor;Caballerizo Mayor;;Caballerizo Mayor;;;;;;;;;x
+title_master_of_the_horse_catalan;Caballerizo Mayor;Caballerizo Mayor;Caballerizo Mayor;;Caballerizo Mayor;;;;;;;;;x
+title_master_of_the_horse_polish;Koniuszy;Koniuszy;Koniuszy;;Koniuszy;;;;;;;;;x
+title_master_of_the_horse_hungarian;Fölovászmester;Fölovászmester;Fölovászmester;;Fölovászmester;;;;;;;;;x
+title_high_almoner_hungarian;Alamizsnaosztó;Alamizsnaosztó;Alamizsnaosztó;;Alamizsnaosztó;;;;;;;;;x
+title_cupbearer_hungarian;Pohárnok;Pohárnok;Pohárnok;;Pohárnok;;;;;;;;;x
+title_master_of_the_hunt_hungarian;Fövadászmester;Fövadászmester;Fövadászmester;;Fövadászmester;;;;;;;;;x
+title_seneschal_hungarian;Udvarmester;Udvarmester;Udvarmester;;Udvarmester;;;;;;;;;x
+title_grand_butler_hungarian;Fökomornyik;Fökomornyik;Fökomornyik;;Fökomornyik;;;;;;;;;x
+title_court_jester_hungarian;Udvari bolond;Udvari bolond;Udvari bolond;;Udvari bolond;;;;;;;;;x
+title_keeper_of_swans_hungarian;Asztalnok;Asztalnok;Asztalnok;;Asztalnok;;;;;;;;;x
+title_grand_butler_dutch;Hofbutler;Hofbutler;Hofbutler;;Hofbutler;;;;;;;;;x
+title_court_jester_dutch;Hofnar;Hofnar;Hofnar;;Hofnar;;;;;;;;;x
+title_keeper_of_swans_dutch;Zwaanhoeder;Zwaanhoeder;Zwaanhoeder;;Zwaanhoeder;;;;;;;;;x
+title_master_of_the_horse_frisian;Master fan de hynders;Master fan de hynders;Master fan de hynders;;Master fan de hynders;;;;;;;;;x
+title_high_almoner_frisian;Ielmisenier;Ielmisenier;Ielmisenier;;Ielmisenier;;;;;;;;;x
+title_cupbearer_frisian;Hofskinker;Hofskinker;Hofskinker;;Hofskinker;;;;;;;;;x
+title_master_of_the_hunt_frisian;Jachtmaster;Jachtmaster;Jachtmaster;;Jachtmaster;;;;;;;;;x
+title_seneschal_frisian;Senesjal;Senesjal;Senesjal;;Senesjal;;;;;;;;;x
+title_grand_butler_frisian;Hofbetsjinder;Hofbetsjinder;Hofbetsjinder;;Hofbetsjinder;;;;;;;;;x
+title_court_jester_frisian;Hofhealwiis;Hofhealwiis;Hofhealwiis;;Hofhealwiis;;;;;;;;;x
+title_keeper_of_swans_frisian;Swanbeweitser;Swanbeweitser;Swanbeweitser;;Swanbeweitser;;;;;;;;;x
+title_high_admiral_dutch;Hoge Admiraal;Hoge Admiraal;Hoge Admiraal;;Hoge Admiraal;;;;;;;;;x
+title_high_judge_dutch;Hoge Rechter;Hoge Rechter;Hoge Rechter;;Hoge Rechter;;;;;;;;;x
+title_state_inquisitor_dutch;Staatsinquisitoir;Staatsinquisitoir;Staatsinquisitoir;;Staatsinquisitoir;;;;;;;;;x
+title_designated_heir_dutch;Bekrachtigd Erfgenaam;Bekrachtigd Erfgenaam;Bekrachtigd Erfgenaam;;Bekrachtigd Erfgenaam;;;;;;;;;x
+title_high_admiral_frisian;Heeche Admiraal;Heeche Admiraal;Heeche Admiraal;;Heeche Admiraal;;;;;;;;;x
+title_high_judge_frisian;Heeche Rjochter;Heeche Rjochter;Heeche Rjochter;;Heeche Rjochter;;;;;;;;;x
+title_state_inquisitor_frisian;Steatsinquisitoir;Steatsinquisitoir;Steatsinquisitoir;;Steatsinquisitoir;;;;;;;;;x
+title_designated_heir_frisian;Oangewisen Erfgenamt;Oangewisen Erfgenamt;Oangewisen Erfgenamt;;Oangewisen Erfgenamt;;;;;;;;;x
+captain_catalan;Almogaten;Almogaten;Almogaten;Almogaten;Almogaten;Almogaten;;;;;;;;x
+condottiero_catalan;Adalil;Adalil;Adalil;Adalil;Adalil;Adalil;;;;;;;;x

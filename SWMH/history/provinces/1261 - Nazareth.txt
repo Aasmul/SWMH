@@ -1,0 +1,20 @@
+# 1261 - Nazareth
+
+# County Title
+title = c_nazareth
+
+# Settlements
+max_settlements = 4
+
+b_sepphoria = castle
+b_haifa = city
+b_nazareth = temple
+#b_athlith = castle
+#b_karmel = temple 
+#b_ledestroit = castle
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History

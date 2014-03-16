@@ -1,0 +1,17 @@
+# 1451 - Gallaibh
+
+# County Title
+title = c_gallaibh
+
+# Settlements
+max_settlements = 3
+b_thurso = castle
+#b_wick = castle
+#b_dunbeath = city
+
+
+# Misc
+culture = scottish
+religion = catholic
+
+# History

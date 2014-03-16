@@ -1,0 +1,22 @@
+# 1090 - Tusheti
+
+# County Title
+title = c_tusheti
+
+# Settlements
+ max_settlements = 3
+b_jarlekhi = castle
+b_omalo = city
+b_shenako = temple
+#b_keselo = castle 
+#b_shatili = castle
+#b_khakhmati = castle
+#b_akhieli = castle 
+#b_lebaiskari = castle
+ 
+
+# Misc
+culture = georgian
+religion = orthodox
+
+# History

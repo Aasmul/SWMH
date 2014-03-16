@@ -1,0 +1,20 @@
+# 980 - Everstein
+
+# County Title
+title = c_everstein
+
+# Settlements
+max_settlements = 3
+
+b_northeim = castle
+b_everstein = castle
+b_goslar = city
+#b_homburg = castle
+#b_boyneburg = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

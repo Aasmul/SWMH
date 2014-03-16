@@ -1,0 +1,24 @@
+# 1031 - Hohenzollern
+
+# County Title
+title = c_hohenzollern
+
+# Settlements
+max_settlements = 4
+
+
+b_zollern = castle
+b_hechingen = city
+
+#b_schalksburg = castle
+#b_hohenberg = castle
+#b_stetten = temple
+#b_hechingen = city
+#b_balingen = castle
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

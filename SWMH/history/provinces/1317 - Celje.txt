@@ -1,0 +1,24 @@
+# 1317 - Celje
+
+# County Title
+title = c_celje
+
+# Settlements
+max_settlements = 4
+
+b_sanneck = castle
+b_celje = city
+b_lavant = temple
+#b_marburg = city
+#b_friedau = city
+#b_rann = temple
+#b_pettau = castle
+#b_windischgraz = castle # Windisch-Graetz
+#b_guetenegg = castle
+#b_lemberg = castle
+
+# Misc
+culture = karantanci
+religion = catholic
+
+# History

@@ -1,0 +1,42 @@
+#d'Bellême 
+958.1.1={
+	liege="d_normandy"
+	holder = 1000227375 # Ives d'Bellême, seignur de Bellême ?-1005.
+}
+1005.1.1={
+	holder = 1000227377 # William d'Bellême, seignur de Bellême 1005-1028.
+}
+1028.1.1={
+	holder = 1000227385 # Robert d'Bellême, seignur de Bellême 1028-1035.
+}
+1035.1.1={
+	holder = 448 # William II d'Bellême, seignur de Bellême 1035-1047ish and again 1049ish-1052.
+}
+1047.1.1={
+	holder = 1000227390 # Arnulf d'Bellême, Segniur de Belleme 1147ish-1149ish
+}
+1049.1.1={
+	holder = 448 # William II d'Bellême, seignur de Bellême 1035-1047ish and again 1049ish-1052.
+}
+1052.1.1={
+	holder= 449 # Mabel de Bellême, lady of Alencon, Bellême and Sees
+}
+1079.1.1={
+	holder = 41004 #Robert de Bellême 3rd Earl of Shrewsbury, Segniur de Bellême and segniur de Alencon 1079ish-1119
+}
+1119.1.1={
+	holder = 168182 # William de Bellême, de Segniur de Alencon 1119-1171 and count of Pontheiu 1106-1126
+}
+1171.6.30={
+	holder = 1000227393 #John de Bellême, comte de Alencon 1171-1191
+}
+1191.2.14={
+	holder = 1000227394 #John II de Bellême, comte de Alencon 1191-1191
+}
+1191.5.14={
+	holder = 1000227395 #Robert de Bellême, comte de Alencon 1191-1217
+}
+# Robert had been allowed too keep his land following the French takeover(by beeing flexible....), but following his death the land was claimed by the french crown.
+1217.9.8={
+	holder=0
+}

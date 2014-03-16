@@ -1,0 +1,30 @@
+# 206 - Urgell
+
+# County Title
+title = c_urgell
+
+# Settlements
+max_settlements = 4
+b_castellciutat = castle
+b_laseudurgell = temple
+b_balaguer = city
+#b_pallars = castle
+#b_ager = castle
+#b_gerri = temple
+#b_camarassa = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_castellciutat = ca_town_1
+	b_castellciutat = ca_keep_1
+	b_castellciutat = ca_stable_1
+	b_castellciutat = ca_militia_barracks_1
+	b_castellciutat = ca_wall_1
+	b_castellciutat = ca_wall_2
+	b_castellciutat = ca_barracks_1
+}

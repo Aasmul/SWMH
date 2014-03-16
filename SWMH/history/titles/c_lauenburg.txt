@@ -1,0 +1,89 @@
+867.1.1={
+liege=d_obotrites
+holder=184001 #Msciwoj
+}
+912.1.1={
+	liege="d_saxony"
+}
+912.11.12={
+	holder = 1280
+}
+936.7.2={
+	holder = 1282
+}
+961.1.1={
+	holder = 1410
+}
+963.3.27={
+	holder = 1412
+}
+1011.2.9={
+	holder = 1414
+}
+1059.6.29={
+	holder=1416
+}
+1072.3.28={
+	holder = 1418
+}
+1106.1.2={
+	holder = 30219
+}
+1137.12.4=
+{
+liege="d_saxony"
+}
+1137.12.4 = {
+	holder=212602
+}
+1139.10.20={
+	holder = 212908
+}
+1142.1.1={
+	holder = 212600
+}
+1143.1.1={
+	holder=31784 #Heinrich von Badewide
+}
+1164.1.2={
+	holder=31785 #Bernhard I von Badewide
+}
+1168.1.1={
+	liege="k_denmark"
+}
+1190.1.2={
+	holder=31788 #Bernhard II von Badewide
+}
+1199.1.2={
+	holder=31789 #Bernhard III von Badewide
+}
+1200.1.1={
+	holder=31791 #Adolf I von Dassel
+}
+1202.1.1={
+	liege="d_holstein"
+}
+1202.1.1={
+	holder=31795 #Albrecht Askanien
+}
+1227.7.22={
+	liege="d_saxony"
+}
+1227.7.22={
+	holder=462114
+}
+1260.10.7={
+	holder=33336
+}
+1282.1.1=
+{
+	holder=462101
+}
+#duchy of Saxe-Ratzeburg-Lauenburg
+1296.1.1={
+	holder=33344
+        liege="d_lauenburg"
+}
+1322.4.22={
+	holder=33346
+}

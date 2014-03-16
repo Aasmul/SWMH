@@ -1,0 +1,29 @@
+# 23 - Wiltshire
+
+# County Title
+title = c_wiltshire
+
+# Settlements
+max_settlements = 4
+
+b_wilton = castle
+b_sarum = city
+b_malmesbury = temple
+#b_ramsbury = temple
+#b_salisbury = temple
+#b_marlborough = castle
+#b_clarendon = castle
+#b_devizes = castle
+#b_ludgershall = castle
+#b_wardour = castle
+
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1058.11.11 = { b_sarum = temple } # Bishopery moved from Ramsbury(since 909) to old Samrum
+1100.11.11 = { culture = english } 
+1220.1.1 = { remove_settlement = b_sarum } # Old Sarum population and bishopery moved to Salisbruy
+1220.11.11 = { b_salisbury = temple } 

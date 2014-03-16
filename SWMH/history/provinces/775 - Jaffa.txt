@@ -1,0 +1,23 @@
+# 775 - Jaffa
+
+# County Title
+title = c_jaffa
+
+# Settlements
+max_settlements = 4
+b_qula = castle
+b_jaffa = city
+b_lydda = temple
+b_mirabel = castle
+#b_yazur = city
+#b_beitdejan = castle
+#b_kharruba = castle
+
+# Misc
+culture = levantine_arabic
+religion = sunni
+
+# History
+
+1231.1.1 = { trade_post = b_faliero }
+

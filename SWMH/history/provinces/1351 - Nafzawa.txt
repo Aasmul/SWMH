@@ -1,0 +1,22 @@
+# 1351 - Nafzawa
+
+# County Title
+title = c_nafzawa
+
+# Settlements
+max_settlements = 3
+
+b_nafta = castle
+b_alqalah = temple
+
+#b_kebili = city
+#b_souf = city
+
+# Misc
+culture = sanhaja
+religion = ibadi
+
+# History
+930.1.1 = { religion = shiite }
+1030.1.1 = { religion = sunni }
+

@@ -1,0 +1,25 @@
+# 1005 - Zarand
+
+# County Title
+title = c_zarand
+
+# Settlements
+max_settlements = 4
+
+b_zarandvar = castle
+b_arad = city
+#b_jeno = temple
+#b_pankota = city
+#b_csente = castle
+#b_desznyey = city
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+
+
+

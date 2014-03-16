@@ -1,0 +1,28 @@
+# 420 - Aukshayts
+
+# County Title
+title = c_aukshayts
+
+# Settlements
+max_settlements = 5
+
+b_kernave = castle
+b_vilnius = city
+b_rokantiskes = castle
+
+#b_salcininkai = temple
+#b_medininkai = castle
+#b_merkine = castle
+#b_eisiskes = castle
+#b_perloja = city
+#b_zirmunai = city
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History
+
+1250.1.1 = { b_medininkai = castle }
+1311.1.1 = { b_salcininkai = temple }
+

@@ -1,0 +1,31 @@
+# Falster
+
+1104.1.1=
+{
+holder=1000227876 # Erik Folke "of Götaland", Jarl of Falster 1104-1134
+}
+###Ørn/Due/Glob
+1146.1.1=
+{
+holder=1000227860 #Peder Nielsen Ørn
+}
+1185.1.1=
+{
+holder=1000227861 #Alexander Pedersen Falster
+}
+1221.1.1=
+{
+holder=1000227864 #Niels Alexandersen
+}
+1269.1.1=
+{
+holder=1000227868 #Anders Nielsen Due
+}
+1285.1.1=
+{
+holder=1000227878 #Niels Andersen Due
+}
+1333.1.1=
+{
+holder=0 
+}

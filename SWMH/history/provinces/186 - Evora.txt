@@ -1,0 +1,36 @@
+# 186 - Évora
+
+# County Title
+title = c_evora
+
+# Settlements
+max_settlements = 4
+b_evora = castle
+b_portalegre = city
+b_avis = temple
+#b_crato = temple
+#b_monforte_evora = castle
+
+#b_arraiolos = castle
+#b_borba = castle
+#b_estremoz = castle
+#b_redondo = castle
+#b_reguengos = castle
+#b_viana_do_alentejo = castle
+#b_vila_vicosa = castle
+
+#b_campo_maior = castle
+#b_castelo_de_vide = castle
+#b_elvas = castle
+#b_marvao = castle
+#b_nisa = castle
+#b_ponte_de_sor = castle
+
+
+# Misc
+culture = andalusian_arabic
+religion = sunni
+
+# History
+1181.1.1 = { culture = portuguese }
+1181.1.1 = { religion = catholic }

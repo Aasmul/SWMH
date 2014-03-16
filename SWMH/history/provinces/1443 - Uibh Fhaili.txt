@@ -1,0 +1,17 @@
+# 1443 - Offaly
+
+# County Title
+title = c_offaly
+
+# Settlements
+max_settlements = 2
+
+b_clonmacnoise = temple
+#b_daingean = castle
+
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

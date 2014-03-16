@@ -1,0 +1,19 @@
+# 246 - Grisons
+
+# County Title
+title = c_grisons
+
+# Settlements
+max_settlements = 3
+b_bellinzona = castle
+#b_biasca = castle
+b_musso = castle
+#b_mendrisio = castle
+#b_chiavenna = castle
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+

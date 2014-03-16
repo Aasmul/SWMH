@@ -1,0 +1,42 @@
+1055.1.1={
+	holder=1000226217 # Bernwulf Thegn of Topcliffe in 1066
+}
+1066.10.14={
+	holder=1000227366 # William de Percy 1st baron of Topcliff
+}
+1096.6.1={
+	holder=1000227367 # Alan de Percy 2nd baron of Topcliff
+}
+1135.1.1={
+	holder=1000227401 # William de Percy 3rd baron of Topcliffe
+}
+1150.1.1={
+	holder=1000227402 # William de Percy 4th baron of Topcliffe
+}
+1168.1.1={
+	holder=1000227403 # Agnes de Percy, Baroness of Topcliffe
+}
+1182.1.1={
+	holder=1000227404 # Henry de Percy 5th baron of Topcliffe
+}
+1244.1.1={
+	holder=1000227405 # William de Percy 6th baron of Topcliffe
+}
+1245.1.1={
+	holder=1000227406 # Henry de Percy 7th baron of Topcliffe
+}
+1273.1.2={
+	holder=1000227407 # Henry de Percy 8th baron of Topclifee, 1st baron of Percy Alnwick
+}
+1314.1.1={
+	holder=1000227408 # Henry de Percy 9th baron of Topclifee, 2nd baron of Percy Alnwick, son of Henry.
+}
+1352.1.1={
+	holder=1000227409 # Henry de Percy 10th baron of Topclifee, 3rd baron of Percy Alnwick, son of Henry.
+}
+1368.1.1={
+	holder=1000227410 # Henry de Percy Earl of Northumberland, 11th baron of Topclifee, 4th baron of Percy Alnwick, king of Man,  son of Henry.
+}
+1408.2.20={
+	holder=0
+}

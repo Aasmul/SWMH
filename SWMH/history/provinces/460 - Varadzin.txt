@@ -1,0 +1,26 @@
+# 470 - Varadzin # Zagorje
+
+# County Title
+title = c_varadzin
+
+# Settlements
+max_settlements = 4
+
+b_kraprina = castle
+b_varazdin = city
+#b_vitrovica = city
+#b_belecgrad = castle
+#b_loborgrad = castle
+#b_knegine = castle
+b_krizevci = city
+#b_lepoglava = temple
+
+#b_vaska = temple
+#b_slatina = castle
+
+
+# Misc
+culture = croatian
+religion = catholic
+
+# History

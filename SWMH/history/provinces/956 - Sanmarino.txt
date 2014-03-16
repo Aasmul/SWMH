@@ -1,0 +1,20 @@
+# 956 - Sanmarino
+
+# County Title
+title = c_sanmarino
+
+# Settlements
+max_settlements = 2
+
+b_sanmarino = city
+b_serravallesanmarino = castle
+
+#b_montegiardino = castle
+#b_aquaviva = temple
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+

@@ -1,0 +1,20 @@
+# 1521 - Shewa
+
+# County Title
+title = c_shewa
+
+# Settlements
+max_settlements = 3
+b_shewa = castle
+b_antsokia = city
+
+#b_debreberhan = temple
+
+# Misc
+culture = ethiopian
+religion = pagan
+
+# History
+
+1190.1.1 = { religion = sunni }
+  

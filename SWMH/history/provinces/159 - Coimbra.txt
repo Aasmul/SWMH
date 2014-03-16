@@ -1,0 +1,32 @@
+# 159 - Coimbra
+
+# County Title
+title = c_coimbra
+
+# Settlements
+max_settlements = 4
+b_coimbra = castle
+b_cantanhede = temple
+#b_penela = castle
+#b_condeixa = city
+#b_miranda_do_corvo = temple
+#b_montemor = castle
+#b_penacova = castle
+#b_soure = castle
+#b_arganil = castle
+
+# Misc
+culture = portuguese
+religion = catholic
+
+# History
+
+1066.1.1 = { 
+	b_coimbra = ca_town_1
+	b_coimbra = ca_keep_1
+	b_coimbra= ca_stable_1
+	b_coimbra = ca_militia_barracks_1
+	b_coimbra = ca_wall_1
+	b_coimbra = ca_wall_2
+}
+1133.1.1 = { trade_post = b_spinola }

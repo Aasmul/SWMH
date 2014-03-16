@@ -1,0 +1,19 @@
+# 1160 - Sancerre
+
+# County Title
+title = c_sancerre
+
+# Settlements
+max_settlements = 3
+b_sancerre = castle
+b_stbrisson = temple
+
+#b_gien = city
+#b_charenton = castle
+
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History

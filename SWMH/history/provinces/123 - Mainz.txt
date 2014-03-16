@@ -1,0 +1,22 @@
+# 123 - Mainz
+
+# County Title
+title = c_mainz
+
+# Settlements
+max_settlements = 5
+b_mainz = temple
+
+b_dornburg = castle
+b_geisenheim = temple
+b_rudesheim = city
+#b_ingelheim = castle
+#b_weilburg = castle
+#b_oestrich = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

@@ -1,0 +1,38 @@
+# 817 - Tunis
+
+# County Title
+title = c_tunis
+
+# Settlements
+max_settlements = 5
+
+b_tunis = castle
+b_membressa = temple
+b_cartaghe = city
+b_zaghouan = castle
+
+#b_shiqqabanariya = castle #Shiqqa Banariya
+
+#b_kelibia = castle
+#b_hammamet = castle
+#b_benarous = castle
+#b_ariana = temple
+
+# Misc
+culture = sanhaja
+religion = sunni
+
+# History
+
+1066.1.1 = {
+	b_tunis = ca_keep_1
+	b_tunis = ca_training_grounds_1
+	b_tunis = ca_keep_2
+	b_tunis = ca_stable_1
+	b_tunis = ca_barracks_1
+	b_tunis = ca_militia_barracks_1
+	b_tunis = ca_wall_1
+	b_tunis = ca_wall_2
+}
+
+1187.1.1 = { b_hammamet = castle }

@@ -1,0 +1,24 @@
+# 965 - Travunija
+
+# County Title
+title = c_travunija
+
+# Settlements
+max_settlements = 3
+
+b_medun = castle
+b_trebinje = temple
+b_onogost = city
+#b_bileca = city
+#b_moraca = temple
+#b_klobuk = city
+#b_vrm = castle
+
+
+# Misc
+culture = serbian
+religion = orthodox
+
+# History
+950.1.1 = {religion = catholic }
+

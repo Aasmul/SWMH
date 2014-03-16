@@ -1,0 +1,10 @@
+865.1.1=
+{
+holder=1000144546
+liege="d_takrur"
+}
+1065.1.1=
+{
+holder=1000144545
+liege="d_takrur"
+}

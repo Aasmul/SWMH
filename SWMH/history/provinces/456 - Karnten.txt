@@ -1,0 +1,28 @@
+# 456 - Kärnten
+
+# County Title
+title = c_karnten
+
+# Settlements
+max_settlements = 5
+
+b_sanktveit = castle
+b_klagenfurt = city
+b_karnburg = temple
+b_gurk = temple
+#b_ossiach = temple
+#b_eberndorf = temple
+#b_millstatt = temple
+#b_friesach = city
+#b_volkermarkt = city #Völkermarkt
+#b_gmund = city #Gmünd
+#b_villach = city
+#b_haimburg = castle
+#b_trixen = castle
+
+
+# Misc
+culture = karantanci
+religion = catholic
+
+# History

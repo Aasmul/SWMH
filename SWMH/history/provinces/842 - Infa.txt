@@ -1,0 +1,33 @@
+# 842 - Infa
+
+# County Title
+title = c_infa
+
+# Settlements
+max_settlements = 3
+
+b_infa = castle
+b_rabat = city
+
+#b_sidirahhal = temple
+
+#b_berrechid = temple
+#b_azemmour = castle
+#b_khouribga = castle
+
+# Misc
+culture = zanata
+religion = sunni
+
+# History
+
+1066.1.1 = {
+	b_infa = ca_keep_1
+	b_infa = ca_training_grounds_1
+	b_infa = ca_keep_2
+	b_infa = ca_stable_1
+	b_infa = ca_barracks_1
+	b_infa = ca_militia_barracks_1
+	b_infa = ca_wall_1
+	b_infa = ca_wall_2
+}

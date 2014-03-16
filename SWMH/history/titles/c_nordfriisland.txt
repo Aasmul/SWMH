@@ -1,0 +1,52 @@
+826.1.1={liege="d_slesvig" # Harald Klark returns
+}
+840.1.1={
+	holder = 1000144491 # Howi jarl of southern jutland.
+}
+856.1.1={
+	holder = 6866 # Hårik II
+}
+865.1.1={
+	holder = 1000144478 # Oskitlel
+}
+980.1.1={	
+        liege="d_nordfrisland"
+}
+1000.1.1={
+	holder=1000144331
+}
+1042.1.1={
+	holder=1000144363
+}
+1080.1.1={
+	holder=1000144365
+}
+1101.1.1={
+	holder=1000144367
+}
+1156.1.1={
+	holder=1000144369
+}
+1188.1.1={
+	holder=1000144371
+}
+1226.1.1={
+	holder=1000144373
+}
+1261.1.1={
+	holder=1000144375
+}
+1293.1.1={
+	holder=1000144377
+}
+1306.1.1={
+	holder=1000144379
+}
+1325.1.1={
+	holder=1000144381
+}
+1362.1.1=
+{
+        liege="d_slesvig"
+	holder=451530
+}

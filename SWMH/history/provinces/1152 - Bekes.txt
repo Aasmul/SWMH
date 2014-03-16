@@ -1,0 +1,26 @@
+# 1152 - Bekes
+
+# County Title
+title = c_bekes
+
+# Settlements
+max_settlements = 4
+
+b_bekesvar = castle
+#b_gyulamonostor = castle
+b_szeghalom = city
+b_ladanyvar = temple
+#b_gyulavar = castle
+#b_csaba = castle
+#b_veszto = city
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History
+890.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+
+
+

@@ -1,0 +1,18 @@
+# 1438 - Cavan
+
+# County Title
+title = c_cavan
+
+# Settlements
+max_settlements = 3
+
+b_cloughoughter = castle
+b_drumlane = temple
+#b_cavan = castle
+
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

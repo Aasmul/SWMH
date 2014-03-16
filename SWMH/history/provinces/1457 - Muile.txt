@@ -1,0 +1,23 @@
+# 1457 - Muile
+
+# County Title
+title = c_muile
+
+# Settlements
+max_settlements = 3
+
+b_duart = castle
+b_iona = temple
+#b_salen = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+terrain = hills
+
+# History
+867.1.1 = {
+	b_duart = ca_shipyard_1
+}
+1015.1.1 = { religion = catholic } 
+1047.10.25 = { culture = norsegaelic } 

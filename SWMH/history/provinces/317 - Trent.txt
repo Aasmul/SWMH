@@ -1,0 +1,25 @@
+# 317 - Trent
+
+# County Title
+title = c_trent
+
+# Settlements
+max_settlements = 3
+
+b_trento = temple
+b_riva = city
+b_rovereto = castle
+#b_sanantonio = temple
+#b_tione = temple
+#b_borgovalsugana = city # Borgo Valsugana
+#b_arco = castle
+#b_pergine = castle
+#b_beseno = castle
+#b_albano = castle
+#b_avio = castle
+
+# Misc
+culture = italian #moved from the march of Verona to the (stem) duchy of Bavaria in 1027
+religion = catholic
+
+# History

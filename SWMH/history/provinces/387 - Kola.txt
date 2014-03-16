@@ -1,0 +1,19 @@
+# 387 - Kola # Olonets
+
+# County Title
+title = c_kola
+
+# Settlements
+max_settlements = 3
+
+b_olonec = castle
+
+#b_valaam = temple
+#b_kizhi = temple
+
+# Misc
+culture = karelian
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }

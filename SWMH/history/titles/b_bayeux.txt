@@ -1,0 +1,7 @@
+1049.1.1={
+	liege="d_normandy"
+	holder=148 # Odo de Bayeux
+}
+1097.2.1={
+	holder = 0
+}

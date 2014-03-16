@@ -1,0 +1,23 @@
+# 1396 - Tuat
+
+# County Title
+title = c_tuat
+
+# Settlements
+max_settlements = 5
+b_reggane = city
+b_timmi = temple
+b_tamentit = castle
+
+b_tabalbala = city
+#b_bouda = castle
+
+# Misc
+culture = sanhaja
+religion = ibadi
+
+# History
+
+#islamization
+910.1.1 = { religion = sunni }
+

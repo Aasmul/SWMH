@@ -1,0 +1,21 @@
+# 1078 - Schwartzburg
+
+# County Title
+title = c_schwartzburg
+
+# Settlements
+max_settlements = 3
+b_schwartzburg = castle
+#b_geogenthal = temple
+#b_kafernburg = castle
+#b_rudolfstadt = city
+#b_frankenhausen = city
+
+
+
+# Misc
+culture = german
+religion = catholic
+
+# History
+

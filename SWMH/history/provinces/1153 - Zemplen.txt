@@ -1,0 +1,36 @@
+# 1153 - Zemplen
+
+# County Title
+title = c_zemplen
+
+# Settlements
+max_settlements = 5
+
+b_ungvar = castle
+b_zemplen = city
+#b_szerencs = temple
+b_borsovahungary = city
+#b_karcsa = city
+#b_lelesz = castle
+#b_varanno = city
+#b_onod = castle
+#b_satoraljaujhely = castle
+#b_gereny = castle
+#b_szobranc = city
+#b_nagykapos = city
+#b_nagyszolos = castle
+#b_tiszaujalak = temple
+#b_mandok = temple
+
+# Misc
+culture = croatian # White Croats
+religion = catholic
+
+# History
+
+900.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }
+
+
+
+

@@ -1,0 +1,306 @@
+d_ugandians = { 
+	color={ 115 143 196 }
+	color2={ 255 255 255 }
+	
+	culture = tsuudi
+	tribe = yes
+	
+	capital = 379 # Dorpat
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_oseelians = { 
+	color={ 124 124 124 }
+	color2={ 255 255 255 }
+	
+	culture = tsuudi
+	tribe = yes
+	
+	capital = 376 # Osel
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_rotalians = { 
+	color={ 121 39 17 }
+	color2={ 255 255 255 }
+	
+	culture = tsuudi
+	tribe = yes
+	
+	capital = 987 # L‰‰nemaa
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_vironians = { 
+	color={ 30 25 90 }
+	color2={ 255 255 255 }
+	
+	culture = tsuudi
+	tribe = yes
+	
+	capital = 380 # Narva
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_sakalians = { 
+	color={ 21 73 21 }
+	color2={ 255 255 255 }
+	
+	culture = livonian
+	tribe = yes
+	
+	capital = 377 # Sakala
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_vanemas = { 
+	color={ 95 160 73 }
+	color2={ 255 255 255 }
+	
+	culture = livonian
+	tribe = yes
+	
+	capital = 373 # Kurs
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_selonians = { 
+	color={ 22 96 143 }
+	color2={ 255 255 255 }
+	
+	culture = lettigallish
+	tribe = yes
+	
+	capital = 985 # Selija
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_talavians = { 
+	color={ 169 41 27 }
+	color2={ 255 255 255 }
+	
+	culture = lettigallish
+	tribe = yes
+	
+	capital = 375 # Talava
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_deltuvians = { 
+	color={ 81 164 104 }
+	color2={ 255 255 255 }
+	
+	culture = lithuanian
+	tribe = yes
+	
+	capital = 979 # Deltuva
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_veleti = { 
+	color={ 115 92 133 }
+	color2={ 255 255 255 }
+	
+	culture = pommeranian
+	tribe = yes
+	
+	capital = 307 # Werle
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_wolinians = { 
+	color={ 115 92 56 }
+	color2={ 255 255 255 }
+	
+	culture = pommeranian
+	tribe = yes
+	
+	capital = 1267 # Szvuine
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_chutizi = { 
+	color={ 81 126 201 }
+	color2={ 255 255 255 }
+	
+	culture = pommeranian
+	tribe = yes
+	
+	capital = 310 # Anhalt
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_leubuzzi = { 
+	color={ 191 188 175 }
+	color2={ 255 255 255 }
+	
+	culture = pommeranian
+	tribe = yes
+	
+	capital = 430 # Lubusz
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_drevlyans = { 
+	color={ 115 31 56 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+	tribe = yes
+	
+	capital = 1280 # Iskorosten
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_ulichs = { 
+	color={ 39 77 104 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+	tribe = yes
+	
+	capital = 541 # Peresechen
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_volhynians = { 
+	color={ 191 165 46 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+	tribe = yes
+	
+	capital = 535 # Vladimir Volynsky
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_buzhans = { 
+	color={ 82 81 75 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+	tribe = yes
+	
+	capital = 1286 # Kamyanetspodilsky
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_tivertsi = { 
+	color={ 54 92 124 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+	tribe = yes
+	
+	capital = 1283 # Cern
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}

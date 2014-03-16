@@ -1,0 +1,58 @@
+# 1182 - Nordfriisland
+
+# County Title
+title = c_nordfriisland
+
+# Settlements
+max_settlements = 5
+
+b_rungholt = city
+b_leck = castle
+#b_pelvorm = temple
+#b_husum = city
+
+#b_limbek = castle
+#b_garding = city
+#b_hatsted = city
+#b_odenboel = temple
+#b_nebel = city
+#b_tetenbull = city
+#b_bredsted = city
+#b_tonningfriesland = castle
+#b_horsbol = city
+#b_breklum = city
+
+# Misc
+culture = frisian
+religion = norse_pagan
+
+
+	
+# History
+850.1.1 = { capital = b_leck }
+867.1.1 = { b_rungholt = ct_port_1 }
+980.1.1 = { capital = b_rungholt } 
+980.1.1 = { b_pelvorm = temple 
+            b_husum = city
+} 
+1018.1.1 = { religion = catholic } 
+
+1066.1.1 = { 
+	b_leck = ca_keep_1
+	b_leck = ca_militia_barracks_1
+	b_leck = ca_wall_1
+        b_rungholt = ct_marketplace_1
+        b_rungholt = ct_marketplace_2
+        b_rungholt = ct_wall_1
+        b_rungholt = ct_wall_2
+	b_rungholt = ct_port_1
+        b_rungholt = ct_port_2
+	b_rungholt = ct_barracks_1
+        b_rungholt = ct_barracks_2
+        b_rungholt = ct_barracks_3 
+        b_husum = ct_marketplace_1
+        b_husum = ct_wall_1    
+}
+
+
+

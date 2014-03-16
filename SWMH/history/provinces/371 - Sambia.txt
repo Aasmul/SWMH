@@ -1,0 +1,32 @@
+# 371 - Sambia
+
+# County Title
+title = c_sambia
+
+# Settlements
+max_settlements = 5
+
+b_konigsberg = castle
+b_kaup = city
+b_fischhausen = temple
+
+#b_labiau = castle
+#b_sambrandenburg = castle
+#b_tapiau = castle
+#b_cranz = city
+#b_kreuzburgnatangia = castle
+#b_ilawka = castle
+
+# Misc
+culture = prussian
+religion = baltic_pagan
+
+# History
+1066.1.1 = { trade_post = b_guldsmed }
+1097.1.1 = { trade_post = -1 }
+1225.1.1 = { b_labiau = castle }
+1250.1.1= { trade_post = b_pat_luneburg }
+1252.1.1 = { remove_settlement = b_kaup }
+1252.1.1 = { b_cranz = city }
+1252.1.1 = { religion = catholic } #bishopery of Samland
+1274.1.1 = { culture = german } #Since Nantangia and Sambia is merged, the last(natangia) uprising surrender date is choosen(the death of Herkus Monte).

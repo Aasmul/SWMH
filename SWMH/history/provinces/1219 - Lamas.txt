@@ -1,0 +1,22 @@
+# 1219 -Lamas
+
+# County Title
+title = c_lamas
+
+# Settlements
+max_settlements = 3
+b_mokhbud = castle
+b_lamas = city
+#b_ninica = temple
+
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+1117.1.1 = { culture = armenian }
+
+1270.1.1 = { culture = turkish }
+1270.1.1 = { religion = sunni }

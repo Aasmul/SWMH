@@ -1,0 +1,23 @@
+# 94 - Hainaut
+
+# County Title
+title = c_hainaut
+
+# Settlements
+max_settlements = 5
+
+b_mons = castle
+b_hallen = city
+b_soignies = temple
+#b_lessines = city
+#b_enghien = city
+#b_ath = castle
+
+# Misc
+culture = frankish
+religion = catholic
+
+# History
+
+
+
