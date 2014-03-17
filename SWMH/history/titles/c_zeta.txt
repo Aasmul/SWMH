@@ -6,7 +6,7 @@
 	holder=145198
 }
 1060.1.1={
-	holder=20492 Radislav Vojislavic
+	holder=20492 # Radislav Vojislavic
 }
 1084.1.1={
 	holder=20558 # Dobroslav Radislavic

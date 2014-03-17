@@ -24,9 +24,7 @@
   de_jure_liege="k_moravia"
 }
 867.1.1={
-	succession = seniority
-}
-867.1.1={
+	law = succ_seniority
 	law = agnatic_succession
 }
 873.1.1={
