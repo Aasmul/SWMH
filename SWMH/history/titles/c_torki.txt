@@ -9,17 +9,12 @@ liege="d_kiev"
 1066.1.1={
 holder=626
 }
-1068.9.14={
-	holder = 650
-}
-1069.4.15={
-holder=626
-}
 1073.1.2={
-holder=628
+	holder=660
 }
 1076.12.27={
-holder=630
+	holder=684
+liege="d_galich"
 }
 1077.1.2={
 holder=626
