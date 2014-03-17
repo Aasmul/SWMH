@@ -115,9 +115,6 @@
 1066.1.1={
 	holder=161281 #Kadoc of Cornwall
 }
-1066.1.1={
-	holder=161281 #Kadoc of Cornwall
-}
 1071.1.1={
 	holder=354 #Brian of Penthièvre
 }
