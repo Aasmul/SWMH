@@ -1237,7 +1237,6 @@ RETTYPE_CUL_BEDOUIN_NOMAD =
   		culture = afar
   		culture = zaghawa
   		culture = daju
-  		culture = mossi
       }
     }
 	
