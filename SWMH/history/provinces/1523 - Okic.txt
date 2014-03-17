@@ -14,6 +14,7 @@ b_samobor = castle
 
 # Misc
 culture = croatian
-religion = catholic
+religion = orthodox
 
 # History
+900.1.1 = {religion = catholic }

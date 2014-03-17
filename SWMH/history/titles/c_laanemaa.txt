@@ -45,12 +45,6 @@ holder=167737
 1206.1.1={
 	holder=1000227620
 }
-##Livonian Swordbrothers takeover
-1224.1.1=
-{
-liege="d_livonian_brothers_of_the_sword"
-holder=30444 #Volkwin von Naumburg
-}
 1228.1.1=
 {
 liege="d_osel_wiek"
@@ -62,6 +56,10 @@ holder=30436 #Gottfried von Naumburg
 1234.1.1=
 {
 holder=30437 #Heinrich von Ösel
+}
+1236.9.22=
+{
+liege="d_teutonic_order"
 }
 1260.1.1=
 {

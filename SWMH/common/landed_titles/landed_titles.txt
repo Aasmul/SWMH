@@ -282,35 +282,6 @@ d_knights_hospitaler = {
 
 	modifier = d_knights_hospitaler_modifier
 }
-d_livonian_brothers_of_the_sword = {
-	color={ 124 44 108 }
-	color2={ 255 255 255 }
-	
-	graphical_culture = holygfx
-	
-	capital = 377 # Sakala
-
-	title = "HOCHMEISTER"
-	foa = "HOCHMEISTER_FOA"
-	
-	# Always exists
-	landless = yes
-	
-	holy_order = yes
-	
-	# Parent Religion 
-	religion = catholic
-	
-	culture = german
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Extra income due to donations, etc
-	monthly_income = 3 # (Must be an integer between 1 and 512)
-
-	modifier = d_teutonic_order_modifier
-}
 
 d_hashshashin = {
 
@@ -387,7 +358,7 @@ d_jomsvikings = {
 	
 	graphical_culture = norseholygfx
 	
-	capital = 1267 # Szviune/Wolin/Jomsborg
+	capital = 303
 
 	title = "WARCHIEF"
 	foa = "WARCHIEF_FOA"
@@ -8141,19 +8112,6 @@ e_byzantium = {
 			culture = greek
 			# venetian = "Adrianupleos et Didimotichi"
 
-			bedouin_arabic = "Maqaduniya"
-			maghreb_arabic = "Maqaduniya"
-			levantine_arabic = "Maqaduniya"
-			egyptian_arabic = "Maqaduniya"
-			andalusian_arabic = "Maqaduniya"
-			sicilian_arabic = "Maqaduniya"
-			berber = "Maqaduniya"
-			tuareg = "Maqaduniya"
-			greek = "Makedonía"
-			arberian = "Makedonía"
-			georgian = "Makedonía"
-			armenian = "Makedonía"
-			alan = "Makedonía"
 			hungarian = "Philippopolis"
 			norweigan = "Philippopolis"
 			gothic = "Philippopolis"
@@ -22045,8 +22003,6 @@ k_terra = {
 		c_jeriska = {
 			color={ 225 118 18 }
 			color2={ 255 255 255 }
-
-                        #german="Lettia"
 			
 			b_jersika = {
 				mordvin = "Jersika"
@@ -29343,633 +29299,6 @@ e_france = {
 			}
 		}
 	} # END k_burgundy
-	k_aquitaine = {
-		color={ 54 50 226 }
-		color2={ 255 255 20 }
-
-		capital = 149 # Bordaeux
-		culture = occitan
-		
-		catholic = 4000 # Crusade target weight
-		
-		d_toulouse = {
-			color={ 200 0 50 }color2={ 255 255 255 }
-			
-			capital = 214 # Toulouse
-			culture = occitan
-			
-			c_toulouse = {
-				color={ 18 24 251 }
-				color2={ 255 255 255 }
-				
-				b_castelnaudary = {}
-				b_toulouse = { title = "CAPITOUL" foa = "CAPITOUL_FOA" }
-				b_montauban = {}
-				b_lombez = {}
-				b_hautpoul = {}
-				b_montgiscard = {}
-				b_lasalvetatsaintgilles = {}
-				b_lislejourdain = {}
-			}
-			c_quercy = {
-				color={ 62 18 251 }
-				color2={ 255 255 255 }
-				
-				b_cahors = {}
-				b_figeac = {}
-				b_rocamadour = {}
-				b_morlhorn = {}
-				b_saintantonin = {}
-				b_mondenard = {}
-			}
-			c_rouergue = {
-				color={ 20 28 253 }
-				color2={ 255 255 255 }
-				
-				b_rodez = {}
-				b_vabres = {}
-				b_najac = {}
-				b_villefranche = {}
-				b_caylus = {}
-				b_staffrique = {}
-				b_estaing = {}
-				b_belcastel = {}
-				b_bertholene = {}
-				b_gissac = {}
-				b_vezinsdelevezou = {}
-			}
-			c_albi = {
-				color={ 20 28 253 }
-				color2={ 255 255 255 }
-				
-				b_fayet = {}
-				b_albioccitiania = {}
-				b_lavaur = {}
-				b_castres = {}
-				b_lombers = {}
-				b_rabastens = {}
-				b_brusque = {}
-			}
-		}
-		d_gevaudan = {
-			color={ 0 127 14 }
-			color2={ 255 255 255 }
-			
-			capital = 219 # Gevaudan
-			culture = occitan
-			name_tier = count
-			
-			c_milau = {
-				color={ 20 28 253 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_nantmillau = {}
-				b_millau = {}
-				b_templarlacavalerie = {}
-				b_creissels = {}
-				b_rivieresurtarn = {}
-				b_saintromedecernon = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"     
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_gevaudan = {
-				color={ 28 175 230 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_grezes = {}
-				b_mende = {}
-				b_apchier = {}
-				b_marvejols = {}
-				b_florac = {}
-				b_stsauveur = {}
-				b_tournel = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			allow = {
-				has_landed_title = c_gevaudan
-				has_landed_title = c_milau
-			}
-		}
-		d_foix = {
-			color={ 235 224 73 }
-			color2={ 255 255 255 }
-			
-			capital = 210 # Foix
-			culture = occitan
-			
-			c_foix = {
-				color={ 24 13 246 }
-				color2={ 255 255 255 }
-				
-				b_foix = {}
-				b_castagnac = {}
-				b_pamiers = {}
-				b_mirepoix = {}
-				b_montsegur = {}
-				b_roquefeuil = {}
-				b_usson = {}
-				b_niortdesault = {}
-			}
-			c_comminges = {
-				color={ 36 25 255 }
-				color2={ 255 255 255 }
-				
-				b_stbertrand = {}
-				b_stgaudens = {}
-				b_aspet = {}
-				b_muret = {}
-				b_barousse = {}
-				b_barbazan = {}
-				b_aurignac = {}
-			}
-			c_couserans = {
-				color={ 36 25 255 }
-				color2={ 255 255 255 }
-				
-				b_chateaumirabat = {}
-				b_saintlizier = {}
-				b_chateaudeseix = {}
-				b_saintgirons = {}
-			}
-			c_bearn = {
-				color={ 27 16 249 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_pau = {}
-				b_morlaas = {}
-				b_lescar = {}
-				b_mauleonlicharre = {}
-				b_orthez = {}
-				b_oloron = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_bigorre = {
-				color={ 27 16 249 }
-				color2={ 255 255 255 }
-				
-				b_lourdes = {}
-				b_vicenbigorre = {}
-				b_tarbes = {}
-				b_montaner = {}
-			}
-			allow = {
-				has_landed_title = c_foix
-				has_landed_title = c_bearn
-			}
-		}
-		d_septimania = {
-			color={ 0 50 180 }
-			color2={ 255 255 255 }
-			
-			capital = 212 # Narbonne
-			culture = occitan
-			
-			c_narbonne = {
-				color={ 14 20 247 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_cruzycastle = {}
-				b_narbonne_temple = {}
-				b_durbancorbires = {}
-				b_fabrezan = {}
-				b_gaussan = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_montpellier = {
-				color={ 10 16 243 }
-				color2={ 255 255 255 }
-				
-				b_montpellier = {}
-				b_maguelone = {}
-				b_saintguilhemledesert = {}
-				b_melgueil = {}
-				b_massillargues = {}
-				b_dioetvalquieres = {}
-				b_aumelas = {}
-				b_brissac = {}
-				b_lodeve = {}
-			}
-			c_nimes = {
-				color={ 10 16 243 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_chateudeportes = {}
-				b_saintchaptes = {}
-				b_nimes = {}
-				b_aiguesmortes = {}
-				b_uzes = {}
-				b_ales = {}
-				b_chateaudebeucaire = {}
-				b_saingilles = {}
-				b_bagnols = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_viviers = {
-				color={ 12 18 245 }
-				color2={ 255 255 255 }
-				
-				b_aubenas = {}
-				b_tournon = {}
-				b_viviers = {}
-				b_albalaromaine = {}
-				b_privas = {}
-				b_lecheylard = {}
-				b_largentiere = {}
-				b_joyeuse = {}
-			}
-			c_carcassonne = {
-				color={ 16 22 249 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_saissac = {}
-				b_carcassonne_villebasse = {}
-				b_rases = {}
-				b_limoux = {}
-				b_lagrasse = {}
-				b_lastours = {}
-				b_cabaret = {}
-				b_chateaudequeribus = {}
-				b_chateaudetermes = {}
-				b_arquescarcassone = {}
-				b_chateaudaguilar = {}
-				b_peyrepertuse = {}
-				b_pieusse = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_beziers = {
-				color={ 20 28 253 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_beziers = {}
-				b_minerve = {}
-				b_pezenas = {}
-				b_agde = {}
-				b_faugeres = {}
-				b_castelnaudeguers = {}
-				b_puisserguier = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-		}
-		d_gascogne = {
-			color={ 107 102 68 }
-			color2={ 255 255 255 }
-			
-			capital = 209 # Armagnac
-			culture = occitan
-			
-			c_armagnac = {
-				color={ 30 19 252 }
-				color2={ 255 255 255 }
-				
-				b_condom = {}
-				b_lisle = {}
-				b_eauze = {}
-				b_laujuzan = {}
-				b_termesdarmagnac = {}
-				b_vicefezenca = {}
-				b_laplume = {}
-				b_auch = {}
-				b_lectoure = {}
-				b_mirande = {}
-				b_gimbrede = {}
-				b_saintemere = {}
-				b_terraube = {}
-			}
-			c_labourd = {
-				color={ 33 22 255 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_sauveterre = {}
-				b_bayonne = {}
-				b_stsever = {}
-				b_dax = {}
-				b_aire = {}
-				b_labastideclairence = {}
-				b_sorde = {}
-				b_hasparren = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_albret = {
-				color={ 36 25 255 }
-				color2={ 255 255 255 }
-				
-				b_labrit = {}
-				b_tartas = {}
-				b_bazas = {}
-				b_villandraut = {}
-				b_mimizan = {}
-				b_chateaudebudos = {}
-			}
-			c_marsan = {
-				color={ 36 25 255 }
-				color2={ 255 255 255 }
-				
-				b_donjonlacataye = {}
-				b_chateaunolibos = {}
-				b_roquefort = {}
-				b_montdemarsan = {}
-				b_gabarret = {}
-				b_castelnau = {}
-			}
-		}
-		d_aquitaine = {
-			color={ 255 30 50 }
-			color2={ 255 255 255 }
-			
-			capital = 149 # Bordeaux
-			culture = occitan
-			dignity = 10 # Counted as having 10 more counties than it does
-			
-			c_bordeaux = {
-				color={ 58 14 247 }
-				color2={ 255 255 255 }
-				
-				b_castillon = {}
-				b_bordeaux = {}
-				b_stemilion = {}
-				b_blaye = {}
-				b_bourg = {}
-				b_labrede = {}
-				b_lasauve = {}
-				b_chateaudecurton = {}
-				b_lareole = {}
-				b_libourne = {}
-				b_blanquefort = {}
-				b_latestedebuch = {}
-			}
-			c_agen = {
-				color={ 62 18 251 }
-				color2={ 255 255 255 }
-				
-				b_casseneuil = {}
-				b_abbayedeysses = {}
-				b_penne = {}
-				b_agen = {}
-				b_luzech = {}
-				b_moissac = {}
-			}
-			c_perigord = {
-				color={ 66 22 255 }
-				color2={ 255 255 255 }
-				
-				b_baneuil = {}
-				b_perigueux = {}
-				b_sarlat = {}
-				b_biron = {}
-				b_auberoche = {}
-				b_bergerac = {}
-				b_chancelade = {}
-				b_bonaguil = {}
-			}
-		}
-		d_auvergne = {
-			color={ 250 150 0 }
-			color2={ 255 255 255 }
-			
-			capital = 217 # Auvergne
-			culture = occitan
-			
-			c_auvergne = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-				
-				b_montferrand = {}
-				b_brioude = {}
-				b_clairmont = {}
-				b_riom = {}
-				b_thiers = {}
-				b_chateaudopme = {}
-			}
-			c_dauphinedeauvergne = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-				
-				short_name = yes
-				
-				b_vodable = {}
-				b_labbeyblese = {}
-				b_auriacleglise = {}
-				b_bonnac = {}
-				b_murol = {}
-			}
-			c_murat = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-				
-				b_murat = {}
-				b_auvergneval = {}
-				b_mauriac = {}
-				b_stflour = {}
-				b_besseetsaintanastaise = {}
-			}
-			c_carlades = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-
-				culture = occitan
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-				
-				b_carlat = {}
-				b_leabbeysauxillanges = {}
-				b_auvergnepleaux = {}
-				b_ybois = {}
-				b_cellesauverghne = {}
-				b_aurillac = {}
-			}
-			c_velay = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-				
-				b_lachaisedieu = {}
-				b_lepuy = {}
-				b_monistrol = {}
-				b_yssingeaux = {}
-				b_vorey = {}
-			}
-		}
-		d_poitou = {
-			color={ 30 80 200 }
-			color2={ 255 255 255 }
-			
-			culture = occitan
-			
-			c_lusignan = {
-				color={ 28 97 228 }
-				color2={ 255 255 255 }
-				
-				b_lusignan = {}
-				b_charroux = {}
-				b_niort = {}
-				b_melle = {}
-				b_civray = {}
-				b_maillezais = {}
-				b_confolens = {}
-				b_stmaixent = {}
-			}
-			c_saintonge = {
-				color={ 30 99 230 }
-				color2={ 255 255 255 }
-				
-				b_montguyon = {}
-				b_saintes = {}
-				b_stjeandangely = {}
-				b_villeneuve = {}
-				b_tonnay = {}
-				b_aulnay = {}
-				b_royan = {}
-				b_taillebourg = {}
-			}
-			c_poitiers = {
-				color={ 32 101 232 }
-				color2={ 255 255 255 }
-				
-				b_chauvigny = {}
-				b_poitiers = {}
-				b_stsavin = {}
-				b_moncontour = {}
-				b_mirebeau = {}
-				b_parthenay = {}
-				b_loudun = {}
-				b_chatellerault = {}
-			}
-			c_thouars = {
-				color={ 34 103 234 }
-				color2={ 255 255 255 }
-				
-				b_thouars = {}
-				b_lucon = {}
-				b_bressuire = {}
-				b_olonne = {}
-				b_mauleon = {}
-				b_fontenaylecomte = {}
-			}
-			c_aunis = {
-				color={ 34 103 234 }
-				color2={ 255 255 255 }
-				
-				b_surgeres = {}
-				b_vauclaircastle = {}
-				b_larochelle = {}
-				b_maransaunis = {}
-				b_chatelaillon = {}
-				b_fourasaunis = {}
-				b_godsgrace = {}
-			}
-			c_angouleme = {
-				color={ 70 26 255 }
-				color2={ 255 255 255 }
-				
-				b_jarnac = {}
-				b_angouleme = {}
-				b_bassac = {}
-				b_larochefoucauld = {}
-				b_cognac = {}
-				b_richemont = {}
-				b_fontdouce = {}
-				b_latranchade = {}
-			}
-		}
-		d_limousin = {
-			color={ 250 250 250 }
-			color2={ 255 255 255 }
-			
-			capital = 147 # Limoges
-			culture = occitan
-			
-			c_la_marche = {
-				color={ 5 130 46 }
-				color2={ 255 255 255 }
-				
-				b_crozant = {}
-				b_bellac = {}
-				b_gueret = {}
-				b_aubusson = {}
-				b_boussac = {}
-				b_lasouterraine = {}
-				b_bourganeuf = {}
-				b_jouillat = {}
-			}
-			c_limousin = {
-				color={ 5 130 66 }
-				color2={ 255 255 255 }
-				
-				b_limotges = {}
-				b_rochechouart = {}
-				b_chalus = {}
-				b_stleonard = {}
-				b_thiviers = {}
-			}
-			c_ventadour = {
-				color={ 5 130 6 }
-				color2={ 255 255 255 }
-				
-				b_comborn = {}
-				b_ventadour = {}
-				b_turenne = {}
-				b_donzenac = {}
-				b_tulle = {}
-			}
-		}
-		allow = {
-			NOT = { has_landed_title = k_france } 
-		}
-	} # END k_aquitaine
 	k_brittany = {
 		color={ 240 240 240 }
 		color2={ 0 0 0 }
@@ -30970,6 +30299,633 @@ e_france = {
 			}
 		}
 	} # END k_france
+	k_aquitaine = {
+		color={ 54 50 226 }
+		color2={ 255 255 20 }
+
+		capital = 149 # Bordaeux
+		culture = occitan
+		
+		catholic = 4000 # Crusade target weight
+		
+		d_toulouse = {
+			color={ 200 0 50 }color2={ 255 255 255 }
+			
+			capital = 214 # Toulouse
+			culture = occitan
+			
+			c_toulouse = {
+				color={ 18 24 251 }
+				color2={ 255 255 255 }
+				
+				b_castelnaudary = {}
+				b_toulouse = { title = "CAPITOUL" foa = "CAPITOUL_FOA" }
+				b_montauban = {}
+				b_lombez = {}
+				b_hautpoul = {}
+				b_montgiscard = {}
+				b_lasalvetatsaintgilles = {}
+				b_lislejourdain = {}
+			}
+			c_quercy = {
+				color={ 62 18 251 }
+				color2={ 255 255 255 }
+				
+				b_cahors = {}
+				b_figeac = {}
+				b_rocamadour = {}
+				b_morlhorn = {}
+				b_saintantonin = {}
+				b_mondenard = {}
+			}
+			c_rouergue = {
+				color={ 20 28 253 }
+				color2={ 255 255 255 }
+				
+				b_rodez = {}
+				b_vabres = {}
+				b_najac = {}
+				b_villefranche = {}
+				b_caylus = {}
+				b_staffrique = {}
+				b_estaing = {}
+				b_belcastel = {}
+				b_bertholene = {}
+				b_gissac = {}
+				b_vezinsdelevezou = {}
+			}
+			c_albi = {
+				color={ 20 28 253 }
+				color2={ 255 255 255 }
+				
+				b_fayet = {}
+				b_albioccitiania = {}
+				b_lavaur = {}
+				b_castres = {}
+				b_lombers = {}
+				b_rabastens = {}
+				b_brusque = {}
+			}
+		}
+		d_gevaudan = {
+			color={ 0 127 14 }
+			color2={ 255 255 255 }
+			
+			capital = 219 # Gevaudan
+			culture = occitan
+			name_tier = count
+			
+			c_milau = {
+				color={ 20 28 253 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_nantmillau = {}
+				b_millau = {}
+				b_templarlacavalerie = {}
+				b_creissels = {}
+				b_rivieresurtarn = {}
+				b_saintromedecernon = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"     
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_gevaudan = {
+				color={ 28 175 230 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_grezes = {}
+				b_mende = {}
+				b_apchier = {}
+				b_marvejols = {}
+				b_florac = {}
+				b_stsauveur = {}
+				b_tournel = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			allow = {
+				has_landed_title = c_gevaudan
+				has_landed_title = c_milau
+			}
+		}
+		d_foix = {
+			color={ 235 224 73 }
+			color2={ 255 255 255 }
+			
+			capital = 210 # Foix
+			culture = occitan
+			
+			c_foix = {
+				color={ 24 13 246 }
+				color2={ 255 255 255 }
+				
+				b_foix = {}
+				b_castagnac = {}
+				b_pamiers = {}
+				b_mirepoix = {}
+				b_montsegur = {}
+				b_roquefeuil = {}
+				b_usson = {}
+				b_niortdesault = {}
+			}
+			c_comminges = {
+				color={ 36 25 255 }
+				color2={ 255 255 255 }
+				
+				b_stbertrand = {}
+				b_stgaudens = {}
+				b_aspet = {}
+				b_muret = {}
+				b_barousse = {}
+				b_barbazan = {}
+				b_aurignac = {}
+			}
+			c_couserans = {
+				color={ 36 25 255 }
+				color2={ 255 255 255 }
+				
+				b_chateaumirabat = {}
+				b_saintlizier = {}
+				b_chateaudeseix = {}
+				b_saintgirons = {}
+			}
+			c_bearn = {
+				color={ 27 16 249 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_pau = {}
+				b_morlaas = {}
+				b_lescar = {}
+				b_mauleonlicharre = {}
+				b_orthez = {}
+				b_oloron = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_bigorre = {
+				color={ 27 16 249 }
+				color2={ 255 255 255 }
+				
+				b_lourdes = {}
+				b_vicenbigorre = {}
+				b_tarbes = {}
+				b_montaner = {}
+			}
+			allow = {
+				has_landed_title = c_foix
+				has_landed_title = c_bearn
+			}
+		}
+		d_septimania = {
+			color={ 0 50 180 }
+			color2={ 255 255 255 }
+			
+			capital = 212 # Narbonne
+			culture = occitan
+			
+			c_narbonne = {
+				color={ 14 20 247 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_cruzycastle = {}
+				b_narbonne_temple = {}
+				b_durbancorbires = {}
+				b_fabrezan = {}
+				b_gaussan = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_montpellier = {
+				color={ 10 16 243 }
+				color2={ 255 255 255 }
+				
+				b_montpellier = {}
+				b_maguelone = {}
+				b_saintguilhemledesert = {}
+				b_melgueil = {}
+				b_massillargues = {}
+				b_dioetvalquieres = {}
+				b_aumelas = {}
+				b_brissac = {}
+				b_lodeve = {}
+			}
+			c_nimes = {
+				color={ 10 16 243 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_chateudeportes = {}
+				b_saintchaptes = {}
+				b_nimes = {}
+				b_aiguesmortes = {}
+				b_uzes = {}
+				b_ales = {}
+				b_chateaudebeucaire = {}
+				b_saingilles = {}
+				b_bagnols = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_viviers = {
+				color={ 12 18 245 }
+				color2={ 255 255 255 }
+				
+				b_aubenas = {}
+				b_tournon = {}
+				b_viviers = {}
+				b_albalaromaine = {}
+				b_privas = {}
+				b_lecheylard = {}
+				b_largentiere = {}
+				b_joyeuse = {}
+			}
+			c_carcassonne = {
+				color={ 16 22 249 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_saissac = {}
+				b_carcassonne_villebasse = {}
+				b_rases = {}
+				b_limoux = {}
+				b_lagrasse = {}
+				b_lastours = {}
+				b_cabaret = {}
+				b_chateaudequeribus = {}
+				b_chateaudetermes = {}
+				b_arquescarcassone = {}
+				b_chateaudaguilar = {}
+				b_peyrepertuse = {}
+				b_pieusse = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_beziers = {
+				color={ 20 28 253 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_beziers = {}
+				b_minerve = {}
+				b_pezenas = {}
+				b_agde = {}
+				b_faugeres = {}
+				b_castelnaudeguers = {}
+				b_puisserguier = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+		}
+		d_gascogne = {
+			color={ 107 102 68 }
+			color2={ 255 255 255 }
+			
+			capital = 209 # Armagnac
+			culture = occitan
+			
+			c_armagnac = {
+				color={ 30 19 252 }
+				color2={ 255 255 255 }
+				
+				b_condom = {}
+				b_lisle = {}
+				b_eauze = {}
+				b_laujuzan = {}
+				b_termesdarmagnac = {}
+				b_vicefezenca = {}
+				b_laplume = {}
+				b_auch = {}
+				b_lectoure = {}
+				b_mirande = {}
+				b_gimbrede = {}
+				b_saintemere = {}
+				b_terraube = {}
+			}
+			c_labourd = {
+				color={ 33 22 255 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_sauveterre = {}
+				b_bayonne = {}
+				b_stsever = {}
+				b_dax = {}
+				b_aire = {}
+				b_labastideclairence = {}
+				b_sorde = {}
+				b_hasparren = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_albret = {
+				color={ 36 25 255 }
+				color2={ 255 255 255 }
+				
+				b_labrit = {}
+				b_tartas = {}
+				b_bazas = {}
+				b_villandraut = {}
+				b_mimizan = {}
+				b_chateaudebudos = {}
+			}
+			c_marsan = {
+				color={ 36 25 255 }
+				color2={ 255 255 255 }
+				
+				b_donjonlacataye = {}
+				b_chateaunolibos = {}
+				b_roquefort = {}
+				b_montdemarsan = {}
+				b_gabarret = {}
+				b_castelnau = {}
+			}
+		}
+		d_aquitaine = {
+			color={ 255 30 50 }
+			color2={ 255 255 255 }
+			
+			capital = 149 # Bordeaux
+			culture = occitan
+			dignity = 10 # Counted as having 10 more counties than it does
+			
+			c_bordeaux = {
+				color={ 58 14 247 }
+				color2={ 255 255 255 }
+				
+				b_castillon = {}
+				b_bordeaux = {}
+				b_stemilion = {}
+				b_blaye = {}
+				b_bourg = {}
+				b_labrede = {}
+				b_lasauve = {}
+				b_chateaudecurton = {}
+				b_lareole = {}
+				b_libourne = {}
+				b_blanquefort = {}
+				b_latestedebuch = {}
+			}
+			c_agen = {
+				color={ 62 18 251 }
+				color2={ 255 255 255 }
+				
+				b_casseneuil = {}
+				b_abbayedeysses = {}
+				b_penne = {}
+				b_agen = {}
+				b_luzech = {}
+				b_moissac = {}
+			}
+			c_perigord = {
+				color={ 66 22 255 }
+				color2={ 255 255 255 }
+				
+				b_baneuil = {}
+				b_perigueux = {}
+				b_sarlat = {}
+				b_biron = {}
+				b_auberoche = {}
+				b_bergerac = {}
+				b_chancelade = {}
+				b_bonaguil = {}
+			}
+		}
+		d_auvergne = {
+			color={ 250 150 0 }
+			color2={ 255 255 255 }
+			
+			capital = 217 # Auvergne
+			culture = occitan
+			
+			c_auvergne = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+				
+				b_montferrand = {}
+				b_brioude = {}
+				b_clairmont = {}
+				b_riom = {}
+				b_thiers = {}
+				b_chateaudopme = {}
+			}
+			c_dauphinedeauvergne = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+				
+				short_name = yes
+				
+				b_vodable = {}
+				b_labbeyblese = {}
+				b_auriacleglise = {}
+				b_bonnac = {}
+				b_murol = {}
+			}
+			c_murat = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+				
+				b_murat = {}
+				b_auvergneval = {}
+				b_mauriac = {}
+				b_stflour = {}
+				b_besseetsaintanastaise = {}
+			}
+			c_carlades = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+
+				culture = occitan
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+				
+				b_carlat = {}
+				b_leabbeysauxillanges = {}
+				b_auvergnepleaux = {}
+				b_ybois = {}
+				b_cellesauverghne = {}
+				b_aurillac = {}
+			}
+			c_velay = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+				
+				b_lachaisedieu = {}
+				b_lepuy = {}
+				b_monistrol = {}
+				b_yssingeaux = {}
+				b_vorey = {}
+			}
+		}
+		d_poitou = {
+			color={ 30 80 200 }
+			color2={ 255 255 255 }
+			
+			culture = occitan
+			
+			c_lusignan = {
+				color={ 28 97 228 }
+				color2={ 255 255 255 }
+				
+				b_lusignan = {}
+				b_charroux = {}
+				b_niort = {}
+				b_melle = {}
+				b_civray = {}
+				b_maillezais = {}
+				b_confolens = {}
+				b_stmaixent = {}
+			}
+			c_saintonge = {
+				color={ 30 99 230 }
+				color2={ 255 255 255 }
+				
+				b_montguyon = {}
+				b_saintes = {}
+				b_stjeandangely = {}
+				b_villeneuve = {}
+				b_tonnay = {}
+				b_aulnay = {}
+				b_royan = {}
+				b_taillebourg = {}
+			}
+			c_poitiers = {
+				color={ 32 101 232 }
+				color2={ 255 255 255 }
+				
+				b_chauvigny = {}
+				b_poitiers = {}
+				b_stsavin = {}
+				b_moncontour = {}
+				b_mirebeau = {}
+				b_parthenay = {}
+				b_loudun = {}
+				b_chatellerault = {}
+			}
+			c_thouars = {
+				color={ 34 103 234 }
+				color2={ 255 255 255 }
+				
+				b_thouars = {}
+				b_lucon = {}
+				b_bressuire = {}
+				b_olonne = {}
+				b_mauleon = {}
+				b_fontenaylecomte = {}
+			}
+			c_aunis = {
+				color={ 34 103 234 }
+				color2={ 255 255 255 }
+				
+				b_surgeres = {}
+				b_vauclaircastle = {}
+				b_larochelle = {}
+				b_maransaunis = {}
+				b_chatelaillon = {}
+				b_fourasaunis = {}
+				b_godsgrace = {}
+			}
+			c_angouleme = {
+				color={ 70 26 255 }
+				color2={ 255 255 255 }
+				
+				b_jarnac = {}
+				b_angouleme = {}
+				b_bassac = {}
+				b_larochefoucauld = {}
+				b_cognac = {}
+				b_richemont = {}
+				b_fontdouce = {}
+				b_latranchade = {}
+			}
+		}
+		d_limousin = {
+			color={ 250 250 250 }
+			color2={ 255 255 255 }
+			
+			capital = 147 # Limoges
+			culture = occitan
+			
+			c_la_marche = {
+				color={ 5 130 46 }
+				color2={ 255 255 255 }
+				
+				b_crozant = {}
+				b_bellac = {}
+				b_gueret = {}
+				b_aubusson = {}
+				b_boussac = {}
+				b_lasouterraine = {}
+				b_bourganeuf = {}
+				b_jouillat = {}
+			}
+			c_limousin = {
+				color={ 5 130 66 }
+				color2={ 255 255 255 }
+				
+				b_limotges = {}
+				b_rochechouart = {}
+				b_chalus = {}
+				b_stleonard = {}
+				b_thiviers = {}
+			}
+			c_ventadour = {
+				color={ 5 130 6 }
+				color2={ 255 255 255 }
+				
+				b_comborn = {}
+				b_ventadour = {}
+				b_turenne = {}
+				b_donzenac = {}
+				b_tulle = {}
+			}
+		}
+		allow = {
+			NOT = { has_landed_title = k_france } 
+		}
+	} # END k_aquitaine
 	allow = {
 		OR = {
 			culture = frankish
@@ -40782,22 +40738,6 @@ e_africa = {
 				b_alouarta = {}
 			}
 		}
-	} # END k_mauretania
-	
-	allow = { religion_group = muslim 
-		ruled_years = 5
-		war = no
-		is_adult = yes
-		NOT = { tier = emperor }  }
-} # END e_africa
-
-	k_canarias = {
-		color={ 64 0 128 }
-		color2={ 255 255 255 }
-
-		castillan = "Canarias"
-		zanata = "Kanar"
-
 		d_canarias = {
 			color={ 24 58 121 }
 			color2={ 255 255 255 }
@@ -40805,26 +40745,26 @@ e_africa = {
 			capital = 1414 #Tenerife
 			
 			castillan = "Canarias"
-			zanata = "Kanar"
+			berber = "Kanar"
 			
 			c_tenerife = {
 				color={ 15 185 243 }
 				color2={ 255 255 255 }
 				
 				castillan = "Tenerife"
-				zanata = "Ašenšen"
+				berber = "Ašenšen"
 				
 				b_lanzarote = {
 					castillan = "Lanzarote"
-					zanata = "Titerôqqak"
+					berber = "Titerôqqak"
 				}
 				b_tenerife = {
 					castillan = "Tenerife"
-					zanata = "Ašenšen"
+					berber = "Ašenšen"
 				}
 				b_lagomera = {
 					castillan = "La Gomera"
-					zanata = "Qumãra"
+					berber = "Qumãra"
 				}
 			}
 			c_canarias = {
@@ -40832,11 +40772,11 @@ e_africa = {
 				color2={ 255 255 255 }
 				
 				castillan = "Gran Canaria"
-				zanata = "Tamãran"
+				berber = "Tamãran"
 				
 				b_grancanaria = {
 					castillan = "Gran Canaria"
-					zanata = "Tamãran"
+					berber = "Tamãran"
 				}
 
 			}
@@ -40845,118 +40785,22 @@ e_africa = {
 				color2={ 255 255 255 }
 				
 				castillan = "Fuerteventura"
-				zanata = "Mahãr-at"
+				berber = "Mahãr-at"
 				
 				b_fuerteventura = {
 					castillan = "Fuerteventura"
 					berber = "Mahãr-at"
 				}
 			}
-		}
-		d_madeira = {
-			color={ 213 196 1 }
-			color2={ 255 255 255 }
-			
-			capital = 1332 #Madeira
-			
-				castillan = "Leiname"
-				aragonese = "Leiname"
-				leonese = "Leiname"
-			        italian = "Lolegname"
-			        venetian = "Lolegname"
-		                ligurian = "Lolegname"
-			        central_italian = "Lolegname"
-			        southern_italian = "Lolegname"
-			        tuscan = "Lolegname"
-			        neapolitan = "Lolegname"
-			        corsican = "Lolegname"
-			        sardinian = "Lolegname"
-			        sicilian = "Lolegname"
-			        roman = "Erythia"
-			        greek = "Erythia"
-			        arberian = "Erythia"
-			        armenian = "Erythia"
-			        georgian = "Erythia"
-			        alan = "Erythia"
-			
-			c_madeira = {
-				color={ 85 135 243 }
-				color2={ 255 255 255 }
-				
-				#castillan = "Leiname"
-				#aragonese = "Leiname"
-				#leonese = "Leiname"
-			        #italian = "Lolegname"
-			        #venetian = "Lolegname"
-		                #ligurian = "Lolegname"
-			        #central_italian = "Lolegname"
-			        #southern_italian = "Lolegname"
-			        #tuscan = "Lolegname"
-			        #neapolitan = "Lolegname"
-			        #corsican = "Lolegname"
-			        #sardinian = "Lolegname"
-			        #sicilian = "Lolegname"
-			        #roman = "Erythia"
-			        #greek = "Erythia"
-			        #arberian = "Erythia"
-			        #armenian = "Erythia"
-			        #georgian = "Erythia"
-			        #alan = "Erythia"
-				
-				b_machico = {
-				}
-				b_camara = {
-				}
-			}
-			c_porto_santo = {
-				color={ 43 17 60 }
-				color2={ 255 255 255 }
-				
-				#castillan = "Puerto Santo"
-				#aragonese = "Puerto Santo"
-				#leonese = "Puerto Santo"
-			        #italian = "Porto Séo"
-			        #venetian = "Porto Séo"
-		                #ligurian = "Porto Séo"
-			        #central_italian = "Porto Séo"
-			        #southern_italian = "Porto Séo"
-			        #tuscan = "Porto Séo"
-			        #neapolitan = "Porto Séo"
-			        #corsican = "Porto Séo"
-			        #sardinian = "Porto Séo"
-			        #sicilian = "Porto Séo"
-			        #roman = "Paena"
-			        #greek = "Paena"
-			        #arberian = "Paena"
-			        #armenian = "Paena"
-			        #georgian = "Paena"
-			        #alan = "Paena"
-				
-				b_porto_santo = {
-					castillan = "Puerto Santo"
-					aragonese = "Puerto Santo"
-					leonese = "Puerto Santo"
-			                italian = "Porto Séo"
-			                venetian = "Porto Séo"
-		                        ligurian = "Porto Séo"
-			                central_italian = "Porto Séo"
-			                southern_italian = "Porto Séo"
-			                tuscan = "Porto Séo"
-			                neapolitan = "Porto Séo"
-			                corsican = "Porto Séo"
-			                sardinian = "Porto Séo"
-			                sicilian = "Porto Séo"
-			                roman = "Paena"
-			                greek = "Paena"
-			                arberian = "Paena"
-			                armenian = "Paena"
-			                georgian = "Paena"
-			                alan = "Paena"
-				}
-
-			}
-		}  
-	} # END k_canarias
+		} 
+	} # END k_mauretania
+	
+	allow = { religion_group = muslim 
+		ruled_years = 5
+		war = no
+		is_adult = yes
+		NOT = { tier = emperor }  }
+} # END e_africa
 
 e_arabia = {
 	color={ 21 128 0 }

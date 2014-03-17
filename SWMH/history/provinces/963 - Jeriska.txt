@@ -25,7 +25,3 @@ culture = lettigallish
 religion = baltic_pagan
 
 # History
-1180.1.1 = { b_koknese = castle } # Principlaity of Koknese
-1238.1.1 = { b_koknese = temple } #too bishopric of Riga
-1238.1.1 = { capital = b_koknese }
-1238.1.1 = { religion = catholic }

@@ -6,7 +6,7 @@ title = c_metsepole
 # Settlements
 max_settlements = 3
 
-b_limbazi = castle
+b_limbazi= castle
 b_straupe = city
 
 #b_cesis = castle
@@ -22,8 +22,6 @@ religion = finnish_pagan
 
 # History
 
-1202.1.1 = { b_cesis = castle } # Metsepole subjugated, Order castle.
-1202.1.1 = { capital = b_cesis }
-1224.1.1 = { b_limbazi = temple } # too Riga bishopery.
-1224.1.1 = { capital = b_limbazi }
-1224.1.1 = { religion = catholic }
+1209.1.1 = { b_cesis = castle }
+1209.1.1 = { capital = b_cesis }
+1290.1.1 = { religion = catholic }

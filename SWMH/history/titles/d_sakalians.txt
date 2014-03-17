@@ -47,12 +47,10 @@ holder=1000227572
 {
 holder=1000227573 # Lembitu Elder of Sakala pre1211- 1217
 }
-#Riga bishopery
-1215.1.1=
+1217.9.21=
 {
-holder=0
+holder=1000227593 # Unnepewe borther of Lembitu, Elder of Sakala 1217-1224
 }
-#Uprising
 1220.1.1=
 {
 holder=1000227594 # Meeme, son of Lembitu?, Elder of Sakala ?-1224

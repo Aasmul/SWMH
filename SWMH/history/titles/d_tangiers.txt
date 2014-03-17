@@ -8,13 +8,13 @@
 	holder=73984
 }
 1061.1.1={
-	liege=0
+        "liege=0"
 }
 1061.1.1={
 	holder=155005
 }
 1078.10.8={
-	liege=k_maghreb
+	liege="k_maghreb"
 }
 1078.10.8={
 	holder=155036
@@ -32,7 +32,7 @@
 	holder=32978
 }
 1147.1.1={
-	liege=k_maghreb
+	liege="k_maghreb"
 }
 1147.1.1={
 	holder=32979
@@ -65,7 +65,7 @@
 	holder=155167
 }
 1275.1.1={
-	liege=k_maghreb
+	liege="k_maghreb"
 }
 1287.1.1={
 	holder=155168
@@ -77,5 +77,5 @@
 	holder=155169
 }
 1327.1.1={
-	liege="_maghreb
+	liege="k_maghreb"
 }

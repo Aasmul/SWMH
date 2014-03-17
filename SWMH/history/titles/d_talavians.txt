@@ -49,5 +49,10 @@ holder=1000227723 # Tãlivaldis
 }
 1215.1.1=
 {
-holder=0
+holder=1000227724 # Rameks oldest son of Tãlivaldis
+}
+###Livonian Swordbrothers
+1224.1.1= 
+{
+holder=0 # annexed following the conquest of the Ugandians
 }

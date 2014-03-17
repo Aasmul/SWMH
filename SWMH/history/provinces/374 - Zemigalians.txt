@@ -10,7 +10,7 @@ b_pilssala = castle
 b_jelgava = city
 b_tervete = castle
 
-#b_mezotne = temple
+#b_mezotne = castle
 #b_dobele = castle
 #b_saldus = city
 #b_vecsaule = city
@@ -22,9 +22,3 @@ culture = lettigallish
 religion = baltic_pagan
 
 # History
-1226.1.1 = { b_mezotne = temple } # Bishopery of Zemigalia
-1231.1.1 = { capital = b_mezotne } # Viestards dies, crusaders asserts themselves.
-1251.3.3 = { capital = b_tervete } # Zemigalian revolt, Bishopery moved to Kurzeme.
-1281.1.1 = { capital = b_pilssala } # To the Livonian order. 
-1281.1.1 = { religion = catholic } # To the Livonian order.
-1281.1.1 = { remove_settlement = b_tervete } # Destroyed by the order.

@@ -78,6 +78,3 @@ region_north_dalmatian_islands  = {
 region_south_dalmatian_islands  = {
         provinces = { 936 944 1295 }
 }
-region_maderia  = {
-        provinces = { 1332 1333 }
-}

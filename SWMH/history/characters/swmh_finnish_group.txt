@@ -592,32 +592,6 @@
 		death=yes
 	}
 }
-1000227627 = {
-	name="Kulewene"
-        dynasty=1000053362 # of Vanema
-	religion="baltic_pagan"
-	culture="livonian"
-        father=1000227592
-	1184.1.1 = {
-		birth=yes
-	}
-	1231.1.17 = {
-		death=yes
-	}
-}
-1000227628 = {
-	name="Dabrelis"
-        dynasty=1000053362 # of Vanema
-	religion="baltic_pagan"
-	culture="livonian"
-        father=1000227627
-	1210.1.1 = {
-		birth=yes
-	}
-	1253.1.1 = {
-		death=yes
-	}
-}
 ########################################
 #Estonian
 ########################################
@@ -971,87 +945,6 @@
 		birth=yes
 	}
 	1228.1.1 = {
-		death=yes
-	}
-}
-########################################
-#Uganidans
-########################################
-1000227621 = {
-	name="Lättelemb"
-        dynasty=1000053353
-	religion="finnish_pagan"
-	culture="tsuudi"
-        father=28025
-	1060.1.1 = {
-		birth=yes
-	}
-	1110.1.1 = {
-		death=yes
-	}
-}
-1000227622 = {
-	name="Vilitõiv"
-        dynasty=1000053353
-	religion="finnish_pagan"
-	culture="tsuudi"
-        father=1000227621
-	1093.1.1 = {
-		birth=yes
-	}
-	1140.1.1 = {
-		death=yes
-	}
-}
-1000227623 = {
-	name="Lättelemb"
-        dynasty=1000053353
-	religion="finnish_pagan"
-	culture="tsuudi"
-        father=1000227622
-	1120.1.1 = {
-		birth=yes
-	}
-	1190.1.1 = {
-		death=yes
-	}
-}
-1000227624 = {
-	name="Vilitõiv"
-        dynasty=1000053353
-	religion="finnish_pagan"
-	culture="tsuudi"
-        father=1000227623
-	1150.1.1 = {
-		birth=yes
-	}
-	1203.1.1 = {
-		death=yes
-	}
-}
-1000227625 = {
-	name="Lättelemb"
-        dynasty=1000053353
-	religion="finnish_pagan"
-	culture="tsuudi"
-        father=1000227624
-	1178.1.1 = {
-		birth=yes
-	}
-	1215.1.1 = {
-		death=yes
-	}
-}
-1000227626 = {
-	name="Vilitõiv"
-        dynasty=1000053353
-	religion="finnish_pagan"
-	culture="tsuudi"
-        father=1000227625
-	1199.1.1 = {
-		birth=yes
-	}
-	1223.1.1 = {
 		death=yes
 	}
 }

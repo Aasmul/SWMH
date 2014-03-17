@@ -19,31 +19,3 @@ name="of Tãlava"
 name="of Deltuva"
  culture = lithuanian
 }
-1000100753 = {
-name="of Koknese"
- culture = lettigallish
-}
-1000100754 = {
-name="of Jeriska"
- culture = lettigallish
-}
-1000100755 = {
-name="Von Solre"
- culture = german
-}
-1000100756 = {
-name="Tervete"
- culture = lettigallish
-}
-1000100757 = {
-name="Von Solre"
- culture = german
-}
-1000100758 = {
-name="d’Aulne"
- culture = frankish
-}
-1000100759 = {
-name="von Werth"
- culture = german
-}
