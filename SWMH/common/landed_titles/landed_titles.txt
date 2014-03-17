@@ -282,7 +282,7 @@ d_knights_hospitaler = {
 
 	modifier = d_knights_hospitaler_modifier
 }
-d_livonian_brothers_of_the_sword
+d_livonian_brothers_of_the_sword = {
 	color={ 124 44 108 }
 	color2={ 255 255 255 }
 	
