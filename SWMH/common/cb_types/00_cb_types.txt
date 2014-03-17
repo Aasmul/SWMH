@@ -7192,7 +7192,7 @@ caliphal_subjugation = {
 			religion_group = muslim
 			OR = {
 				has_landed_title = d_sunni
-				has_landed_title = d_shiite
+				has_landed_title = k_shiite
 			}
 			has_horde_culture = no # Should use tribal invasion instead
 			NOT = { has_character_modifier = launched_subjugation }
@@ -8369,7 +8369,7 @@ shia_caliphate_rising = {
 				de_jure_liege_or_above = PREVPREV
 			}
 		}
-		d_shiite = {
+		k_shiite = {
 			has_holder = no
 		}
 	}
@@ -8392,7 +8392,7 @@ shia_caliphate_rising = {
 		custom_tooltip = {
 			text = tribal_invasion_succ_tip
 			hidden_tooltip = {
-				d_shiite = {
+				k_shiite = {
 					usurp_title = ROOT
 				}
 				FROM = {
@@ -9022,12 +9022,14 @@ imperial_reconquest = {
 	}
 
 	on_success_title = {
-		custom_tooltip = tribal_invasion_succ_tip
-		hidden_tooltip = {
-			ROOT = {
-				vassalize_or_take_under_title = {
-					title = PREV
-					enemy = FROM
+		custom_tooltip = {
+			text = tribal_invasion_succ_tip
+			hidden_tooltip = {
+				ROOT = {
+					vassalize_or_take_under_title = {
+						title = PREV
+						enemy = FROM
+					}
 				}
 			}
 		}
