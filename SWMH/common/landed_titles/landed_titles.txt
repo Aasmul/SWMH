@@ -40046,18 +40046,12 @@ e_iberia = {
 				}
 			}
 		}
+		d_asturias = {
+			color={ 19 83 180 }
+			color2={ 0 0 0 }
+		}
 	} # END k_asturias
 
-	d_asturias = {
-
-
-		color={ 19 83 180 }
-
-
-		color2={ 0 0 0 }
-
-
-	}
 # END TITULAR SWMH Spain
 } # END e_iberia
 
