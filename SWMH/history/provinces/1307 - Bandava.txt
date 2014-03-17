@@ -22,6 +22,5 @@ culture = lettigallish
 religion = baltic_pagan
 
 # History
-
-
+1251.3.3 = { capital = b_piltene = temple } #bishoperic of Kurland
 1290.1.1 = { religion = catholic }

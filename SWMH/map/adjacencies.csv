@@ -52,6 +52,7 @@ From;To;Type;Through;Comment;;;;
 936;1295;sea;1642;-1;-1;-1;-1;Hvar-Korcula
 485;482;sea;1651;-1;-1;-1;-1;Euboia-Athens
 496;741;sea;1656;-1;-1;-1;-1;Byz-Nikomedia
+1332;1333;sea;1661;-1;-1;-1;-1;Madeira-Porto Santo
 858;874;;;-1;-1;-1;-1;Aden-Tadjoura
 859;874;;;-1;-1;-1;-1;Taizz-Tadjoura
 854;870;;;-1;-1;-1;-1;Jask-Dhu Zabi
@@ -98,6 +99,7 @@ From;To;Type;Through;Comment;;;;
 1249;221;major_river;1863;-1;-1;-1;-1;Nimes-Provence
 223;1252;major_river;1863;-1;-1;-1;-1;Vivares-Valentios
 223;222;major_river;1863;-1;-1;-1;-1;Vivares-Venaissin
+564;593;major_river;1818;-1;-1;-1;-1;Oskol-Karatatyak
 1786;1787;portage;403;-1;-1;-1;-1;Andoma-Soyda
 1832;1829;portage;417;-1;-1;-1;-1;Lovat-West Dvina A
 1829;1822;portage;568;-1;-1;-1;-1;West Dvina A-Smolnya B

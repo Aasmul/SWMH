@@ -13853,7 +13853,7 @@
 
 30323 = {
 	name="Hermann" 
-	dynasty=12462 #von der Lippe
+	dynasty=12462 
 	
 	religion="catholic"
 	culture="german"
@@ -13870,7 +13870,7 @@
 }
 
 30324 = {
-	name="Bernhard" 
+	name="Bernhard" #von der Lippe # Lord of Lippe. Bishop of Selija 1218-1224
 	dynasty=12462
 	
 	religion="catholic"

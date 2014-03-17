@@ -17,5 +17,9 @@ religion = baltic_pagan
 
 # History
 
-1199.1.1 = { religion = catholic }
+1218.1.1 = { b_selpils = temple } # Bishopery of Selija
+1218.1.1 = { religion = catholic } # Bishopery of Selija
+1218.1.1 = { b_jekabpils = castle }
+1226.1.1 = { b_selpils = castle } # To Livonian order
+1226.1.1 = { b_jekabpils = city }
 

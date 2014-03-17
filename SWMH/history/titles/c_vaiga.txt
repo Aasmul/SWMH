@@ -9,46 +9,45 @@ holder=28025
 }
 1089.1.1=
 {
-holder=28026
+holder=1000227621
 }
 1120.1.1=
 {
-	holder = 144631
+holder = 1000227622
 }
-1170.1.1=
+1140.1.1=
 {
-	holder=228026
+	holder=1000227623
 }
-1187.1.1=
+1190.1.1=
+{
+	holder=1000227624
+}
+1203.1.1=
+{
+	holder=1000227625
+}
+1215.1.1=
 {
 liege="d_livonia"
+holder=1000227626
 }
-1187.1.1=
+#Uprising
+1220.1.1=
 {
-holder=228025
+liege="d_ugandians"
+holder=1000227626
 }
-1200.1.1=
+1223.1.1=
 {
-holder=228023
+liege = d_novgorod
+holder= 1000227741 # Vesceka Prince of Koknese ?-1209ish Tartu 1223-1224
 }
-1202.1.1=
+#Bishopery of Dorpat
+1224.1.1=
 {
-holder=30443 #Vinno von Rohrbach
-}
-
-1209.1.1=
-{
-holder=30444 #Volkwin von Naumburg
-}
-
-1225.1.1=
-{
+liege="d_dorpat"
 holder=30429 #Hermann von Buxthoevden
-}
-
-1236.9.22=
-{
-liege="d_teutonic_order"
 }
 1248.1.1=
 {

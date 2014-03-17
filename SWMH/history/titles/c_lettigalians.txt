@@ -50,12 +50,13 @@ holder=1000227723 # Tãlivaldis
 }
 1215.1.1=
 {
+liege="d_livonia" # vassal of Riga
 holder=1000227724 # Rameks oldest son of Tãlivaldis
 }
 ###Livonian Swordbrothers
 1224.1.1= # annexed following the conquest of the Ugandians
 {
-liege="d_livonia"
+liege="d_livonian_brothers_of_the_sword"
 holder=30444 #Volkwin von Naumburg
 }
 

@@ -1,0 +1,21 @@
+#Zemgalian bishopery
+1226.1.1={
+liege="d_livonia"
+holder=1000227748 #Lambert von Solre,  Bishop of Selija 1224-1226 and Bishop of Zemigalia 1226-1232
+}
+1232.1.28=
+{
+holder=1000227749 # Baldwin von Alna Bishop of Zemigalia 1232.01.28-1236
+}
+1236.1.1=
+{
+holder=1000227750 # Arnold Bishop of Zemigalia 1236-1247.12.05
+}
+1247.12.5=
+{
+holder=1000227750 # Heinrich von Lützelburg Bishop of Zemigalia 1247.12.05-1251.03.03 Bishop of Kurzeme 1251.03.03-1263.02 and Chiemsee 1263.02-1274.02.08
+}
+#Zemigalian rebellion
+1251.3.3={
+	holder = 0
+}

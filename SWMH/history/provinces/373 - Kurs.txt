@@ -7,7 +7,7 @@ title = c_kurs
 max_settlements = 3
 
 b_tukums = castle
-b_sabile = city
+b_sabile = castle
 #b_talsi = castle
 #b_renda = city
 #b_dundaga = temple

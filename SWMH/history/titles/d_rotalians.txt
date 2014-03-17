@@ -41,7 +41,7 @@ holder=167737
 1206.1.1={
 	holder=1000227620
 }
-1228.1.1=
+1224.1.1=
 {
 holder=0 # Should technically be 1224, but the bishopery wasn't set up til 1228
 }
