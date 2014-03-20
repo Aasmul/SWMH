@@ -40054,6 +40054,7 @@ e_africa = {
 	color2={ 255 255 255 }
 	
 	culture = maghreb_arabic
+	creation_requires_capital = no # Two potential capitals
 
 	k_africa = {
 		color={ 255 204 102 }
@@ -40811,11 +40812,21 @@ e_africa = {
 		}
 	} # END k_mauretania
 	
-	allow = { religion_group = muslim
+	allow = {
+		religion_group = muslim
 		ruled_years = 5
 		war = no
 		is_adult = yes
-		NOT = { tier = emperor }  }
+		NOT = { tier = emperor }
+		OR = {
+			has_landed_title = k_mauretania
+			completely_controls = k_mauretania
+		}
+		OR = {
+			has_landed_title = k_africa
+			completely_controls = k_africa
+		}
+	}
 } # END e_africa
 
 	k_canarias = {
