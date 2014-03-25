@@ -11,9 +11,6 @@ d_chester = {
 d_gloucester = {
 	color={ 57 21 209 }
 }
-d_karvuna = {
-	color={ 89 46 200 }
-}
 b_zussow = {
 }
 b_kolbatz = {
@@ -29,7 +26,7 @@ d_vitebsk = {
 # TITULAR SWMH
 
 
-e_ulm = { 
+e_ulm = {
 	color={ 110 110 110 }
 	capital = 252 #ULM
 	title = "ULM"
@@ -39,19 +36,18 @@ e_ulm = {
 		has_landed_title = c_ulm
 		independent = yes
 		prestige = 2000
-
+                OR = {has_landed_title = c_ferrara
+			any_vassal = { has_landed_title = c_ferrara }}
 	}
 }
 
-e_kaleva = { 
+e_kaleva = {
 	color={ 144 157 181 }
 	capital = 381 #Nyland
 	allow = {
 		culture_group = finno_ugric
-		AND = {
-			has_landed_title = k_finland
-			has_landed_title = k_terra
-		}
+		has_landed_title = k_finland
+		has_landed_title = k_terra
 		independent = yes
 
 	}
@@ -68,7 +64,7 @@ k_geats = {
 				has_landed_title = d_ostergotland
 			}
 			independent = yes
-			NOT = { 
+			NOT = {
 				any_demesne_title = {
 					OR = {
 						tier = king
@@ -114,7 +110,7 @@ d_lauenburg = {
 			any_vassal = { has_landed_title = c_lauenburg }}
 		NOT = { any_demesne_title = {tier = emperor}
 		}
-	}		                       
+	}		
 	
 }
 
@@ -123,13 +119,11 @@ d_sangermano = {
 	color={ 77 127 196 }
 	color2={ 255 255 255 }
 	
-	short_name = yes			                       
+	short_name = yes			
 	allow = {
-		AND = { 
-			religion_group = christian
-			is_theocracy = yes
-			piety = 500	
-		}				
+		religion_group = christian
+		is_theocracy = yes
+		piety = 500		
 	}
 }
 k_salerno = {
@@ -140,12 +134,12 @@ k_salerno = {
 	
 	allow = {
 		culture = langobardisch
-		religion_group = christian 
+		religion_group = christian
 		has_landed_title = d_salerno
 
 	}
 }	
-d_austrialombardic = { 
+d_austrialombardic = {
 	color={ 4 33 122 }
 	culture = langobardisch
 	capital = 319 #Verona
@@ -153,17 +147,14 @@ d_austrialombardic = {
 	allow = {
 		culture = langobardisch
 
-		religion_group = christian 
-		AND = {
-			has_landed_title = d_verona
-			has_landed_title = d_aquileia
-		}
+		religion_group = christian
+		has_landed_title = d_verona
+		has_landed_title = d_aquileia
 	}
 }	
 
 
-d_neustria
-= { 
+d_neustria = {
 	color={ 4 33 11 }
 	culture = langobardisch
 	capital = 234 #Pavia
@@ -173,17 +164,15 @@ d_neustria
 	allow = {
 		culture = langobardisch
 
-		religion_group = christian 
-		AND = {
-			has_landed_title = d_parma
-			has_landed_title = d_modena
-			has_landed_title = d_susa
-			has_landed_title = d_monferrato
-		}
+		religion_group = christian
+		has_landed_title = d_parma
+		has_landed_title = d_modena
+		has_landed_title = d_susa
+		has_landed_title = d_monferrato
 	}
 }	
 
-d_tuscia = { 
+d_tuscia = {
 	color={ 250 241 220 }
 	culture = langobardisch
 	capital = 323 #Lucca
@@ -191,14 +180,12 @@ d_tuscia = {
 	allow = {
 		culture = langobardisch
 
-		religion_group = christian 
-		AND = {
-			has_landed_title = d_lucca
-			has_landed_title = d_toscana
-		}
+		religion_group = christian
+		has_landed_title = d_lucca
+		has_landed_title = d_toscana
 	}
 }	
-k_duklja = { 
+k_duklja = {
 	color={ 224 186 36 }
 	culture = serbian
 	capital = 469 #Zeta
@@ -213,23 +200,21 @@ k_duklja = {
 		NOT = { tier = emperor }
 	}
 }
-k_austria = { 
+k_austria = {
 	color={ 188 0 7 }
 	culture = german
 	capital = 449 #Österreich
 
 	title = "ADA"
 	foa = "ADA_FOA"
-	title_prefix = "ADA_OF" 
+	title_prefix = "ADA_OF"
 
 	allow = {
 		culture = german
 
-		religion_group = christian 
-		AND = {
-			has_landed_title = d_osterreich
-			has_landed_title = d_carinthia
-		}
+		religion_group = christian
+		has_landed_title = d_osterreich
+		has_landed_title = d_carinthia
 	}
 }
 
@@ -239,17 +224,15 @@ d_smaland = {
 	
 	norse = "Smáland"
 
-	allow = { 
-		AND = {
-			OR = {has_landed_title = c_smaland
-				any_vassal = { has_landed_title = c_smaland }}
-			OR = {has_landed_title = c_tjust
-				any_vassal = { has_landed_title = c_tjust }}
-			OR = {has_landed_title = c_finnveden
-				any_vassal = { has_landed_title = c_finnveden }}
-		}
+	allow = {
+		OR = {has_landed_title = c_smaland
+			any_vassal = { has_landed_title = c_smaland }}
+		OR = {has_landed_title = c_tjust
+			any_vassal = { has_landed_title = c_tjust }}
+		OR = {has_landed_title = c_finnveden
+			any_vassal = { has_landed_title = c_finnveden }}
 		independent = yes
-		NOT = { 
+		NOT = {
 			any_demesne_title = {
 				OR = {
 					tier = king
@@ -261,7 +244,7 @@ d_smaland = {
 }	
 
 e_occitania = {
-	color={ 230 0 70 } 
+	color={ 230 0 70 }
 	color2={ 255 255 255 }
 	
 	capital = 214 # Toulouse
@@ -276,31 +259,29 @@ e_occitania = {
 			culture = occitan
 			culture = catalan
 		}
-		AND = {
-			religion_group = christian
-			independent = yes
-			OR = {
-				has_landed_title = d_toulouse
-				any_vassal = { has_landed_title = d_toulouse }}
-			OR = {
-				has_landed_title = d_aquitaine
-				any_vassal = { has_landed_title = d_aquitaine }}
-			OR = {
-				has_landed_title = d_provence
-				any_vassal = { has_landed_title = d_provence }}
-			OR = {
-				has_landed_title = d_gevaudan
-				any_vassal = { has_landed_title = d_gevaudan }}
-			OR = {
-				has_landed_title = d_foix
-				any_vassal = { has_landed_title = d_foix }}
-			OR = {
-				has_landed_title = d_septimania
-				any_vassal = { has_landed_title = d_septimania }}
-			OR = {
-				has_landed_title = d_gascogne
-				any_vassal = { has_landed_title = d_gascogne }}			
-		}
+		religion_group = christian
+		independent = yes
+		OR = {
+			has_landed_title = d_toulouse
+			any_vassal = { has_landed_title = d_toulouse }}
+		OR = {
+			has_landed_title = d_aquitaine
+			any_vassal = { has_landed_title = d_aquitaine }}
+		OR = {
+			has_landed_title = d_provence
+			any_vassal = { has_landed_title = d_provence }}
+		OR = {
+			has_landed_title = d_gevaudan
+			any_vassal = { has_landed_title = d_gevaudan }}
+		OR = {
+			has_landed_title = d_foix
+			any_vassal = { has_landed_title = d_foix }}
+		OR = {
+			has_landed_title = d_septimania
+			any_vassal = { has_landed_title = d_septimania }}
+		OR = {
+			has_landed_title = d_gascogne
+			any_vassal = { has_landed_title = d_gascogne }}
 	}
 }
 
@@ -323,7 +304,7 @@ k_flanders = {
 			has_landed_title = c_tournai
 		}
 		independent = yes
-		NOT = { 
+		NOT = {
 			any_demesne_title = {
 				OR = {
 					tier = king

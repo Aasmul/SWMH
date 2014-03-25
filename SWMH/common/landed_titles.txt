@@ -2488,6 +2488,12 @@ e_hre = {
 	k_frisia = {
 		color={ 255 120 0 }
 		color2={ 220 220 20 }
+
+        frisian = "Fryslân" #(Dutch (West Lauwers) Frisian
+        dutch = "Friesland"
+        german = "Friesland"
+        frankish = "Frise"
+        #low saxon: "Frieslaand" ('Dutch' Low Saxon), "Freeslaand" ('German' Low Saxon)
 		
 		culture = dutch
 		capital = 80 #Holland
@@ -2502,29 +2508,52 @@ e_hre = {
 			capital = 80 #Holland
 			culture = dutch
 			name_tier = count
+                        frankish = "Hollande"    
+                        frisian = "Hollân"
 			
 			c_holland = {
 				color={ 168 168 168 }
 				color2={ 255 255 255 }
 				
-				b_haarlem = {}
+				b_haarlem = {
+                                          frisian = "Haarlim"   
+                                }
 				b_amsterdam = {}
-				b_vlaardingen = {}
-				b_sgravenhage = {}
-				b_dordrecht = {}
+				b_vlaardingen = {
+                                          frankish = "Flardingue"    
+                                          frisian = "Flaardingen"    
+                                }
+				b_sgravenhage = {
+                                          dutch = "Den Haag" 
+                                          frankish = "La Haye"    
+                                          frisian = "De Haach"    
+                                }
+				b_dordrecht = {
+                                          frankish = "Dort"
+                                          frisian = "Doardt"    
+                                }
 				b_gouda = {}
-				b_leiden = {}
+				b_leiden = {
+                                          frankish = "Leyde"
+                                          frisian = "Leien"    
+                                }
 				b_muiden = {}
 			}
 			c_zeeland = {
 				color={ 165 165 165 }
 				color2={ 255 255 255 }
 				
-				b_middelburg = {}
+				b_middelburg = {
+                                          frankish = "Middelbourg"
+                                          frisian = "Middelburch"
+                                }
 				b_tholen = {}
 				b_veere = {}
 				b_cadzand = {}
-				b_vlissingen = {}
+				b_vlissingen = {
+                                          frankish = "Flessingue"
+                                          frisian = "Flissingen"
+                                }
 				b_renesse = {}
 				b_borsele = {}
 				b_zierikzee = {}
@@ -2540,15 +2569,22 @@ e_hre = {
 			capital = 80 #Holland
 			culture = dutch
 			name_tier = count
+                        frisian = "Utert"
 			
 			c_sticht = {
 				color={ 156 156 156 }
 				color2={ 255 255 255 }
 				
 				b_woerden = {}
-				b_utrecht = {}
-				b_dorestad = {}
-				b_gorinchem = {}
+				b_utrecht = {
+                                          frisian = "Utert"
+                                }
+				b_dorestad = {
+                                          frisian = "Dorestêd"
+                                }
+				b_gorinchem = {
+                                          frisian = "Garkum"
+                                }
 				b_zeist = {}
 				b_buren = {}
 				b_ijsselstein = {}
@@ -2557,11 +2593,19 @@ e_hre = {
 			c_oversticht = {
 				color={ 159 160 161 }
 				color2={ 255 255 255 }
+                                #low saxon: "Oaversticht"
 				
-				b_deventer = {}
+				b_deventer = {
+                                          frisian = "Dimter"
+                                          #low saxon: "Daeventer" (Plattdüütsch also uses Dèventer, but the more local variety Nedersaksies doesnn't)
+                                }
 				b_kampen = {}
-				b_zwolle = {}
-				b_coevorden = {}
+				b_zwolle = {
+                                          frisian = "Swol"
+                                }
+				b_coevorden = {
+                                          #low saxon: "Coevern"  
+                                }
 			}
 			allow = {
 				has_landed_title = c_sticht
@@ -2573,24 +2617,45 @@ e_hre = {
 			
 			capital = 83 #Gelre
 			culture = dutch
+                        german = "Geldern"
+                        frankish = "Gueldre"
 			
 			c_arnhem = {
 				color={ 159 159 159 }
 				color2={ 255 255 255 }
 				
 				b_elburg = {}
-				b_arnhem = {}
-				b_harderwijk = {}
-				b_hattem = {}
-				b_wageningen = {}
+				b_arnhem = {
+                                          german = "Arnheim"
+                                          #low saxon: "Arnem"
+                                          frisian = "Arnhim"
+                                }
+				b_harderwijk = {
+                                          #low saxon: "Harderwiek"
+                                }
+				b_hattem = {
+                                          #low saxon: "Attem"
+                                }
+				b_wageningen = {
+                                          frankish = "Wageningue"
+                                }
 			}
 			c_gelre = {
 				color={ 159 159 159 }
 				color2={ 255 255 255 }
 				
-				b_nijmegen = {}
-				b_geldern = {}
-				b_roermond = {}
+				b_nijmegen = {
+                                          german = "Nimwegen"
+                                          frankish = "Nimègue"
+                                          frisian = "Nymwegen" 
+                                }
+				b_geldern = {
+                                          dutch = "Gelderen"
+                                          frankish = "Gueldre"
+                                }
+				b_roermond = {
+                                          frankish = "Ruremonde"
+                                }
 				b_montfort_gelre = {}
 				b_gendt = {}
 				b_zaltbommel = {}
@@ -2599,8 +2664,13 @@ e_hre = {
 			c_zutphen = {
 				color={ 159 159 159 }
 				color2={ 255 255 255 }
+                                #low saxon: "Zutfent"
+                                frisian = "Sutfen"
 				
-				b_zutphen = {}
+				b_zutphen = {
+                                           #low saxon: "Zutfent"
+                                           frisian = "Sutfen"
+                                }
 				b_steenderen = {}
 				b_eerbeek = {}
 				b_leuvenheim = {}
@@ -2612,56 +2682,131 @@ e_hre = {
 			
 			capital = 84 #Frisia
 			culture = frisian
-			
+                        frisian = "Fryslân" #(Dutch (West Lauwers) Frisian
+                        # other Frisian varieties: Fräislound (Saterland (East Lauwers) Frisian),  
+                        # Fraschlönj/Friislon (North Frisian), though isn't from within the duchy
+                        dutch = "Friesland"
+                        german = "Friesland"
+                        frankish = "Frise"
+                        #low saxon: "Freesland" (German Low Saxon, Dutch Low Saxon: "Fraisland")
+	 		
 			c_ostfriesland = {
 				color={ 162 162 162 }
-				color2={ 255 255 255 }
+		 		color2={ 255 255 255 }
+                                frisian = " Aastfräislound" #(local variety)
+                                #low saxon: "Oostfreesland" 
+                                german = "Ostfriesland"
+                                dutch = "Oost Friesland"                
+                                frankish = "Frise Orientale"
 				
-				b_emden = {}
-				b_aurich = {}
+				b_emden = {
+                                           frisian = " Oamde"
+                                }
+				b_aurich = {
+                                           frisian = " Aurk"
+                                           #low saxon: "Auerk" 
+                                }
 				b_borkum = {}
-				b_norden = {}
-				b_norderney = {}
-				b_leer = {}
+				b_norden = {
+                                           #low saxon: "Nörden"  
+                                }
+				b_norderney = {
+                                           frisian = "Nordeneach"
+                                           #low saxon: "Nörderneei"     
+                                }
+				b_leer = {
+                                           frisian = "Lier"
+                                }
 				b_wittmund = {}
 				b_esens = {}
 			}
 			c_rustringen = {
 				color={ 214 214 214 }
 				color2={ 255 255 255 }
+
+                                #frisian = "Rjustringen" #(Dutch (West Lauwers) Frisian
+                                #dutch = "Rustringen"
 				
 				b_jever = {}
-				b_siebethsburg = {}
-				b_loningen = {}
-				b_schortens = {}
-				b_kniphausen = {}
-				b_varel = {}
+				b_siebethsburg = {
+                                            german = "Sibethsburg" # standard
+                                            frisian = "Sibetsboarch"
+                                            #low saxon: "Sibetsborg
+                                }
+				b_loningen = {
+                                            #low_saxon: "Löningen" 
+                                }
+				b_schortens = {
+                                            #low saxon: "Schörtens" 
+                                }
+				b_kniphausen = {
+                                            dutch = "Kniphuizen"
+                                }
+				b_varel = {
+                                            frisian = "Foarel"
+                                }
 			}
 			c_westfriesland = {
 				color={ 40 40 40 }
 				color2={ 255 255 255 }
+
+                                dutch = "West Friesland"
+                                frisian = "West Fryslân"        
+                                german = "Westfriesland"
+                                frankish = "Frise Occidentale"  
 				
-				b_alkmaar = {}
-				b_hoorn = {}
+				b_alkmaar = {
+                                            german = "Alkmar"
+                                            frisian = "Alkmar" 
+                                }
+				b_hoorn = {
+                                            frisian = "Hoarn" 
+                                }
 				b_medemblik = {}
-				b_enkhuizen = {}
+				b_enkhuizen = {
+                                            frisian = "Inkhuzen" 
+                                }
 				b_heerhugowaard = {}
-				b_texel = {}
+				b_texel = {
+                                            frisian = "Tessel" 
+                                }
 				b_egmond = {}
 				b_schagen = {}
 			}
 			c_frisia = {
 				color={ 160 160 160 }
 				color2={ 255 255 255 }
+
+                                frisian = "Fryslân"
+                                dutch = "Friesland"
+                                german = "Friesland"
+                                frankish = "Frise"
 				
-				b_groningen = {}
-				b_leeuwarden = {}
-				b_stavoren = {}
-				b_bolsward = {}
-				b_franeker = {}
+				b_groningen = {
+                                            #low saxon: "Grunnen" (Dutch Low Saxon), "Grunneng" (German Low Saxon)
+                                            frisian = "Grins"
+                                            frankish = "Groningue"
+                                }
+				b_leeuwarden = {
+                                            frisian = "Ljouwert"
+                                            frankish = "Leuvarde"
+                                }
+				b_stavoren = {
+                                            dutch = "Staveren" # older than Stavoren
+                                            german = "Staveren" # older than Stavoren
+                                            frisian = "Starum"
+                                }
+				b_bolsward = {
+                                            frisian = "Boalsert"
+                                }
+				b_franeker = {
+                                            frisian = "Frjentsje"
+                                }
 				b_dokkum = {}
 				b_assen = {}
-				b_harlingen = {}
+				b_harlingen = {
+                                            frisian = "Harns"
+                                }
 			}
 		}
 		allow = {
@@ -2682,12 +2827,18 @@ e_hre = {
 		name_tier = duke
 		
 		catholic = 4000 # Crusade target weight
+
+                dutch = "Opper Lotharingen"    
+                german = "Oberlothringen"
+                frankish = "Haute Lotharingie"
 		
 		d_trier = {
 			color={ 232 232 208 }
 			color2={ 255 255 255 }
 			
 			culture = german
+                        frankish = "Trèves"
+                        dignity = 10
 			
 			title = "FE"
 			foa = "FE_FOA"
@@ -2696,10 +2847,17 @@ e_hre = {
 			c_trier = {
 				color={ 135 135 135 }
 				color2={ 255 255 255 }
+                                           frankish = "Trèves"
 				
 				b_andernach = {}
-				b_trier = {}
-				b_coblenz = {}
+				b_trier = {
+                                           frankish = "Trèves"
+                                }
+				b_coblenz = {
+                                           german = "Koblenz"
+                                           frankish = "Coblence"
+                                           dutch = "Koblenz" 
+                                }
 				b_wittlich = {}
 				b_gerolstein = {}
 				b_laach = {}
@@ -2714,42 +2872,85 @@ e_hre = {
 		d_luxembourg = {
 			color={ 38 172 57 }
 			color2={ 214 140 0 }
+
+                        german = "Lützelburg"    
+                        dutch = "Lutzelburg"
 			
 			capital = 115 #Luxembourg
 			
 			c_arlon = {
 				color={ 147 147 147 }
 				color2={ 255 255 255 }
+
+                                german = "Arel"    
+                                dutch = "Aarlen"  
 				
-				b_arlon = {}
-				b_useldange = {}
-				b_longwy = {}
+				b_arlon = {
+                                          german = "Arel"    
+                                          dutch = "Aarlen"  
+                                }
+				b_useldange = {
+                                          german = "Useldingen"  
+                                }
+				b_longwy = {
+                                          german = "Langich"  
+                                }
 				b_wilzenn = {}
-				b_septfontaines = {}
+				b_septfontaines = {
+                                          german = "Simmern"
+                                }
 			}
 			c_luxembourg = {
 				color={ 147 147 147 }
 				color2={ 255 255 255 }
+               
+                                german = "Lützelburg"    
+                                dutch = "Lutzelburg"   
 				
-				b_luxembourg = {}
+				b_luxembourg = {
+                                          german = "Lützelburg"    
+                                          dutch = "Lutzelburg"  
+                                }
 				b_echternach = {}
-				b_ansembourg = {}
-				b_bradenbourg = {}
-				b_bourscheid = {}
-				b_beauforten = {}
-				b_thionville = {}
-				b_grevenmarcher = {}
+				b_ansembourg = {
+                                          german = "Ansemburg"
+                                }
+				b_bradenbourg = {
+                                          german = "Bradenburg"
+                                }
+				b_bourscheid = {
+                                          german = "Burscheid"
+                                }
+		 		b_beauforten = {
+                                          german = "Befort"
+                                }
+				b_thionville = {
+                                          german = "Diedenhofen"    
+                                          dutch = "Diedenhoven" 
+                                }
+				b_grevenmarcher = {
+                                          german = "Ettelbrück"    
+                                }
 				b_ettelbruck = {}
 			}
 			c_laroche = {
 				color={ 145 145 145 }
 				color2={ 255 255 255 }
 				
-				b_laroche = {}
+				b_laroche = {
+                                          german = "Fels" 
+                                }
 				b_durbuy = {}
-				b_clervaux = {}
-				b_bastogne = {}
-				b_houffalize = {}
+				b_clervaux = {
+                                          german = "Clerf" 
+                                }
+				b_bastogne = {
+                                          german = "Bastenach"    
+                                          dutch = "Bastenaken"
+                                }
+				b_houffalize = {
+                                          german = "Hohenfels"
+                                }
 			}
 			c_chiny = {
 				color={ 146 146 146 }
@@ -2772,24 +2973,45 @@ e_hre = {
 			foa = "PALATINE_FOA"
 			short_name = yes
 			location_ruler_title = yes
+
+                        dutch = "Paltsgraafschap aan de Rijn"    
+                        german = "Pfalzgrafschaft bei Rhein"
+                        frankish = "Comté Palatinat du Rhin"
 			
 			c_pfalz = {
 				color={ 117 117 117 }
 				color2={ 255 255 255 }
+
+                                dutch = "Palts"    
+                                german = "Pfalz"
+                                frankish = "Palatinat" 
 				
 				b_kaiserslautern = {}
 				b_worms = {}
 				b_heidelberg = {}
-				b_hagenau = {}
+				b_hagenau = {
+                                          german = "Hohenfels"
+                                }
 				b_stahleck = {}
 				b_trifels = {}
-				b_speyer = {}
+				b_speyer = {
+                                          dutch = "Spiers"    
+                                          frankish = "Spire"   
+                                }
 			}
 			c_sponheim = {
 				color={ 41 181 141 }
 				color2={ 255 255 255 }
+
+                                #dutch = "Spanheim"    
+                                #german = "Spanheim"
+                                #frankish = "Spanheim" 
 				
-				b_sponheim = {}
+				b_sponheim = {
+                                           dutch = "Spanheim"    
+                                           german = "Spanheim"
+                                           frankish = "Spanheim"    
+                                }
 				b_alteburg = {}
 				b_rheinfels = {}
 				b_starkenburg = {}
@@ -2800,11 +3022,23 @@ e_hre = {
 			c_zweibrucken = {
 				color={ 41 181 141 }
 				color2={ 255 255 255 }
+
+                                #dutch = "Tweebruggen"    
+                                #german = "Zweibrücken"
+                                #frankish = "Deux Ponts"  
 				
-				b_zweibrucken = {}
+				b_zweibrucken = {
+                                           dutch = "Tweebruggen"    
+                                           german = "Zweibrücken"
+                                           frankish = "Deux Ponts" 
+                                }
 				b_veldenz = {}
 				b_hornbach = {}
-				b_vittlich = {}
+				b_vittlich = {
+                                           dutch = "Wittlich"    
+                                           german = "Wittlich"
+                                           frankish = "Wittlich"   
+                                }
 				b_lemberg = {}
 				b_sclossveldenz = {}
 			}
@@ -2813,29 +3047,58 @@ e_hre = {
 			color={ 255 166 0 }
 			color2={ 255 166 0 }
 			
-			capital = 127 #Lorraine		
+			capital = 127 #Lorraine	
+
+                        dutch = "Lorreinen"    
+                        german = "Lothringen"
+                        frankish = "Lorraine"	
 			
 			c_metz = {
 				color={ 114 114 114 }
 				color2={ 255 255 255 }
 				
 				b_metz = {}
-				b_rixingen = {}
+				b_rixingen = {
+                                           german = "Rixingen"    
+                                           frankish = "Réchicourt"
+                                           dutch = "Rixingen"
+                                }
 				b_saintjulien = {}
-				b_remilly = {}
-				b_bouzonville = {}
-				b_ramersvillers = {}
-				b_baccarat = {}
+				b_remilly = {
+                                           german = "Remelach"    
+                                }
+				b_bouzonville = {
+                                           german = "Busendorf"   
+                                }
+				b_ramersvillers = {
+                                           frankish = "Rambersvillers"
+                                }
+				b_baccarat = {
+                                           german = "Burgambach"
+                                }
 				b_hingsingen = {}
 			}
 			c_saarbrucken = {
 				color={ 41 181 141 }
 				color2={ 255 255 255 }
+
+                                german = "Saarbrücken"    
+                                frankish = "Sarrebruck"
+                                dutch = "Saarbruggen"
 				
-				b_saarbrucken = {}
-				b_hohnburg = {}
+				b_saarbrucken = {
+                                            german = "Saarbrücken"    
+                                            frankish = "Sarrebruck"
+                                            dutch = "Saarbruggen"
+                                }
+				b_hohnburg = {
+                                            german = "Hohenburg"    
+                                            frankish = "Hohenbourg"
+                                }
 				b_neukirchen = {}
-				b_homburg = {}
+				b_homburg = {
+                                            frankish = "Hombourg"
+                                }
 			}
 			c_saintois = {
 				color={ 105 105 105 }
@@ -2849,19 +3112,33 @@ e_hre = {
 				b_sorcystmartin = {}
 				b_ivios = {}
 				b_ornois = {}
-				b_saulnois = {}
+				b_saulnois = {
+                                             german = "Salzgau"  
+                                }
 				b_dompaire = {}
 			}
 			c_lorraine = {
 				color={ 108 108 108 }
 				color2={ 255 255 255 }
 				
-				b_nancy = {}
-				b_blamont = {}
-				b_sarrebourg = {}
-				b_mirecourt = {}
-				b_epinal = {}
-				b_luneville = {}
+				b_nancy = {
+                                             german = "Nanzig"
+                                }
+				b_blamont = {
+                                             german = "Blankenberg"
+                                }
+				b_sarrebourg = {
+                                             german = "Saarburg"
+                                }
+				b_mirecourt = {
+                                             german = "Meierhofen"
+                                }
+				b_epinal = {
+                                             german = "Spinal"
+                                }
+				b_luneville = {
+                                             german = "Lünstadt"
+                                }
 				b_charpeigne = {}
 				b_mortagnedevosges = {}
 				b_saintavoid = {}
@@ -2876,17 +3153,25 @@ e_hre = {
 			c_verdun = {
 				color={ 111 111 111 }
 				color2={ 255 255 255 }
+
+                                german = "Wirtten"
 				
-				b_verdun = {}
+				b_verdun = {
+                                             german = "Wirtten"
+                                }
 				b_saintmihel = {}
 				b_longuyon = {}
-				b_doaumont = {}
+				b_doaumont = {
+                                             frankish = "Douaumont"
+                                }
 			}
 			c_bar = {
 				color={ 111 111 111 }
 				color2={ 255 255 255 }
 				
-				b_commercy = {}
+				b_commercy = {
+                                             german = "Commarchen"
+                                }
 				b_ligneybarroias = {}
 				b_barleduc = {}
 				b_vaucouleurs = {}
@@ -2896,10 +3181,16 @@ e_hre = {
 				color={ 111 111 111 }
 				color2={ 255 255 255 }
 				
-				b_pontamousson = {}
-				b_briey = {}
+				b_pontamousson = {
+                                             german = "Mussenbrück"
+                                }
+				b_briey = {
+                                             german = "Brieg"
+                                }
 				b_scaaarpone = {}
-				b_toul = {}
+				b_toul = {
+                                             german = "Tull"
+                                }
 			}
 		}
 		allow = {
@@ -2922,6 +3213,11 @@ e_hre = {
 		
 		catholic = 4000 # Crusade target weight
 		norse_pagan_reformed = 50 # Crusade target weight
+
+
+                dutch = "Neder Lotharingen"    
+                german = "Niederlothringen"
+                frankish = "Basse Lotharingie"
 		
 		d_brabant = {
 			color={ 38 38 38 }
@@ -2934,48 +3230,133 @@ e_hre = {
 			c_brabant = {
 				color={ 153 153 153 }
 				color2={ 255 255 255 }
+
+                                german = "Löwen"    
+                                frankish = "Louvain"
+                                dutch = "Leuven"
 				
-				b_leuven = {}
+				b_leuven = {
+                                             german = "Löwen"    
+                                             frankish = "Louvain"
+                                             dutch = "Leuven"
+                                }
 				b_tienen = {}
 				b_horstcastle = {}
 				b_diestcity = {}
-				b_bonletz = {}
-				b_dongelberg = {}
-				b_gembloux = {}
-				b_nivelles = {}
-				b_chatelet = {}
-				b_aarschot = {}
-				b_herstal = {}
+				b_bonletz = {
+                                             german = "Bonlez"    
+                                             frankish = "Bonlez"
+                                             dutch = "Bonlez"
+                                }
+				b_dongelberg = {
+                                             german = "Dongelberg"    
+                                             frankish = "Dongelberg"
+                                             dutch = "Dongelberg"
+                                }
+				b_gembloux = {
+                                             dutch = "Gembloers"
+                                }
+				b_nivelles = {
+                                             dutch = "Nijvel"
+                                }
+				b_chatelet = {
+                                             frankish = "Châtelet"
+                                }
+				b_aarschot = {
+                                             german = "Aarschot"    
+                                             frankish = "Aerschot"
+                                             dutch = "Aarschot"
+                                }
+				b_herstal = {
+                                             german = "Herstal"    
+                                             frankish = "Héristal"
+                                             dutch = "Herstal"
+                                }
 			}
 			c_brussel = {
 				color={ 153 159 153 }
 				color2={ 255 255 255 }
+
+                                #german = "Brüssel"    
+                                #frankish = "Bruxelles"
+                                #dutch = "Broekzele"
 				
-				b_coudeberg = {}
-				b_affligem = {}
+				b_coudeberg = {
+                                             german = "Coudenberg"    
+                                             frankish = "Coudenberg"
+                                             dutch = "Coudenberg"
+                                }
+				b_affligem = {
+                                             frankish = "Afflighem"
+                                }
 				b_grimbergen = {}
-				b_mechelen = {}
+				b_mechelen = {
+                                             german = "Mecheln"    
+                                             frankish = "Malines"
+                                             dutch = "Mechelen"
+                                }
 				b_beersel = {}
-				b_gassbeck = {}
-				b_bouchout = {}
+				b_gassbeck = {
+                                             german = "Gaasbeek"    
+                                             frankish = "Gaasbeek"
+                                             dutch = "Gaasbeek"
+                                }
+				b_bouchout = {
+                                             dutch = "Boechout"
+                                }
 				b_nedelaar = {}
-				b_brussel = {}
-				b_vilvoodre = {}
+				b_brussel = {
+                                             german = "Brüssel"    
+                                             frankish = "Bruxelles"
+                                             dutch = "Brussel"
+                                }
+				b_vilvoodre = {
+                                             german = "Vilvoorde"    
+                                             frankish = "Vilvorde"
+                                             dutch = "Vilvoorde"
+                                }
 				b_overijse = {}
-				b_tervuren = {}
+				b_tervuren = {
+                                             german = "Tervuren"    
+                                             frankish = "Tervueren"
+                                             dutch = "Tervuren"
+                                }
 			}
 			c_breda = {
 				color={ 150 150 150 }
 				color2={ 255 255 255 }
+
+                                german = "Antorf"    
+                                frankish = "Anvers"
+                                dutch = "Antwerpen"
 				
-				b_breda = {}
-				b_lier = {}
-				b_turnhout = {}
-				b_antwerpen = {}
-				b_tilburg = {}
-				b_bergenopzoom = {}
+				b_breda = {
+                                             frankish = "Bréda"
+                                }
+				b_lier = {
+                                             frankish = "Lierre"
+                                }
+				b_turnhout = {
+                                             frankish = "Turholt" # old Frankish
+                                             #frankish = "Thourout" # French
+                                }
+				b_antwerpen = {
+                                             german = "Antorf"    
+                                             frankish = "Anvers"
+                                             dutch = "Antwerpen"
+                                }
+				b_tilburg = {
+                                             frankish = "Tilbourg"
+                                }
+				b_bergenopzoom = {
+                                             frankish = "Berg-op-Zoom"
+                                }
 				b_ravenstein = {}
-				b_horn = {}
+				b_horn = {
+                                             german = "Hoorn"
+                                             frankish = "Hornes"
+                                             dutch = "Horne"
+                                }
 				b_eindhoven = {}
 				b_hoogstraten = {}
 			}
@@ -2986,34 +3367,73 @@ e_hre = {
 			
 			capital = 116 #Liege
 			culture = frankish
+
+                        german = "Lüttich"    
+                        dutch = "Luik"    
+                        frankish = "Liége"
 			
 			c_liege = {
 				color={ 144 144 144 }
 				color2={ 255 255 255 }
+
+                                german = "Lüttich"    
+                                dutch = "Luik"    
+                                frankish = "Liége"
 				
-				b_liege = {}
-				b_huy = {}
+				b_liege = {
+                                             german = "Lüttich"    
+                                             dutch = "Luik"    
+                                             frankish = "Liége"
+                                }
+				b_huy = {
+                                             dutch = "Hoei"
+                                }
 				b_fexhe = {}
-				b_aulne = {}
-				b_bouillon = {}
-				b_stavelot = {}
-				b_malmedy = {}
+				b_aulne = {
+                                             german = "Alna"    
+                                }
+				b_bouillon = {
+                                             dutch = "Bullioen"
+                                             german = "Beulen"
+                                }
+				b_stavelot = {
+                                             german = "Stablo"
+                                }
+				b_malmedy = {
+                                             german = "Malmünde" 
+                                }
 			}
 			c_loon = {
 				color={ 147 146 154 }
 				color2={ 255 255 255 }
+
+                                #frankish = "Looz"
 				
-				b_loon = {}
+				b_loon = {
+                                             #frankish = "Looz"
+                                }
 				b_hasselt = {}
 				b_heinsberg = {}
-				b_hesbaie = {}
-				b_tongeren = {}
+		 		b_hesbaie = {
+                                             dutch = "Haspengouw"
+                                             german = "Hespengau"
+                                }
+				b_tongeren = {
+                                             frankish = "Tongres"
+                                             german = "Tongern"  
+                                }
 			}
 			c_namur = {
 				color={ 154 152 153 }
 				color2={ 255 255 255 }
+
+                                #german = "Namür"    
+                                #dutch = "Namen"    
 				
-				b_namur = {}
+				b_namur = {
+                                             #german = "Namür"    
+                                             #dutch = "Namen"  
+                                }
 				b_andenne = {}
 				b_dinant = {}
 			}
@@ -3022,40 +3442,82 @@ e_hre = {
 			color={ 85 3 196 }
 			color2={ 240 204 10 }
 			
-			name_tier = count		
-			
+                        capital = 94 #Mons/Bergen
+                        culture = dutch
+                        name_tier = count                    
+                        german = "Hennegau"    
+                        dutch = "Henegouwen"
+
 			c_hainaut = {
 				color={ 151 152 153 }
 				color2={ 255 255 255 }
+
+                                dutch = "Bergen"
+                                german = "Bergen"  
 				
-				b_hallen = {}
-				b_soignies = {}
-				b_lessines = {}
-				b_mons = {}
-				b_enghien = {}
-				b_ath = {}
+				b_hallen = {
+                                             frankish = "Hal"    
+                                             dutch = "Halle"
+                                }
+				b_soignies = {
+                                             dutch = "Zinnik"
+                                             german = "Söglingen"
+                                }
+				b_lessines = {
+                                             dutch = "Lessen"
+                                }
+				b_mons = {
+                                             dutch = "Bergen"
+                                             german = "Bergen"  
+                                }
+				b_enghien = {
+                                             dutch = "Edingen"
+                                }
+				b_ath = {
+                                             dutch = "Aat"
+                                }
 			}
 			c_valenciennes = {
 				color={ 151 152 153 }
 				color2={ 255 255 255 }
+
+                                #dutch = "Valencijn"
 				
-				b_valenciennes = {}
-				b_cihmay = {}
-				b_avesnes = {}
-				b_maubeuge = {}
+				b_valenciennes = {
+                                             dutch = "Valencijn"
+                                }
+	 			b_cihmay = {
+                                             frankish = "Chimay"  
+                                }
+				b_avesnes = {
+                                             dutch = "Avenne"
+                                }
+				b_maubeuge = {
+                                             dutch = "Mabuse"
+                                }
 				b_beaumonte = {}
-				b_charleroi = {}
+				b_charleroi = {
+                                             frankish = "Charnoy" 
+                                }
 			}
 			c_cambrai = {
 				color={ 151 152 153 }
 				color2={ 255 255 255 }
+
+                                #dutch = "Kamerijk"
+                                #german = "Kamerich"
 				
 				b_arleux = {}
-				b_cambrai = {}
+				b_cambrai = {
+                                             dutch = "Kamerijk"
+                                             german = "Kamerich"
+                                }
 				b_saintspouplet = {}
 				b_crevecoeursurlescaut = {}
 				b_esnes = {}
-				b_dachin = {}
+				b_dachin = {
+                                             frankish = "Anchin" 
+                                }
 				b_lecateau = {}
 			}
 		}
@@ -3064,32 +3526,59 @@ e_hre = {
 			color2={ 240 51 0 }
 			
 			culture = dutch
+                        frankish = "Limbourg"   
 			
 			c_limburg = {
 				color={ 149 150 153 }
 				color2={ 255 255 255 }
+
+                                #frankish = "Limbourg"   
 				
-				b_limburg = {}
-				b_valkenburg = {}
-				b_maastricht = {}
-				b_wassenberg = {}
-				b_eupen = {}
+				b_limburg = {
+                                             frankish = "Limbourg"  
+                                }
+				b_valkenburg = {
+                                             german = "Falkenburg"    
+                                             frankish = "Fauquemont"  
+                                }
+				b_maastricht = {
+                                             german = "Maestricht"    
+                                             frankish = "Maestricht"    
+                                }
+				b_wassenberg = {
+                                             frankish = "Wassemberg"  
+                                }
+				b_eupen = {
+                                             frankish = "Néau"    
+                                }
 			}
 			c_aachen = {
 				color={ 138 138 138 }
 				color2={ 255 255 255 }
+
+                                #dutch = "Aken"    
+                                #frankish = "Aix-la-Chapelle"    
 				
-				b_burtscheid = {}
-				b_aachen = {}
+				b_burtscheid = {
+                                             #frankish = "Borcette" 
+                                }
+				b_aachen = {
+                                             dutch = "Aken"    
+                                             frankish = "Aix-la-Chapelle"    
+                                }
 			}
 			c_vianden = {
 				color={ 138 138 138 }
 				color2={ 255 255 255 }
 				
 				b_vianden = {}
-				b_prum = {}
+				b_prum = {
+                                             german = "Prüm" 
+                                }
 				b_ham = {}
-				b_duren = {}
+				b_duren = {
+                                             german = "Düren"  
+                                }
 			}
 		}
 		allow = {
@@ -3704,18 +4193,26 @@ e_hre = {
 			color2={ 255 255 255 }
 			
 			capital = 119 #Köln
-			culture = german
-			
-			title = "FE"
-			foa = "FE_FOA"
-			title_prefix = "FE_OF"
+                        culture = german
+                        dignity = 10            
+                        title = "FE"
+                        foa = "FE_FOA"
+                        title_prefix = "FE_OF"            
+                        dutch = "Keulen"
+                        frankish = "Cologne"
 			
 			c_koln = {
 				color={ 141 141 141 }
 				color2={ 255 255 255 }
+
+                                dutch = "Keulen"
+                                frankish = "Cologne"
 				
 				b_koln = {
-					holy_site = catholic}
+                                             dutch = "Keulen"
+                                             frankish = "Cologne"    
+					     holy_site = catholic
+                                }
 				b_bonn = {}
 				b_dietz = {}
 				b_saffenburg = {}
@@ -3737,36 +4234,85 @@ e_hre = {
 			color={ 240 209 56 }
 			color2={ 255 255 255 }
 			
-			capital = 89 #Kleves
+                        capital = 1063 #Berg
+                        culture = dutch
+                        frankish = "Juliers-Cléves-Berg"
+                        dutch = "Gulik-Kleef-Berg"
 			
 			c_julich = {
 				color={ 138 138 138 }
 				color2={ 255 255 255 }
+
+                                dutch = "Gulik"
+                                frankish = "Juliers"
 				
-				b_julich = {}
-				b_nideggen = {}
-				b_schleiden = {}
-				b_kronenburg = {}
-				b_monschau = {}
-				b_aldenhoven = {}
-				b_zulpich = {}
+				b_julich = {
+                                             dutch = "Gulik"
+                                             frankish = "Juliers"
+                                }
+				b_nideggen = {
+                                             dutch = "Nidecken"
+                                }
+				b_schleiden = {
+                                             dutch = "Schleiden"
+                                }
+				b_kronenburg = {
+                                             dutch = "Kronenburg"
+                                }
+				b_monschau = {
+                                             frankish = "Montjoie"
+                                }
+				b_aldenhoven = {
+                                             dutch = "Aldenhoven"
+                                }
+				b_zulpich = {
+                                             dutch = "Zulpik"
+                                }
 			}
 			c_kleve = {
 				color={ 132 132 132 }
 				color2={ 255 255 255 }
+
+                                dutch = "Kleef"
+                                frankish = "Cléves"
 				
-				b_kleve = {}
-				b_moers = {}
-				b_krinvelde = {}
-				b_duisburg = {}
-				b_schwanenburg = {}
-				b_goch = {}
-				b_rees = {}
-				b_anholt = {}
-				b_Xanten = {}
-				b_wesel = {}
-				b_emmerich = {}
-				b_isselburg = {}
+				b_kleve = {
+                                             dutch = "Kleef"
+                                             frankish = "Cléves"
+                                }
+				b_moers = {
+                                             dutch = "Meurs"  
+                                }
+				b_krinvelde = {
+                                             dutch = "Krinvelde"   
+                                }
+				b_duisburg = {
+                                             dutch = "Duisburg"    
+                                }
+				b_schwanenburg = {
+                                             dutch = "Zwanenburcht"  
+                                }
+				b_goch = {
+                                             dutch = "Gogh"
+                                }
+				b_rees = {
+                                             dutch = "Rees"
+                                }
+				b_anholt = {
+                                             dutch = "Anholt"
+                                }
+				b_xanten = {
+                                             dutch = "Santen"
+                                }
+				b_wesel = {
+                                             dutch = "Wezel"
+                                }
+				b_emmerich = {
+                                             dutch = "Emmerik"
+                                }
+				b_isselburg = {
+                                             dutch = "Yselberge"
+                                }
 			}
 			c_mark = {
 				color={ 141 161 141 }
@@ -4833,32 +5379,71 @@ e_hre = {
 			color2={ 200 106 0 }
 			
 			capital = 134 #Sundgau
+                        culture = german            
+                        german = "Elsass"    
+                        frankish = "Alsace"
+                        dutch = "Elzas"
 			
 			c_nordgau = {
 				color={ 96 96 96 }
 				color2={ 255 255 255 }
+
+                                title = "LANDGRAVE"
+                                title_female = "LANDGRAVINE"
+                                foa = "LANDGRAVE_FOA"
+                                title_prefix = "LANDGRAVE_OF"
+                                dutch = "Noordgouw"
 				
-				b_egisheim = {}
-				b_strassburg = {}
-				b_lauterburg = {}
-				b_selz = {}
+				b_egisheim = {
+                                             german = "Egisheim"
+                                             frankish = "Eguisheim"  
+                                }
+				b_strassburg = {
+                                             german = "Straßburg"    
+                                             frankish = "Strasbourg"
+                                             dutch = "Straatsburg"
+                                }
+				b_lauterburg = {
+                                             german = "Lauterburg"    
+                                             frankish = "Lauterbourg"
+                                }
+				b_selz = {
+                                             german = "Selz"    
+                                             frankish = "Seltz"
+                                }
 				b_erstein = {}
 				b_molsheim = {}
 				b_brumath = {}
-				b_schlettstadt = {}
+				b_schlettstadt = {
+                                             german = "Schlettstadt"    
+                                             frankish = "Sélestat"   
+                                }
 			}
 			c_sundgau = {
 				color={ 93 93 93 }
 				color2={ 255 255 255 }
+
+                                title = "LANDGRAVE"
+                                title_female = "LANDGRAVINE"
+                                foa = "LANDGRAVE_FOA"
+                                title_prefix = "LANDGRAVE_OF"                
+                                dutch = "Sundgouw"
 				
 				b_ensisheim = {}
 				b_kolmar = {}
 				b_murbach = {}
-				b_mulhouse = {}
+				b_mulhouse = {
+                                             german = "Mülhausen"    
+                                             frankish = "Mulhouse"
+                                             dutch = "Mulhuizen"
+                                }
 				b_landser = {}
 				b_thann = {}
 				b_altkirch = {}
-				b_ferette = {}
+				b_ferette = {
+                                             german = "Pfirt"    
+                                             frankish = "Ferrette"   
+                                }
 			}
 			allow = {
 				has_landed_title = c_sundgau
@@ -5811,33 +6396,6 @@ e_byzantium = {
 				shiite = 100 # Crusade target weight
 				
 				top_de_jure_capital = yes
-
-					norwegian = "Miklagarðr"
-					danish = "Miklagarðr"
-					swedish = "Miklagarðr"
-					anglonorse = "Miklagarðr"
-					gothic = "Miklagarðr"
-					norse = "Miklagarðr"
-					norsegaelic = "Miklagarðr"
-					icelandic = "Miklagarðr"
-					saxon = "Miklagarðr"
-					bohemian = "Tsargrad"
-					moravian= "Tsargrad"
-					pommeranian= "Tsargrad"
-					polish= "Tsargrad"
-					serbian= "Tsargrad"
-					croatian= "Tsargrad"   
-					bosnian= "Tsargrad"
-					karantanci= "Tsargrad"
-					russian= "Tsargrad"
-					bulgarian= "Tsargrad"  
-					kurdish = "al-Qustantiniyah"
-					bedouin_arabic = "al-Qustantiniyah"
-					maghreb_arabic = "al-Qustantiniyah"
-					levantine_arabic = "al-Qustantiniyah"
-					egyptian_arabic = "al-Qustantiniyah"
-					andalusian_arabic = "al-Qustantiniyah"
-					turkish = "Kostantiniyye"    
 				
 				b_constantinople = {
 					norwegian = "Miklagarðr"
@@ -5854,18 +6412,18 @@ e_byzantium = {
 					pommeranian= "Tsargrad"
 					polish= "Tsargrad"
 					serbian= "Tsargrad"
-					croatian= "Tsargrad"   
+					croatian= "Tsargrad"
 					bosnian= "Tsargrad"
 					karantanci= "Tsargrad"
 					russian= "Tsargrad"
-					bulgarian= "Tsargrad"  
+					bulgarian= "Tsargrad"
 					kurdish = "al-Qustantiniyah"
 					bedouin_arabic = "al-Qustantiniyah"
 					maghreb_arabic = "al-Qustantiniyah"
 					levantine_arabic = "al-Qustantiniyah"
 					egyptian_arabic = "al-Qustantiniyah"
 					andalusian_arabic = "al-Qustantiniyah"
-					turkish = "Kostantiniyye"    
+					turkish = "Kostantiniyye"
 				}
 				b_hagiasophia = {
 					pentarchy = yes
@@ -5935,18 +6493,6 @@ e_byzantium = {
 			color2={ 255 255 20 }
 			
 			capital = 490 # Thessalonike
-
-				polish = "Solun"
-				bohemian = "Solun"
-				pommeranian = "Solun"
-				russian = "Solun"
-				moravian = "Solun"
-				croatian = "Solun"
-				bosnian = "Solun"
-				serbian = "Solun"
-				karantanci = "Solun"
-				bulgarian = "Solun"				
-				turkish = "Salonika"
 			
 			c_chalkidike = {
 				color={ 192 22 133 }
@@ -5961,33 +6507,15 @@ e_byzantium = {
 			c_thessalonike = {
 				color={ 195 25 136 }
 				color2={ 255 255 20 }
-
-				polish = "Solun"
-				bohemian = "Solun"
-				pommeranian = "Solun"
-				russian = "Solun"
-				moravian = "Solun"
-				croatian = "Solun"
-				bosnian = "Solun"
-				serbian = "Solun"
-				karantanci = "Solun"
-				bulgarian = "Solun"				
+				
 				turkish = "Salonika"
 				
 				b_thessaloniki = {
 					turkish = "Salonika"
-				        polish = "Solun"
-				        bohemian = "Solun"
-				        pommeranian = "Solun"
-				        russian = "Solun"
-			             	moravian = "Solun"
-				        croatian = "Solun"
-			           	bosnian = "Solun"
-				        serbian = "Solun"
-				        karantanci = "Solun"
-				        bulgarian = "Solun"
 				}
 				b_thesedessa = {holy_site = hellenic_pagan}
+				b_voden = {}
+				b_hlerin = {}
 				b_cemren = {}
 				b_veria = {}
 				b_elasson = {}
@@ -6007,6 +6535,8 @@ e_byzantium = {
 				b_damasis = {}
 				b_kastri = {}
 				b_pharsalos = {}
+				b_trikkala = {}
+				b_stagi = {}
 			}
 		}
 	} # END k_byzantium
@@ -6758,7 +7288,7 @@ e_byzantium = {
 				color={ 192 81 124 }
 				color2={ 255 255 20 }
 				
-				#turkish = "Alasehir"  
+				#turkish = "Alasehir"
 				
 				b_philadelphia = {
 					turkish = "Alasehir"
@@ -6981,21 +7511,10 @@ e_byzantium = {
 			}
 		}
 		d_cherson = {
-			color={ 188 91 154 }
+			color={ 225 187 34 }
 			color2={ 255 255 20 }
 			
 			capital = 560 # Cherson
-
-				polish = "Korsun"
-				bohemian = "Korsun"
-				pommeranian = "Korsun"
-				russian = "Korsun"
-				moravian = "Korsun"
-				croatian = "Korsun"
-				bosnian = "Korsun"
-				serbian = "Korsun"
-				karantanci = "Korsun"
-				bulgarian = "Korsun"	
 			
 			c_theodosia = {
 				color={ 190 93 156 }
@@ -7035,19 +7554,6 @@ e_byzantium = {
 				b_charax = {}
 				b_sevastoupolis = {}
 				b_kalamita = {}
-			}
-			c_tmutarakan = {
-				color={ 196 99 162 }
-				color2={ 255 255 20 }
-				
-				b_tmutarakan = {}
-				b_mapa = {}
-				b_taman = {}
-				b_tumnev = {}
-				b_jevlisia = {}
-				b_sujukqale = {}
-				b_bata = {}
-				b_tsemes = {}
 			}
 		}
 		d_armeniacon = {
@@ -7359,7 +7865,7 @@ e_byzantium = {
 				b_samokov = {}
 				b_samundzhievo = {}
 			}
-			c_dorostotum = { 
+			c_dorostotum = {
 				color={ 162 47 205 }
 				color2={ 255 255 255 }
 
@@ -7441,7 +7947,7 @@ e_byzantium = {
 				}
 				b_tryavna = {}
 				b_kteina = {}
-			}							 
+			}							
 		}
 		d_karvuna = {
 			color={ 63 127 98 }
@@ -7583,7 +8089,7 @@ e_byzantium = {
 					venetian = "Lycostomo"
 				}
 
-			}						 
+			}						
 		}
 		d_adrianopolis = {
 			color={ 146 0 5 }
@@ -7593,19 +8099,27 @@ e_byzantium = {
 			culture = greek
 			# venetian = "Adrianupleos et Didimotichi"
 
+			bedouin_arabic = "Maqaduniya"
+			maghreb_arabic = "Maqaduniya"
+			levantine_arabic = "Maqaduniya"
+			egyptian_arabic = "Maqaduniya"
+			andalusian_arabic = "Maqaduniya"
+			sicilian_arabic = "Maqaduniya"
+			berber = "Maqaduniya"
+			tuareg = "Maqaduniya"
+			greek = "Makedonía"
 			arberian = "Makedonía"
 			georgian = "Makedonía"
-			alan = "Makedonía"
 			armenian = "Makedonía"
-			greek = "Makedonía"
+			alan = "Makedonía"
 			hungarian = "Philippopolis"
-			norweigan = "Philippopolis"
+			norwegian = "Philippopolis"
 			gothic = "Philippopolis"
 			swedish = "Philippopolis"
 			danish = "Philippopolis"
-			baque = "Philippopolis"
+			basque = "Philippopolis"
 			aragonese = "Philippopolis"
-			castillian = "Philippopolis"
+			castillan = "Philippopolis"
 			catalan = "Philippopolis"
 			leonese = "Philippopolis"
 			german = "Philippopolis"
@@ -7632,13 +8146,13 @@ e_byzantium = {
 				
 
 				hungarian = "Adrianopolis"
-				norweigan = "Adrianopolis"
+				norwegian = "Adrianopolis"
 				gothic = "Adrianopolis"
 				swedish = "Adrianopolis"
 				danish = "Adrianopolis"
-				baque = "Adrianopolis"
+				basque = "Adrianopolis"
 				aragonese = "Adrianopolis"
-				castillian = "Adrianopolis"
+				castillan = "Adrianopolis"
 				catalan = "Adrianopolis"
 				leonese = "Adrianopolis"
 				german = "Adrianopolis"
@@ -7668,13 +8182,13 @@ e_byzantium = {
 				
 				b_adrianopolis = {
 					hungarian = "Adrianopolis"
-					norweigan = "Adrianopolis"
+					norwegian = "Adrianopolis"
 					gothic = "Adrianopolis"
 					swedish = "Adrianopolis"
 					danish = "Adrianopolis"
-					baque = "Adrianopolis"
+					basque = "Adrianopolis"
 					aragonese = "Adrianopolis"
-					castillian = "Adrianopolis"
+					castillan = "Adrianopolis"
 					catalan = "Adrianopolis"
 					leonese = "Adrianopolis"
 					german = "Adrianopolis"
@@ -7723,13 +8237,13 @@ e_byzantium = {
 				color2={ 255 255 20 }
 
 				hungarian = "Philippopolis"
-				norweigan = "Philippopolis"
+				norwegian = "Philippopolis"
 				gothic = "Philippopolis"
 				swedish = "Philippopolis"
 				danish = "Philippopolis"
-				baque = "Philippopolis"
+				basque = "Philippopolis"
 				aragonese = "Philippopolis"
-				castillian = "Philippopolis"
+				castillan = "Philippopolis"
 				catalan = "Philippopolis"
 				leonese = "Philippopolis"
 				german = "Philippopolis"
@@ -7766,13 +8280,13 @@ e_byzantium = {
 				}
 				b_plovdiv = {
 					hungarian = "Philippopolis"
-					norweigan = "Philippopolis"
+					norwegian = "Philippopolis"
 					gothic = "Philippopolis"
 					swedish = "Philippopolis"
 					danish = "Philippopolis"
-					baque = "Philippopolis"
+					basque = "Philippopolis"
 					aragonese = "Philippopolis"
-					castillian = "Philippopolis"
+					castillan = "Philippopolis"
 					catalan = "Philippopolis"
 					leonese = "Philippopolis"
 					german = "Philippopolis"
@@ -8371,12 +8885,12 @@ e_byzantium = {
 			color={ 168 135 57 }
 			color2={ 255 255 255 }
 
-			greek = "Rascia"
-			arberian = "Rascia"
+			greek = "Moesia Prima"
+			arberian = "Moesia Prima"
 			roman = "Moesia Prima"
-			alan = "Rascia"
-			georgian = "Rascia"
-			armenian = "Rascia"
+			alan = "Moesia Prima"
+			georgian = "Moesia Prima"
+			armenian = "Moesia Prima"
 			
 			c_rashka = {
 				color={ 172 139 61 }
@@ -8704,7 +9218,7 @@ e_byzantium = {
 					georgian = "Skoutarion"
 					alan = "Skoutarion"
 					roman = "Skodra"
-					arberian = "Shkodër"  
+					arberian = "Shkodër"
 					turkish = "Iskodra"
 				}
 				b_zabljak_crnojevica = {}
@@ -8724,7 +9238,7 @@ e_byzantium = {
 					armenian = "Ketígni"
 					georgian = "Ketígni"
 					alan = "Ketígni"
-					arberian = "Cetince"  
+					arberian = "Cetince"
 				}
 				b_drivast = {
 					italian = "Drivasto"
@@ -8743,7 +9257,7 @@ e_byzantium = {
 					georgian = "Drivasthós"
 					alan = "Drivasthós"
 					roman = "Drivastum"
-					arberian = "Drisht"  
+					arberian = "Drisht"
 				}
 				b_lezhe = {
 					italian = "Alessio"
@@ -8762,7 +9276,7 @@ e_byzantium = {
 					georgian = "Lissòs"
 					alan = "Lissòs"
 					roman = "Lissus"
-					arberian = "Lezhë"  
+					arberian = "Lezhë"
 					turkish = "Les"
 				}
 				b_dioclea = {
@@ -8774,7 +9288,7 @@ e_byzantium = {
 					alan = "Dioclea"
 				}
 				b_danj = {
-					arberian = "Dejës"  
+					arberian = "Dejës"
 				}
 			}
 			c_primorje = {
@@ -8794,11 +9308,11 @@ e_byzantium = {
 					langobardisch = "Càttaro"
 					venetian = "Càttaro"
 					roman = "Acruvium"
-					greek = "Askrivion" 
+					greek = "Askrivion"
 					armenian = "Askrivion"
 					georgian = "Askrivion"
-					alan = "Askrivion" 
-					arberian = "Askrivion"                                       
+					alan = "Askrivion"
+					arberian = "Askrivion"
 				}
 				b_bar = {
 					italian = "Antivari"
@@ -8932,7 +9446,7 @@ e_byzantium = {
 					arberian = "Terbunión"
 					armenian = "Terbunión"
 					georgian = "Terbunión"
-					alan = "Askrivion" 
+					alan = "Askrivion"
 				}
 				b_onogost = {
 					greek = "Anagastión"
@@ -9171,7 +9685,6 @@ e_byzantium = {
 		}
 	} # END k_ragusa
 } # END e_byzantium
-
 k_armenia = {
 	color={ 172 41 75 }
 	color2={ 255 255 255 }
@@ -10543,12 +11056,9 @@ e_hungary = {
 			color={ 110 89 20 }
 			color2={ 255 255 255 }
 
+
 			roman="Syrmia"
 			greek="Syrmia"
-			arberian="Syrmia"
-			alan="Syrmia"
-			armenian="Syrmia"
-			georgian="Syrmia"
 			moravian="Sriem"
 			german="Syrmien"
 			russian="Segedín"
@@ -10740,7 +11250,7 @@ e_hungary = {
 				
 				culture = bosnian
 				#greek = "Vrelobosna"
-				#arberian = "Vrelobosna"
+				#arbernian = "Vrelobosna"
 				#turkish = "Saraybosna"
 				
 				b_bobovac = {}
@@ -10763,7 +11273,7 @@ e_hungary = {
 				b_travnik = {
 					roman = "Herbosa"
 					greek = "Herbosa"
-					arberian = "Herbosa"
+					arbernian = "Herbosa"
 					armenian = "Herbosa"
 					georgian = "Herbosa"
 					alan = "Herbosa"
@@ -10781,7 +11291,7 @@ e_hungary = {
 				
 				b_jajce = {
 					greek = "Iaicia"
-					arberian = "Iaicia"
+					arbernian = "Iaicia"
 					armenian = "Iaicia"
 					georgian = "Iaicia"
 					alan = "Iaicia"
@@ -10816,7 +11326,7 @@ e_hungary = {
 					sicilian = "Cleuna"
 					roman = "Cleuna"
 					greek = "Cleuna"
-					arberian = "Cleuna"
+					arbernian = "Cleuna"
 					armenian = "Cleuna"
 					georgian = "Cleuna"
 					alan = "Cleuna"
@@ -10835,7 +11345,7 @@ e_hungary = {
 					sicilian = "Dumno"
 					roman = "Delminium"
 					greek = "Delminithós"
-					arberian = "Delminithós"
+					arbernian = "Delminithós"
 					armenian = "Delminithós"
 					georgian = "Delminithós"
 					alan = "Delminithós"
@@ -10862,7 +11372,7 @@ e_hungary = {
 					sicilian = "Sale"
 					roman = "Salines"
 					greek = "Salines"
-					arberian = "Salines"
+					arbernian = "Salines"
 					armenian = "Salines"
 					georgian = "Salines"
 					alan = "Salines"
@@ -10896,24 +11406,6 @@ e_hungary = {
 		d_dalmatia = {
 			color={ 69 66 128 }
 			color2={ 255 255 255 }
-
-					german = "Dalmatien"
-					italian = "Dalmazia"
-					venetian = "Dalmàssia"
-					ligurian = "Dalmazia"
-					central_italian = "Dalmazia"
-					southern_italian = "Dalmazia"
-					tuscan = "Dalmazia"
-					neapolitan = "Dalmazia"
-					corsican = "Dalmazia"
-					sardinian = "Dalmazia"
-					sicilian = "Dalmazia"
-					roman = "Dalmatia"
-					greek = "Dalmatias"
-					arberian = "Dalmatias"
-					armenian = "Dalmatias"
-					georgian = "Dalmatias"
-					alan = "Dalmatias"
 			
 			capital = 467 # Split(Cetina)
 			c_split = {
@@ -11176,16 +11668,6 @@ e_hungary = {
 				color={ 188 141 141 }
 				color2={ 255 255 255 }
 				
-				basque = "Jadres"
-				catlan = "Jadres"
-				aragonese = "Jadres"
-				castillian = "Jadres"
-				leonese = "Jadres"
-				gothic = "Jadres"
-				norwegian = "Jadres"
-				swedish = "Jadres"
-				danish = "Jadres"
-				english = "Jadres"
 				frankish = "Jadres"
 				arpitan = "Jadres"
 				norman = "Jadres"
@@ -11954,7 +12436,7 @@ e_hungary = {
 				color={ 170 61 61 }
 				color2={ 255 255 255 }
 
-				hungarian = "Líka"
+				hungarian = "Licca"
 				italian = "Licca"
 				venetian = "Licca"
 				ligurian = "Licca"
@@ -12029,25 +12511,15 @@ e_hungary = {
 		d_slavonia = {
 			color={ 184 137 137 }
 			color2={ 255 255 255 }
-
-
-				hungarian = "Szlavónia"
-				german = "Slawonien"
-				roman = "Pannonia"
-				greek = "Pannonia"
-				arberian = "Pannonia"
-				armenian = "Pannonia"
-				georgian = "Pannonia"
-				alan = "Pannonia"
 			
 			c_zagreb = {
 				color={ 189 141 141 }
 				color2={ 255 255 255 }
 
-				arberian = "Andautonia"
-				alan = "Andautonia"
-				armenian = "Andautonia"
-				georgian = "Andautonia"
+				arberian = "Verucia"
+				alan = "Verucia"
+				armenian = "Verucia"
+				georgian = "Verucia"
 				greek = "Andautonia"
 				roman = "Andautonia"
 				german = "Agram"
@@ -15388,16 +15860,7 @@ e_scandinavia = {
 			prussian = "Viipurii"
 			lettigallish = "Viipurii"                        
 			lithuanian = "Viipurii"
-			polish = "Korela"
-			bohemian = "Korela"
-			pommeranian = "Korela"
-			russian = "Korela"
-			moravian = "Korela"
-			croatian = "Korela"
-			bosnian = "Korela"
-			serbian = "Korela"
-			karantanci = "Korela"
-			bulgarian = "Korela"
+			russian = "Vyborg"
 			
 			c_viipuri = {
 				color={ 125 15 15 }
@@ -15738,31 +16201,10 @@ e_scandinavia = {
 			
 			capital = 411 # Vodi
 
-				polish = "Izhora"
-				bohemian = "Izhora"
-				pommeranian = "Izhora"
-				russian = "Izhora"
-				moravian = "Izhora"
-				croatian = "Izhora"
-				bosnian = "Izhora"
-				serbian = "Izhora"
-				karantanci = "Izhora"
-				bulgarian = "Izhora"	
 			
 			c_vodi = {
 				color={ 113 0 0 }
 				color2={ 255 255 255 }
-
-				polish = "Vod"
-				bohemian = "Vod"
-				pommeranian = "Vod"
-				russian = "Vod"
-				moravian = "Vod"
-				croatian = "Vod"
-				bosnian = "Vod"
-				serbian = "Vod"
-				karantanci = "Vod"
-				bulgarian = "Vod"	
 				
 				b_nyen = {
 				}
@@ -16227,93 +16669,34 @@ e_scandinavia = {
 }
 
 k_pomerania = {
-	color={ 136 89 151 }
-	color2={ 220 220 20 }
-	
-	culture = pommeranian
-	
-	capital = 262 #Lübeck
-	
-	catholic = 300 # Crusade target weight
-	slavic_pagan_reformed = 600 # Crusade target weight
-	norse_pagan_reformed = 200 # Crusade target weight
-	baltic_pagan_reformed = 150 # Crusade target weight
-	
-	saxon = "Winedaland"		
-	danish = "Vindarland"
-	swedish = "Vindarland"
-	norse = "Vindarland"
-	icelandic = "Vindarland"
-	norwegian = "Vindarland"
-	gothic = "Vindarland"
-	norsegaelic = "Vindarland"
-	anglonorse = "Vindarland" 
-
-	d_mecklemburg = {
-		color={ 78 49 36 }		
-		color2={ 255 255 255 }
-		
-		capital = 260 #mecklemburg
-
-		polish = "Meklemburgia"
-		pommeranian = "Veligrad"
-		bohemian = "Veligrad"
-		moravian = "Veligrad"
-		croatian = "Veligrad"
-		bosnian = "Veligrad"
-		serbian = "Veligrad"
-		karantanci = "Veligrad"
-		bulgarian = "Veligrad"
-		russian = "Veligrad"
-		maghreb_arabic = "Qal'at Nakon"                  
-		levantine_arabic = "Qal'at Nakon"
-		egyptian_arabic = "Qal'at Nakon"
-		andalusian_arabic = "Qal'at Nakon"
-		sicilian_arabic = "Qal'at Nakon"
-		bedouin_arabic = "Qal'at Nakon"
-		berber = "Qal'at Nakon"
-		tuareg = "Qal'at Nakon"
-		danish = "Mikelenburgh"
-		norse = "Mikelenborg"
-		icelandic = "Mikelenborg"
-		swedish = "Mikelenborg"
-		norwegian = "Mikelenborg"
-		gothic = "Mikelenborg"
-		norsegaelic = "Mikelenborg"
-		anglonorse = "Mikelenborg" 
-		
-		c_mecklemburg = {
-			color={ 207 207 207 }
-			color2={ 255 255 255 }
-
-			polish = "Meklemburgia"
-			pommeranian = "Veligrad"
-			bohemian = "Veligrad"
-			moravian = "Veligrad"
-			croatian = "Veligrad"
-			bosnian = "Veligrad"
-			serbian = "Veligrad"
-			karantanci = "Veligrad"
-			bulgarian = "Veligrad"
-			russian = "Veligrad"
-			maghreb_arabic = "Qal'at Nakon"                  
-			levantine_arabic = "Qal'at Nakon"
-			egyptian_arabic = "Qal'at Nakon"
-			andalusian_arabic = "Qal'at Nakon"
-			sicilian_arabic = "Qal'at Nakon"
-			bedouin_arabic = "Qal'at Nakon"
-			berber = "Qal'at Nakon"
-			tuareg = "Qal'at Nakon"
-			danish = "Mikelenburgh"
-			norse = "Mikelenborg"
-			icelandic = "Mikelenborg"
-			swedish = "Mikelenborg"
-			norwegian = "Mikelenborg"
-			gothic = "Mikelenborg"
-			norsegaelic = "Mikelenborg"
-			anglonorse = "Mikelenborg" 
+			color={ 136 89 151 }
+			color2={ 220 220 20 }
 			
-			b_mecklemburg = {
+			culture = pommeranian
+			
+			capital = 262 #Lübeck
+			
+			catholic = 300 # Crusade target weight
+			slavic_pagan_reformed = 600 # Crusade target weight
+			norse_pagan_reformed = 200 # Crusade target weight
+			baltic_pagan_reformed = 150 # Crusade target weight
+			
+			saxon = "Winedaland"		
+			danish = "Vindarland"
+			swedish = "Vindarland"
+			norse = "Vindarland"
+			icelandic = "Vindarland"
+			norwegian = "Vindarland"
+			gothic = "Vindarland"
+			norsegaelic = "Vindarland"
+			anglonorse = "Vindarland" 
+
+			d_mecklemburg = {
+				color={ 78 49 36 }		
+				color2={ 255 255 255 }
+				
+				capital = 260 #mecklemburg
+
 				polish = "Meklemburgia"
 				pommeranian = "Veligrad"
 				bohemian = "Veligrad"
@@ -16340,1095 +16723,1729 @@ k_pomerania = {
 				gothic = "Mikelenborg"
 				norsegaelic = "Mikelenborg"
 				anglonorse = "Mikelenborg" 
-			}
-			b_wismar = {
-				danish = "Wizmar"
-				swedish = "Wizmar"
-				norwegian = "Wizmar"
-				gothic = "Wizmar"
-				norsegaelic = "Wizmar"
-				anglonorse = "Wizmar"
-				polish = "Wyszomierz"
-				bohemian = "Visemêr"
-				pommeranian = "Visemêr"
-				moravian = "Visemêr"
-				croatian = "Visemêr"
-				bosnian = "Visemêr"
-				serbian = "Visemêr"
-				karantanci = "Visemêr"
-				bulgarian = "Visemêr"
-				russian = "Visemêr"
-			}			
-			b_lutzow = {
-			}			
-			b_grevesmuhlen = {
-				polish = "Gnewesmulne"
-				bohemian = "Gnewesmulne"
-				pommeranian = "Gnewesmulne"
-				moravian = "Gnewesmulne"
-				croatian = "Gnewesmulne"
-				bosnian = "Gnewesmulne"
-				serbian = "Gnewesmulne"
-				karantanci = "Gnewesmulne"
-				bulgarian = "Gnewesmulne"
-				russian = "Gnewesmulne"
-			} 
-			b_rerik = {
-				danish = "Reric"
-				swedish = "Reric"
-				norwegian = "Reric"
-				gothic = "Reric"
-				norsegaelic = "Reric"
-				anglonorse = "Reric"
-				polish = "Rerik"
-				bohemian = "Rerik"
-				pommeranian = "Rerik"
-				moravian = "Rerik"
-				croatian = "Rerik"
-				bosnian = "Rerik"
-				serbian = "Rerik"
-				karantanci = "Rerik"
-				bulgarian = "Rerik"
-				russian = "Rerik"
-			}  
-			b_sternberg = {
-				holy_site = slavic_pagan
-				holy_site = slavic_pagan_reformed
-				polish = "Radgosc"
-				bohemian = "Radgosc"
-				pommeranian = "Radgosc"
-				russian = "Radgosc"
-				moravian = "Radgosc"
-				croatian = "Radgosc"
-				bosnian = "Radgosc"
-				serbian = "Radgosc"
-				karantanci = "Radgosc"
-				bulgarian = "Radgosc"
-			} 
-			b_butzow = {
-				polish = "Budziszów"
-				bohemian = "Budziszów"
-				pommeranian = "Budziszów"
-				moravian = "Budziszów"
-				croatian = "Budziszów"
-				bosnian = "Budziszów"
-				serbian = "Budziszów"
-				karantanci = "Budziszów"
-				bulgarian = "Budziszów"
-				russian = "Budziszów"
-			}                             
-		}
-		c_rostock = {
-			color={ 204 204 204 }
-			color2={ 255 255 255 }
+				
+				c_mecklemburg = {
+					color={ 207 207 207 }
+					color2={ 255 255 255 }
 
-			polish = "Roztok"
-			bohemian = "Rozstoc"
-			pommeranian = "Rozstoc"
-			moravian = "Rozstoc"
-			croatian = "Rozstoc"
-			bosnian = "Rozstoc"
-			serbian = "Rozstoc"
-			karantanci = "Rozstoc"
-			bulgarian = "Rozstoc"
-			russian = "Rozstoc"
-			
-			b_rostock = {
-				polish = "Roztok"
-				bohemian = "Rozstoc"
-				pommeranian = "Rozstoc"
-				moravian = "Rozstoc"
-				croatian = "Rozstoc"
-				bosnian = "Rozstoc"
-				serbian = "Rozstoc"
-				karantanci = "Rozstoc"
-				bulgarian = "Rozstoc"
-				russian = "Rozstoc"
-			}
-			b_ribnitz = {
-				polish = "Rybnica"
-				bohemian = "Rybanis"
-				pommeranian = "Rybanis"
-				moravian = "Rybanis"
-				croatian = "Rybanis"
-				bosnian = "Rybanis"
-				serbian = "Rybanis"
-				karantanci = "Rybanis"
-				bulgarian = "Rybanis"
-				russian = "Rybanis"
-			}
-			b_dobran = {
-				polish = "Dobran"
-				bohemian = "Dobran"
-				pommeranian = "Dobran"
-				moravian = "Dobran"
-				croatian = "Dobran"
-				bosnian = "Dobran"
-				serbian = "Dobran"
-				karantanci = "Dobran"
-				bulgarian = "Dobran"
-				russian = "Dobran"
-			}						
-			b_malchin = {
-				polish = "Malkinia"
-				bohemian = "Malochyni"
-				pommeranian = "Malochyni"
-				moravian = "Malochyni"
-				croatian = "Malochyni"
-				bosnian = "Malochyni"
-				serbian = "Malochyni"
-				karantanci = "Malochyni"
-				bulgarian = "Malochyni"
-				russian = "Malochyni"
-			}
-			b_damgarten = {
-				polish = "Debogóra"
-				bohemian = "Damgor"
-				pommeranian = "Damgor"
-				moravian = "Damgor"
-				croatian = "Damgor"
-				bosnian = "Damgor"
-				serbian = "Damgor"
-				karantanci = "Damgor"
-				bulgarian = "Damgor"
-				russian = "Damgor"
-			}			
-			b_tribsees = {
-				polish = "Trzebiez"
-				bohemian = "Ctrebez"
-				pommeranian = "Ctrebez"
-				moravian = "Ctrebez"
-				croatian = "Ctrebez"
-				bosnian = "Ctrebez"
-				serbian = "Ctrebez"
-				karantanci = "Ctrebez"
-				bulgarian = "Ctrebez"
-				russian = "Ctrebez"
-			}	
-		}
-		c_schwerin = {
-			color={ 80 219 119 }
-			color2={ 255 255 255 }
+					polish = "Meklemburgia"
+					pommeranian = "Veligrad"
+					bohemian = "Veligrad"
+					moravian = "Veligrad"
+					croatian = "Veligrad"
+					bosnian = "Veligrad"
+					serbian = "Veligrad"
+					karantanci = "Veligrad"
+					bulgarian = "Veligrad"
+					russian = "Veligrad"
+					maghreb_arabic = "Qal'at Nakon"                  
+					levantine_arabic = "Qal'at Nakon"
+					egyptian_arabic = "Qal'at Nakon"
+					andalusian_arabic = "Qal'at Nakon"
+					sicilian_arabic = "Qal'at Nakon"
+					bedouin_arabic = "Qal'at Nakon"
+					berber = "Qal'at Nakon"
+					tuareg = "Qal'at Nakon"
+					danish = "Mikelenburgh"
+					norse = "Mikelenborg"
+					icelandic = "Mikelenborg"
+					swedish = "Mikelenborg"
+					norwegian = "Mikelenborg"
+					gothic = "Mikelenborg"
+					norsegaelic = "Mikelenborg"
+					anglonorse = "Mikelenborg" 
+					
+					b_mecklemburg = {
+						polish = "Meklemburgia"
+						pommeranian = "Veligrad"
+						bohemian = "Veligrad"
+						moravian = "Veligrad"
+						croatian = "Veligrad"
+						bosnian = "Veligrad"
+						serbian = "Veligrad"
+						karantanci = "Veligrad"
+						bulgarian = "Veligrad"
+						russian = "Veligrad"
+						maghreb_arabic = "Qal'at Nakon"                  
+						levantine_arabic = "Qal'at Nakon"
+						egyptian_arabic = "Qal'at Nakon"
+						andalusian_arabic = "Qal'at Nakon"
+						sicilian_arabic = "Qal'at Nakon"
+						bedouin_arabic = "Qal'at Nakon"
+						berber = "Qal'at Nakon"
+						tuareg = "Qal'at Nakon"
+						danish = "Mikelenburgh"
+						norse = "Mikelenborg"
+						icelandic = "Mikelenborg"
+						swedish = "Mikelenborg"
+						norwegian = "Mikelenborg"
+						gothic = "Mikelenborg"
+						norsegaelic = "Mikelenborg"
+						anglonorse = "Mikelenborg" 
+					}
+					b_wismar = {
+						danish = "Wizmar"
+						swedish = "Wizmar"
+						norwegian = "Wizmar"
+						gothic = "Wizmar"
+						norsegaelic = "Wizmar"
+						anglonorse = "Wizmar"
+						polish = "Wyszomierz"
+						bohemian = "Visemêr"
+						pommeranian = "Visemêr"
+						moravian = "Visemêr"
+						croatian = "Visemêr"
+						bosnian = "Visemêr"
+						serbian = "Visemêr"
+						karantanci = "Visemêr"
+						bulgarian = "Visemêr"
+						russian = "Visemêr"
+					}			
+					b_lutzow = {
+					}			
+					b_grevesmuhlen = {
+						polish = "Gnewesmulne"
+						bohemian = "Gnewesmulne"
+						pommeranian = "Gnewesmulne"
+						moravian = "Gnewesmulne"
+						croatian = "Gnewesmulne"
+						bosnian = "Gnewesmulne"
+						serbian = "Gnewesmulne"
+						karantanci = "Gnewesmulne"
+						bulgarian = "Gnewesmulne"
+						russian = "Gnewesmulne"
+					} 
+					b_rerik = {
+						danish = "Reric"
+						swedish = "Reric"
+						norwegian = "Reric"
+						gothic = "Reric"
+						norsegaelic = "Reric"
+						anglonorse = "Reric"
+						polish = "Rerik"
+						bohemian = "Rerik"
+						pommeranian = "Rerik"
+						moravian = "Rerik"
+						croatian = "Rerik"
+						bosnian = "Rerik"
+						serbian = "Rerik"
+						karantanci = "Rerik"
+						bulgarian = "Rerik"
+						russian = "Rerik"
+					}  
+					b_sternberg = {
+						holy_site = slavic_pagan
+						holy_site = slavic_pagan_reformed
+						polish = "Radgosc"
+						bohemian = "Radgosc"
+						pommeranian = "Radgosc"
+						russian = "Radgosc"
+						moravian = "Radgosc"
+						croatian = "Radgosc"
+						bosnian = "Radgosc"
+						serbian = "Radgosc"
+						karantanci = "Radgosc"
+						bulgarian = "Radgosc"
+					} 
+					b_butzow = {
+						polish = "Budziszów"
+						bohemian = "Budziszów"
+						pommeranian = "Budziszów"
+						moravian = "Budziszów"
+						croatian = "Budziszów"
+						bosnian = "Budziszów"
+						serbian = "Budziszów"
+						karantanci = "Budziszów"
+						bulgarian = "Budziszów"
+						russian = "Budziszów"
+					}                             
+				}
+				c_rostock = {
+					color={ 204 204 204 }
+					color2={ 255 255 255 }
 
-			#polish = "Zwierzyn"
-			#bohemian = "Zwierzyn"
-			#pommeranian = "Zuarin"
-			
-			b_parchim = {
-			}
-			b_malchow = {
-				polish = "Malechów"
-				bohemian = "Malechów"
-				pommeranian = "Malechów"
-				moravian = "Malechów"
-				croatian = "Malechów"
-				bosnian = "Malechów"
-				serbian = "Malechów"
-				karantanci = "Malechów"
-				bulgarian = "Malechów"
-				russian = "Malechów"
-			}
-			b_hagenow = {
-				polish = "Hachenowe"
-				bohemian = "Hachenowe"
-				pommeranian = "Hachenowe"
-				moravian = "Hachenowe"
-				croatian = "Hachenowe"
-				bosnian = "Hachenowe"
-				serbian = "Hachenowe"
-				karantanci = "Hachenowe"
-				bulgarian = "Hachenowe"
-				russian = "Hachenowe"
-			}
-			b_schwerin = {
-				polish = "Zwierzyn"
-				bohemian = "Zuarin"
-				pommeranian = "Zuarin"
-				moravian = "Zuarin"
-				croatian = "Zuarin"
-				bosnian = "Zuarin"
-				serbian = "Zuarin"
-				karantanci = "Zuarin"
-				bulgarian = "Zuarin"
-				russian = "Zuarin"
-			}
-			b_boizenburg = {
-				polish = "Bojgrad"
-				bohemian = "Bojgrad"
-				pommeranian = "Bojgrad"
-				moravian = "Bojgrad"
-				croatian = "Bojgrad"
-				bosnian = "Bojgrad"
-				serbian = "Bojgrad"
-				karantanci = "Bojgrad"
-				bulgarian = "Bojgrad"
-				russian = "Bojgrad"
-			}
-			
-		}                                                       
-		c_werle = {
-			color={ 202 202 202 }
-			color2={ 255 255 255 }
+					polish = "Roztok"
+					bohemian = "Rozstoc"
+					pommeranian = "Rozstoc"
+					moravian = "Rozstoc"
+					croatian = "Rozstoc"
+					bosnian = "Rozstoc"
+					serbian = "Rozstoc"
+					karantanci = "Rozstoc"
+					bulgarian = "Rozstoc"
+					russian = "Rozstoc"
+					
+					b_rostock = {
+						polish = "Roztok"
+						bohemian = "Rozstoc"
+						pommeranian = "Rozstoc"
+						moravian = "Rozstoc"
+						croatian = "Rozstoc"
+						bosnian = "Rozstoc"
+						serbian = "Rozstoc"
+						karantanci = "Rozstoc"
+						bulgarian = "Rozstoc"
+						russian = "Rozstoc"
+					}
+					b_ribnitz = {
+						polish = "Rybnica"
+						bohemian = "Rybanis"
+						pommeranian = "Rybanis"
+						moravian = "Rybanis"
+						croatian = "Rybanis"
+						bosnian = "Rybanis"
+						serbian = "Rybanis"
+						karantanci = "Rybanis"
+						bulgarian = "Rybanis"
+						russian = "Rybanis"
+					}
+					b_dobran = {
+						polish = "Dobran"
+						bohemian = "Dobran"
+						pommeranian = "Dobran"
+						moravian = "Dobran"
+						croatian = "Dobran"
+						bosnian = "Dobran"
+						serbian = "Dobran"
+						karantanci = "Dobran"
+						bulgarian = "Dobran"
+						russian = "Dobran"
+					}						
+					b_malchin = {
+						polish = "Malkinia"
+						bohemian = "Malochyni"
+						pommeranian = "Malochyni"
+						moravian = "Malochyni"
+						croatian = "Malochyni"
+						bosnian = "Malochyni"
+						serbian = "Malochyni"
+						karantanci = "Malochyni"
+						bulgarian = "Malochyni"
+						russian = "Malochyni"
+					}
+					b_damgarten = {
+						polish = "Debogóra"
+						bohemian = "Damgor"
+						pommeranian = "Damgor"
+						moravian = "Damgor"
+						croatian = "Damgor"
+						bosnian = "Damgor"
+						serbian = "Damgor"
+						karantanci = "Damgor"
+						bulgarian = "Damgor"
+						russian = "Damgor"
+					}			
+					b_tribsees = {
+						polish = "Trzebiez"
+						bohemian = "Ctrebez"
+						pommeranian = "Ctrebez"
+						moravian = "Ctrebez"
+						croatian = "Ctrebez"
+						bosnian = "Ctrebez"
+						serbian = "Ctrebez"
+						karantanci = "Ctrebez"
+						bulgarian = "Ctrebez"
+						russian = "Ctrebez"
+					}	
+				}
+				c_schwerin = {
+					color={ 80 219 119 }
+					color2={ 255 255 255 }
 
-			polish = "Orle"
-			bohemian = "Orle"
-			pommeranian = "Orle"
-			moravian = "Orle"
-			croatian = "Orle"
-			bosnian = "Orle"
-			serbian = "Orle"
-			karantanci = "Orle"
-			bulgarian = "Orle"
-			russian = "Orle"
-			
-			b_waren = {
-				polish = "Warzno"
-				bohemian = "Warzno"
-				pommeranian = "Warzno"
-				moravian = "Warzno"
-				croatian = "Warzno"
-				bosnian = "Warzno"
-				serbian = "Warzno"
-				karantanci = "Warzno"
-				bulgarian = "Warzno"
-				russian = "Warzno"
-			}
-			b_werle = {
-				polish = "Orle"
-				bohemian = "Orle"
-				pommeranian = "Orle"
-				moravian = "Orle"
-				croatian = "Orle"
-				bosnian = "Orle"
-				serbian = "Orle"
-				karantanci = "Orle"
-				bulgarian = "Orle"
-				russian = "Orle"
-			}
-			b_gustrow = {
-				polish = "Ostrów"
-				bohemian = "Gušcerov"
-				pommeranian = "Gušcerov"
-				moravian = "Gušcerov"
-				croatian = "Gušcerov"
-				bosnian = "Gušcerov"
-				serbian = "Gušcerov"
-				karantanci = "Gušcerov"
-				bulgarian = "Gušcerov"
-				russian = "Gušcerov"
-			}		
-			b_strelitz = {
-				polish = "Strzelce"
-				bohemian = "Strzelce"
-				pommeranian = "Strzelce"
-				moravian = "Strzelce"
-				croatian = "Strzelce"
-				bosnian = "Strzelce"
-				serbian = "Strzelce"
-				karantanci = "Strzelce"
-				bulgarian = "Strzelce"
-				russian = "Strzelce"
-			}
-			b_stargard = {
-				polish = "Stargart"
-				bohemian = "Stargart"
-				pommeranian = "Stargart"
-				moravian = "Stargart"
-				croatian = "Stargart"
-				bosnian = "Stargart"
-				serbian = "Stargart"
-				karantanci = "Stargart"
-				bulgarian = "Stargart"
-				russian = "Stargart"
-			}
-			b_ahrensberg = {
-			}
-			b_penzlin = {
-				polish = "Peczelin"
-				bohemian = "Parcelin"
-				pommeranian = "Parcelin"
-				moravian = "Parcelin"
-				croatian = "Parcelin"
-				bosnian = "Parcelin"
-				serbian = "Parcelin"
-				karantanci = "Parcelin"
-				bulgarian = "Parcelin"
-				russian = "Parcelin"
-			}
-			b_dargunabbey = {
-			}
-			b_lychen = {
-				polish = "Lichen"
-				bohemian = "Lichen"
-				pommeranian = "Liechen"
-				moravian = "Liechen"
-				croatian = "Liechen"
-				bosnian = "Liechen"
-				serbian = "Liechen"
-				karantanci = "Liechen"
-				bulgarian = "Liechen"
-				russian = "Liechen"
-			}
-			b_brodaabbey = {
-			}
-		}
-	}
-	d_pomeralia = {
-		color={ 236 234 46 }
-		color2={ 255 255 255 }
-		capital = 368 # Danzig
+					#polish = "Zwierzyn"
+					#bohemian = "Zwierzyn"
+					#pommeranian = "Zuarin"
+					
+					b_parchim = {
+					}
+					b_malchow = {
+						polish = "Malechów"
+						bohemian = "Malechów"
+						pommeranian = "Malechów"
+						moravian = "Malechów"
+						croatian = "Malechów"
+						bosnian = "Malechów"
+						serbian = "Malechów"
+						karantanci = "Malechów"
+						bulgarian = "Malechów"
+						russian = "Malechów"
+					}
+					b_hagenow = {
+						polish = "Hachenowe"
+						bohemian = "Hachenowe"
+						pommeranian = "Hachenowe"
+						moravian = "Hachenowe"
+						croatian = "Hachenowe"
+						bosnian = "Hachenowe"
+						serbian = "Hachenowe"
+						karantanci = "Hachenowe"
+						bulgarian = "Hachenowe"
+						russian = "Hachenowe"
+					}
+					b_schwerin = {
+						polish = "Zwierzyn"
+						bohemian = "Zuarin"
+						pommeranian = "Zuarin"
+						moravian = "Zuarin"
+						croatian = "Zuarin"
+						bosnian = "Zuarin"
+						serbian = "Zuarin"
+						karantanci = "Zuarin"
+						bulgarian = "Zuarin"
+						russian = "Zuarin"
+					}
+					b_boizenburg = {
+						polish = "Bojgrad"
+						bohemian = "Bojgrad"
+						pommeranian = "Bojgrad"
+						moravian = "Bojgrad"
+						croatian = "Bojgrad"
+						bosnian = "Bojgrad"
+						serbian = "Bojgrad"
+						karantanci = "Bojgrad"
+						bulgarian = "Bojgrad"
+						russian = "Bojgrad"
+					}
+					
+				}                                                       
+				c_werle = {
+					color={ 202 202 202 }
+					color2={ 255 255 255 }
 
-		german = "Pommerellen"
-		
-		c_danzig = {
-			color={ 250 168 168 }
-			color2={ 255 255 255 }
-			
-			polish = "Gdansk"
-			bohemian = "Gdansk"
-			pommeranian = "Gyddanyzc"
-			
-			b_gdansk = {
-				polish = "Gdansk"
-				bohemian = "Gdansk"
-				pommeranian = "Gyddanyzc"  
+					polish = "Orle"
+					bohemian = "Orle"
+					pommeranian = "Orle"
+					moravian = "Orle"
+					croatian = "Orle"
+					bosnian = "Orle"
+					serbian = "Orle"
+					karantanci = "Orle"
+					bulgarian = "Orle"
+					russian = "Orle"
+					
+					b_waren = {
+						polish = "Warzno"
+						bohemian = "Warzno"
+						pommeranian = "Warzno"
+						moravian = "Warzno"
+						croatian = "Warzno"
+						bosnian = "Warzno"
+						serbian = "Warzno"
+						karantanci = "Warzno"
+						bulgarian = "Warzno"
+						russian = "Warzno"
+					}
+					b_werle = {
+						polish = "Orle"
+						bohemian = "Orle"
+						pommeranian = "Orle"
+						moravian = "Orle"
+						croatian = "Orle"
+						bosnian = "Orle"
+						serbian = "Orle"
+						karantanci = "Orle"
+						bulgarian = "Orle"
+						russian = "Orle"
+					}
+					b_gustrow = {
+						polish = "Ostrów"
+						bohemian = "Gušcerov"
+						pommeranian = "Gušcerov"
+						moravian = "Gušcerov"
+						croatian = "Gušcerov"
+						bosnian = "Gušcerov"
+						serbian = "Gušcerov"
+						karantanci = "Gušcerov"
+						bulgarian = "Gušcerov"
+						russian = "Gušcerov"
+					}		
+					b_strelitz = {
+						polish = "Strzelce"
+						bohemian = "Strzelce"
+						pommeranian = "Strzelce"
+						moravian = "Strzelce"
+						croatian = "Strzelce"
+						bosnian = "Strzelce"
+						serbian = "Strzelce"
+						karantanci = "Strzelce"
+						bulgarian = "Strzelce"
+						russian = "Strzelce"
+					}
+					b_stargard = {
+						polish = "Stargart"
+						bohemian = "Stargart"
+						pommeranian = "Stargart"
+						moravian = "Stargart"
+						croatian = "Stargart"
+						bosnian = "Stargart"
+						serbian = "Stargart"
+						karantanci = "Stargart"
+						bulgarian = "Stargart"
+						russian = "Stargart"
+					}
+					b_ahrensberg = {
+					}
+					b_penzlin = {
+						polish = "Peczelin"
+						bohemian = "Parcelin"
+						pommeranian = "Parcelin"
+						moravian = "Parcelin"
+						croatian = "Parcelin"
+						bosnian = "Parcelin"
+						serbian = "Parcelin"
+						karantanci = "Parcelin"
+						bulgarian = "Parcelin"
+						russian = "Parcelin"
+					}
+					b_dargunabbey = {
+					}
+					b_lychen = {
+						polish = "Lichen"
+						bohemian = "Lichen"
+						pommeranian = "Liechen"
+						moravian = "Liechen"
+						croatian = "Liechen"
+						bosnian = "Liechen"
+						serbian = "Liechen"
+						karantanci = "Liechen"
+						bulgarian = "Liechen"
+						russian = "Liechen"
+					}
+					b_brodaabbey = {
+					}
+				}
 			}
-			b_oliva = {
-				polish = "Oliwa"
-				bohemian = "Oliwa"
-				pommeranian = "Olëwa"
-			}
-			b_lubiszewo = {
-				pommeranian = "Lubiszéwò"
-			}
-			b_tczew = {
-				danish = "Trsow"
-				swedish = "Trsow"
-				norwegian = "Trsow"
-				gothic = "Trsow"
-				norsegaelic = "Trsow"
-				anglonorse = "Trsow"
-				polish = "Tczew"
-				bohemian = "Tczew"
-				pommeranian = "Trsow"
-			}
-			b_danlauenburg = {
-				polish = "Lebork"
-				bohemian = "Lebork"
-				pommeranian = "Läbòrg"
-			}
-			b_mewe = {
-				polish = "Gniew"
-				bohemian = "Gniew"
-				pommeranian = "Gmewan"
-			}
-			b_starogardgdansk = {
-				polish = "Starogard"
-				bohemian = "Starogard"
-				pommeranian = "Starigrod"
-			}
-			b_sartowice = {
-				polish = "Sartawice"
-				bohemian = "Sartawice"
-				pommeranian = "Sartawice"
-			}
-			b_putzc = {
-				polish = "Putzc"
-				bohemian = "Putzc"
-				pommeranian = "Putzc"
-			}
-			b_leba = {
-			}
-		}
-		c_swiecie = {
-			color={ 250 168 168 }
-			color2={ 255 255 255 }
+			d_pomeralia = {
+				color={ 236 234 46 }
+				color2={ 255 255 255 }
+				capital = 368 # Danzig
 
-			#polish = "Swiecie"
-			#bohemian = "Swiecie"
-			#pommeranian = "Swiéce"
-			#german = "Schlochau"	
-			
-			b_bytow = {
-				polish = "Bytów"
-				bohemian = "Bytów"
-				pommeranian = "Bëtowò"
-			}
-			b_chojnice = {
-				polish = "Chojnice"
-				bohemian = "Chojnice"
-				pommeranian = "Chonice"
-			}
-			b_tuchel = {
-				polish = "Tuchola"
-				bohemian = "Tuchola"
-				pommeranian = "Tëcholo"	
-			}
-			b_schwetz = {
-				polish = "Swiecie"
-				bohemian = "Swiecie"
-				pommeranian = "Swiéce"		
-			}
-			b_schlochau = {
-				polish = "Czluchow"
-				bohemian = "Czluchow"
-				pommeranian = "Czlëchowo"
-			}
-		}
-	}
-	d_lubeck = {
-		color={ 177 69 69 }
-		color2={ 255 255 255 }
+				german = "Pommerellen"
+				
+				c_danzig = {
+					color={ 250 168 168 }
+					color2={ 255 255 255 }
+					
+					polish = "Gdansk"
+					bohemian = "Gdansk"
+					pommeranian = "Gyddanyzc"
+					moravian = "Gdansk" 
+					croatian = "Gdansk"
+					bosnian = "Gdansk"
+					serbian = "Gdansk"
+					karantanci = "Gdansk"
+					bulgarian = "Gdansk"
+					russian = "Gdansk"
+					
+					b_gdansk = {
+						polish = "Gdansk"
+						bohemian = "Gdansk"
+						pommeranian = "Gyddanyzc" 
+						moravian = "Gdansk" 
+						croatian = "Gdansk"
+						bosnian = "Gdansk"
+						serbian = "Gdansk"
+						karantanci = "Gdansk"
+						bulgarian = "Gdansk"
+						russian = "Gdansk"
+					}
+					b_oliva = {
+						polish = "Oliwa"
+						bohemian = "Oliwa"
+						pommeranian = "Olëwa"
+						moravian = "Oliwa" 
+						croatian = "Oliwa"
+						bosnian = "Oliwa"
+						serbian = "Oliwa"
+						karantanci = "Oliwa"
+						bulgarian = "Oliwa"
+						russian = "Oliwa"
+					}
+					b_lubiszewo = {
+						pommeranian = "Lubiszéwò"
+					}
+					b_tczew = {
+						danish = "Trsow"
+						swedish = "Trsow"
+						norwegian = "Trsow"
+						gothic = "Trsow"
+						norsegaelic = "Trsow"
+						anglonorse = "Trsow"
+						polish = "Tczew"
+						bohemian = "Tczew"
+						pommeranian = "Trsow"
+						moravian = "Tczew" 
+						croatian = "Tczew"
+						bosnian = "Tczew"
+						serbian = "Tczew"
+						karantanci = "Tczew"
+						bulgarian = "Tczew"
+						russian = "Tczew"
+					}
+					b_danlauenburg = {
+						polish = "Lebork"
+						bohemian = "Lebork"
+						pommeranian = "Läbòrg"
+						moravian = "Lebork" 
+						croatian = "Lebork"
+						bosnian = "Lebork"
+						serbian = "Lebork"
+						karantanci = "Lebork"
+						bulgarian = "Lebork"
+						russian = "Lebork"
+					}
+					b_mewe = {
+						polish = "Gniew"
+						bohemian = "Gniew"
+						pommeranian = "Gmewan"
+						moravian = "Gniew" 
+						croatian = "Gniew"
+						bosnian = "Gniew"
+						serbian = "Gniew"
+						karantanci = "Gniew"
+						bulgarian = "Gniew"
+						russian = "Gniew"
+					}
+					b_starogardgdansk = {
+						polish = "Starogard"
+						bohemian = "Starogard"
+						pommeranian = "Starigrod"
+						moravian = "Starogard" 
+						croatian = "Starogard"
+						bosnian = "Starogard"
+						serbian = "Starogard"
+						karantanci = "Starogard"
+						bulgarian = "Starogard"
+						russian = "Starogard"
+					}
+					b_sartowice = {
+						polish = "Sartawice"
+						bohemian = "Sartawice"
+						pommeranian = "Sartawice"
+						moravian = "Sartawice" 
+						croatian = "Sartawice"
+						bosnian = "Sartawice"
+						serbian = "Sartawice"
+						karantanci = "Sartawice"
+						bulgarian = "Sartawice"
+						russian = "Sartawice"
+					}
+					b_putzc = {
+						polish = "Putzc"
+						bohemian = "Putzc"
+						pommeranian = "Putzc"
+						moravian = "Putzc"
+						croatian = "Putzc"
+						bosnian = "Putzc"
+						serbian = "Putzc"
+						karantanci = "Putzc"
+						bulgarian = "Putzc"
+						russian = "Putzc"
+					}
+					b_leba = {
+					}
+				}
+				c_swiecie = {
+					color={ 250 168 168 }
+					color2={ 255 255 255 }
 
-		capital = 262 #Lübeck
+					#polish = "Swiecie"
+					#bohemian = "Swiecie"
+					#pommeranian = "Swiéce"
+					#german = "Schlochau"	
+					
+					b_bytow = {
+						polish = "Bytów"
+						bohemian = "Bytów"
+						pommeranian = "Bëtowò"
+						moravian = "Bytów"
+						croatian = "Bytów"
+						bosnian = "Bytów"
+						serbian = "Bytów"
+						karantanci = "Bytów"
+						bulgarian = "Bytów"
+						russian = "Bytów"
+					}
+					b_chojnice = {
+						polish = "Chojnice"
+						bohemian = "Chojnice"
+						pommeranian = "Chonice"
+						moravian = "Chojnice"
+						croatian = "Chojnice"
+						bosnian = "Chojnice"
+						serbian = "Chojnice"
+						karantanci = "Chojnice"
+						bulgarian = "Chojnice"
+						russian = "Chojnice"
+					}
+					b_tuchel = {
+						polish = "Tuchola"
+						bohemian = "Tuchola"
+						pommeranian = "Tëcholo"	
+						moravian = "Tuchola"
+						croatian = "Tuchola"
+						bosnian = "Tuchola"
+						serbian = "Tuchola"
+						karantanci = "Tuchola"
+						bulgarian = "Tuchola"
+						russian = "Tuchola"
+					}
+					b_schwetz = {
+						polish = "Swiecie"
+						bohemian = "Swiecie"
+						pommeranian = "Swiéce"	
+						moravian = "Swiecie"
+						croatian = "Swiecie"
+						bosnian = "Swiecie"
+						serbian = "Swiecie"
+						karantanci = "Swiecie"
+						bulgarian = "Swiecie"
+						russian = "Swiecie"	
+					}
+					b_schlochau = {
+						polish = "Czluchow"
+						bohemian = "Czluchow"
+						pommeranian = "Czlëchowo"
+						moravian = "Czluchow"
+						croatian = "Czluchow"
+						bosnian = "Czluchow"
+						serbian = "Czluchow"
+						karantanci = "Czluchow"
+						bulgarian = "Czluchow"
+						russian = "Czluchow"
+					}
+				}
+			}
+			d_lubeck = {
+				color={ 177 69 69 }
+				color2={ 255 255 255 }
 
-		danish = "Lybæk"
-		swedish = "Lybäck"
-		norwegian = "Lybæk"
-		pommeranian = "Liubice"
-		polish = "Lubeka"
-		bohemian = "Lubeka"
-		prussian = "Liubice"
+				capital = 262 #Lübeck
 
-		c_lubeck = {
-			color={ 142 142 142 }
-			color2={ 255 255 255 }
-			
-			danish = "Lybæk"
-			swedish = "Lybäck"
-			norwegian = "Lybæk"
-			pommeranian = "Liubice"
-			polish = "Liubice"
-			bohemian = "Liubice"
-			prussian = "Liubice"
-			
-			b_lubeck = {
 				danish = "Lybæk"
 				swedish = "Lybäck"
 				norwegian = "Lybæk"
 				pommeranian = "Liubice"
 				polish = "Lubeka"
 				bohemian = "Lubeka"
+				moravian = "Lubeka" 
+				croatian = "Lubeka"
+				bosnian = "Lubeka"
+				serbian = "Lubeka"
+				karantanci = "Lubeka"
+				bulgarian = "Lubeka"
+				russian = "Lubeka"
 				prussian = "Liubice"
-			}
-			b_travemunde = {
-				danish = "Travemønde"
-				swedish = "Travemønde"
-				norwegian = "Travemønde"
-				gothic = "Travemønde"
-				norsegaelic = "Travemønde"
-				anglonorse = "Travemønde"
-			}
-			b_snykrode = {
-			}
-			b_molln = {
-				danish = "Mølln"
-				swedish = "Mølln"
-				norwegian = "Mølln"
-				gothic = "Mølln"
-				norsegaelic = "Mølln"
-				anglonorse = "Mølln"
-			}
-			b_ahrensbok = {
-			}				
-			b_scharbeutz = {
-				bohemian = "Scorbuze"
-				polish = "Scorbuze"
-				pommeranian = "Scorbuze"
-			}
-			b_bucu = {
-				bohemian = "Bucu"
-				polish = "Bucu"
-				pommeranian = "Bucu"
-				danish = "Borgkloster"
-				swedish = "Borgkloster"
-				norwegian = "Borgkloster"
-				gothic = "Borgkloster"
-				norsegaelic = "Borgkloster"
-				anglonorse = "Borgkloster"
-			}
-		}
-		c_wargrien = {
-			color={ 80 219 119 }
-			color2={ 255 255 255 }
-			
 
-			b_eutin = {
-				pommeranian = "Utin"
-				polish = "Utyn"
-				bohemian = "Utyn"
+				c_lubeck = {
+					color={ 142 142 142 }
+					color2={ 255 255 255 }
+					
+					danish = "Lybæk"
+					swedish = "Lybäck"
+					norwegian = "Lybæk"
+					pommeranian = "Liubice"
+					polish = "Liubice"
+					bohemian = "Liubice"
+					moravian = "Lubeka" 
+				        croatian = "Lubeka"
+				        bosnian = "Lubeka"
+				        serbian = "Lubeka"
+				        karantanci = "Lubeka"
+					bulgarian = "Lubeka"
+					russian = "Lubeka"
+					prussian = "Liubice"
+					
+					b_lubeck = {
+						danish = "Lybæk"
+						swedish = "Lybäck"
+						norwegian = "Lybæk"
+						pommeranian = "Liubice"
+						polish = "Lubeka"
+						bohemian = "Lubeka"
+						moravian = "Lubeka" 
+						croatian = "Lubeka"
+						bosnian = "Lubeka"
+						serbian = "Lubeka"
+						karantanci = "Lubeka"
+						bulgarian = "Lubeka"
+						russian = "Lubeka"
+						prussian = "Liubice"
+					}
+					b_travemunde = {
+						danish = "Travemønde"
+						swedish = "Travemønde"
+						norwegian = "Travemønde"
+						gothic = "Travemønde"
+						norsegaelic = "Travemønde"
+						anglonorse = "Travemønde"
+					}
+					b_snykrode = {
+					}
+					b_molln = {
+						danish = "Mølln"
+						swedish = "Mølln"
+						norwegian = "Mølln"
+						gothic = "Mølln"
+						norsegaelic = "Mølln"
+						anglonorse = "Mølln"
+					}
+					b_ahrensbok = {
+					}				
+					b_scharbeutz = {
+						bohemian = "Scorbuze"
+						polish = "Scorbuze"
+						pommeranian = "Scorbuze"
+						moravian = "Scorbuze"
+						croatian = "Scorbuze"
+						bosnian = "Scorbuze"
+						serbian = "Scorbuze"
+						karantanci = "Scorbuze"
+						bulgarian = "Scorbuze"
+						russian = "Scorbuze"
+					}
+					b_bucu = {
+						bohemian = "Bucu"
+						polish = "Bucu"
+						pommeranian = "Bucu"
+						moravian = "Bucu"
+						croatian = "Bucu"
+						bosnian = "Bucu"
+						serbian = "Bucu"
+						karantanci = "Bucu"
+						bulgarian = "Bucu"
+						russian = "Bucu"
+						danish = "Burghkloster"
+						swedish = "Borgkloster"
+						norwegian = "Borgkloster"
+						gothic = "Borgkloster"
+						norsegaelic = "Borgkloster"
+						anglonorse = "Borgkloster"
+					}
+				}
+				c_wargrien = {
+					color={ 80 219 119 }
+					color2={ 255 255 255 }
+					
+
+					b_eutin = {
+						pommeranian = "Utin"
+						polish = "Utyn"
+						bohemian = "Utyn"
+						moravian = "Bucu"
+						croatian = "Bucu"
+						bosnian = "Bucu"
+						serbian = "Bucu"
+						karantanci = "Bucu"
+						bulgarian = "Bucu"
+						russian = "Bucu"
+					}
+					b_oldenburgeast = {
+						bohemian = "Starigrad"
+						polish = "Starigrad"
+						pommeranian = "Starigrad"
+						moravian = "Bucu"
+						croatian = "Bucu"
+						bosnian = "Bucu"
+						serbian = "Bucu"
+						karantanci = "Bucu"
+						bulgarian = "Bucu"
+						russian = "Bucu"
+						danish = "Brandehuse"
+						swedish = "Brandehuse"
+						norwegian = "Brandehuse"
+						gothic = "Brandehuse"
+						norsegaelic = "Brandehuse"
+						anglonorse = "Brandehuse"
+					}
+					b_plon = {
+						bohemian = "Plonia"
+						polish = "Plonia"
+						pommeranian = "Plune"
+						moravian = "Plonia"
+						croatian = "Plonia"
+						bosnian = "Plonia"
+						serbian = "Plonia"
+						karantanci = "Plonia"
+						bulgarian = "Plonia"
+						russian = "Plonye"
+						danish = "Pløn"
+						swedish = "Pløn"
+						norwegian = "Pløn"
+						gothic = "Pløn"
+						norsegaelic = "Pløn"
+						anglonorse = "Pløn"
+					}
+					b_bornhovd = {
+						danish = "Bornhøved"
+						swedish = "Bornhøved"
+						norwegian = "Bornhøved"
+						gothic = "Bornhøved"
+						norsegaelic = "Bornhøved"
+						anglonorse = "Bornhøved"
+					}
+				}
+				allow = {
+					AND = { 
+						OR = {
+							has_landed_title = c_lubeck
+							any_vassal = { has_landed_title = c_lubeck }}
+						OR = {
+							has_landed_title = c_wargrien
+							any_vassal = { has_landed_title = c_wargrien }}
+						
+					}                   
+				} 
+
+
 			}
-			b_oldenburgeast = {
-				bohemian = "Starigrad"
-				polish = "Starigrad"
-				pommeranian = "Starigrad"
-				danish = "Brandehuse"
-				swedish = "Brandehuse"
-				norwegian = "Brandehuse"
-				gothic = "Brandehuse"
-				norsegaelic = "Brandehuse"
-				anglonorse = "Brandehuse"
-			}
-			b_plon = {
-				bohemian = "Plonia"
-				polish = "Plonia"
-				pommeranian = "Plune"
-				danish = "Pløn"
-				swedish = "Pløn"
-				norwegian = "Pløn"
-				gothic = "Pløn"
-				norsegaelic = "Pløn"
-				anglonorse = "Pløn"
-			}
-			b_bornhovd = {
-				danish = "Bornhøved"
-				swedish = "Bornhøved"
-				norwegian = "Bornhøved"
-				gothic = "Bornhøved"
-				norsegaelic = "Bornhøved"
-				anglonorse = "Bornhøved"
-			}
-		}
-		allow = {
-			AND = { 
-				OR = {
-					has_landed_title = c_lubeck
-					any_vassal = { has_landed_title = c_lubeck }}
-				OR = {
-					has_landed_title = c_wargrien
-					any_vassal = { has_landed_title = c_wargrien }}
+			d_lubusz = { 
+				color={ 78 115 219 }
+				color2={ 255 255 255 }
 				
-			}                   
-		} 
+				capital = 430 # Lubusz
 
-
-	}
-	d_lubusz = { 
-		color={ 78 115 219 }
-		color2={ 255 255 255 }
-		
-		capital = 430 # Lubusz
-
-		polish = "Lubusz"
-		bohemian = "Lubusz"
-		pommeranian = "Lubusz"		                        
-		
-		c_lubusz = {
-			color={ 6 135 2 }
-			color2={ 255 255 255 }
-
-			polish = "Lubusz"
-			bohemian = "Lubusz"
-			pommeranian = "Lubusz"
-			
-			b_lubusz = {
 				polish = "Lubusz"
 				bohemian = "Lubusz"
 				pommeranian = "Lubusz"
-			}
-			b_krosnoodrzanskie = {
-				polish = "Crosno"
-				bohemian = "Crosno"
-				pommeranian = "Krosno"
-			}
-			b_torzym = {
-				polish = "Torzym"
-				bohemian = "Torzym"
-				pommeranian = "Torzym"
-			}
-			b_kostrzyn = {
-				polish = "Cozsterine"
-				bohemian = "Cozsterine"
-				pommeranian = "Cozsterine"
-			}
-			b_frankfurtoder = {
-				polish = "Zliwitz"
-				bohemian = "Zliwitz"
-				pommeranian = "Zliwitz"
-			}
-		}                
-		c_neumark = {
-			color={ 6 125 2 }
-			color2={ 255 255 255 }
+				moravian = "Lubusz"
+				croatian = "Lubusz"
+				bosnian = "Lubusz"
+				serbian = "Lubusz"
+				karantanci = "Lubusz"
+				bulgarian = "Lubusz"
+				russian = "Lubusz"		                        
+				
+				c_lubusz = {
+					color={ 6 135 2 }
+					color2={ 255 255 255 }
 
-			#polish = "Cedynia"
-			#bohemian = "Cedynia"
-			#pommeranian = "Cediniô"
-			
-			b_zehden = {
-				polish = "Cedynia"
-				bohemian = "Cedynia"
-				pommeranian = "Cediniô"
-			}
-			b_soldin = {
-				polish = "Myslibórz"
-				bohemian = "Myslibórz"
-				pommeranian = "Zôldzëno"
-			}
-			b_konigsbergneumark = {
-				polish = "Chojna"
-				bohemian = "Chojna"
-				pommeranian = "Kùnzberch"
-			}
-			b_arnswalde = {
-				polish = "Choszczno"
-				bohemian = "Choszczno"
-				pommeranian = "Chòsczno" 
-			}
-			b_reetz = {
-				polish = "Recz"
-				bohemian = "Recz"
-				pommeranian = "Kietz"
-			}
-			b_friedeberg = {
-				polish = "Strzelce"
-				bohemian = "Strzelce"
-				pommeranian = "Strzelcé"
-			}
-			b_dramburg = {
-				polish = "Drawsko"
-				bohemian = "Drawsko"
-				pommeranian = "Drawno"
-			}
-			b_schiavelbein = {
-				polish = "Swidwin"
-				bohemian = "Swidwin"
-				pommeranian = "Skwilbëno"
-			}
-			b_oderberg = {
-				polish = "Odrzycko"
-				bohemian = "Odrzycko"
-				pommeranian = "Oderberge"
-			}
-		}
-	}
-	d_pommerania = {
-		color={ 63 92 65 }
-		color2={ 255 255 255 }
-		
-		capital = 366 # Stettin
+					polish = "Lubusz"
+					bohemian = "Lubusz"
+					pommeranian = "Lubusz"
+					moravian = "Lubusz"
+				        croatian = "Lubusz"
+					bosnian = "Lubusz"
+				        serbian = "Lubusz"
+					karantanci = "Lubusz"
+					bulgarian = "Lubusz"
+					russian = "Lubusz"
+					
+					b_lubusz = {
+						polish = "Lubusz"
+						bohemian = "Lubusz"
+						pommeranian = "Lubusz"
+						moravian = "Lubusz"
+						croatian = "Lubusz"
+						bosnian = "Lubusz"
+						serbian = "Lubusz"
+						karantanci = "Lubusz"
+						bulgarian = "Lubusz"
+						russian = "Lubusz"
+					}
+					b_krosnoodrzanskie = {
+						polish = "Crosno"
+						bohemian = "Crosno"
+						pommeranian = "Krosno"
+						moravian = "Crosno"
+						croatian = "Crosno"
+						bosnian = "Crosno"
+						serbian = "Crosno"
+						karantanci = "Crosno"
+						bulgarian = "Crosno"
+						russian = "Crosno"
+					}
+					b_torzym = {
+						polish = "Torzym"
+						bohemian = "Torzym"
+						pommeranian = "Torzym"
+						moravian = "Torzym"
+						croatian = "Torzym"
+						bosnian = "Torzym"
+						serbian = "Torzym"
+						karantanci = "Torzym"
+						bulgarian = "Torzym"
+						russian = "Torzym"
+					}
+					b_kostrzyn = {
+						polish = "Cozsterine"
+						bohemian = "Cozsterine"
+						pommeranian = "Cozsterine"
+						moravian = "Cozsterine"
+						croatian = "Cozsterine"
+						bosnian = "Cozsterine"
+						serbian = "Cozsterine"
+						karantanci = "Cozsterine"
+						bulgarian = "Cozsterine"
+						russian = "Cozsterine"
+					}
+					b_frankfurtoder = {
+						polish = "Zliwitz"
+						bohemian = "Zliwitz"
+						pommeranian = "Zliwitz"
+						moravian = "Zliwitz"
+						croatian = "Zliwitz"
+						bosnian = "Zliwitz"
+						serbian = "Zliwitz"
+						karantanci = "Zliwitz"
+						bulgarian = "Zliwitz"
+						russian = "Zliwitz"
+					}
+				}                
+				c_neumark = {
+					color={ 6 125 2 }
+					color2={ 255 255 255 }
 
-		danish = "Pommern"
-		swedish = "Pommern"
-		norwegian = "Pommern"
-		gothic = "Pommern"
-		norsegaelic = "Pommern"
-		anglonorse = "Pommern"
-		bohemian = "Pomorze"
-		polish = "Pomorze"
-		pommeranian = "Pòmòrsko"
-		german = "Pommern"
-		breton = "Pomerania"
-		frankish = "Poméranie"
-		norman = "Poméranie"
-		arpitan = "Poméranie"
-		occitan = "Pomerània"
-		catlan = "Pomerània"
-		basque = "Pomerania"
-		leonese = "Pomerania"
-		galician = "Pomerania"
-		portuguese = "Pomerania"
-		aragonese = "Pomerania"
-		english = "Pomerania"
-		saxon = "Pommern"
-		lappish = "Pommeri"
-		komi = "Pommeri"
-		finnish = "Pommeri"
-		tsuudi = "Pommeri"
-		livonian = "Pommeri"
-		prussian = "Pomeranija"
-		lettigallish = "Pomeranija"                        
-		lithuanian = "Pomeranija"                              
-		
-		c_stettin = {
-			color={ 51 213 51 }
-			color2={ 255 255 255 }
+					#polish = "Cedynia"
+					#bohemian = "Cedynia"
+					#pommeranian = "Cediniô"
+					
+					b_zehden = {
+						polish = "Cedynia"
+						bohemian = "Cedynia"
+						pommeranian = "Cediniô"
+						moravian = "Cedynia"
+						croatian = "Cedynia"
+						bosnian = "Cedynia"
+						serbian = "Cedynia"
+						karantanci = "Cedynia"
+						bulgarian = "Cedynia"
+						russian = "Cedynye"
+					}
+					b_soldin = {
+						polish = "Myslibórz"
+						bohemian = "Myslibórz"
+						pommeranian = "Zôldzëno"
+					        moravian = "Myslibórz"
+						croatian = "Myslibórz"
+						bosnian = "Myslibórz"
+						serbian = "Myslibórz"
+						karantanci = "Myslibórz"
+						bulgarian = "Myslibórz"
+						russian = "Myslibórz"
+					}
+					b_konigsbergneumark = {
+						polish = "Chojna"
+						bohemian = "Chojna"
+						pommeranian = "Kùnzberch"
+						moravian = "Chojna"
+						croatian = "Chojna"
+						bosnian = "Chojna"
+						serbian = "Chojna"
+						karantanci = "Chojna"
+						bulgarian = "Chojna"
+						russian = "Chojna"
+					}
+					b_arnswalde = {
+						polish = "Choszczno"
+						bohemian = "Choszczno"
+						pommeranian = "Chòsczno"
+						moravian = "Choszczno"
+						croatian = "Choszczno"
+						bosnian = "Choszczno"
+						serbian = "Choszczno"
+						karantanci = "Choszczno"
+						bulgarian = "Choszczno"
+						russian = "Choszczno"
+					}
+					b_reetz = {
+						polish = "Recz"
+						bohemian = "Recz"
+						pommeranian = "Kietz"
+						moravian = "Recz"
+						croatian = "Recz"
+						bosnian = "Recz"
+						serbian = "Recz"
+						karantanci = "Recz"
+						bulgarian = "Recz"
+						russian = "Recz"
+					}
+					b_friedeberg = {
+						polish = "Strzelce"
+						bohemian = "Strzelce"
+						pommeranian = "Strzelcé"
+						moravian = "Strzelce"
+						croatian = "Strzelce"
+						bosnian = "Strzelce"
+						serbian = "Strzelce"
+						karantanci = "Strzelce"
+						bulgarian = "Strzelce"
+						russian = "Strzelce"
+					}
+					b_dramburg = {
+						polish = "Drawsko"
+						bohemian = "Drawsko"
+						pommeranian = "Drawno"
+						moravian = "Drawsko"
+						croatian = "Drawsko"
+						bosnian = "Drawsko"
+						serbian = "Drawsko"
+						karantanci = "Drawsko"
+						bulgarian = "Drawsko"
+						russian = "Drawsko"
+					}
+					b_schiavelbein = {
+						polish = "Swidwin"
+						bohemian = "Swidwin"
+						pommeranian = "Skwilbëno"
+						moravian = "Swidwin"
+						croatian = "Swidwin"
+						bosnian = "Swidwin"
+						serbian = "Swidwin"
+						karantanci = "Swidwin"
+						bulgarian = "Swidwin"
+					        russian = "Swidwin"
+					}
+					b_oderberg = {
+						polish = "Odrzycko"
+						bohemian = "Odrzycko"
+						pommeranian = "Oderberge"
+						moravian = "Odrzycko"
+						croatian = "Odrzycko"
+						bosnian = "Odrzycko"
+						serbian = "Odrzycko"
+						karantanci = "Odrzycko"
+						bulgarian = "Odrzycko"
+						russian = "Odrzycko"
+					}
+				}
+			}
+			d_pommerania = {
+				color={ 63 92 65 }
+				color2={ 255 255 255 }
+				
+				capital = 366 # Stettin
 
-			bohemian = "Szczecin"
-			polish = "Szczecin"
-			pommeranian = "Szczëtno"
-			
-			b_treptow = {
-				bohemian = "Trzebiatów"
-				polish = "Trzebiatów"
-				pommeranian = "Trzébiatowò"
-			}
-			b_dabie = {
-				bohemian = "Dabie"
-				polish = "Dabie"
-				pommeranian = "Dambe"
-				danish = "Dam"
-				swedish = "Dam"
-				norwegian = "Dam"
-				gothic = "Dam"
-				norsegaelic = "Dam"
-				anglonorse = "Dam"
-			}
-			b_stettin = {
-				bohemian = "Szczecin"
-				polish = "Szczecin"
-				pommeranian = "Szczëtno"
-			}			
-			b_stargardpommern = {
-				bohemian = "Starogród"
-				polish = "Starogród"
-				pommeranian = "Stôrgard"
-			}
-			b_kammin = {
-				bohemian = "Kamien"
-				polish = "Kamien"
-				pommeranian = "Kamién"
-			}
-			b_naugard = {
-				bohemian = "Nowogard"
-				polish = "Nowogard"
-				pommeranian = "Nogart"
-			}
-			b_greifensberg = {
-				bohemian = "Gryfice"
-				polish = "Gryfice"
-				pommeranian = "Gryphenberge"
-			}
-			b_gollnow = {
-				bohemian = "Goleniów"
-				polish = "Goleniów"
-				pommeranian = "Gòlonóg"
-			}
-			b_pyritz = {
-				bohemian = "Pyrzyce"
-				polish = "Pyrzyce"
-				pommeranian = "Pirzëce"
-			}				
-		}
-		c_szvuine = {
-			color={ 51 213 51 }
-			color2={ 255 255 255 }
+				danish = "Pommern"
+				swedish = "Pommern"
+				norwegian = "Pommern"
+				gothic = "Pommern"
+				norsegaelic = "Pommern"
+				anglonorse = "Pommern"
+				bohemian = "Pomorze"
+				polish = "Pomorze"
+				moravian = "Pomorze"
+				croatian = "Pomorze"
+					bosnian = "Pomorze"
+				serbian = "Pomorze"
+						karantanci = "Pomorze"
+				bulgarian = "Pomorze"
+					russian = "Pomorze"
+				pommeranian = "Pòmòrsko"
+				german = "Pommern"
+				breton = "Pomerania"
+				frankish = "Poméranie"
+				norman = "Poméranie"
+				arpitan = "Poméranie"
+				occitan = "Pomerània"
+				catlan = "Pomerània"
+				basque = "Pomerania"
+				leonese = "Pomerania"
+				galician = "Pomerania"
+				portuguese = "Pomerania"
+				aragonese = "Pomerania"
+				english = "Pomerania"
+				saxon = "Pommern"
+				lappish = "Pommeri"
+				komi = "Pommeri"
+				finnish = "Pommeri"
+				tsuudi = "Pommeri"
+				livonian = "Pommeri"
+				prussian = "Pomeranija"
+				lettigallish = "Pomeranija"                        
+				lithuanian = "Pomeranija"                              
+				
+				c_stettin = {
+					color={ 51 213 51 }
+					color2={ 255 255 255 }
 
-			#danish = "Jómsburgh"
-			#swedish = "Jómsburgh"
-			#norwegian = "Jómsburgh"
-			#gothic = "Jómsburgh"
-			#norsegaelic = "Jómsburgh"
-			#anglonorse = "Jómsburgh"
-			#german = "Swine"
-			
-			b_szvuinecastle = {
-				danish = "Jómsburgh"
-				swedish = "Jómsborg"
-				icelandic = "Jómsborg"
-				norwegian = "Jómsborg"
-				norse = "Jómsborg"
-				gothic = "Jómsborg"
-				norsegaelic = "Jómsborg"
-				anglonorse = "Jómsborg"
-				polish = "Szvuine"
-				pommeranian = "Szvuine"
-				bohemian = "Szvuine"
-			}			
-			b_wolin = {
-				polish = "Wolyn"
-				pommeranian = "Wòlin"
-				bohemian = "Wolyn"
-				maghreb_arabic = "Weltaba"                  
-				levantine_arabic = "Weltaba"
-				egyptian_arabic = "Weltaba"
-				andalusian_arabic = "Weltaba"
-				sicilian_arabic = "Weltaba"
-				bedouin_arabic = "Weltaba"
-				berber = "Weltaba"
-				tuareg = "Weltaba" 
-			} 
-			b_grobemonestary = {
-			}
-			b_koserow = {
-				polish = "Kosarzów"
-				pommeranian = "Cuzerowe"
-				bohemian = "Kosarzów"
-			}
-			b_usedom = {
-				polish = "Uznam"
-				pommeranian = "Ùznôm"
-				bohemian = "Uznam"
-			}
-			b_kaseburg = {
-				polish = "Karsibór"
-				pommeranian = "Karsibór"
-				bohemian = "Karsibór"
-			}
-			b_pryztor = {
-				polish = "Przytór"
-				pommeranian = "Przytór"
-				bohemian = "Przytór"
-			}				
-		}
-		c_wolgast = {
-			color={ 51 243 51 }
-			color2={ 255 255 255 }
+					bohemian = "Szczecin"
+					polish = "Szczecin"
+					pommeranian = "Szczëtno"
+					moravian = "Szczecin"
+					croatian = "Szczecin"
+					bosnian = "Szczecin"
+					serbian = "Szczecin"
+					karantanci = "Szczecin"
+					bulgarian = "Szczecin"
+					russian = "Szczecin"
+					
+					b_treptow = {
+						bohemian = "Trzebiatów"
+						polish = "Trzebiatów"
+						pommeranian = "Trzébiatowò"
+						moravian = "Trzebiatów"
+						croatian = "Trzebiatów"
+						bosnian = "Trzebiatów"
+						serbian = "Trzebiatów"
+						karantanci = "Trzebiatów"
+						bulgarian = "Trzebiatów"
+						russian = "Trzebiatów"
+					}
+					b_dabie = {
+						bohemian = "Dabie"
+						polish = "Dabie"
+						pommeranian = "Dambe"
+						moravian = "Dabie"
+						croatian = "Dabie"
+						bosnian = "Dabie"
+						serbian = "Dabie"
+						karantanci = "Dabie"
+						bulgarian = "Dabie"
+						russian = "Dabie"
+						danish = "Dam"
+						swedish = "Dam"
+						norwegian = "Dam"
+						gothic = "Dam"
+						norsegaelic = "Dam"
+						anglonorse = "Dam"
+					}
+					b_stettin = {
+						bohemian = "Szczecin"
+						polish = "Szczecin"
+						pommeranian = "Szczëtno"
+						moravian = "Szczecin"
+						croatian = "Szczecin"
+						bosnian = "Szczecin"
+						serbian = "Szczecin"
+						karantanci = "Szczecin"
+						bulgarian = "Szczecin"
+						russian = "Szczecin"
+					}			
+					b_stargardpommern = {
+						bohemian = "Starogród"
+						polish = "Starogród"
+						pommeranian = "Stôrgard"
+						moravian = "Starogród"
+						croatian = "Starogród"
+						bosnian = "Starogród"
+						serbian = "Starogród"
+						karantanci = "Starogród"
+						bulgarian = "Starogród"
+						russian = "Starogród"
+					}
+					b_kammin = {
+						bohemian = "Kamien"
+						polish = "Kamien"
+						pommeranian = "Kamién"
+						moravian = "Kamien"
+						croatian = "Kamien"
+						bosnian = "Kamien"
+						serbian = "Kamien"
+						karantanci = "Kamien"
+						bulgarian = "Kamien"
+						russian = "Kamien"
+					}
+					b_naugard = {
+						bohemian = "Nowogard"
+						polish = "Nowogard"
+						pommeranian = "Nogart"
+						moravian = "Nowogard"
+						croatian = "Nowogard"
+						bosnian = "Nowogard"
+						serbian = "Nowogard"
+						karantanci = "Nowogard"
+						bulgarian = "Nowogard"
+						russian = "Nowogard"
+					}
+					b_greifensberg = {
+						bohemian = "Gryfice"
+						polish = "Gryfice"
+						pommeranian = "Gryphenberge"
+						moravian = "Gryfice"
+						croatian = "Gryfice"
+						bosnian = "Gryfice"
+						serbian = "Gryfice"
+						karantanci = "Gryfice"
+						bulgarian = "Gryfice"
+						russian = "Gryfice"
+					}
+					b_gollnow = {
+						bohemian = "Goleniów"
+						polish = "Goleniów"
+						pommeranian = "Gòlonóg"
+						moravian = "Goleniów"
+						croatian = "Goleniów"
+						bosnian = "Goleniów"
+						serbian = "Goleniów"
+						karantanci = "Goleniów"
+						bulgarian = "Goleniów"
+						russian = "Goleniów"
+					}
+					b_pyritz = {
+						bohemian = "Pyrzyce"
+						polish = "Pyrzyce"
+						pommeranian = "Pirzëce"
+						moravian = "Pyrzyce"
+						croatian = "Pyrzyce"
+						bosnian = "Pyrzyce"
+						serbian = "Pyrzyce"
+						karantanci = "Pyrzyce"
+						bulgarian = "Pyrzyce"
+						russian = "Pyrzyce"
+					}				
+				}
+				c_szvuine = {
+					color={ 51 213 51 }
+					color2={ 255 255 255 }
 
-			bohemian = "Wologoszcz"
-			polish = "Wologoszcz"
-			pommeranian = "Hologost"
-			danish = "Waløgost"
-			swedish = "Waløgost"
-			norwegian = "Waløgost"
-			gothic = "Waløgost"
-			norsegaelic = "Waløgost"
-			anglonorse = "Waløgost"	
-			
-			b_wolgast = {
-				bohemian = "Wologoszcz"
-				polish = "Wologoszcz"
-				pommeranian = "Hologost"
-				danish = "Waløgost"
-				swedish = "Waløgost"
-				norwegian = "Waløgost"
-				gothic = "Waløgost"
-				norsegaelic = "Waløgost"
-				anglonorse = "Waløgost"
-			}
-			b_stolpemonestary = {
-				bohemian = "Slupie"
-				polish = "Slupie"
-				pommeranian = "Slupie"
-			}
-			b_demmin = {
-				bohemian = "Dymin"
-				polish = "Dymin"
-				pommeranian = "Dymine"
-			}
-			b_anklam = {
-				bohemian = "Tanchlim"
-				polish = "Tanchlim"
-				pommeranian = "Tanchlym"
-			}
-			b_ueckermunde = {
-				bohemian = "Wkryujscie"
-				polish = "Wkryujscie"
-				pommeranian = "Ucramund"
-			}
-			b_zinnowitz = {
-				bohemian = "Cis"
-				polish = "Cis"
-				pommeranian = "Tzys"
-			}
-			b_pasewalk = {
-				bohemian = "Pozdawilk"
-				polish = "Pozdawilk"
-				pommeranian = "Pozwolc"
-			}
-			b_eggesin = {
-				bohemian = "Kcynia"
-				polish = "Kcynia"
-				pommeranian = "Gizin"
-			}
-			b_loitzwolgast = {
-				bohemian = "Losice"
-				polish = "Losice"
-				pommeranian = "Losice"
-			}
-			b_gutzkow = {
-				bohemian = "Chocków"
-				polish = "Chocków"
-				pommeranian = "Gotzekowe"
-			}
-		}
-		c_belgard = {
-			color={ 160 155 25 }
-			color2={ 255 255 255 }
+					#danish = "Jómsburgh"
+					#swedish = "Jómsborg"
+					#norwegian = "Jómsborg"
+					#gothic = "Jómsborg"
+					#norsegaelic = "Jómsborg"
+					#anglonorse = "Jómsborg"
+					#german = "Swine"
+					
+					b_szvuinecastle = {
+						danish = "Jómsburgh"
+						swedish = "Jómsborg"
+						icelandic = "Jómsborg"
+						norwegian = "Jómsborg"
+						norse = "Jómsborg"
+						gothic = "Jómsborg"
+						norsegaelic = "Jómsborg"
+						anglonorse = "Jómsborg"
+						polish = "Szvuine"
+						pommeranian = "Szvuine"
+						bohemian = "Szvuine"
+						moravian = "Szvuine"
+						croatian = "Szvuine"
+						bosnian = "Szvuine"
+						serbian = "Szvuine"
+						karantanci = "Szvuine"
+						bulgarian = "Szvuine"
+						russian = "Szvuine"
+					}			
+					b_wolin = {
+						polish = "Wolyn"
+						pommeranian = "Wòlin"
+						bohemian = "Wolyn"
+						moravian = "Wolyn"
+						croatian = "Wolyn"
+						bosnian = "Wolyn"
+						serbian = "Wolyn"
+						karantanci = "Wolyn"
+						bulgarian = "Wolyn"
+						russian = "Wolyn"
+						maghreb_arabic = "Weltaba"                  
+						levantine_arabic = "Weltaba"
+						egyptian_arabic = "Weltaba"
+						andalusian_arabic = "Weltaba"
+						sicilian_arabic = "Weltaba"
+						bedouin_arabic = "Weltaba"
+						berber = "Weltaba"
+						tuareg = "Weltaba" 
+					} 
+					b_grobemonestary = {
+					}
+					b_koserow = {
+						polish = "Kosarzów"
+						pommeranian = "Cuzerowe"
+						bohemian = "Kosarzów"
+						moravian = "Kosarzów"
+						croatian = "Kosarzów"
+						bosnian = "Kosarzów"
+						serbian = "Kosarzów"
+						karantanci = "Kosarzów"
+						bulgarian = "Kosarzów"
+						russian = "Kosarzów"
+					}
+					b_usedom = {
+						polish = "Uznam"
+						pommeranian = "Ùznôm"
+						bohemian = "Uznam"
+						moravian = "Uznam"
+						croatian = "Uznam"
+						bosnian = "Uznam"
+						serbian = "Uznam"
+						karantanci = "Uznam"
+						bulgarian = "Uznam"
+						russian = "Uznam"
+					}
+					b_kaseburg = {
+						polish = "Karsibór"
+						pommeranian = "Karsibór"
+						bohemian = "Karsibór"
+						moravian = "Karsibór"
+					        croatian = "Karsibór"
+						bosnian = "Karsibór"
+						serbian = "Karsibór"
+						karantanci = "Karsibór"
+						bulgarian = "Karsibór"
+						russian = "Karsibór"
+					}
+					b_pryztor = {
+						polish = "Przytór"
+						pommeranian = "Przytór"
+						bohemian = "Przytór"
+						moravian = "Przytór"
+						croatian = "Przytór"
+						bosnian = "Przytór"
+						serbian = "Przytór"
+						karantanci = "Przytór"
+						bulgarian = "Przytór"
+						russian = "Przytór"
+					}				
+				}
+				c_wolgast = {
+					color={ 51 243 51 }
+					color2={ 255 255 255 }
 
-			#bohmeian = "Bialogard"
-			#polish = "Bialogard"
-			#pommeranian = "Biologard"
-			
-			b_kozalin = {
-				bohemian = "Koszalin"
-				polish = "Koszalin"
-				pommeranian = "Koszalëno"
-			}
-			b_colberg = {
-				bohemian = "Kolobrzeg"
-				polish = "Kolobrzeg"
-				pommeranian = "Kolbrzeg"
-			}
-			b_tempelburg = {
-				bohemian = "Czaplinek"
-				polish = "Czaplinek"
-				pommeranian = "Czaplinok"
-			}
-			b_barwalde = {
-				bohemian = "Barwice"
-				polish = "Barwice"
-				pommeranian = "Barwica"
-			}
-			b_belgard = {
-				bohemian = "Bialogard"
-				polish = "Bialogard"
-				pommeranian = "Biologard"
-			}
-		}
-		c_rugen = {
-			color={ 201 201 201 }
-			color2={ 255 255 255 }
+					bohemian = "Wologoszcz"
+					polish = "Wologoszcz"
+					pommeranian = "Hologost"
+					moravian = "Wologoszcz"
+					croatian = "Wologoszcz"
+					bosnian = "Wologoszcz"
+					serbian = "Wologoszcz"
+					karantanci = "Wologoszcz"
+					bulgarian = "Wologoszcz"
+					russian = "Wologoszcz"
+					danish = "Waløgost"
+					swedish = "Waløgost"
+					norwegian = "Waløgost"
+					gothic = "Waløgost"
+					norsegaelic = "Waløgost"
+					anglonorse = "Waløgost"	
+					
+					b_wolgast = {
+						bohemian = "Wologoszcz"
+						polish = "Wologoszcz"
+						pommeranian = "Hologost"
+						moravian = "Wologoszcz"
+						croatian = "Wologoszcz"
+						bosnian = "Wologoszcz"
+						serbian = "Wologoszcz"
+						karantanci = "Wologoszcz"
+						bulgarian = "Wologoszcz"
+						russian = "Wologoszcz"
+						danish = "Waløgost"
+						swedish = "Waløgost"
+						norwegian = "Waløgost"
+						gothic = "Waløgost"
+						norsegaelic = "Waløgost"
+						anglonorse = "Waløgost"
+					}
+					b_stolpemonestary = {
+						bohemian = "Slupie"
+						polish = "Slupie"
+						pommeranian = "Slupie"
+						moravian = "Slupie"
+						croatian = "Slupie"
+						bosnian = "Slupie"
+						serbian = "Slupie"
+						karantanci = "Slupie"
+						bulgarian = "Slupie"
+						russian = "Slupie"
+					}
+					b_demmin = {
+						bohemian = "Dymin"
+						polish = "Dymin"
+						pommeranian = "Dymine"
+						moravian = "Dymin"
+						croatian = "Dymin"
+						bosnian = "Dymin"
+						serbian = "Dymin"
+						karantanci = "Dymin"
+						bulgarian = "Dymin"
+						russian = "Dymin"
+					}
+					b_anklam = {
+						bohemian = "Tanchlim"
+						polish = "Tanchlim"
+						pommeranian = "Tanchlym"
+						moravian = "Ustka"
+						croatian = "Ustka"
+						bosnian = "Ustka"
+						serbian = "Ustka"
+						karantanci = "Ustka"
+						bulgarian = "Ustka"
+						russian = "Ustka"
+					}
+					b_ueckermunde = {
+						bohemian = "Wkryujscie"
+						polish = "Wkryujscie"
+						pommeranian = "Ucramund"
+						moravian = "Wkryujscie"
+						croatian = "Wkryujscie"
+						bosnian = "Wkryujscie"
+						serbian = "Wkryujscie"
+					        karantanci = "Wkryujscie"
+						bulgarian = "Wkryujscie"
+						russian = "Wkryujscie"
+					}
+					b_zinnowitz = {
+						bohemian = "Cis"
+						polish = "Cis"
+						pommeranian = "Tzys"
+						moravian = "Cis"
+						croatian = "Cis"
+						bosnian = "Cis"
+						serbian = "Cis"
+						karantanci = "Cis"
+						bulgarian = "Cis"
+						russian = "Cis"
+					}
+					b_pasewalk = {
+						bohemian = "Pozdawilk"
+						polish = "Pozdawilk"
+						pommeranian = "Pozwolc"
+						moravian = "Pozdawilk"
+						croatian = "Pozdawilk"
+						bosnian = "Pozdawilk"
+						serbian = "Pozdawilk"
+						karantanci = "Pozdawilk"
+						bulgarian = "Pozdawilk"
+						russian = "Pozdawilk"
+					}
+					b_eggesin = {
+						bohemian = "Kcynia"
+						polish = "Kcynia"
+						pommeranian = "Gizin"
+						moravian = "Kcynia"
+						croatian = "Kcynia"
+						bosnian = "Kcynia"
+						serbian = "Kcynia"
+						karantanci = "Kcynia"
+						bulgarian = "Kcynia"
+						russian = "Kcynye"
+					}
+					b_loitzwolgast = {
+						bohemian = "Losice"
+						polish = "Losice"
+						pommeranian = "Losice"
+						moravian = "Losice"
+						croatian = "Losice"
+						bosnian = "Losice"
+						serbian = "Losice"
+						karantanci = "Losice"
+						bulgarian = "Losice"
+						russian = "Losice"
+					}
+					b_gutzkow = {
+						bohemian = "Chocków"
+						polish = "Chocków"
+						pommeranian = "Gotzekowe"
+						moravian = "Chocków"
+						croatian = "Chocków"
+						bosnian = "Chocków"
+						serbian = "Chocków"
+						karantanci = "Chocków"
+						bulgarian = "Chocków"
+						russian = "Chocków"
+					}
+				}
+				c_belgard = {
+					color={ 160 155 25 }
+					color2={ 255 255 255 }
 
-			name_tier = duke
+					#bohmeian = "Bialogard"
+					#polish = "Bialogard"
+					#pommeranian = "Biologard"
+					
+					b_kozalin = {
+						bohemian = "Koszalin"
+						polish = "Koszalin"
+						pommeranian = "Koszalëno"
+						moravian = "Koszalin"
+						croatian = "Koszalin"
+						bosnian = "Koszalin"
+						serbian = "Koszalin"
+						karantanci = "Koszalin"
+						bulgarian = "Koszalin"
+						russian = "Koszalin"
+					}
+					b_colberg = {
+						bohemian = "Kolobrzeg"
+						polish = "Kolobrzeg"
+						pommeranian = "Kolbrzeg"
+						moravian = "Kolbrzeg"
+						croatian = "Kolbrzeg"
+						bosnian = "Kolbrzeg"
+						serbian = "Kolbrzeg"
+						karantanci = "Kolbrzeg"
+						bulgarian = "Kolbrzeg"
+						russian = "Kolbrzeg"
+					}
+					b_tempelburg = {
+						bohemian = "Czaplinek"
+						polish = "Czaplinek"
+						pommeranian = "Czaplinok"
+						moravian = "Czaplinek"
+						croatian = "Czaplinek"
+						bosnian = "Czaplinek"
+						serbian = "Czaplinek"
+						karantanci = "Czaplinek"
+						bulgarian = "Czaplinek"
+						russian = "Czaplinek"
+					}
+					b_barwalde = {
+						bohemian = "Barwice"
+						polish = "Barwice"
+						pommeranian = "Barwica"
+						moravian = "Barwice"
+						croatian = "Barwice"
+						bosnian = "Barwice"
+						serbian = "Barwice"
+						karantanci = "Barwice"
+						bulgarian = "Barwice"
+						russian = "Barwice"
+					}
+					b_belgard = {
+						bohemian = "Bialogard"
+						polish = "Bialogard"
+						pommeranian = "Biologard"
+						moravian = "Biologard"
+						croatian = "Biologard"
+						bosnian = "Biologard"
+						serbian = "Biologard"
+						karantanci = "Biologard"
+						bulgarian = "Biologard"
+						russian = "Biologard"
+					}
+				}
+				c_rugen = {
+					color={ 201 201 201 }
+					color2={ 255 255 255 }
 
-			bohemian = "Rugia"
-			polish = "Rugia"
-			pommeranian = "Rana"
-			danish = "Rygen"
-			swedish = "Rygen"
-			norwegian = "Rygen"
-			gothic = "Rygen"
-			norsegaelic = "Rygen"
-			anglonorse = "Rygen"
-			
-			b_charenza = {
-				danish = "Charenz"
-				swedish = "Charenz"
-				norwegian = "Charenz"
-				gothic = "Charenz"
-				norsegaelic = "Charenz"
-				anglonorse = "Charenz"
-				bohemian = "Korenitza"
-				polish = "Korenitza"
-				pommeranian = "Korenitza"
-			}
-			b_greifswald = {
-				bohemian = "Gryfia"
-				polish = "Gryfia"
-				pommeranian = "Gryfia"
-			}
-			b_stralsund = {
-				bohemian = "Sztrela"
-				polish = "Sztrela"
-				pommeranian = "Stralow"
-			}
-			b_barth = {
-				bohemian = "Bardo"
-				polish = "Bardo"
-				pommeranian = "Bardo"
-			}
-			b_neuenkamp = {
-				bohemian = "Nowopole"
-				polish = "Nowopole"
-				pommeranian = "Nowopole"
-			}
-			b_arkona = {
-				holy_site = slavic_pagan
-				holy_site = slavic_pagan_reformed
-				holy_site = baltic_pagan
-				holy_site = baltic_pagan_reformed
-			}
-			b_rugard = {
-				danish = "Rujanenburgr"
-				swedish = "Rujanenburgr"
-				norwegian = "Rujanenburgr"
-				gothic = "Rujanenburgr"
-				norsegaelic = "Rujanenburgr"
-				anglonorse = "Rujanenburgr"
-				bohemian = "Rugard"
-				polish = "Rugard"
-				pommeranian = "Rugard"
-			}
-			b_putbus = {
-				bohemian = "Podbórz"
-				polish = "Podbórz"
-				pommeranian = "Podbórz"
-			}				
-			b_ralswiek = {
-				bohemian = "Ralów"
-				polish = "Ralów"
-				pommeranian = "Ralswiik"
-				danish = "Ralswík"
-				swedish = "Ralswík"
-				norwegian = "Ralswík"
-				gothic = "Ralswík"
-				norsegaelic = "Ralswík"
-				anglonorse = "Ralswík"
-			}
-			b_hiddensee = {
-				danish = "Hedinsey"
-				swedish = "Hedinsey"
-				norwegian = "Hedinsey"
-				gothic = "Hedinsey"
-				norsegaelic = "Hedinsey"
-				anglonorse = "Hedinsey"
-			}
-			b_eldenaabbey = {
-				bohemian = "Eldena"
-				polish = "Eldena"
-				pommeranian = "Eldena"
-			} 
-		}          				
-		c_slupsk = {
-			color={ 6 155 25 }
-			color2={ 255 255 255 }
+					name_tier = duke
 
-			bohemian = "Slupsk-Slawno"
-			polish = "Slupsk-Slawno"
-			pommeranian = "Slëpsk-Slowno"			
-			
-			b_ustka = {
-				bohemian = "Ustka"
-				polish = "Ustka"
-				pommeranian = "Usko"
-			}
-			b_darlowo = {
-				bohemian = "Darlowo"
-				polish = "Darlowo"
-				pommeranian = "Dirlow"
-			}
-			b_slupsk = {
-				bohemian = "Slupsk"
-				polish = "Slupsk"
-				pommeranian = "Slëpsk"
-			}
-			b_slawno = {
-				bohemian = "Slawno"
-				polish = "Slawno"
-				pommeranian = "Slowno"
-			}
-		}
-	}
-	d_brandenburg = {
-		color={ 229 223 200 }
-		color2={ 255 255 255 }
-		
-		capital = 365 #Brandenburg 
-		culture = german
-		
-		title = "MARGRAVE"
-		title_female = "MARGRAVINE"
-		foa = "MARGRAVE_FOA"
-		title_prefix = "MARGRAVE_OF"
+					bohemian = "Rugia"
+					polish = "Rugia"
+					pommeranian = "Rana"
+				        moravian = "Rugia"
+					croatian = "Rugia"
+					bosnian = "Rugia"
+					serbian = "Rugia"
+					karantanci = "Rugia"
+					bulgarian = "Rugia"
+					russian = "Rugye"
+					danish = "Rygen"
+					swedish = "Rygen"
+					norwegian = "Rygen"
+					gothic = "Rygen"
+					norsegaelic = "Rygen"
+					anglonorse = "Rygen"
+					
+					b_charenza = {
+						danish = "Charenz"
+						swedish = "Charenz"
+						norwegian = "Charenz"
+						gothic = "Charenz"
+						norsegaelic = "Charenz"
+						anglonorse = "Charenz"
+						bohemian = "Korenitza"
+						polish = "Korenitza"
+						pommeranian = "Korenitza"
+						moravian = "Korenitza"
+						croatian = "Korenitza"
+						bosnian = "Korenitza"
+						serbian = "Korenitza"
+						karantanci = "Korenitza"
+						bulgarian = "Korenitza"
+						russian = "Korenitza"
+					}
+					b_greifswald = {
+						bohemian = "Gryfia"
+						polish = "Gryfia"
+						pommeranian = "Gryfia"
+						moravian = "Gryfia"
+						croatian = "Gryfia"
+						bosnian = "Gryfia"
+						serbian = "Gryfia"
+						karantanci = "Gryfia"
+						bulgarian = "Gryfia"
+						russian = "Gryfye"
+					}
+					b_stralsund = {
+						bohemian = "Sztrela"
+						polish = "Sztrela"
+						pommeranian = "Stralow"
+						moravian = "Sztrela"
+						croatian = "Sztrela"
+						bosnian = "Sztrela"
+						serbian = "Sztrela"
+						karantanci = "Sztrela"
+						bulgarian = "Sztrela"
+						russian = "Sztrela"
+					}
+					b_barth = {
+						bohemian = "Bardo"
+						polish = "Bardo"
+						pommeranian = "Bardo"
+						moravian = "Bardo"
+						croatian = "Bardo"
+						bosnian = "Bardo"
+						serbian = "Bardo"
+						karantanci = "Bardo"
+						bulgarian = "Bardo"
+						russian = "Bardo"
+					}
+					b_neuenkamp = {
+						bohemian = "Nowopole"
+						polish = "Nowopole"
+						pommeranian = "Nowopole"
+						moravian = "Nowopole"
+						croatian = "Nowopole"
+						bosnian = "Nowopole"
+						serbian = "Nowopole"
+						karantanci = "Nowopole"
+						bulgarian = "Nowopole"
+						russian = "Nowopole"
+					}
+					b_arkona = {
+						holy_site = slavic_pagan
+						holy_site = slavic_pagan_reformed
+						holy_site = baltic_pagan
+						holy_site = baltic_pagan_reformed
+					}
+					b_rugard = {
+						danish = "Rujanenburgh"
+						swedish = "Rujanenborg"
+						norwegian = "Rujanenborg"
+						gothic = "Rujanenborg"
+						norsegaelic = "Rujanenborg"
+						anglonorse = "Rujanenborg"
+						bohemian = "Rugard"
+						polish = "Rugard"
+						pommeranian = "Rugard"
+						moravian = "Rujanenborg"
+						croatian = "Rujanenborg"
+						bosnian = "Rujanenborg"
+						serbian = "Rujanenborg"
+						karantanci = "Rujanenborg"
+						bulgarian = "Rujanenborg"
+						russian = "Rujanenborg"
+					}
+					b_putbus = {
+						bohemian = "Podbórz"
+						polish = "Podbórz"
+						pommeranian = "Podbórz"
+						moravian = "Podbórz"
+						croatian = "Podbórz"
+						bosnian = "Podbórz"
+						serbian = "Podbórz"
+						karantanci = "Podbórz"
+						bulgarian = "Podbórz"
+						russian = "Podbórz"
+					}				
+					b_ralswiek = {
+						bohemian = "Ralów"
+						polish = "Ralów"
+						pommeranian = "Ralswiik"
+						moravian = "Ralów"
+						croatian = "Ralów"
+						bosnian = "Ralów"
+						serbian = "Ralów"
+						karantanci = "Ralów"
+						bulgarian = "Ralów"
+						russian = "Ralów"
+						danish = "Ralswík"
+						swedish = "Ralswík"
+						norwegian = "Ralswík"
+						gothic = "Ralswík"
+						norsegaelic = "Ralswík"
+						anglonorse = "Ralswík"
+					}
+					b_hiddensee = {
+						danish = "Hedinsey"
+						swedish = "Hedinsey"
+						norwegian = "Hedinsey"
+						gothic = "Hedinsey"
+						norsegaelic = "Hedinsey"
+						anglonorse = "Hedinsey"
+					}
+					b_eldenaabbey = {
+						bohemian = "Eldena"
+						polish = "Eldena"
+						pommeranian = "Eldena"
+						moravian = "Eldena"
+						croatian = "Eldena"
+						bosnian = "Eldena"
+						serbian = "Eldena"
+						karantanci = "Eldena"
+						bulgarian = "Eldena"
+						russian = "Eldena"
+					} 
+				}          				
+				c_slupsk = {
+					color={ 6 155 25 }
+					color2={ 255 255 255 }
 
-		polish = "Branibór"
-		bohemian = "Brenna"
-		pommeranian = "Brennaburg"
-		moravian = "Brennaburg"
-		croatian = "Brenna"
-		bosnian = "Brenna"
-		serbian = "Brenna"
-		karantanci = "Brenna"
-		bulgarian = "Brenna"
-		russian = "Brenna"
-		
-		c_brandenburg = {
-			color={ 186 186 186 }
-			color2={ 255 255 255 }
+					bohemian = "Slupsk-Slawno"
+					polish = "Slupsk-Slawno"
+					pommeranian = "Slëpsk-Slowno"
+					moravian = "Slupsk-Slawno"
+					croatian = "Slupsk-Slawno"
+					bosnian = "Slupsk-Slawno"
+					serbian = "Slupsk-Slawno"
+					karantanci = "Slupsk-Slawno"
+					bulgarian = "Slupsk-Slawno"
+					russian = "Slupsk-Slawno"			
+					
+					b_ustka = {
+						bohemian = "Ustka"
+						polish = "Ustka"
+						pommeranian = "Usko"
+						moravian = "Ustka"
+						croatian = "Ustka"
+						bosnian = "Ustka"
+						serbian = "Ustka"
+						karantanci = "Ustka"
+						bulgarian = "Ustka"
+						russian = "Ustka"
+					}
+					b_darlowo = {
+						bohemian = "Darlowo"
+						polish = "Darlowo"
+						pommeranian = "Dirlow"
+						moravian = "Darlowo"
+						croatian = "Darlowo"
+						bosnian = "Darlowo"
+						serbian = "Darlowo"
+						karantanci = "Darlowo"
+						bulgarian = "Darlowo"
+						russian = "Darlowo"
+					}
+					b_slupsk = {
+						bohemian = "Slupsk"
+						polish = "Slupsk"
+						pommeranian = "Slëpsk"
+						moravian = "Slupsk"
+						croatian = "Slupsk"
+						bosnian = "Slupsk"
+						serbian = "Slupsk"
+						karantanci = "Slupsk"
+						bulgarian = "Slupsk"
+						russian = "Slupsk"
+					}
+					b_slawno = {
+						bohemian = "Slawno"
+						polish = "Slawno"
+						pommeranian = "Slowno"
+						moravian = "Slawno"
+						croatian = "Slawno"
+						bosnian = "Slawno"
+						serbian = "Slawno"
+						karantanci = "Slawno"
+						bulgarian = "Slawno"
+						russian = "Slawno"
+					}
+				}
+			}
+			d_brandenburg = {
+				color={ 229 223 200 }
+				color2={ 255 255 255 }
+				
+				capital = 365 #Brandenburg 
+				culture = german
+				
+				title = "MARGRAVE"
+				title_female = "MARGRAVINE"
+				foa = "MARGRAVE_FOA"
+				title_prefix = "MARGRAVE_OF"
 
-			polish = "Branibór"
-			bohemian = "Brenna"
-			pommeranian = "Brennaburg"
-			moravian = "Brennaburg"
-			croatian = "Brenna"
-			bosnian = "Brenna"
-			serbian = "Brenna"
-			karantanci = "Brenna"
-			bulgarian = "Brenna"
-			russian = "Brenna"
-			
-			b_brandenburg = {
 				polish = "Branibór"
 				bohemian = "Brenna"
 				pommeranian = "Brennaburg"
@@ -17439,69 +18456,96 @@ k_pomerania = {
 				karantanci = "Brenna"
 				bulgarian = "Brenna"
 				russian = "Brenna"
-			}
-			b_copenick = {}
-			b_brenna = {}
-			b_spandau = {}
-			b_boztow = {}
-			b_lehin = {}
-			b_berlin = {}
-			b_bernau = {}
-			b_templin = {}
-			b_muncheberg = {}
-			b_prenzlau = {}
-		}
-		c_prignitz= {
-			color={ 186 186 186 }
-			color2={ 255 255 255 }
-			
-			b_ruppin = {}
-			b_perleberg = {}
-			b_wittstock = {}
-			b_pritzwalk = {}
-			b_lindow = {}
-		}
-	}
-	d_lausitz = {
-		color={ 87 87 157 }
-		color2={ 255 255 255 }
-		
-		capital = 364 #Lausitz
-		culture = german
-		
-		title = "MARGRAVE"
-		title_female = "MARGRAVINE"
-		foa = "MARGRAVE_FOA"
-		title_prefix = "MARGRAVE_OF"
-		
-		c_niederlausitz = {
-			color={ 174 124 189 }
-			color2={ 255 255 255 }
-			
-			b_luckau = {}
-			b_lebus = {}
-			b_cottbus = {}
-			b_forst = {}
-		}
-		c_lausitz = {
-			color={ 174 174 174 }
-			color2={ 255 255 255 }
-			
-			b_raothenburg = {}
-			b_gorlitz = {}
-			b_bautzen = {}
-			b_zittau = {}
-		}
-	}
-	allow = {
-		liege = { NOT = { has_landed_title = e_hre } }
-		OR = {
-			culture = pommeranian
-			prestige = 1500
-		}
-	}
+				
+				c_brandenburg = {
+					color={ 186 186 186 }
+					color2={ 255 255 255 }
 
-}		
+					polish = "Branibór"
+					bohemian = "Brenna"
+					pommeranian = "Brennaburg"
+					moravian = "Brennaburg"
+					croatian = "Brenna"
+					bosnian = "Brenna"
+					serbian = "Brenna"
+					karantanci = "Brenna"
+					bulgarian = "Brenna"
+					russian = "Brenna"
+					
+					b_brandenburg = {
+						polish = "Branibór"
+						bohemian = "Brenna"
+						pommeranian = "Brennaburg"
+						moravian = "Brennaburg"
+						croatian = "Brenna"
+						bosnian = "Brenna"
+						serbian = "Brenna"
+						karantanci = "Brenna"
+						bulgarian = "Brenna"
+						russian = "Brenna"
+					}
+					b_copenick = {}
+					b_brenna = {}
+					b_spandau = {}
+					b_boztow = {}
+					b_lehin = {}
+					b_berlin = {}
+					b_bernau = {}
+					b_templin = {}
+					b_muncheberg = {}
+					b_prenzlau = {}
+				}
+				c_prignitz= {
+					color={ 186 186 186 }
+					color2={ 255 255 255 }
+					
+					b_ruppin = {}
+					b_perleberg = {}
+					b_wittstock = {}
+					b_pritzwalk = {}
+					b_lindow = {}
+				}
+			}
+			d_lausitz = {
+				color={ 87 87 157 }
+				color2={ 255 255 255 }
+				
+				capital = 364 #Lausitz
+				culture = german
+				
+				title = "MARGRAVE"
+				title_female = "MARGRAVINE"
+				foa = "MARGRAVE_FOA"
+				title_prefix = "MARGRAVE_OF"
+				
+				c_niederlausitz = {
+					color={ 174 124 189 }
+					color2={ 255 255 255 }
+					
+					b_luckau = {}
+					b_lebus = {}
+					b_cottbus = {}
+					b_forst = {}
+				}
+				c_lausitz = {
+					color={ 174 174 174 }
+					color2={ 255 255 255 }
+					
+					b_raothenburg = {}
+					b_gorlitz = {}
+					b_bautzen = {}
+					b_zittau = {}
+				}
+			}
+			allow = {
+				liege = { NOT = { has_landed_title = e_hre } }
+				OR = {
+					culture = pommeranian
+					prestige = 1500
+				}
+			}
+
+		}		
 
 
 e_poland = {
@@ -22305,13 +23349,7 @@ e_russia = {
 	norwegian = "Garðaríki"
 	gothic = "Garðaríki"
 	norsegaelic = "Garðaríki"
-	anglonorse = "Garðaríki"
-	icelandic = "Garðaríki"
-	greek = "Rhos"
-	arberian = "Rhos"
-	armenian = "Rhos"
-	alan = "Rhos"
-	georgian = "Rhos"		
+	anglonorse = "Garðaríki"		
 	
 	k_vladimir = {
 		color={ 24 78 39 }
@@ -23277,14 +24315,13 @@ e_russia = {
 				color={ 144 161 101 }
 				color2={ 255 255 255 }
 				
-				danish = "Aldeigjuburgh"
+				danish = "Aldeigjuborg"
 				norse = "Aldeigjuborg"
 				swedish = "Aldeigjuborg"
 				norwegian = "Aldeigjuborg"
 				gothic = "Aldeigjuborg"
 				norsegaelic = "Aldeigjuborg"
 				anglonorse = "Aldeigjuborg"
-				icelandic = "Aldeigjuborg"
 				
 				b_staryaladoga = {}
 				b_tikhvin = {holy_site = finnish_pagan
@@ -23387,25 +24424,6 @@ e_russia = {
 			
 			capital = 396 # Bjarmia
 			culture = komi
-				polish = "Dvina"
-				bohemian = "Dvina"
-				pommeranian = "Dvina"
-				russian = "Dvina"
-				moravian = "Dvina"
-				croatian = "Dvina"
-				bosnian = "Dvina"
-				serbian = "Dvina"
-				karantanci = "Dvina"
-				bulgarian = "Dvina"				
-                                danish = "Beormland"
-				norse = "Beormland"
-				swedish = "Beormland"
-				norwegian = "Beormland"
-				gothic = "Beormland"
-				norsegaelic = "Beormland"
-				anglonorse = "Beormland"
-				icelandic = "Beormland"
-				norsegaelic = "Beormland"
 			
 			c_bjarmia = {
 				color={ 109 124 64 }
@@ -23444,17 +24462,15 @@ e_russia = {
 			
 			capital = 408 # Beloozero
 
-			finnish = "Ves"
-			mordvin = "Ves"
-			lappish = "Ves"
-			komi = "Ves"
-			karelian = "Ves"
-			samoyed = "Ves"
-			vepsian = "Ves"
-			mari = "ves"
-			ingrian = "Ves"
-			tsuudi = "Ves"
-			livonian = "Ves"
+			finnish = "Chud"
+			mordvin = "Chud"
+			lappish = "Chud"
+			komi = "Chud"
+			karelian = "Chud"
+			samoyed = "Chud"
+			vepsian = "Chud"
+			mari = "Chud"
+			ingrian = "Chud"
 			
 			c_beloozero = {
 				color={ 133 148 90 }
@@ -23643,17 +24659,6 @@ k_taurica = {
 		color2={ 255 255 255 }
 		
 		capital = 542 # Oliva
-
-			polish = "Podolye"
-			bohemian = "Podolye"
-			pommeranian = "Podolye"
-			russian = "Podolye"
-			moravian = "Podolye"
-			croatian = "Podolye"
-			bosnian = "Podolye"
-			serbian = "Podolye"
-			karantanci = "Podolye"
-			bulgarian = "Podolye"
 		
 		c_olvia = {
 			color={ 229 208 151 }
@@ -28293,633 +29298,6 @@ e_france = {
 			}
 		}
 	} # END k_burgundy
-	k_aquitaine = {
-		color={ 54 50 226 }
-		color2={ 255 255 20 }
-
-		capital = 149 # Bordaeux
-		culture = occitan
-		
-		catholic = 4000 # Crusade target weight
-		
-		d_toulouse = {
-			color={ 200 0 50 }color2={ 255 255 255 }
-			
-			capital = 214 # Toulouse
-			culture = occitan
-			
-			c_toulouse = {
-				color={ 18 24 251 }
-				color2={ 255 255 255 }
-				
-				b_castelnaudary = {}
-				b_toulouse = { title = "CAPITOUL" foa = "CAPITOUL_FOA" }
-				b_montauban = {}
-				b_lombez = {}
-				b_hautpoul = {}
-				b_montgiscard = {}
-				b_lasalvetatsaintgilles = {}
-				b_lislejourdain = {}
-			}
-			c_quercy = {
-				color={ 62 18 251 }
-				color2={ 255 255 255 }
-				
-				b_cahors = {}
-				b_figeac = {}
-				b_rocamadour = {}
-				b_morlhorn = {}
-				b_saintantonin = {}
-				b_mondenard = {}
-			}
-			c_rouergue = {
-				color={ 20 28 253 }
-				color2={ 255 255 255 }
-				
-				b_rodez = {}
-				b_vabres = {}
-				b_najac = {}
-				b_villefranche = {}
-				b_caylus = {}
-				b_staffrique = {}
-				b_estaing = {}
-				b_belcastel = {}
-				b_bertholene = {}
-				b_gissac = {}
-				b_vezinsdelevezou = {}
-			}
-			c_albi = {
-				color={ 20 28 253 }
-				color2={ 255 255 255 }
-				
-				b_fayet = {}
-				b_albioccitiania = {}
-				b_lavaur = {}
-				b_castres = {}
-				b_lombers = {}
-				b_rabastens = {}
-				b_brusque = {}
-			}
-		}
-		d_gevaudan = {
-			color={ 0 127 14 }
-			color2={ 255 255 255 }
-			
-			capital = 219 # Gevaudan
-			culture = occitan
-			name_tier = count
-			
-			c_milau = {
-				color={ 20 28 253 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_nantmillau = {}
-				b_millau = {}
-				b_templarlacavalerie = {}
-				b_creissels = {}
-				b_rivieresurtarn = {}
-				b_saintromedecernon = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"     
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_gevaudan = {
-				color={ 28 175 230 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_grezes = {}
-				b_mende = {}
-				b_apchier = {}
-				b_marvejols = {}
-				b_florac = {}
-				b_stsauveur = {}
-				b_tournel = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			allow = {
-				has_landed_title = c_gevaudan
-				has_landed_title = c_milau
-			}
-		}
-		d_foix = {
-			color={ 235 224 73 }
-			color2={ 255 255 255 }
-			
-			capital = 210 # Foix
-			culture = occitan
-			
-			c_foix = {
-				color={ 24 13 246 }
-				color2={ 255 255 255 }
-				
-				b_foix = {}
-				b_castagnac = {}
-				b_pamiers = {}
-				b_mirepoix = {}
-				b_montsegur = {}
-				b_roquefeuil = {}
-				b_usson = {}
-				b_niortdesault = {}
-			}
-			c_comminges = {
-				color={ 36 25 255 }
-				color2={ 255 255 255 }
-				
-				b_stbertrand = {}
-				b_stgaudens = {}
-				b_aspet = {}
-				b_muret = {}
-				b_barousse = {}
-				b_barbazan = {}
-				b_aurignac = {}
-			}
-			c_couserans = {
-				color={ 36 25 255 }
-				color2={ 255 255 255 }
-				
-				b_chateaumirabat = {}
-				b_saintlizier = {}
-				b_chateaudeseix = {}
-				b_saintgirons = {}
-			}
-			c_bearn = {
-				color={ 27 16 249 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_pau = {}
-				b_morlaas = {}
-				b_lescar = {}
-				b_mauleonlicharre = {}
-				b_orthez = {}
-				b_oloron = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_bigorre = {
-				color={ 27 16 249 }
-				color2={ 255 255 255 }
-				
-				b_lourdes = {}
-				b_vicenbigorre = {}
-				b_tarbes = {}
-				b_montaner = {}
-			}
-			allow = {
-				has_landed_title = c_foix
-				has_landed_title = c_bearn
-			}
-		}
-		d_septimania = {
-			color={ 0 50 180 }
-			color2={ 255 255 255 }
-			
-			capital = 212 # Narbonne
-			culture = occitan
-			
-			c_narbonne = {
-				color={ 14 20 247 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_cruzycastle = {}
-				b_narbonne_temple = {}
-				b_durbancorbires = {}
-				b_fabrezan = {}
-				b_gaussan = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_montpellier = {
-				color={ 10 16 243 }
-				color2={ 255 255 255 }
-				
-				b_montpellier = {}
-				b_maguelone = {}
-				b_saintguilhemledesert = {}
-				b_melgueil = {}
-				b_massillargues = {}
-				b_dioetvalquieres = {}
-				b_aumelas = {}
-				b_brissac = {}
-				b_lodeve = {}
-			}
-			c_nimes = {
-				color={ 10 16 243 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_chateudeportes = {}
-				b_saintchaptes = {}
-				b_nimes = {}
-				b_aiguesmortes = {}
-				b_uzes = {}
-				b_ales = {}
-				b_chateaudebeucaire = {}
-				b_saingilles = {}
-				b_bagnols = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_viviers = {
-				color={ 12 18 245 }
-				color2={ 255 255 255 }
-				
-				b_aubenas = {}
-				b_tournon = {}
-				b_viviers = {}
-				b_albalaromaine = {}
-				b_privas = {}
-				b_lecheylard = {}
-				b_largentiere = {}
-				b_joyeuse = {}
-			}
-			c_carcassonne = {
-				color={ 16 22 249 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_saissac = {}
-				b_carcassonne_villebasse = {}
-				b_rases = {}
-				b_limoux = {}
-				b_lagrasse = {}
-				b_lastours = {}
-				b_cabaret = {}
-				b_chateaudequeribus = {}
-				b_chateaudetermes = {}
-				b_arquescarcassone = {}
-				b_chateaudaguilar = {}
-				b_peyrepertuse = {}
-				b_pieusse = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_beziers = {
-				color={ 20 28 253 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_beziers = {}
-				b_minerve = {}
-				b_pezenas = {}
-				b_agde = {}
-				b_faugeres = {}
-				b_castelnaudeguers = {}
-				b_puisserguier = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-		}
-		d_gascogne = {
-			color={ 107 102 68 }
-			color2={ 255 255 255 }
-			
-			capital = 209 # Armagnac
-			culture = occitan
-			
-			c_armagnac = {
-				color={ 30 19 252 }
-				color2={ 255 255 255 }
-				
-				b_condom = {}
-				b_lisle = {}
-				b_eauze = {}
-				b_laujuzan = {}
-				b_termesdarmagnac = {}
-				b_vicefezenca = {}
-				b_laplume = {}
-				b_auch = {}
-				b_lectoure = {}
-				b_mirande = {}
-				b_gimbrede = {}
-				b_saintemere = {}
-				b_terraube = {}
-			}
-			c_labourd = {
-				color={ 33 22 255 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				
-				b_sauveterre = {}
-				b_bayonne = {}
-				b_stsever = {}
-				b_dax = {}
-				b_aire = {}
-				b_labastideclairence = {}
-				b_sorde = {}
-				b_hasparren = {}
-				
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-			}
-			c_albret = {
-				color={ 36 25 255 }
-				color2={ 255 255 255 }
-				
-				b_labrit = {}
-				b_tartas = {}
-				b_bazas = {}
-				b_villandraut = {}
-				b_mimizan = {}
-				b_chateaudebudos = {}
-			}
-			c_marsan = {
-				color={ 36 25 255 }
-				color2={ 255 255 255 }
-				
-				b_donjonlacataye = {}
-				b_chateaunolibos = {}
-				b_roquefort = {}
-				b_montdemarsan = {}
-				b_gabarret = {}
-				b_castelnau = {}
-			}
-		}
-		d_aquitaine = {
-			color={ 255 30 50 }
-			color2={ 255 255 255 }
-			
-			capital = 149 # Bordeaux
-			culture = occitan
-			dignity = 10 # Counted as having 10 more counties than it does
-			
-			c_bordeaux = {
-				color={ 58 14 247 }
-				color2={ 255 255 255 }
-				
-				b_castillon = {}
-				b_bordeaux = {}
-				b_stemilion = {}
-				b_blaye = {}
-				b_bourg = {}
-				b_labrede = {}
-				b_lasauve = {}
-				b_chateaudecurton = {}
-				b_lareole = {}
-				b_libourne = {}
-				b_blanquefort = {}
-				b_latestedebuch = {}
-			}
-			c_agen = {
-				color={ 62 18 251 }
-				color2={ 255 255 255 }
-				
-				b_casseneuil = {}
-				b_abbayedeysses = {}
-				b_penne = {}
-				b_agen = {}
-				b_luzech = {}
-				b_moissac = {}
-			}
-			c_perigord = {
-				color={ 66 22 255 }
-				color2={ 255 255 255 }
-				
-				b_baneuil = {}
-				b_perigueux = {}
-				b_sarlat = {}
-				b_biron = {}
-				b_auberoche = {}
-				b_bergerac = {}
-				b_chancelade = {}
-				b_bonaguil = {}
-			}
-		}
-		d_auvergne = {
-			color={ 250 150 0 }
-			color2={ 255 255 255 }
-			
-			capital = 217 # Auvergne
-			culture = occitan
-			
-			c_auvergne = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-				
-				b_montferrand = {}
-				b_brioude = {}
-				b_clairmont = {}
-				b_riom = {}
-				b_thiers = {}
-				b_chateaudopme = {}
-			}
-			c_dauphinedeauvergne = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-				
-				short_name = yes
-				
-				b_vodable = {}
-				b_labbeyblese = {}
-				b_auriacleglise = {}
-				b_bonnac = {}
-				b_murol = {}
-			}
-			c_murat = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-				
-				culture = occitan
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-				
-				b_murat = {}
-				b_auvergneval = {}
-				b_mauriac = {}
-				b_stflour = {}
-				b_besseetsaintanastaise = {}
-			}
-			c_carlades = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-
-				culture = occitan
-				title = "VICOMTE"
-				title_female = "VICOMTESSE"  
-				foa = "VICOMTE_FOA"
-				title_prefix = "VICOMTE_OF"
-				
-				b_carlat = {}
-				b_leabbeysauxillanges = {}
-				b_auvergnepleaux = {}
-				b_ybois = {}
-				b_cellesauverghne = {}
-				b_aurillac = {}
-			}
-			c_velay = {
-				color={ 26 173 228 }
-				color2={ 255 255 255 }
-				
-				b_lachaisedieu = {}
-				b_lepuy = {}
-				b_monistrol = {}
-				b_yssingeaux = {}
-				b_vorey = {}
-			}
-		}
-		d_poitou = {
-			color={ 30 80 200 }
-			color2={ 255 255 255 }
-			
-			culture = occitan
-			
-			c_lusignan = {
-				color={ 28 97 228 }
-				color2={ 255 255 255 }
-				
-				b_lusignan = {}
-				b_charroux = {}
-				b_niort = {}
-				b_melle = {}
-				b_civray = {}
-				b_maillezais = {}
-				b_confolens = {}
-				b_stmaixent = {}
-			}
-			c_saintonge = {
-				color={ 30 99 230 }
-				color2={ 255 255 255 }
-				
-				b_montguyon = {}
-				b_saintes = {}
-				b_stjeandangely = {}
-				b_villeneuve = {}
-				b_tonnay = {}
-				b_aulnay = {}
-				b_royan = {}
-				b_taillebourg = {}
-			}
-			c_poitiers = {
-				color={ 32 101 232 }
-				color2={ 255 255 255 }
-				
-				b_chauvigny = {}
-				b_poitiers = {}
-				b_stsavin = {}
-				b_moncontour = {}
-				b_mirebeau = {}
-				b_parthenay = {}
-				b_loudun = {}
-				b_chatellerault = {}
-			}
-			c_thouars = {
-				color={ 34 103 234 }
-				color2={ 255 255 255 }
-				
-				b_thouars = {}
-				b_lucon = {}
-				b_bressuire = {}
-				b_olonne = {}
-				b_mauleon = {}
-				b_fontenaylecomte = {}
-			}
-			c_aunis = {
-				color={ 34 103 234 }
-				color2={ 255 255 255 }
-				
-				b_surgeres = {}
-				b_vauclaircastle = {}
-				b_larochelle = {}
-				b_maransaunis = {}
-				b_chatelaillon = {}
-				b_fourasaunis = {}
-				b_godsgrace = {}
-			}
-			c_angouleme = {
-				color={ 70 26 255 }
-				color2={ 255 255 255 }
-				
-				b_jarnac = {}
-				b_angouleme = {}
-				b_bassac = {}
-				b_larochefoucauld = {}
-				b_cognac = {}
-				b_richemont = {}
-				b_fontdouce = {}
-				b_latranchade = {}
-			}
-		}
-		d_limousin = {
-			color={ 250 250 250 }
-			color2={ 255 255 255 }
-			
-			capital = 147 # Limoges
-			culture = occitan
-			
-			c_la_marche = {
-				color={ 5 130 46 }
-				color2={ 255 255 255 }
-				
-				b_crozant = {}
-				b_bellac = {}
-				b_gueret = {}
-				b_aubusson = {}
-				b_boussac = {}
-				b_lasouterraine = {}
-				b_bourganeuf = {}
-				b_jouillat = {}
-			}
-			c_limousin = {
-				color={ 5 130 66 }
-				color2={ 255 255 255 }
-				
-				b_limotges = {}
-				b_rochechouart = {}
-				b_chalus = {}
-				b_stleonard = {}
-				b_thiviers = {}
-			}
-			c_ventadour = {
-				color={ 5 130 6 }
-				color2={ 255 255 255 }
-				
-				b_comborn = {}
-				b_ventadour = {}
-				b_turenne = {}
-				b_donzenac = {}
-				b_tulle = {}
-			}
-		}
-		allow = {
-			NOT = { has_landed_title = k_france } 
-		}
-	} # END k_aquitaine
 	k_brittany = {
 		color={ 240 240 240 }
 		color2={ 0 0 0 }
@@ -29920,6 +30298,633 @@ e_france = {
 			}
 		}
 	} # END k_france
+	k_aquitaine = {
+		color={ 54 50 226 }
+		color2={ 255 255 20 }
+
+		capital = 149 # Bordaeux
+		culture = occitan
+		
+		catholic = 4000 # Crusade target weight
+		
+		d_toulouse = {
+			color={ 200 0 50 }color2={ 255 255 255 }
+			
+			capital = 214 # Toulouse
+			culture = occitan
+			
+			c_toulouse = {
+				color={ 18 24 251 }
+				color2={ 255 255 255 }
+				
+				b_castelnaudary = {}
+				b_toulouse = { title = "CAPITOUL" foa = "CAPITOUL_FOA" }
+				b_montauban = {}
+				b_lombez = {}
+				b_hautpoul = {}
+				b_montgiscard = {}
+				b_lasalvetatsaintgilles = {}
+				b_lislejourdain = {}
+			}
+			c_quercy = {
+				color={ 62 18 251 }
+				color2={ 255 255 255 }
+				
+				b_cahors = {}
+				b_figeac = {}
+				b_rocamadour = {}
+				b_morlhorn = {}
+				b_saintantonin = {}
+				b_mondenard = {}
+			}
+			c_rouergue = {
+				color={ 20 28 253 }
+				color2={ 255 255 255 }
+				
+				b_rodez = {}
+				b_vabres = {}
+				b_najac = {}
+				b_villefranche = {}
+				b_caylus = {}
+				b_staffrique = {}
+				b_estaing = {}
+				b_belcastel = {}
+				b_bertholene = {}
+				b_gissac = {}
+				b_vezinsdelevezou = {}
+			}
+			c_albi = {
+				color={ 20 28 253 }
+				color2={ 255 255 255 }
+				
+				b_fayet = {}
+				b_albioccitiania = {}
+				b_lavaur = {}
+				b_castres = {}
+				b_lombers = {}
+				b_rabastens = {}
+				b_brusque = {}
+			}
+		}
+		d_gevaudan = {
+			color={ 0 127 14 }
+			color2={ 255 255 255 }
+			
+			capital = 219 # Gevaudan
+			culture = occitan
+			name_tier = count
+			
+			c_milau = {
+				color={ 20 28 253 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_nantmillau = {}
+				b_millau = {}
+				b_templarlacavalerie = {}
+				b_creissels = {}
+				b_rivieresurtarn = {}
+				b_saintromedecernon = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"     
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_gevaudan = {
+				color={ 28 175 230 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_grezes = {}
+				b_mende = {}
+				b_apchier = {}
+				b_marvejols = {}
+				b_florac = {}
+				b_stsauveur = {}
+				b_tournel = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			allow = {
+				has_landed_title = c_gevaudan
+				has_landed_title = c_milau
+			}
+		}
+		d_foix = {
+			color={ 235 224 73 }
+			color2={ 255 255 255 }
+			
+			capital = 210 # Foix
+			culture = occitan
+			
+			c_foix = {
+				color={ 24 13 246 }
+				color2={ 255 255 255 }
+				
+				b_foix = {}
+				b_castagnac = {}
+				b_pamiers = {}
+				b_mirepoix = {}
+				b_montsegur = {}
+				b_roquefeuil = {}
+				b_usson = {}
+				b_niortdesault = {}
+			}
+			c_comminges = {
+				color={ 36 25 255 }
+				color2={ 255 255 255 }
+				
+				b_stbertrand = {}
+				b_stgaudens = {}
+				b_aspet = {}
+				b_muret = {}
+				b_barousse = {}
+				b_barbazan = {}
+				b_aurignac = {}
+			}
+			c_couserans = {
+				color={ 36 25 255 }
+				color2={ 255 255 255 }
+				
+				b_chateaumirabat = {}
+				b_saintlizier = {}
+				b_chateaudeseix = {}
+				b_saintgirons = {}
+			}
+			c_bearn = {
+				color={ 27 16 249 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_pau = {}
+				b_morlaas = {}
+				b_lescar = {}
+				b_mauleonlicharre = {}
+				b_orthez = {}
+				b_oloron = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_bigorre = {
+				color={ 27 16 249 }
+				color2={ 255 255 255 }
+				
+				b_lourdes = {}
+				b_vicenbigorre = {}
+				b_tarbes = {}
+				b_montaner = {}
+			}
+			allow = {
+				has_landed_title = c_foix
+				has_landed_title = c_bearn
+			}
+		}
+		d_septimania = {
+			color={ 0 50 180 }
+			color2={ 255 255 255 }
+			
+			capital = 212 # Narbonne
+			culture = occitan
+			
+			c_narbonne = {
+				color={ 14 20 247 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_cruzycastle = {}
+				b_narbonne_temple = {}
+				b_durbancorbires = {}
+				b_fabrezan = {}
+				b_gaussan = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_montpellier = {
+				color={ 10 16 243 }
+				color2={ 255 255 255 }
+				
+				b_montpellier = {}
+				b_maguelone = {}
+				b_saintguilhemledesert = {}
+				b_melgueil = {}
+				b_massillargues = {}
+				b_dioetvalquieres = {}
+				b_aumelas = {}
+				b_brissac = {}
+				b_lodeve = {}
+			}
+			c_nimes = {
+				color={ 10 16 243 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_chateudeportes = {}
+				b_saintchaptes = {}
+				b_nimes = {}
+				b_aiguesmortes = {}
+				b_uzes = {}
+				b_ales = {}
+				b_chateaudebeucaire = {}
+				b_saingilles = {}
+				b_bagnols = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_viviers = {
+				color={ 12 18 245 }
+				color2={ 255 255 255 }
+				
+				b_aubenas = {}
+				b_tournon = {}
+				b_viviers = {}
+				b_albalaromaine = {}
+				b_privas = {}
+				b_lecheylard = {}
+				b_largentiere = {}
+				b_joyeuse = {}
+			}
+			c_carcassonne = {
+				color={ 16 22 249 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_saissac = {}
+				b_carcassonne_villebasse = {}
+				b_rases = {}
+				b_limoux = {}
+				b_lagrasse = {}
+				b_lastours = {}
+				b_cabaret = {}
+				b_chateaudequeribus = {}
+				b_chateaudetermes = {}
+				b_arquescarcassone = {}
+				b_chateaudaguilar = {}
+				b_peyrepertuse = {}
+				b_pieusse = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_beziers = {
+				color={ 20 28 253 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_beziers = {}
+				b_minerve = {}
+				b_pezenas = {}
+				b_agde = {}
+				b_faugeres = {}
+				b_castelnaudeguers = {}
+				b_puisserguier = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+		}
+		d_gascogne = {
+			color={ 107 102 68 }
+			color2={ 255 255 255 }
+			
+			capital = 209 # Armagnac
+			culture = occitan
+			
+			c_armagnac = {
+				color={ 30 19 252 }
+				color2={ 255 255 255 }
+				
+				b_condom = {}
+				b_lisle = {}
+				b_eauze = {}
+				b_laujuzan = {}
+				b_termesdarmagnac = {}
+				b_vicefezenca = {}
+				b_laplume = {}
+				b_auch = {}
+				b_lectoure = {}
+				b_mirande = {}
+				b_gimbrede = {}
+				b_saintemere = {}
+				b_terraube = {}
+			}
+			c_labourd = {
+				color={ 33 22 255 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				
+				b_sauveterre = {}
+				b_bayonne = {}
+				b_stsever = {}
+				b_dax = {}
+				b_aire = {}
+				b_labastideclairence = {}
+				b_sorde = {}
+				b_hasparren = {}
+				
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+			}
+			c_albret = {
+				color={ 36 25 255 }
+				color2={ 255 255 255 }
+				
+				b_labrit = {}
+				b_tartas = {}
+				b_bazas = {}
+				b_villandraut = {}
+				b_mimizan = {}
+				b_chateaudebudos = {}
+			}
+			c_marsan = {
+				color={ 36 25 255 }
+				color2={ 255 255 255 }
+				
+				b_donjonlacataye = {}
+				b_chateaunolibos = {}
+				b_roquefort = {}
+				b_montdemarsan = {}
+				b_gabarret = {}
+				b_castelnau = {}
+			}
+		}
+		d_aquitaine = {
+			color={ 255 30 50 }
+			color2={ 255 255 255 }
+			
+			capital = 149 # Bordeaux
+			culture = occitan
+			dignity = 10 # Counted as having 10 more counties than it does
+			
+			c_bordeaux = {
+				color={ 58 14 247 }
+				color2={ 255 255 255 }
+				
+				b_castillon = {}
+				b_bordeaux = {}
+				b_stemilion = {}
+				b_blaye = {}
+				b_bourg = {}
+				b_labrede = {}
+				b_lasauve = {}
+				b_chateaudecurton = {}
+				b_lareole = {}
+				b_libourne = {}
+				b_blanquefort = {}
+				b_latestedebuch = {}
+			}
+			c_agen = {
+				color={ 62 18 251 }
+				color2={ 255 255 255 }
+				
+				b_casseneuil = {}
+				b_abbayedeysses = {}
+				b_penne = {}
+				b_agen = {}
+				b_luzech = {}
+				b_moissac = {}
+			}
+			c_perigord = {
+				color={ 66 22 255 }
+				color2={ 255 255 255 }
+				
+				b_baneuil = {}
+				b_perigueux = {}
+				b_sarlat = {}
+				b_biron = {}
+				b_auberoche = {}
+				b_bergerac = {}
+				b_chancelade = {}
+				b_bonaguil = {}
+			}
+		}
+		d_auvergne = {
+			color={ 250 150 0 }
+			color2={ 255 255 255 }
+			
+			capital = 217 # Auvergne
+			culture = occitan
+			
+			c_auvergne = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+				
+				b_montferrand = {}
+				b_brioude = {}
+				b_clairmont = {}
+				b_riom = {}
+				b_thiers = {}
+				b_chateaudopme = {}
+			}
+			c_dauphinedeauvergne = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+				
+				short_name = yes
+				
+				b_vodable = {}
+				b_labbeyblese = {}
+				b_auriacleglise = {}
+				b_bonnac = {}
+				b_murol = {}
+			}
+			c_murat = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+				
+				culture = occitan
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+				
+				b_murat = {}
+				b_auvergneval = {}
+				b_mauriac = {}
+				b_stflour = {}
+				b_besseetsaintanastaise = {}
+			}
+			c_carlades = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+
+				culture = occitan
+				title = "VICOMTE"
+				title_female = "VICOMTESSE"  
+				foa = "VICOMTE_FOA"
+				title_prefix = "VICOMTE_OF"
+				
+				b_carlat = {}
+				b_leabbeysauxillanges = {}
+				b_auvergnepleaux = {}
+				b_ybois = {}
+				b_cellesauverghne = {}
+				b_aurillac = {}
+			}
+			c_velay = {
+				color={ 26 173 228 }
+				color2={ 255 255 255 }
+				
+				b_lachaisedieu = {}
+				b_lepuy = {}
+				b_monistrol = {}
+				b_yssingeaux = {}
+				b_vorey = {}
+			}
+		}
+		d_poitou = {
+			color={ 30 80 200 }
+			color2={ 255 255 255 }
+			
+			culture = occitan
+			
+			c_lusignan = {
+				color={ 28 97 228 }
+				color2={ 255 255 255 }
+				
+				b_lusignan = {}
+				b_charroux = {}
+				b_niort = {}
+				b_melle = {}
+				b_civray = {}
+				b_maillezais = {}
+				b_confolens = {}
+				b_stmaixent = {}
+			}
+			c_saintonge = {
+				color={ 30 99 230 }
+				color2={ 255 255 255 }
+				
+				b_montguyon = {}
+				b_saintes = {}
+				b_stjeandangely = {}
+				b_villeneuve = {}
+				b_tonnay = {}
+				b_aulnay = {}
+				b_royan = {}
+				b_taillebourg = {}
+			}
+			c_poitiers = {
+				color={ 32 101 232 }
+				color2={ 255 255 255 }
+				
+				b_chauvigny = {}
+				b_poitiers = {}
+				b_stsavin = {}
+				b_moncontour = {}
+				b_mirebeau = {}
+				b_parthenay = {}
+				b_loudun = {}
+				b_chatellerault = {}
+			}
+			c_thouars = {
+				color={ 34 103 234 }
+				color2={ 255 255 255 }
+				
+				b_thouars = {}
+				b_lucon = {}
+				b_bressuire = {}
+				b_olonne = {}
+				b_mauleon = {}
+				b_fontenaylecomte = {}
+			}
+			c_aunis = {
+				color={ 34 103 234 }
+				color2={ 255 255 255 }
+				
+				b_surgeres = {}
+				b_vauclaircastle = {}
+				b_larochelle = {}
+				b_maransaunis = {}
+				b_chatelaillon = {}
+				b_fourasaunis = {}
+				b_godsgrace = {}
+			}
+			c_angouleme = {
+				color={ 70 26 255 }
+				color2={ 255 255 255 }
+				
+				b_jarnac = {}
+				b_angouleme = {}
+				b_bassac = {}
+				b_larochefoucauld = {}
+				b_cognac = {}
+				b_richemont = {}
+				b_fontdouce = {}
+				b_latranchade = {}
+			}
+		}
+		d_limousin = {
+			color={ 250 250 250 }
+			color2={ 255 255 255 }
+			
+			capital = 147 # Limoges
+			culture = occitan
+			
+			c_la_marche = {
+				color={ 5 130 46 }
+				color2={ 255 255 255 }
+				
+				b_crozant = {}
+				b_bellac = {}
+				b_gueret = {}
+				b_aubusson = {}
+				b_boussac = {}
+				b_lasouterraine = {}
+				b_bourganeuf = {}
+				b_jouillat = {}
+			}
+			c_limousin = {
+				color={ 5 130 66 }
+				color2={ 255 255 255 }
+				
+				b_limotges = {}
+				b_rochechouart = {}
+				b_chalus = {}
+				b_stleonard = {}
+				b_thiviers = {}
+			}
+			c_ventadour = {
+				color={ 5 130 6 }
+				color2={ 255 255 255 }
+				
+				b_comborn = {}
+				b_ventadour = {}
+				b_turenne = {}
+				b_donzenac = {}
+				b_tulle = {}
+			}
+		}
+		allow = {
+			NOT = { has_landed_title = k_france } 
+		}
+	} # END k_aquitaine
 	allow = {
 		OR = {
 			culture = frankish
@@ -38957,18 +39962,12 @@ e_iberia = {
 				}
 			}
 		}
+	d_asturias = {
+			color={ 19 83 180 }
+			color2={ 0 0 0 }
+		}
 	} # END k_asturias
 
-	d_asturias = {
-
-
-		color={ 19 83 180 }
-
-
-		color2={ 0 0 0 }
-
-
-	}
 # END TITULAR SWMH Spain
 } # END e_iberia
 
@@ -38977,6 +39976,7 @@ e_africa = {
 	color2={ 255 255 255 }
 	
 	culture = maghreb_arabic
+	creation_requires_capital = no # Two potential capitals
 
 	k_africa = {
 		color={ 255 204 102 }
@@ -39789,11 +40789,21 @@ e_africa = {
 		} 
 	} # END k_mauretania
 	
-	allow = { religion_group = muslim 
+	allow = {
+		religion_group = muslim
 		ruled_years = 5
 		war = no
 		is_adult = yes
-		NOT = { tier = emperor }  }
+		NOT = { tier = emperor }
+		OR = {
+			has_landed_title = k_mauretania
+			completely_controls = k_mauretania
+		}
+		OR = {
+			has_landed_title = k_africa
+			completely_controls = k_africa
+		}
+	}
 } # END e_africa
 
 e_arabia = {
@@ -45495,8 +46505,8 @@ e_britannia = {
 		welsh = "Cymru"
 		english = "Wales"
 		saxon = "Wealas"
-		norwegian = "Bretland"
-		danish = "Bretland"
+				norwegian = "Bretland"
+			danish = "Bretland"
 		swedish = "Bretland"
 		anglonorse = "Bretland"
 		gothic = "Bretland"

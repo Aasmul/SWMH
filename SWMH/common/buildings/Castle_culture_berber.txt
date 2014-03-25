@@ -1,13 +1,13 @@
 # Zanata cavalry	
 castle = {
-         ca_culture_group_north_african_1 = {
+	ca_culture_group_north_african_1 = {
 		desc = ca_culture_group_north_african_1_desc
 		potential = {
 			FROM = { OR = {
 					culture_group = north_african
 					culture = andalusian_arabic
 				}
-                        }
+			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
 		prerequisites = { ca_wall_2 }
@@ -26,7 +26,7 @@ castle = {
 					culture_group = north_african
 					culture = andalusian_arabic
 				}
-                        }
+			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
 		upgrades_from = ca_culture_group_north_african_1
@@ -45,7 +45,7 @@ castle = {
 					culture_group = north_african
 					culture = andalusian_arabic
 				}
-                        }
+			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
 		upgrades_from = ca_culture_group_north_african_2
@@ -64,7 +64,7 @@ castle = {
 					culture_group = north_african
 					culture = andalusian_arabic
 				}
-                        }
+			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
 		upgrades_from = ca_culture_group_north_african_3
@@ -77,13 +77,13 @@ castle = {
 		extra_tech_building_start = 0.8
 	}
 
-  # Nomadic tribe building
-  ca_culture_group_desert_nomad_1 = {
+# Nomadic tribe building
+	ca_culture_group_desert_nomad_1 = {
 		desc = ca_culture_group_desert_nomad_1_desc
 		potential = {
 			terrain = desert
 			FROM = {
-        OR = {
+				OR = {
 					culture = tagelmust
 					culture = tuareg
 					culture = zanata
@@ -92,9 +92,8 @@ castle = {
 					culture = afar
 					culture = zaghawa
 					culture = daju
-					culture = mossi
 				}
-      }
+			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
 		build_cost = 120
@@ -105,18 +104,18 @@ castle = {
 		
 		extra_tech_building_start = 0.5
 	}
-  ca_culture_group_desert_nomad_2 = {
+	ca_culture_group_desert_nomad_2 = {
 		desc = ca_culture_group_desert_nomad_2_desc
 		potential = {
 			FROM = { 
-        OR = {
+				OR = {
 					culture = tagelmust
 					culture = tuareg
 					culture = zanata
 					culture = beja
 					culture = bedouin_arabic
 				}
-      }
+			}
 		}
 		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
 		prerequisites = { ca_wall_1 }
