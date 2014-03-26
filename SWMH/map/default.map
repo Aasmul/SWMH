@@ -1,4 +1,4 @@
-max_provinces = 1913
+max_provinces = 1950
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -14,23 +14,12 @@ region = "region.txt"
 static = "static.txt"
 
 # European Seas
-sea_zones = { 1636 1699 }
-sea_zones = { 1701 1783 }
-sea_zones = { 1785 1870 }
-sea_zones = { 1872 1895 }
-sea_zones = { 1899 1895 }
-# Indian Seas
-sea_zones = { 1897 1898 }
-sea_zones = { 1906 1908 }
-sea_zones = { 1910 1912 }
+sea_zones = { 1636 1766 }
 
-# European Ocean
-ocean_region = {	
-	sea_zones = { 1 2 3 4 5 }
-}
-# Indian Ocean
-ocean_region = {	
-	sea_zones = { 6 7 8 }
+# European Seas
+sea_zones = { 1770 1898 }
+ocean_region = {	# European Ocean
+	sea_zones = { 1 2 }
 }
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
@@ -76,4 +65,5 @@ major_rivers =
 	1855 1857 # Mosel
 	1841 # Main
 	1868 1869 1870 # Maas
+	1672 1763 # Götaelven-Väneren
 }
