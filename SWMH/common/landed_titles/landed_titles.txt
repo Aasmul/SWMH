@@ -206,6 +206,7 @@ d_knights_templar = {
 	landless = yes
 	
 	holy_order = yes
+	mercenary_type = knights_templar_composition
 	
 	culture = frankish
 	
@@ -217,8 +218,6 @@ d_knights_templar = {
 	
 	# Extra income due to banking, etc
 	monthly_income = 10 # (Must be an integer between 1 and 512)
-	
-	modifier = d_knights_templar_modifier
 }
 
 d_teutonic_order = {
@@ -237,6 +236,7 @@ d_teutonic_order = {
 	landless = yes
 	
 	holy_order = yes
+	mercenary_type = teutonic_order_composition
 	
 	# Parent Religion 
 	religion = catholic
@@ -248,8 +248,6 @@ d_teutonic_order = {
 	
 	# Extra income due to donations, etc
 	monthly_income = 4 # (Must be an integer between 1 and 512)
-
-	modifier = d_teutonic_order_modifier
 }
 
 d_knights_hospitaler = {
@@ -280,7 +278,7 @@ d_knights_hospitaler = {
 	# Extra income due to donations, etc
 	monthly_income = 6 # (Must be an integer between 1 and 512)
 
-	modifier = d_knights_hospitaler_modifier
+	mercenary_type = knights_hospitaler_composition
 }
 
 d_hashshashin = {
@@ -307,14 +305,14 @@ d_hashshashin = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	# Extra income due to donations, etc
 	monthly_income = 6 # (Must be an integer between 1 and 512)
 
-	modifier = d_hashshashin_modifier
+	mercenary_type = hashshashin_composition
 }
 
 d_bektashi = {
@@ -341,14 +339,14 @@ d_bektashi = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	# Extra income due to donations, etc
 	monthly_income = 6 # (Must be an integer between 1 and 512)
 
-	modifier = d_bektashi_modifier
+	mercenary_type = bektashi_composition
 }
 
 d_jomsvikings = {
@@ -379,7 +377,7 @@ d_jomsvikings = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_jomsvikings_modifier
+	mercenary_type = jomsvikings_composition
 }
 
 d_immortals = {
@@ -409,7 +407,7 @@ d_immortals = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_immortals_modifier
+	mercenary_type = immortals_composition
 }
 
 d_zealots = {
@@ -439,7 +437,7 @@ d_zealots = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_zealots_modifier
+	mercenary_type = zealots_composition
 }
 
 d_holy_sepulchre = {
@@ -469,7 +467,7 @@ d_holy_sepulchre = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_holy_sepulchre_modifier
+	mercenary_type = holy_sepulchre_composition
 }
 
 d_saint_anthony = {
@@ -499,7 +497,37 @@ d_saint_anthony = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_saint_anthony_modifier
+	mercenary_type = saint_anthony_composition
+}
+
+d_saint_addai = {
+
+	color={ 180 80 140 }
+	
+	graphical_culture = holygfx
+	
+	capital = 693 # Baghdad
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = nestorian
+	
+	culture = persian
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = saint_addai_composition
 }
 
 d_sky_lords = {
@@ -527,7 +555,7 @@ d_sky_lords = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_sky_lords_modifier
+	mercenary_type = sky_lords_composition
 }
 
 d_spirit_guardians = {
@@ -557,7 +585,7 @@ d_spirit_guardians = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_spirit_guardians_modifier
+	mercenary_type = spirit_guardians_composition
 }
 
 d_warriors_perun = {
@@ -587,7 +615,7 @@ d_warriors_perun = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_warriors_perun_modifier
+	mercenary_type = warriors_perun_composition
 }
 
 d_chosen_perkunas = {
@@ -617,7 +645,7 @@ d_chosen_perkunas = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_chosen_perkunas_modifier
+	mercenary_type = chosen_perkunas_composition
 }
 
 d_sons_kaleva = {
@@ -647,7 +675,7 @@ d_sons_kaleva = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_sons_kaleva_modifier
+	mercenary_type = sons_kaleva_composition
 }
 
 d_huitzilopochtli = {
@@ -677,7 +705,7 @@ d_huitzilopochtli = {
 	# Extra income due to donations, etc
 	monthly_income = 2 # (Must be an integer between 1 and 512)
 
-	modifier = d_huitzilopochtli_modifier
+	mercenary_type = huitzilopochtli_composition
 }
 
 d_knights_santiago = {
@@ -707,7 +735,7 @@ d_knights_santiago = {
 	# Extra income due to donations, etc
 	monthly_income = 6 # (Must be an integer between 1 and 512)
 
-	modifier = d_knights_santiago_modifier
+	mercenary_type = knights_santiago_composition
 }
 
 d_knights_calatrava = {
@@ -737,7 +765,91 @@ d_knights_calatrava = {
 	# Extra income due to donations, etc
 	monthly_income = 6 # (Must be an integer between 1 and 512)
 
-	modifier = d_knights_calatrava_modifier
+	mercenary_type = knights_calatrava_composition
+}
+
+d_followers_arjuna = {
+	color={ 255 0 0 }
+	color2={ 255 255 255 }
+	
+	capital = 1355 # Delhi
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = hindustani
+	
+	# Parent Religion 
+	religion = hindu
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = followers_arjuna_composition
+}
+
+d_ashokas_chosen = {
+	color={ 205 100 0 }
+	color2={ 255 255 255 }
+	
+	capital = 1355 # Delhi
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = marathi
+	
+	# Parent Religion 
+	religion = buddhist
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = ashokas_chosen_composition
+}
+
+d_bulls_rishabha = {
+	color={ 255 100 0 }
+	color2={ 255 255 255 }
+	
+	capital = 1355 # Delhi
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = kannada
+	
+	# Parent Religion 
+	religion = jain
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = bulls_rishabha_composition
 }
 
 # MERCS
@@ -746,7 +858,7 @@ d_sunni_turkic_company = {
 	color = { 130 173 70 }
 	color2 = { 255 255 255 }
 
-	capital = 621 # Emba
+	capital = 621 # Kangly
 	
 	# Parent Religion 
 	religion = sunni
@@ -768,7 +880,7 @@ d_sunni_turkic_company = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_muslim_turkic_company_modifier
+	mercenary_type = muslim_turkic_company_composition
 }
 
 d_sunni_cuman_company = {
@@ -805,7 +917,7 @@ d_sunni_cuman_company = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_muslim_cuman_company_modifier
+	mercenary_type = muslim_cuman_company_composition
 }
 
 d_sunni_berber_company = {
@@ -842,7 +954,7 @@ d_sunni_berber_company = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_berber_company_modifier
+	mercenary_type = berber_company_composition
 }
 
 d_sunni_bedouin_company = {
@@ -879,7 +991,7 @@ d_sunni_bedouin_company = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_bedouin_company_modifier
+	mercenary_type = bedouin_company_composition
 }
 
 
@@ -887,7 +999,7 @@ d_shiite_turkic_company = {
 	color = { 135 170 60 }
 	color2 = { 255 255 255 }
 
-	capital = 621 # Emba
+	capital = 621 # Kangly
 	
 	# Parent Religion 
 	religion = shiite
@@ -909,7 +1021,7 @@ d_shiite_turkic_company = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_muslim_turkic_company_modifier
+	mercenary_type = muslim_turkic_company_composition
 }
 
 d_shiite_cuman_company = {
@@ -946,7 +1058,7 @@ d_shiite_cuman_company = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_muslim_cuman_company_modifier
+	mercenary_type = muslim_cuman_company_composition
 }
 
 d_shiite_berber_company = {
@@ -983,7 +1095,7 @@ d_shiite_berber_company = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_berber_company_modifier
+	mercenary_type = berber_company_composition
 }
 
 d_shiite_bedouin_company = {
@@ -1020,7 +1132,7 @@ d_shiite_bedouin_company = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_bedouin_company_modifier
+	mercenary_type = bedouin_company_composition
 }
 
 d_white_company = {
@@ -1047,13 +1159,13 @@ d_white_company = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_white_company_modifier
+	mercenary_type = white_company_composition
 	
 }
 
@@ -1087,7 +1199,7 @@ d_great_company = {
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_great_company_modifier
+	mercenary_type = great_company_composition
 }
 
 d_company_of_st_george = {
@@ -1120,7 +1232,7 @@ d_company_of_st_george = {
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_company_of_st_george_modifier
+	mercenary_type = company_of_st_george_composition
 }
 
 d_star_company = {
@@ -1147,13 +1259,13 @@ d_star_company = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_star_company_modifier
+	mercenary_type = star_company_composition
 }
 
 d_little_hat_company = {
@@ -1180,13 +1292,13 @@ d_little_hat_company = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_little_hat_company_modifier
+	mercenary_type = little_hat_company_composition
 }
 
 d_rose_company = {
@@ -1219,7 +1331,7 @@ d_rose_company = {
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_rose_company_modifier
+	mercenary_type = rose_company_composition
 }
 
 d_catalan_company = {
@@ -1253,7 +1365,7 @@ d_catalan_company = {
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_catalan_company_modifier
+	mercenary_type = catalan_company_composition
 }
 
 d_navarrese_company = {
@@ -1281,13 +1393,13 @@ d_navarrese_company = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_navarrese_company_modifier
+	mercenary_type = navarrese_company_composition
 }
 
 d_swiss_company = {
@@ -1314,13 +1426,13 @@ d_swiss_company = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_swiss_company_modifier
+	mercenary_type = swiss_company_composition
 }
 
 d_breton_company = {
@@ -1354,7 +1466,7 @@ d_breton_company = {
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_breton_company_modifier
+	mercenary_type = breton_company_composition
 }
 
 d_victual_brothers = {
@@ -1380,6 +1492,7 @@ d_victual_brothers = {
 	religion = catholic
 	
 	mercenary = yes
+	mercenary_type = victual_brothers_composition
 
 	title = "CAPTAIN"
 	foa = "CAPTAIN_FOA"
@@ -1394,9 +1507,8 @@ d_victual_brothers = {
 	independent = yes
 	
 	strength_growth_per_century = 0.25
-
-	modifier = d_victual_brothers_modifier
 }
+
 d_varangian_guard = {
 	color={ 180 180 180 }
 	color2={ 255 255 255 }
@@ -1423,9 +1535,8 @@ d_varangian_guard = {
 	
 	strength_growth_per_century = 0.10
 	
-	modifier = d_varangian_guard_modifier
+	mercenary_type = varangian_guard_composition
 }
-
 
 d_cuman_company = {
 	color = { 160 160 80 }
@@ -1453,7 +1564,7 @@ d_cuman_company = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_cuman_company_modifier
+	mercenary_type = cuman_company_composition
 }
 
 d_rus_company = {
@@ -1491,7 +1602,7 @@ d_rus_company = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_rus_company_modifier
+	mercenary_type = rus_company_composition
 }
 
 d_pecheneg_company = {
@@ -1521,7 +1632,7 @@ d_pecheneg_company = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_pecheneg_company_modifier
+	mercenary_type = pecheneg_company_composition
 }
 
 d_bulgarian_company = {
@@ -1551,14 +1662,14 @@ d_bulgarian_company = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_bulgarian_company_modifier
+	mercenary_type = bulgarian_company_composition
 }
 
 d_turkic_company = {
 	color = { 100 50 30 }
 	color2 = { 255 255 255 }
 
-	capital = 621 # Emba
+	capital = 621 # Kangly
 	
 	# Parent Religion 
 	religion = orthodox
@@ -1581,7 +1692,7 @@ d_turkic_company = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_turkic_company_modifier
+	mercenary_type = turkic_company_composition
 }
 
 d_lombard_band = {
@@ -1608,13 +1719,13 @@ d_lombard_band = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_lombard_band_modifier
+	mercenary_type = lombard_band_composition
 }
 
 d_swiss_band = {
@@ -1641,13 +1752,13 @@ d_swiss_band = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_swiss_band_modifier
+	mercenary_type = swiss_band_composition
 }
 
 d_breton_band = {
@@ -1676,13 +1787,13 @@ d_breton_band = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_breton_band_modifier
+	mercenary_type = breton_band_composition
 }
 
 d_catalan_band = {
@@ -1717,7 +1828,7 @@ d_catalan_band = {
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_catalan_band_modifier
+	mercenary_type = catalan_band_composition
 }
 
 d_saxon_band = {
@@ -1752,7 +1863,7 @@ d_saxon_band = {
 	
 	strength_growth_per_century = 1.0
 
-	modifier = d_saxon_band_modifier
+	mercenary_type = saxon_band_composition
 }
 
 d_cuman_band = {
@@ -1782,7 +1893,7 @@ d_cuman_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_cuman_band_modifier
+	mercenary_type = cuman_band_composition
 }
 
 d_rus_band = {
@@ -1820,7 +1931,7 @@ d_rus_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_rus_band_modifier
+	mercenary_type = rus_band_composition
 }
 
 d_finnish_band = {
@@ -1858,7 +1969,7 @@ d_finnish_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_finnish_band_modifier
+	mercenary_type = finnish_band_composition
 }
 
 d_lappish_band = {
@@ -1896,7 +2007,7 @@ d_lappish_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_lappish_band_modifier
+	mercenary_type = lappish_band_composition
 }
 
 d_lithuanian_band = {
@@ -1934,7 +2045,7 @@ d_lithuanian_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_lithuanian_band_modifier
+	mercenary_type = lithuanian_band_composition
 }
 
 d_abyssinian_band = {
@@ -1945,7 +2056,10 @@ d_abyssinian_band = {
 	
 	# Hire Trigger
 	allow = {
-		religion_group = christian
+		OR = {
+			religion_group = christian
+			religion_group = jewish_group
+		}
 	}
 	
 	# Parent Religion 
@@ -1969,7 +2083,7 @@ d_abyssinian_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_abyssinian_band_modifier
+	mercenary_type = abyssinian_band_composition
 }
 
 d_nubian_band = {
@@ -1980,13 +2094,16 @@ d_nubian_band = {
 	
 	# Hire Trigger
 	allow = {
-		religion_group = christian
+		OR = {
+			religion_group = christian
+			religion_group = jewish_group
+		}
 	}
 	
 	# Parent Religion 
 	religion = miaphysite
 	
-	culture = ethiopian
+	culture = nubian
 	
 	mercenary = yes
 
@@ -2004,7 +2121,7 @@ d_nubian_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_nubian_band_modifier
+	mercenary_type = nubian_band_composition
 }
 
 d_scottish_band = {
@@ -2039,7 +2156,7 @@ d_scottish_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_scottish_band_modifier
+	mercenary_type = scottish_band_composition
 }
 
 d_irish_band = {
@@ -2074,7 +2191,7 @@ d_irish_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_irish_band_modifier
+	mercenary_type = irish_band_composition
 }
 
 d_alan_band = {
@@ -2109,7 +2226,7 @@ d_alan_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_alan_band_modifier
+	mercenary_type = alan_band_composition
 }
 
 d_pecheneg_band = {
@@ -2139,7 +2256,7 @@ d_pecheneg_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_pecheneg_band_modifier
+	mercenary_type = pecheneg_band_composition
 }
 
 d_bulgarian_band = {
@@ -2169,14 +2286,14 @@ d_bulgarian_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_bulgarian_band_modifier
+	mercenary_type = bulgarian_band_composition
 }
 
 d_turkic_band = {
 	color = { 100 50 30 }
 	color2 = { 255 255 255 }
 
-	capital = 621 # Emba
+	capital = 621 # Kangly
 	
 	# Parent Religion 
 	religion = orthodox
@@ -2199,7 +2316,7 @@ d_turkic_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_turkic_band_modifier
+	mercenary_type = turkic_band_composition
 }
 
 d_mamluks = {
@@ -2231,7 +2348,7 @@ d_mamluks = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_mamluks_modifier
+	mercenary_type = mamluks_composition
 }
 
 d_venetian_navy = { # Now "Adriatic Galleys"
@@ -2261,11 +2378,11 @@ d_venetian_navy = { # Now "Adriatic Galleys"
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 
-	modifier = d_venetian_navy_modifier
+	mercenary_type = naval_merc_composition
 }
 
 d_genoese_navy = { # Now "Ligurian Galleys"
@@ -2295,11 +2412,11 @@ d_genoese_navy = { # Now "Ligurian Galleys"
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 
-	modifier = d_genoese_navy_modifier
+	mercenary_type = naval_merc_composition
 }
 
 d_hanseatic_navy = { # Now "Baltic Cogs"
@@ -2329,11 +2446,11 @@ d_hanseatic_navy = { # Now "Baltic Cogs"
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 
-	modifier = d_hanseatic_navy_modifier
+	mercenary_type = naval_merc_composition
 }
 
 d_frisian_navy = { # Now "North Sea Cogs"
@@ -2363,11 +2480,11 @@ d_frisian_navy = { # Now "North Sea Cogs"
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 
-	modifier = d_frisian_navy_modifier
+	mercenary_type = naval_merc_composition
 }
 
 d_maghreb_corsairs = {
@@ -2399,11 +2516,11 @@ d_maghreb_corsairs = {
 	
 	# Cannot be held as a secondary title
 	primary = yes
-	
+		
 	# Cannot be vassalized
 	independent = yes
 
-	modifier = d_maghreb_corsairs_modifier
+	mercenary_type = naval_merc_composition
 }
 
 d_ghilman = {
@@ -2435,7 +2552,7 @@ d_ghilman = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_ghilman_modifier
+	mercenary_type = naval_merc_composition
 }
 
 d_ghanan_band = {
@@ -2470,7 +2587,7 @@ d_ghanan_band = {
 	
 	strength_growth_per_century = 1.0
 	
-	modifier = d_ghanan_band_modifier
+	mercenary_type = naval_merc_composition
 }
 
 # EMPIRES
@@ -54164,6 +54281,20 @@ e_britannia = {
 			}
 		}	
 
+### INDIA ###
+
+e_india = {                      # Titular, created by special decision only if entire India is united
+	color = { 255 110 0 }
+
+	title = "SAMRAT_CHAKRAVARTIN"
+	title_female = "SAMRAJNI_CHAKRAVARTIN"
+
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	allow = {
+		always = no # Only created through special decision
+	}
+}
 ######################################
 # Historical Merchant Republic Palaces
 ######################################
