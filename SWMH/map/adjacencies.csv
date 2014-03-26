@@ -1,4 +1,4 @@
-From;To;Type;Through;-1;-1;-1;-1;Comment
+From;To;Type;Through;Comment;;;;
 1444;1459;sea;1733;-1;-1;-1;-1;An Dhun-Kintyre
 5;1469;sea;1733;-1;-1;-1;-1;Ulaid-Baile Na H Uige
 35;39;sea;1702;-1;-1;-1;-1;Western Isles-Ross
@@ -50,8 +50,25 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 459;1415;sea;1643;-1;-1;-1;-1;Krk-Cres
 936;944;sea;1642;-1;-1;-1;-1;Hvar-Brac
 936;1295;sea;1642;-1;-1;-1;-1;Hvar-Korcula
-485;482;sea;1651;-1;-1;-1;-1;Euboia-Athens
-496;741;sea;1656;-1;-1;-1;-1;Byz-Nikomedia
+858;874;;;-1;-1;-1;-1;Aden-Tadjoura
+859;874;;;-1;-1;-1;-1;Taizz-Tadjoura
+854;870;;;-1;-1;-1;-1;Jask-Dhu Zabi
+651;653;;;-1;-1;-1;-1;Damman-Bahrein
+652;653;;;-1;-1;-1;-1;Al Hasa-Bahrein
+730;713;;;-1;-1;-1;-1;Palmyra-Qasralhayralsharqi
+713;729;;;-1;-1;-1;-1;Qasralhayralsharqi-Alqaim
+730;726;;;-1;-1;-1;-1;Palmyra-Qasralhayralgharbi
+726;728;;;-1;-1;-1;-1;Qasralhayralgharbi-Damacus
+722;785;;;-1;-1;-1;-1;Elim-Nekhel
+722;786;;;-1;-1;-1;-1;Elim-Stcathrine
+724;716;;;-1;-1;-1;-1;Amman-Dumat al-Jundal
+864;716;;;-1;-1;-1;-1;Hail-Dumat al-Jundal
+864;865;;;-1;-1;-1;-1;Hail-Talabija
+865;654;;;-1;-1;-1;-1;Talabija-Subala
+654;649;;;-1;-1;-1;-1;Subala-Basra
+865;717;;;-1;-1;-1;-1;Talabija-Mawijan
+863;717;;;-1;-1;-1;-1;Harer-Mawijan
+199;201;;;-1;-1;-1;-1;Burgos-Nájera
 387;409;major_river;1785;-1;-1;-1;-1;Kola-Bezhetsky Verh
 387;404;major_river;1785;-1;-1;-1;-1;Kola-Zaozerye
 404;403;major_river;1786;-1;-1;-1;-1;Zaozerye-Romney
@@ -86,3 +103,4 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1811;1835;portage;1277;-1;-1;-1;-1;Oka E-Sejm A
 1816;1817;portage;577;-1;-1;-1;-1;Pronya-Don A
 1819;1805;portage;595;-1;-1;-1;-1;Don C- Volga K
+-1;-1;;-1;-1;-1;-1;-1;
