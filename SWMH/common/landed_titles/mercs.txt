@@ -33,7 +33,7 @@ d_band_of_the_brave = {
 	# Cannot be vassalized
 	independent = yes
 
-	modifier = d_band_of_the_brave_modifier
+	mercenary_type = d_band_of_the_brave_composition
 	strength_growth_per_century = 0.25
 }
 d_band_of_the_red = {
@@ -66,7 +66,7 @@ d_band_of_the_red = {
 	# Cannot be vassalized
 	independent = yes
 
-	modifier = d_band_of_the_red_modifier
+	mercenary_type = d_band_of_the_red_composition
 	strength_growth_per_century = 0.25
 }
 
@@ -97,7 +97,7 @@ d_black_gang = {
 	# Cannot be vassalized
 	independent = yes
 
-	modifier = d_black_gang_modifier
+	mercenary_type = d_black_gang_composition
 	strength_growth_per_century = 0.25
 }
 d_ulfhedar = {
@@ -126,7 +126,7 @@ d_ulfhedar = {
         # Cannot be vassalized
 	independent = yes
 		
-	modifier = d_ulfhedar_modifier
+	mercenary_type = d_ulfhedar_composition
 	strength_growth_per_century = 0.25
 }
 
@@ -156,6 +156,6 @@ d_valr = {
         # Cannot be vassalized
 	independent = yes
 		
-	modifier = d_valr_modifier
+	mercenary_type = d_valr_composition
 	strength_growth_per_century = 0.25
 }

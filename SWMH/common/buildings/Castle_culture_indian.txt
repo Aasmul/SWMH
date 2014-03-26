@@ -1,0 +1,94 @@
+# Castle
+castle = {
+	# All cultural buildings follow the same pattern:
+	# tech required is 0, 1, 2, 4 for the levels of the buildings
+	# cost is 200 + 100 per level
+	# 60 maintenance of troops + 20 per level
+	# + 0.15 bonus in either offensive, defensive or morale sometimes split over different units or stats same on all levels
+	
+	# Culture building names MUST start with ca_culture
+	# Indian war elephant pens
+	ca_culture_indian_1 = {
+		desc = ca_culture_indian_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = indo_aryan_group
+					culture_group = dravidian_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		war_elephants = 6
+		war_elephants_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_indian_2 = {
+		desc = ca_culture_indian_2_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = indo_aryan_group
+					culture_group = dravidian_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_indian_1
+		build_cost = 300
+		build_time = 1095
+		war_elephants = 10
+		war_elephants_offensive = 0.05
+		war_elephants_defensive = 0.10
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_indian_3 = {
+		desc = ca_culture_indian_3_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = indo_aryan_group
+					culture_group = dravidian_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_indian_2
+		build_cost = 400
+		build_time = 2190
+		war_elephants = 22
+		war_elephants_offensive = 0.05
+		war_elephants_defensive = 0.10
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_indian_4 = {
+		desc = ca_culture_indian_4_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = indo_aryan_group
+					culture_group = dravidian_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_indian_3
+		build_cost = 500
+		build_time = 2190
+		war_elephants = 22
+		war_elephants_offensive = 0.05
+		war_elephants_defensive = 0.10
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+}

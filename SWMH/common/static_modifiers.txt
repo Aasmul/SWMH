@@ -72,7 +72,7 @@ sea_zone = {
 }
 
 land_province = {
-	max_attrition = 0.05			
+	max_attrition = 0.05	
 }
 
 mild_winter = {
@@ -313,6 +313,19 @@ defenderbonus_hills = {
 	horse_archers_offensive = 0.10
 }
 
+defenderbonus_jungle = {
+	icon = 1
+	archers_defensive = 0.3
+	light_infantry_defensive = 0.1
+	pikemen_defensive = 0.2
+	heavy_infantry_defensive = 0.1
+	horse_archers_defensive = -0.25
+
+	light_infantry_offensive = 0.1
+	heavy_infantry_offensive = 0.1
+	pikemen_offensive = 0.1
+	horse_archers_offensive = -0.15
+}
 ##########################################################################
 # Attribute Mods: Multiplied by the value (including councillor and spouse additions)
 ##########################################################################
@@ -2613,6 +2626,33 @@ sephardic_culture_modifier = {
     assassinate_chance_modifier = 0.075
 
 }   
+##########################################################################
+# Age Static Modifiers
+##########################################################################
+
+# 0-15
+age_child = {
+}
+
+# 16-19
+age_teen = {
+}
+
+# 20-29
+age_young = {
+}
+
+# 30-49
+age_adult = {
+}
+
+# 50-69
+age_old = {
+}
+
+# 70+
+age_very_old = {
+}
 
 
 ##########################################################################

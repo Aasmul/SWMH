@@ -374,6 +374,8 @@ RETTYPE_CUL_RUS =
 	
 	second_type = 6
 	second_amount = 200
+
+	special_troops = horse_archers
 	
 	potential = {	
 	culture = russian
@@ -909,6 +911,8 @@ RETTYPE_CUL_BYZ =
 	
 	second_type = 6
 	second_amount = 200
+
+	special_troops = horse_archers
   
 	potential = {	
 		OR = {		
@@ -930,6 +934,8 @@ RETTYPE_CUL_ARMENIAN =
 	
 	second_type = 6
 	second_amount = 200
+
+	special_troops = horse_archers
   
 	potential = {		
 	culture = armenian
@@ -980,6 +986,8 @@ RETTYPE_CUL_IRANIAN =
 	
 	second_type = 3
 	second_amount = 240
+
+	special_troops = horse_archers
 	
 	potential = {		
 	culture_group = iranian
@@ -1001,6 +1009,8 @@ RETTYPE_CUL_ALTAIC =
 	
 	second_type = 3
 	second_amount = 240
+
+	special_troops = horse_archers
 	
 	potential = {	
 		OR = {	
@@ -1021,6 +1031,8 @@ RETTYPE_CUL_AVAR =
 	
 	second_type = 6
 	second_amount = 200
+
+	special_troops = horse_archers
 	
 	potential = {		
 	culture = avar
@@ -1037,6 +1049,8 @@ RETTYPE_CUL_TURKISH =
 	
 	second_type = 3
 	second_amount = 240
+
+	special_troops = horse_archers
 	
 	potential = {		
 	culture = turkish
@@ -1053,6 +1067,8 @@ RETTYPE_CUL_MONGOL =
 	
 	second_type = 3
 	second_amount = 240
+
+	special_troops = horse_archers
 	
 	potential = {		
 	culture = mongol
@@ -1176,6 +1192,54 @@ RETTYPE_CUL_NAHUA =
 		heavy_infantry_offensive = 0.3
 	}
 }
+
+########################
+#Bedouin nomads group
+########################
+RETTYPE_CUL_BEDOUIN_NOMAD = 
+{
+	first_type = 3
+	first_amount = 320
+	
+	potential = {
+    OR = {		
+  		culture = tagelmust
+  		culture = tuareg
+  		culture = zanata
+  		culture = beja
+  		culture = bedouin_arabic
+  		culture = afar
+  		culture = zaghawa
+  		culture = daju
+      }
+    }
+	
+	modifier = {
+		light_cavalry_offensive = 0.6
+	}
+}
+
+RETTYPE_CUL_INDIAN = 
+{
+	first_type = 5
+	first_amount = 470
+	second_type = 6
+	second_amount = 30
+	
+	special_troops = war_elephants
+	
+	potential = {
+		OR = {
+			culture_group = indo_aryan_group
+			culture_group = dravidian_group
+		}
+	}
+	
+	modifier = {
+		archers_offensive = 0.6
+	}
+}
+
 ########
 #Bland vanilla
 ########
@@ -1186,7 +1250,7 @@ RETTYPE_CUL_NAHUA =
 # 3 - Light Cavalry
 # 4 - Heavy Cavalry
 # 5 - Archers
-# 6 - Horse Archers
+# 6 - Special troops
 
 RETTYPE_INF1 =
 {
@@ -1218,29 +1282,4 @@ RETTYPE_SKIR1 =
 	first_amount = 400
 	second_type = 1
 	second_amount = 100
-}
-########################
-#Bedouin nomads group
-########################
-RETTYPE_CUL_BEDOUIN_NOMAD = 
-{
-	first_type = 3
-	first_amount = 320
-	
-	potential = {
-    OR = {		
-  		culture = tagelmust
-  		culture = tuareg
-  		culture = zanata
-  		culture = beja
-  		culture = bedouin_arabic
-  		culture = afar
-  		culture = zaghawa
-  		culture = daju
-      }
-    }
-	
-	modifier = {
-		light_cavalry_offensive = 0.6
-	}
 }
