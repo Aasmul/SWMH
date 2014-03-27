@@ -1307,7 +1307,7 @@
 }
 
 1354 = {
-	name="Hugues"
+	name="Hugues" # http://en.wikipedia.org/wiki/Hugh_III_of_Maine
 	dynasty=660
 	martial=6
 	diplomacy=4
@@ -1319,29 +1319,11 @@
 	trait="brave"
 	trait="fortune_builder"
 	father = 144951 
-	960.1.2 = {
-		birth="960.1.2"
+	960.1.1 = {
+		birth=yes
 	}
 	1016.7.6 = {
-		death="1016.7.6"
-	}
-}
-
-1355 = {
-	name="Gisela"
-	female=yes
-	martial=7
-	diplomacy=4
-	intrigue=7
-	stewardship=6
-	religion="catholic"
-	culture="frankish"
-	trait="underhanded_rogue"
-	972.1.2 = {
-		birth="972.1.2"
-	}
-	1038.1.2 = {
-		death="1038.1.2"
+		death=yes
 	}
 }
 
@@ -1358,13 +1340,13 @@
 	trait="tough_soldier"
 	father=1358
 	1010.1.1 = {
-		birth="1010.1.1"
+		birth=yes
 	}
 	1046.1.1={
 		add_spouse = 393
 	}
 	1051.3.26 = {
-		death="1051.3.26"
+		death=yes
 	}
 }
 
@@ -1380,17 +1362,16 @@
 	religion="catholic"
 	culture="frankish"
 	father=1354
-	mother=1355
-	955.1.2 = {
-		birth="955.1.2"
+	977.1.1 = {
+		birth=yes
 	}
-	1000.1.2 = {
-		death="1000.1.2"
+	1017.1.1 = {
+		death=yes
 	}
 }
 
 1358 = {
-	name="Heribert"
+	name="Heribert" #  http://en.wikipedia.org/wiki/Herbert_I,_Count_of_Maine
 	dynasty=660
 	martial=4
 	diplomacy=4
@@ -1401,11 +1382,11 @@
 	trait="flamboyant_schemer"
 	father=1354
 	mother=1355
-	984.1.2 = {
-		birth="984.1.2"
+	1000.1.1 = {
+		birth=yes
 	}
-	1036.1.1 = {
-		death="1036.1.1"
+	1035.4.13 = {
+		death=yes
 	}
 }
 

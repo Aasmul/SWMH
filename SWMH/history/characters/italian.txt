@@ -400,7 +400,7 @@
 }
 
 
-190004 = {
+144704 = {
 	name="Guglielmo"
 	dynasty=676
 	martial=7
@@ -410,7 +410,7 @@
 	religion="catholic"
 	culture="norman"
 	trait="tough_soldier"
-	father=190003
+	father=144703
 	mother=1129
 	1056.1.1 = {
 		birth="1056.1.1"
@@ -986,7 +986,7 @@
 	dynasty=676
 	religion="catholic"
 	culture="norman"
-	father=190002
+	father=144702
 	1077.1.1 = {
 		birth="1077.1.1"
 	}

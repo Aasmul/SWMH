@@ -1,0 +1,38 @@
+##########################################################################
+# Landed title modifiers SWMH
+##########################################################################
+#Mercs
+####
+d_band_of_the_brave_composition = {
+	levy_size = 1
+	archers = 250
+	heavy_infantry = 200
+	light_infantry = 250
+	knights = 1
+}
+d_band_of_the_red_composition = {
+	levy_size = 1
+	heavy_infantry = 500
+	light_infantry = 500
+}
+d_black_gang_composition = {
+	levy_size = 1.0
+	archers = 350
+	light_infantry = 400
+	heavy_infantry = 100
+	light_cavalry = 100
+}
+d_ulfhedar_composition = {
+	levy_size = 4
+	light_cavalry = 200
+	knights = 60     
+}
+d_valr_composition = {
+	levy_size = 3
+	archers = 150
+	light_infantry = 250
+	heavy_infantry = 350 
+}
+####
+#Holyorders
+####

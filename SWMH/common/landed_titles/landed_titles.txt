@@ -41156,6 +41156,25 @@ e_arabia = {
 				b_nisab = {}
 				b_azzan = {}
 			}
+                        c_socotra = {
+				color={ 142 255 55 }
+				color2={ 255 255 255 }
+			
+				b_qualnsiyah = {
+				}
+				b_tamrida = {
+				}
+				b_qadub = {
+				}
+				b_steroh = {
+				}
+				b_asma = {
+				}
+				b_siqirah = {
+				}
+				b_qashiu = {
+				}
+			}
 		}
 		d_oman = {
 			color={ 93 196 2 }

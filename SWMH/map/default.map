@@ -18,9 +18,17 @@ sea_zones = { 1636 1766 }
 
 # European Seas
 sea_zones = { 1770 1898 }
+
+# Arabian seas
+sea_zones = { 1899 1909 }
+
 ocean_region = {	# European Ocean
 	sea_zones = { 1 2 }
 }
+ocean_region = {	# Arabian Ocean
+	sea_zones = { 3 }
+}
+
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
 tree = { 3 4 7 10 }
