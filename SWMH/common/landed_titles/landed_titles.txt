@@ -24990,25 +24990,12 @@ k_khazaria = {
 				b_sibir = {
 				}
 			}
-		c_oral = {
-			color={ 231 178 35 }
-			color2={ 255 255 255 }
-			
-			b_kurgan = {}
-			b_vagay = {}
-			b_kyzalyar = {}
-			b_lebyazhe = {}
-			b_yurgamysh = {}
-			b_shumikha = {}
-			b_mishkino = {}
-			b_makushino = {}
-		}
 	}
 	d_yaik = {
 		color={ 198 150 11 }
 		color2={ 255 255 255 }
 		
-		capital = capital = 895 # Yaik
+		 capital = 895 # Yaik
 		
 			c_inder = {
 				color={ 171 138 50 }
@@ -53609,10 +53596,10 @@ e_britannia = {
 			foa = "HIGH_CHIEF_FOA"
 			title_prefix = "TRIBE_OF"
 		}
-		d_turkmens = {
-			color={ 143 121 33 }
-			culture = turkish
-		}
+		#d_turkmens = {
+		#	color={ 143 121 33 }
+		#	culture = turkish
+		#}
 		d_ural = {
 			color = { 208 178 78 }
 		}
