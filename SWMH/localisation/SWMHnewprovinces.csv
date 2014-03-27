@@ -818,7 +818,7 @@ PROV1722;Lake Yalpug;Lac Yalpug;Yalpug-See;;Lago Yalpug;;;;;;;;;x
 PROV1723;Coast of Asturias;Côte asturienne;Asturische Küste;;Costa de Asturias;;;;;;;;;x
 PROV1724;Northern Bay of Biscay;Nord du golfe de Gascogne;Nördliche Biskaya;;Golfo de Vizcaya;;;;;;;;;x
 PROV1725;Celtic Sea;Mer Celtique;Keltische See;;Mar celta;;;;;;;;;x
-PROV1726;Coast of Iceland;Coast of Iceland;Coast of Iceland;;Coast of Iceland;;;;;;;;;x
+PROV1726;Inarijärvi;Inarijärvi;Inarijärvi;;Inarijärvi;;;;;;;;;x
 PROV1727;Coast of Iceland;Coast of Iceland;Coast of Iceland;;Coast of Iceland;;;;;;;;;x
 PROV1728;Western Cyclades;Cyclades Occidentales;West-Kykladen;;Cícladas del oeste;;;;;;;;;x
 PROV1729;Lake Scutari;Lake Scutari;Lake Scutari;;Lake Scutari;;;;;;;;;x
@@ -855,7 +855,7 @@ PROV1759;Plyussa;Plyussa;Plyussa;;Plyussa;;;;;;;;;x
 PROV1760;Volkhov;Volkhov;Volkhov;;Volkhov;;;;;;;;;x
 PROV1761;Lake Virihaure;Lake Virihaure;Lake Virihaure;;Lake Virihaure;;;;;;;;;x
 PROV1762;Lake Vastenjaure;Lake Vastenjaure;Lake Vastenjaure;;Lake Vastenjaure;;;;;;;;;x
-PROV1763;Lake Mologa;Lake Mologa;Lake Mologa;;Lake Mologa;;;;;;;;;x
+PROV1763;Gautelfr;Gautelfr;Gautelfr;;Gautelfr;;;;;;;;;x
 PROV1764;Salsvatnet;Salsvatnet;Salsvatnet;;Salsvatnet;;;;;;;;;x
 PROV1765;Lake Beloe;Lake Beloe;Lake Beloe;;Lake Beloe;;;;;;;;;x
 PROV1766;Kama;Kama;Kama;;Kama;;;;;;;;;x
@@ -991,17 +991,17 @@ PROV1895;Lake Tana;Lake Tana;Lake Tana;;Lake Tana;;;;;;;;;x
 PROV1896;Lake Ghoubet;Lake Ghoubet;Lake Ghoubet;;Lake Ghoubet;;;;;;;;;x
 PROV1897;Lake Assal;Lake Assal;Lake Assal;;Lake Assal;;;;;;;;;x
 PROV1898;Lake Namak;Lake Namak;Lake Namak;;Lake Namak;;;;;;;;;x
-PROV1899;Inarijärvi;Inarijärvi;Inarijärvi;;Inarijärvi;;;;;;;;;x
-PROV1900;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-PROV1901;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-PROV1902;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-PROV1903;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-PROV1904;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-PROV1905;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-PROV1906;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-PROV1907;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-PROV1908;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
-PROV1909;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
+PROV1899;Redsea A;Redsea A;Redsea A;;Redsea A;;;;;;;;;x
+PROV1900;Redsea B;Redsea B;Redsea B;;Redsea B;;;;;;;;;x
+PROV1901;Redsea C;Redsea C;Redsea C;;Redsea C;;;;;;;;;x
+PROV1902;Gulf of Aden A;Gulf of Aden A;Gulf of Aden A;;Gulf of Aden A;;;;;;;;;x
+PROV1903;Coast of Somailia;Coast of Somailia;Coast of Somailia;;Coast of Somailia;;;;;;;;;x
+PROV1904;Coast of Yemen;Coast of Yemen;Coast of Yemen;;Coast of Yemen;;;;;;;;;x
+PROV1905;Coast of Oman;Coast of Oman;Coast of Oman;;Coast of Oman;;;;;;;;;x
+PROV1906;Gulf of Oman;Gulf of Oman;Gulf of Oman;;Gulf of Oman;;;;;;;;;x
+PROV1907;Strait of Hormuz;Strait of Hormuz;Strait of Hormuz;;Strait of Hormuz;;;;;;;;;x
+PROV1908;Persian Gulf A;Persian Gulf A;Persian Gulf A;;Persian Gulf A;;;;;;;;;x
+PROV1909;Persian Gulf B;Persian Gulf B;Persian Gulf B;;Persian Gulf B;;;;;;;;;x
 PROV1910;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
 PROV1911;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
 PROV1912;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x

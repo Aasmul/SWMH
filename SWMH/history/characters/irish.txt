@@ -11203,8 +11203,8 @@
 	religion="catholic"
 	culture="irish"
 	father=83406 #Muiredach Muillethan
-	637.1.1={
-		birth="637.1.1"
+	667.1.1={
+		birth="667.1.1"
 	}
 	723.7.1={
 		death="723.7.1"
@@ -11221,8 +11221,8 @@
 	religion="catholic"
 	culture="irish"
 	father=83406 #Muiredach Muillethan
-	637.1.1={
-		birth="637.1.1"
+	670.1.1={
+		birth="670.1.1"
 	}
 	735.7.1={
 		death="735.7.1"
@@ -11968,8 +11968,8 @@
 	religion="catholic"
 	culture="irish"
 	father=83449
-	688.1.1={
-		birth="688.1.1"
+	710.1.1={
+		birth="710.1.1"
 	}
 	750.7.1={
 		death="750.7.1"
@@ -16626,10 +16626,10 @@
 	religion="catholic"
 	culture="irish"
 	father=159319
-	385.1.1={
-		birth="385.1.1"
+	390.1.1={
+		birth="390.1.1"
 	}
-	405.1.1={
+	415.1.1={
 		add_spouse=159815
 	}
 	450.1.1={

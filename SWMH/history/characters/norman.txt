@@ -1858,7 +1858,7 @@
 	}
 }
 
-190001 = {
+144701 = {
 	name="Richard"
 	dynasty=676
 	martial=5
@@ -1868,16 +1868,16 @@
 	religion="catholic"
 	culture="norman"
 	trait="tough_soldier"
-	father=190000
+	father=144700
 	1054.1.1 = {
-		birth="1054.1.1"
+		birth=yes
 	}
 	1105.1.1 = {
-		death="1105.1.1"
+		death=yes
 	}
 }
 
-190002 = {
+144702 = {
 	name="Robert"
 	dynasty=676
 	martial=3
@@ -1887,7 +1887,7 @@
 	religion="catholic"
 	culture="norman"
 	trait="martial_cleric"
-	father=190000
+	father=144700
 	1056.1.1 = {
 		birth="1056.1.1"
 	}
@@ -3055,7 +3055,7 @@
 	dynasty=676
 	religion="catholic"
 	culture="norman"
-	father=190003
+	father=144703
 	1055.1.1 = {
 		birth="1055.1.1"
 	}
@@ -7735,7 +7735,7 @@
 	}
 }
 
-190003 = {
+144703 = {
 	name="Robert"
 	dynasty=676
 	martial=5

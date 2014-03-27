@@ -4531,9 +4531,9 @@
 	culture="welsh"
 	father=159320
 	mother=159815
-	405.1.1={
-		birth="405.1.1"
-	}
+	415.1.1={
+		birth="415.1.1"
+        }
 	435.1.1={
 		add_spouse = 159932
 	}
@@ -5614,7 +5614,7 @@
 	religion="catholic"
 	culture="welsh"
 	father=159808
-	371.1.1={
+	361.1.1={
 		birth="371.1.1"
 	}
 	431.1.1={
@@ -5627,7 +5627,7 @@
 	religion="catholic"
 	culture="welsh"
 	father=159813
-	387.1.1={
+	377.1.1={
 		birth="387.1.1"
 	}
 	451.1.1={
@@ -6844,8 +6844,8 @@
 	religion="catholic"
 	culture="welsh"
 	father=159945
-	331.1.1={
-		birth="331.1.1"
+	321.1.1={
+		birth="321.1.1"
 	}
 	395.1.1={
 		death="395.1.1"
@@ -6857,8 +6857,8 @@
 	religion="catholic"
 	culture="welsh"
 	father=159946
-	330.1.1={
-		birth="330.1.1"
+	340.1.1={
+		birth="340.1.1"
 	}
 	391.1.1={
 		death="391.1.1"
