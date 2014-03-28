@@ -40976,60 +40976,6 @@ e_africa = {
 				b_alouarta = {}
 			}
 		}
-		d_canarias = {
-			color={ 24 58 121 }
-			color2={ 255 255 255 }
-			
-			capital = 1414 #Tenerife
-			
-			castillan = "Canarias"
-			berber = "Kanar"
-			
-			c_tenerife = {
-				color={ 15 185 243 }
-				color2={ 255 255 255 }
-				
-				castillan = "Tenerife"
-				berber = "Ašenšen"
-				
-				b_lanzarote = {
-					castillan = "Lanzarote"
-					berber = "Titerôqqak"
-				}
-				b_tenerife = {
-					castillan = "Tenerife"
-					berber = "Ašenšen"
-				}
-				b_lagomera = {
-					castillan = "La Gomera"
-					berber = "Qumãra"
-				}
-			}
-			c_canarias = {
-				color={ 50 185 243 }
-				color2={ 255 255 255 }
-				
-				castillan = "Gran Canaria"
-				berber = "Tamãran"
-				
-				b_grancanaria = {
-					castillan = "Gran Canaria"
-					berber = "Tamãran"
-				}
-
-			}
-			c_fuerteventura = {
-				color={ 5 140 240 }
-				color2={ 255 255 255 }
-				
-				castillan = "Fuerteventura"
-				berber = "Mahãr-at"
-				
-				b_fuerteventura = {
-					castillan = "Fuerteventura"
-					berber = "Mahãr-at"
-				}
-			}
 		} 
 	} # END k_mauretania
 	
@@ -41049,6 +40995,172 @@ e_africa = {
 		}
 	}
 } # END e_africa
+	k_canarias = {
+		color={ 64 0 128 }
+		color2={ 255 255 255 }
+
+		castillan = "Canarias"
+		zanata = "Kanar"
+
+		d_canarias = {
+			color={ 24 58 121 }
+			color2={ 255 255 255 }
+			
+			capital = 1414 #Tenerife
+			
+			castillan = "Canarias"
+			zanata = "Kanar"
+			
+			c_tenerife = {
+				color={ 15 185 243 }
+				color2={ 255 255 255 }
+				
+				castillan = "Tenerife"
+				zanata = "Ašenšen"
+				
+				b_lanzarote = {
+					castillan = "Lanzarote"
+					zanata = "Titerôqqak"
+				}
+				b_tenerife = {
+					castillan = "Tenerife"
+					zanata = "Ašenšen"
+				}
+				b_lagomera = {
+					castillan = "La Gomera"
+					zanata = "Qumãra"
+				}
+			}
+			c_canarias = {
+				color={ 50 185 243 }
+				color2={ 255 255 255 }
+				
+				castillan = "Gran Canaria"
+				zanata = "Tamãran"
+				
+				b_grancanaria = {
+					castillan = "Gran Canaria"
+					zanata = "Tamãran"
+				}
+
+			}
+			c_fuerteventura = {
+				color={ 5 140 240 }
+				color2={ 255 255 255 }
+				
+				castillan = "Fuerteventura"
+				zanata = "Mahãr-at"
+				
+				b_fuerteventura = {
+					castillan = "Fuerteventura"
+					berber = "Mahãr-at"
+				}
+			}
+		}
+		d_madeira = {
+			color={ 213 196 1 }
+			color2={ 255 255 255 }
+			
+			capital = 1332 #Madeira
+			
+				castillan = "Leiname"
+				aragonese = "Leiname"
+				leonese = "Leiname"
+					italian = "Lolegname"
+					venetian = "Lolegname"
+						ligurian = "Lolegname"
+					central_italian = "Lolegname"
+					southern_italian = "Lolegname"
+					tuscan = "Lolegname"
+					neapolitan = "Lolegname"
+					corsican = "Lolegname"
+					sardinian = "Lolegname"
+					sicilian = "Lolegname"
+					roman = "Erythia"
+					greek = "Erythia"
+					arberian = "Erythia"
+					armenian = "Erythia"
+					georgian = "Erythia"
+					alan = "Erythia"
+			
+			c_madeira = {
+				color={ 85 135 243 }
+				color2={ 255 255 255 }
+				
+				#castillan = "Leiname"
+				#aragonese = "Leiname"
+				#leonese = "Leiname"
+					#italian = "Lolegname"
+					#venetian = "Lolegname"
+						#ligurian = "Lolegname"
+					#central_italian = "Lolegname"
+					#southern_italian = "Lolegname"
+					#tuscan = "Lolegname"
+					#neapolitan = "Lolegname"
+					#corsican = "Lolegname"
+					#sardinian = "Lolegname"
+					#sicilian = "Lolegname"
+					#roman = "Erythia"
+					#greek = "Erythia"
+					#arberian = "Erythia"
+					#armenian = "Erythia"
+					#georgian = "Erythia"
+					#alan = "Erythia"
+				
+				b_machico = {
+				}
+				b_camara = {
+				}
+			}
+			c_porto_santo = {
+				color={ 43 17 60 }
+				color2={ 255 255 255 }
+				
+				#castillan = "Puerto Santo"
+				#aragonese = "Puerto Santo"
+				#leonese = "Puerto Santo"
+					#italian = "Porto Séo"
+					#venetian = "Porto Séo"
+						#ligurian = "Porto Séo"
+					#central_italian = "Porto Séo"
+					#southern_italian = "Porto Séo"
+					#tuscan = "Porto Séo"
+					#neapolitan = "Porto Séo"
+					#corsican = "Porto Séo"
+					#sardinian = "Porto Séo"
+					#sicilian = "Porto Séo"
+					#roman = "Paena"
+					#greek = "Paena"
+					#arberian = "Paena"
+					#armenian = "Paena"
+					#georgian = "Paena"
+					#alan = "Paena"
+				
+				b_porto_santo = {
+					castillan = "Puerto Santo"
+					aragonese = "Puerto Santo"
+					leonese = "Puerto Santo"
+							italian = "Porto Séo"
+							venetian = "Porto Séo"
+								ligurian = "Porto Séo"
+							central_italian = "Porto Séo"
+							southern_italian = "Porto Séo"
+							tuscan = "Porto Séo"
+							neapolitan = "Porto Séo"
+							corsican = "Porto Séo"
+							sardinian = "Porto Séo"
+							sicilian = "Porto Séo"
+							roman = "Paena"
+							greek = "Paena"
+							arberian = "Paena"
+							armenian = "Paena"
+							georgian = "Paena"
+							alan = "Paena"
+				}
+
+			}
+		}
+	} # END k_canarias
 
 e_arabia = {
 	color={ 21 128 0 }

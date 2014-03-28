@@ -1745,3 +1745,6 @@ c_nikopolis_adj_georgian;Seuthopolisan;Seuthopolisan;Seuthopolisan;;Seuthopolisa
 c_nikopolis_adj_alan;Seuthopolisan;Seuthopolisan;Seuthopolisan;;Seuthopolisan;;;;;;;;;x
 c_nikopolis_adj_arberian;Seuthopolisan;Seuthopolisan;Seuthopolisan;;Seuthopolisan;;;;;;;;;x
 c_nikopolis_adj_turkish;Hasatan;Hasatan;Hasatan;;Hasatan;;;;;;;;;x
+#Canaries;;;;;;;;;;;;;;
+c_madeira_adj;Madeiran;Madeiran;Madeiran;;Madeiran;;;;;;;;;x
+c_porto_santo_adj;Porto Santoan;Porto Santoan;Porto Santoan;;Porto Santoan;;;;;;;;;x

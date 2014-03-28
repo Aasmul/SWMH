@@ -1,0 +1,15 @@
+# 1332 - Madeira
+
+# County Title
+title = c_madeira
+
+# Settlements
+max_settlements = 2
+b_machico = castle
+#b_camara = castle
+
+# Misc
+culture = zanata
+religion = west_african_pagan
+
+# History
