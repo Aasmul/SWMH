@@ -85,7 +85,7 @@ k_orthodox = {
 	
 	# Regnal names
 	male_names = {
-		Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Gabriel Dionysios Dositheos 
+		Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Dionysios Dositheos 
 		Eustathios Eustratios Euthymios Gabriel Gennadios Georgios Gerasimos Germanos Gregorios Ieremias 
 		Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon 
 		Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael 
@@ -4129,7 +4129,7 @@ e_hre = {
 				b_boyneburg = {}
 				b_goslar = {}
 				b_everstein = {}
-				b_homburg = {}
+				b_homburg_everstein = {}
 				b_northeim = {}
 			}
 			c_weimar = {
@@ -25226,7 +25226,6 @@ k_volga_bulgaria = {
 			color2={ 255 255 255 }
 			
 			b_bulgar = {}
-			b_ashli = {}
 			b_suar = {}
 			b_balimer = {}
 			b_arbuga = {}
@@ -25371,7 +25370,6 @@ k_volga_bulgaria = {
 			color={ 231 171 10 }
 			color2={ 255 255 255 }
 			
-			b_qazan = {}
 			b_yarcalli = {}
 			b_zay = {}
 			b_cistay = {}
@@ -48716,7 +48714,7 @@ e_britannia = {
 							breton = "Baile Átha Troim"
 							cornish = "Baile Átha Troim"
 						}
-						b_tara = {
+						b_tara_meath = {
 							irish = "Teamhair na Rí"
 							scottish = "Teamhair na Rí"
 							norsegaelic = "Tara-åsen"
@@ -52701,7 +52699,6 @@ e_britannia = {
 					b_noumerat = {}
 					b_sebseb = {}
 					b_elalia = {}
-					b_ouargla = {}
 					b_zelfana = {}
 					b_bermane = {}
 					b_elbour = {}
@@ -54775,7 +54772,7 @@ e_india = {                      # Titular, created by special decision only if 
 			
 			# Regnal names
 			male_names = {
-				Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Gabriel Dionysios Dositheos 
+				Alexios Alexandros Anastasios Anthimos Athanasios Antonios Basileios Dionysios Dositheos 
 				Eustathios Eustratios Euthymios Gabriel Gennadios Georgios Gerasimos Germanos Gregorios Ieremias 
 				Ignatios Ioakeim Ioannes Ioseph Isidoros Kallinikos Kallistos Konstantinos Kosmas Kyrillos Leon 
 				Leontios Loukas Makarios Manuel Markos Matthaios Maximos Meletios Methodios Metrophanes Michael 

@@ -6,7 +6,7 @@ title = c_mide
 # Settlements
 max_settlements = 4
 
-b_tara = castle
+b_tara_meath = castle
 b_morgallion = castle
 b_kells = temple
 #b_ratoath = city

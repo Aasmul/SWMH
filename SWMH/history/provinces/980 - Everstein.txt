@@ -9,7 +9,7 @@ max_settlements = 3
 b_northeim = castle
 b_everstein = castle
 b_goslar = city
-#b_homburg = castle
+#b_homburg_everstein = castle
 #b_boyneburg = castle
 
 # Misc
