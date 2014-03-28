@@ -1,6 +1,6 @@
 From;To;Type;Through;Comment;;;;
-1444;1459;sea;1733;-1;-1;-1;-1;An Dhun-Kintyre
-5;1469;sea;1733;-1;-1;-1;-1;Ulaid-Baile Na H Uige
+5;1459;sea;1733;-1;-1;-1;-1;An Dhun-Kintyre
+1444;1469;sea;1733;-1;-1;-1;-1;Ulaid-Baile Na H Uige
 35;39;sea;1702;-1;-1;-1;-1;Western Isles-Ross
 36;1451;sea;1703;-1;-1;-1;-1;Orkney-Gallaibh
 45;1460;sea;1733;-1;-1;-1;-1;Argyll-Bod
@@ -17,7 +17,6 @@ From;To;Type;Through;Comment;;;;
 1073;291;sea;1714;-1;-1;-1;-1;Attundaland-Åland
 1073;292;sea;1668;-1;-1;-1;-1;Attundaland-Södermanland
 291;382;sea;1714;-1;-1;-1;-1;Åland-Suomi
-293;1071;sea;1671;-1;-1;-1;-1;Östergötland-Skara
 931;300;sea;1712;-1;-1;-1;-1;Kalmar-Öland
 324;1103;sea;1742;-1;-1;-1;-1;Corsica-Gallura
 338;339;sea;1640;-1;-1;-1;-1;Reggio-Messina
@@ -53,11 +52,9 @@ From;To;Type;Through;Comment;;;;
 485;482;sea;1651;-1;-1;-1;-1;Euboia-Athens
 496;741;sea;1656;-1;-1;-1;-1;Byz-Nikomedia
 1332;1333;sea;1661;-1;-1;-1;-1;Madeira-Porto Santo
-858;874;;;-1;-1;-1;-1;Aden-Tadjoura
-859;874;;;-1;-1;-1;-1;Taizz-Tadjoura
+859;874;sea;1902;-1;-1;-1;-1;Taizz-Tadjoura
 854;870;;;-1;-1;-1;-1;Jask-Dhu Zabi
-651;653;;;-1;-1;-1;-1;Damman-Bahrein
-652;653;;;-1;-1;-1;-1;Al Hasa-Bahrein
+652;653;sea;1908;-1;-1;-1;-1;Al Hasa-Bahrein
 730;713;;;-1;-1;-1;-1;Palmyra-Qasralhayralsharqi
 713;729;;;-1;-1;-1;-1;Qasralhayralsharqi-Alqaim
 730;726;;;-1;-1;-1;-1;Palmyra-Qasralhayralgharbi

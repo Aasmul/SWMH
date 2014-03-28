@@ -25620,6 +25620,14 @@ e_persia = {
 			color2={ 255 255 255 }
 			
 		}
+		d_zabulistan = {
+			color={ 179 120 64 }
+			color2={ 255 255 255 }
+                }
+                d_kerman = {
+			color={ 12 19 64 }
+			color2={ 255 255 255 }
+                }
 		d_khorasan = {
 			color={ 99 150 9 }
 			color2={ 255 255 255 }
@@ -40975,7 +40983,6 @@ e_africa = {
 				b_charouine = {}
 				b_alouarta = {}
 			}
-		}
 		} 
 	} # END k_mauretania
 	
@@ -40996,7 +41003,7 @@ e_africa = {
 	}
 } # END e_africa
 	k_canarias = {
-		color={ 64 0 128 }
+		color={ 182 198 176 }
 		color2={ 255 255 255 }
 
 		castillan = "Canarias"

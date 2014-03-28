@@ -77,16 +77,16 @@
 #CJL78 - Conti di Monte Sant'Angelo
 1046.1.1={
 	liege = d_apulia
-	holder = 190003 #Robert Drengot (Roberto di Lucera)
+	holder = 144703 #Robert Drengot (Roberto di Lucera)
 }
 1088.1.1={
-	holder = 190005 #Henry/Enrico Drengot
+	holder = 144705 #Henry/Enrico Drengot
 }
 1090.1.1={
 	liege = e_byzantium
 }
 1102.1.1={
-	holder=190004 #William/Guiglelmo Drengot
+	holder=144704 #William/Guiglelmo Drengot
 }
 1105.1.1={
 	liege = d_apulia

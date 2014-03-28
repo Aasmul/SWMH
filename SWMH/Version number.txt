@@ -1,8 +1,9 @@
 Version number 2.853 works with Ck2 version 2.0 (Ironman steamachievments not supported as SWMH changes the cheksum)
 
 SWMH 2.853 Changelog:
-Compability with patch.
-A couple of fixes.
+Compability with patch(still no India).
+Redsea naviagble.
+Some fixes, and some minor changes.
 
 SWMH 2.852 changelog:
 

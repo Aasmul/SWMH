@@ -991,17 +991,17 @@ PROV1895;Lake Tana;Lake Tana;Lake Tana;;Lake Tana;;;;;;;;;x
 PROV1896;Lake Ghoubet;Lake Ghoubet;Lake Ghoubet;;Lake Ghoubet;;;;;;;;;x
 PROV1897;Lake Assal;Lake Assal;Lake Assal;;Lake Assal;;;;;;;;;x
 PROV1898;Lake Namak;Lake Namak;Lake Namak;;Lake Namak;;;;;;;;;x
-PROV1899;Redsea A;Redsea A;Redsea A;;Redsea A;;;;;;;;;x
-PROV1900;Redsea B;Redsea B;Redsea B;;Redsea B;;;;;;;;;x
-PROV1901;Redsea C;Redsea C;Redsea C;;Redsea C;;;;;;;;;x
-PROV1902;Gulf of Aden A;Gulf of Aden A;Gulf of Aden A;;Gulf of Aden A;;;;;;;;;x
+PROV1899;Redsea ;Redsea ;Redsea ;;Redsea ;;;;;;;;;x
+PROV1900;Redsea;Redsea;Redsea;;Redsea;;;;;;;;;x
+PROV1901;Redsea;Redsea;Redsea;;Redsea;;;;;;;;;x
+PROV1902;Gulf of Aden;Gulf of Aden;Gulf of Aden;;Gulf of Aden;;;;;;;;;x
 PROV1903;Coast of Somailia;Coast of Somailia;Coast of Somailia;;Coast of Somailia;;;;;;;;;x
 PROV1904;Coast of Yemen;Coast of Yemen;Coast of Yemen;;Coast of Yemen;;;;;;;;;x
 PROV1905;Coast of Oman;Coast of Oman;Coast of Oman;;Coast of Oman;;;;;;;;;x
 PROV1906;Gulf of Oman;Gulf of Oman;Gulf of Oman;;Gulf of Oman;;;;;;;;;x
 PROV1907;Strait of Hormuz;Strait of Hormuz;Strait of Hormuz;;Strait of Hormuz;;;;;;;;;x
-PROV1908;Persian Gulf A;Persian Gulf A;Persian Gulf A;;Persian Gulf A;;;;;;;;;x
-PROV1909;Persian Gulf B;Persian Gulf B;Persian Gulf B;;Persian Gulf B;;;;;;;;;x
+PROV1908;Persian Gulf;Persian Gulf;Persian Gulf;;Persian Gulf;;;;;;;;;x
+PROV1909;Persian Gulf;Persian Gulf;Persian Gulf;;Persian Gulf;;;;;;;;;x
 PROV1910;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
 PROV1911;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
 PROV1912;Placeholder;Placeholder;Placeholder;;Placeholder;;;;;;;;;x
