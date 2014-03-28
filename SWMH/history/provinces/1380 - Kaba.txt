@@ -8,7 +8,7 @@ max_settlements = 3
 b_kaba = castle
 
 #b_cantor = city
-#b_bati = temple
+#b_bati_kaba = temple
 
 # Misc
 culture = wolof

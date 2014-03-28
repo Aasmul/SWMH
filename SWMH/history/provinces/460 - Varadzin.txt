@@ -16,7 +16,7 @@ b_krizevci = city
 #b_lepoglava = temple
 
 #b_vaska = temple
-#b_slatina = castle
+#b_slatina_zagorje = castle
 
 
 # Misc

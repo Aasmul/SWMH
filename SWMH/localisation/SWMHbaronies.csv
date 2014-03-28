@@ -4809,7 +4809,7 @@ b_sutuco;Sutuco;Sutuco;Sutuco;;Sutuco;;;;;;;;;x
 b_wuli;Wuli;Wuli;Wuli;;Wuli;;;;;;;;;x
 b_kaba;Kaba;Kaba;Kaba;;Kaba;;;;;;;;;x
 b_cantor;Cantor;Cantor;Cantor;;Cantor;;;;;;;;;x
-b_bati;Bati;Bati;Bati;;Bati;;;;;;;;;x
+b_bati_kabat;Bati;Bati;Bati;;Bati;;;;;;;;;x
 b_galam;Galam;Galam;Galam;;Galam;;;;;;;;;x
 b_gundiuru;Gundiuru;Gundiuru;Gundiuru;;Gundiuru;;;;;;;;;x
 b_bondu;Bondu;Bondu;Bondu;;Bondu;;;;;;;;;x
@@ -7057,7 +7057,7 @@ b_bati;Bati;Bati;Bati;;Bati;;;;;;;;;x
 b_tadjoura;Tadjoura;Tadjoura;Tadjoura;;Tadjoura;;;;;;;;;x
 b_obock;Obock;Obock;Obock;;Obock;;;;;;;;;x
 b_randa;Randa;Randa;Randa;;Randa;;;;;;;;;x
-b_mora;Mora;Mora;Mora;;Mora;;;;;;;;;x
+b_mora_mora;Mora;Mora;Mora;;Mora;;;;;;;;;x
 b_galafi;Galafi;Galafi;Galafi;;Galafi;;;;;;;;;x
 b_dikhil;Dikhil;Dikhil;Dikhil;;Dikhil;;;;;;;;;x
 b_kohaito;Kohaito;Kohaito;Kohaito;;Kohaito;;;;;;;;;x
@@ -7285,7 +7285,7 @@ b_krizevci;Križevci;Križevci;Križevci;;Križevci;;;;;;;;;x
 b_lepoglava;Lepoglava;Lepoglava;Lepoglava;;Lepoglava;;;;;;;;;x
 b_vitrovica;Vitrovica;Vitrovica;Vitrovica;;Vitrovica;;;;;;;;;x
 b_vaska;Vaška;Vaška;Vaška;;Vaška;;;;;;;;;x
-b_slatina;Zalathnok;Zalathnok;Zalathnok;;Zalathnok;;;;;;;;;x
+b_slatina_zagorje;Zalathnok;Zalathnok;Zalathnok;;Zalathnok;;;;;;;;;x
 #;;;;;;;;;;;;;;
 b_vukovar;Vukovo;Vukovo;Vukovo;;Vukovo;;;;;;;;;x
 b_ilok;Ilok;Ilok;Ilok;;Ilok;;;;;;;;;x
@@ -7486,7 +7486,7 @@ b_rila;Rila;Rila;Rila;;Rila;;;;;;;;;x
 b_strumica;Strumica;Strumica;Strumica;;Strumica;;;;;;;;;x
 b_stip;Štip;Štip;Štip;;Štip;;;;;;;;;x
 b_prosek;Prosek;Prosek;Prosek;;Prosek;;;;;;;;;x
-b_melnik;Melnik;Melnik;Melnik;;Melnik;;;;;;;;;x
+b_melnik_strumica;Melnik;Melnik;Melnik;;Melnik;;;;;;;;;x
 b_petrich;Petric;Petric;Petric;;Petric;;;;;;;;;x
 #;;;;;;;;;;;;;;
 b_nish;Niš;Niš;Niš;;Niš;;;;;;;;;x
@@ -7513,7 +7513,7 @@ b_kteina;Kteina;Kteina;Kteina;;Kteina;;;;;;;;;x
 b_preslav;Preslaw;Preslaw;Preslaw;;Preslaw;;;;;;;;;x
 b_silistra;Drastar;Drastar;Drastar;;Drastar;;;;;;;;;x
 b_shumen;Shumen;Shumen;Shumen;;Shumen;;;;;;;;;x
-b_cherven;Cherven;Cherven;Cherven;;Cherven;;;;;;;;;x
+b_cherven_bulgaria;Cherven;Cherven;Cherven;;Cherven;;;;;;;;;x
 b_ivanovo;Ivanovo;Ivanovo;Ivanovo;;Ivanovo;;;;;;;;;x
 b_pliska;Pliska;Pliska;Pliska;;Pliska;;;;;;;;;x
 #;;;;;;;;;;;;;;

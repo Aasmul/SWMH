@@ -9,7 +9,6 @@ max_settlements = 3
 b_jajce = castle
 b_greben_castle = castle
 #b_kotor_varos = city
-#b_kljuc = castle
 #b_bosanski_petrovac = city
 #b_bjelaj = city
 #b_zemljanik = castle

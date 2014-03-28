@@ -6690,8 +6690,27 @@ e_byzantium = {
 					greek = "Dyrrhachion"
 					italian = "Durazzo"
 				}
-				b_chounavia = {}
-				b_lezhe = {}
+				b_chounavia = {}								
+                                b_lezhe = {
+					italian = "Alessio"
+					sardinian = "Alessio"
+					sicilian = "Alessio"
+					corsican = "Alessio"
+					central_italian = "Alessio"
+					southern_italian = "Alessio"
+					neapolitan = "Alessio"
+					tuscan = "Alessio"
+					ligurian = "Alessio"
+					langobardisch = "Alessio"
+					venetian = "Alessio"
+					greek = "Lissòs"
+					armenian = "Lissòs"
+					georgian = "Lissòs"
+					alan = "Lissòs"
+					roman = "Lissus"
+					arberian = "Lezhë"
+					turkish = "Les"
+				}
 				b_alessio = {}
 				b_spinarizza = {}
 			}
@@ -8034,7 +8053,7 @@ e_byzantium = {
 					roman = "Simeonis"
 					turkish = "Sumena"
 				}
-				b_cherven = {}
+				b_cherven_bulgaria = {}
 				b_ivanovo = {}
 				b_pliska = {
 					greek = "Aboba"
@@ -8195,14 +8214,14 @@ e_byzantium = {
 					alan = "Bitzina"
 				}
 				b_harsova = {
-					greek = "Aegyssus"
-					arberian = "Aegyssus"
-					georgian = "Aegyssus"
-					armenian = "Aegyssus"
-					alan = "Aegyssus"
-					roman = "Aegyssus"
-					turkish = "Tolchu"
-					romanian = "Tulcea"
+					greek = "Carsion"
+					arberian = "Carsion"
+					georgian = "Carsion"
+					armenian = "Carsion"
+					alan = "Carsion"
+					roman = "Carsium"
+					turkish = "Hirsova"
+					romanian = "Carsia"
 				}
 				b_chilia = {
 					romanian = "Chilia"
@@ -8806,7 +8825,7 @@ e_byzantium = {
 					roman = "Stenae"
 					turkish = "Demir Kapi"
 				}
-				b_melnik = {
+				b_melnik_strumica = {
 					greek = "Meleniko"
 					alan = "Meleniko"
 					georgian = "Meleniko"
@@ -9044,9 +9063,7 @@ e_byzantium = {
 				b_zica = {}
 				b_sjenica = {}
 				b_maglic = {}
-				b_prijepolje = {}
 				b_studenica = {}
-				b_mileseva = {}
 			}
 			c_prizren = {
 				color={ 172 139 61 }
@@ -9388,26 +9405,6 @@ e_byzantium = {
 					alan = "Drivasthós"
 					roman = "Drivastum"
 					arberian = "Drisht"
-				}
-				b_lezhe = {
-					italian = "Alessio"
-					sardinian = "Alessio"
-					sicilian = "Alessio"
-					corsican = "Alessio"
-					central_italian = "Alessio"
-					southern_italian = "Alessio"
-					neapolitan = "Alessio"
-					tuscan = "Alessio"
-					ligurian = "Alessio"
-					langobardisch = "Alessio"
-					venetian = "Alessio"
-					greek = "Lissòs"
-					armenian = "Lissòs"
-					georgian = "Lissòs"
-					alan = "Lissòs"
-					roman = "Lissus"
-					arberian = "Lezhë"
-					turkish = "Les"
 				}
 				b_dioclea = {
 					greek = "Dioclea"
@@ -10313,12 +10310,10 @@ e_hungary = {
 				
 				b_oblucita = {}
 				b_tigheci = {}
-				b_vicina = {}
 				b_aegyssus = {}
 				b_isaccea = {}
 				b_macin = {}
 				b_sulina = {}
-				b_tulcea = {}
 				b_crisan = {}
 				b_cetaealba = {}
 			}
@@ -11178,16 +11173,6 @@ e_hungary = {
 					hungarian="Szalánkemén"
 					turkish="Salankamen"
 				}
-				b_zemun = {
-					frankish="Mallevila"
-					arpitan="Mallevila"
-					norman="Mallevila"
-					occitan="Mallevila"
-					german="Semlin"
-					roman="Taurunum"
-					greek="Taurunum"
-					hungarian="Zimony"
-				}
 				b_sremska_mitrovica = {
 					roman="Sirmium"
 					greek="Sirmium"
@@ -11395,7 +11380,6 @@ e_hungary = {
 					roman = "Iaicia"
 				}
 				b_greben_castle = {}
-				b_kljuc = {}
 				b_bjelaj = {}
 				b_kotor_varos = {}
 				b_kljucnasani = {}
@@ -12077,7 +12061,7 @@ e_hungary = {
 					georgian = "Fulfinium"
 					roman = "Fulfinium"
 				}
-				b_dobrin = {
+				b_dobrinj = {
 					german = "Dobrauen"
 					italian = "Dobrigno"
 					venetian = "Dobrigno"
@@ -12767,7 +12751,7 @@ e_hungary = {
 					hungarian = "Kehne"
 				}
 				b_vaska = {}
-				b_slatina = {}
+				b_slatina_zagorje = {}
 			}
 		}		
 	}
@@ -42054,7 +42038,7 @@ e_abyssinia = {
 				color={ 33 110 255 }
 				color2={ 255 255 255 }
 				
-				b_mora = {}
+				b_mora_mora = {}
 				b_galafi = {} 
 				b_dikhil = {}
 			}
@@ -42128,8 +42112,8 @@ e_abyssinia = {
 				b_mekele = {}
 				b_sembel = {}
 				b_adigrat = {}
-				b_matara = {}
 				b_qohaito = {}
+                                b_yeha = {}
 			}                           
 			c_akordat = {                  #876 Serae
 				color={ 202 34 97 }
@@ -52417,7 +52401,7 @@ e_britannia = {
 						
 						b_kaba = {}
 						b_cantor = {}
-						b_bati = {}
+						b_bati_kaba = {}
 					}
 					c_galam = {
 						color={ 100 140 90 }
@@ -52559,7 +52543,6 @@ e_britannia = {
 						color2={ 255 255 255 }
 						
 						b_araouane = {}
-						b_tessalit = {}
 						b_aguelhok = {}
 						b_abalessa = {}
 						b_tinzaouten = {}

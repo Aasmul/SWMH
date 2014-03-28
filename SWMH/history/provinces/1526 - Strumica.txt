@@ -9,7 +9,7 @@ b_stip = castle
 b_rila = temple
 b_strumica = city
 #b_prosek = castle
-#b_melnik = city
+#b_melnik_strumica = city
 #b_petrich = castle
 
 

@@ -5,7 +5,7 @@ title = c_mora
 
 # Settlements
 max_settlements = 3
-b_mora = castle
+b_mora_mora = castle
 b_galafi = temple
 
 #b_dikhil = castle

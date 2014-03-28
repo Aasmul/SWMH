@@ -9,12 +9,10 @@ max_settlements = 4
 b_cetaealba = castle
 b_tigheci = castle
 b_oblucita = temple
-#b_vicina = city
 #b_aegyssus = temple
 #b_macin = castle
 #b_isaccea = castle
 #b_sulina = castle
-#b_tulcea = castle
 #b_crisan = castle
 #b_palada = city
 

@@ -1,0 +1,22 @@
+# 875 - Aksum
+
+# County Title
+title = c_aksum
+
+# Settlements
+max_settlements = 7
+
+b_adwa = castle
+b_aksum = temple # Miaphysite Holy Site
+b_mekele = city
+
+#b_qohaito = castle
+b_adigrat = castle
+b_sembel = temple
+b_yeha = temple
+
+# Misc
+culture = ethiopian
+religion = miaphysite
+
+# History
