@@ -101,7 +101,7 @@ b_bardewik;Bardewik;Bardewik;Bardewik;;Bardewik;;;;;;;;;x
 d_ugandians;Ugandilased;Ugandilased;Ugandilased;;Ugandilased;;;;;;;;;x
 d_ugandians_adj;Ugandian;Ugandian;Ugandian;;Ugandian;;;;;;;;;x
 d_oseelians;Saarlased;Saarlased;Saarlased;;Saarlased;;;;;;;;;x
-d_oeeslians_adj;Saarlanian;Saarlanian;Saarlanian;;Saarlanian;;;;;;;;;x
+d_oseelians_adj;Saarlanian;Saarlanian;Saarlanian;;Saarlanian;;;;;;;;;x
 d_vironians;Virulased;Virulased;Virulased;;Virulased;;;;;;;;;x
 d_vironians_adj;Virulanian;Virulanian;Virulanian;;Virulanian;;;;;;;;;x
 d_rotalians;Läänelased;Läänelased;Läänelased;;Läänelased;;;;;;;;;x
@@ -129,7 +129,7 @@ d_leubuzzi_adj;Licicaviki;Licicaviki;Licicaviki;;Licicaviki;;;;;;;;;x
 d_drevlyans;Drevlyane;Drevlyane;Drevlyane;;Drevlyane;;;;;;;;;x
 d_drevlyans_adj;Drevlyanskiy;Drevlyanskiy;Drevlyanskiy;;Drevlyanskiy;;;;;;;;;x
 d_ulichs;Ulichane;Ulichane;Ulichane;;Ulichane;;;;;;;;;x
-d_ulichs-adj;Ulichanskiy;Ulichanskiy;Ulichanskiy;;Ulichanskiy;;;;;;;;;x
+d_ulichs_adj;Ulichanskiy;Ulichanskiy;Ulichanskiy;;Ulichanskiy;;;;;;;;;x
 d_east_polanes;Polyane;Polyane;Polyane;;Polyane;;;;;;;;;x
 d_east_polanes-adj;Polyanskiy;Polyanskiy;Polyanskiy;;Polyanskiy;;;;;;;;;x
 d_volhynians;Volyniane;Volyniane;Volyniane;;Volyniane;;;;;;;;;x
@@ -250,3 +250,6 @@ d_vistulans_adj;Vistulan;Vistulan;Vistulan;;Vistulan;;;;;;;;;x
 #;;;;;;;;;;;;;;
 k_duklja;Duklja;Duklja;Duklja;;Duklja;;;;;;;;;x
 k_duklja_adj;Dukljan;Dukljan;Dukljan;;Dukljan;;;;;;;;;x
+;;;;;;;;;;;;;;
+d_livonian_brothers_of_the_sword;Schwertbrüderorden;Schwertbrüderorden;Schwertbrüderorden;;Schwertbrüderorden;;;;;;;;;x
+d_livonian_brothers_of_the_sword_adj;Schwertbrüderische;Schwertbrüderische;Schwertbrüderische;;Schwertbrüderische;;;;;;;;;x

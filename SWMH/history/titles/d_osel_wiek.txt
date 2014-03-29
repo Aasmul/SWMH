@@ -7,10 +7,6 @@ holder=30436 #Gottfried von Naumburg
 {
 holder=30437 #Heinrich von Ösel
 }
-1236.9.22=
-{
-liege="d_teutonic_order"
-}
 1260.1.1=
 {
 holder=30438 #Hermann von Buxthoeven
