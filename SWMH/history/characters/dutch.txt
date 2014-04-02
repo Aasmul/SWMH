@@ -1966,7 +1966,11 @@
 		birth="1194.1.1"
 	}
 	
-	1210.1.1 = { trait="martial_cleric" }
+	1210.1.1 = {
+		effect = {
+			add_trait = martial_cleric
+		}
+	}
 	
 	1215.9.1={
 		death="1215.9.1"
@@ -2112,9 +2116,11 @@
 	1217.1.1={
 		birth="1217.1.1"
 	}
-	1233.1.1 = { trait="martial_cleric" }
-	
-	
+	1233.1.1 = {
+		effect = {
+			add_trait = martial_cleric
+		}
+	}
 	1285.4.23={
 		death="1285.4.23"
 	}
