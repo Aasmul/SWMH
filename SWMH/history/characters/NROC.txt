@@ -51,8 +51,12 @@
 	dynasty=1000036000
 	religion="catholic"
 	culture="occitan"
-	860.1.1 = { birth="860.1.1" }
-	900.1.1 = { death="900.1.1" }
+	860.1.1 = {
+		birth="860.1.1"
+	}
+	900.1.1 = {
+		death="900.1.1"
+	}
 }
 1000093001 = {
 	name="Barnard-Aton" #Barnard-Aton I vicaire d'Alzonne
@@ -61,8 +65,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093000 #Aton I vicaire d'Alzonne
-	880.1.1 = { birth="880.1.1" }
-	942.1.1 = { death="942.1.1" }
+	880.1.1 = {
+		birth="880.1.1"
+	}
+	942.1.1 = {
+		death="942.1.1"
+	}
 }
 1000093002 = {
 	name="Aton" #Aton II vicomte d'Albi de 942 à 972
@@ -70,8 +78,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093001 #Barnard-Aton I vicaire d'Alzonne
-	900.1.1 = { birth="900.1.1" }
-	972.1.1 = { death="972.1.1" }
+	900.1.1 = {
+		birth="900.1.1"
+	}
+	972.1.1 = {
+		death="972.1.1"
+	}
 }
 1000093012 = {
 	name="Siguin" #Siguin I vicomte d'Albi de 972 à 973
@@ -79,8 +91,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093002 #Aton II
-	920.1.1 = { birth="920.1.1" }
-	973.1.1 = { death="973.1.1" }
+	920.1.1 = {
+		birth="920.1.1"
+	}
+	973.1.1 = {
+		death="973.1.1"
+	}
 }
 1000093022 = {
 	name="Barnard-Aton" #Barnard-Aton II vicomte d'Albi de 973 à 993 évêque d'albi à partir 973 évêque de nimes de 987 à 1016
@@ -88,8 +104,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093002 #Aton II
-	930.1.1 = { birth="930.1.1" }
-	993.1.1 = { death="993.1.1" }
+	930.1.1 = {
+		birth="930.1.1"
+	}
+	993.1.1 = {
+		death="993.1.1"
+	}
 }
 #40200 = {
 #	name="Aton" #Aton III vicomte d'Albi de 993 à 1032
@@ -97,8 +117,12 @@
 #	religion="catholic"
 #	culture="occitan"
 #	father=1000093022 #Barnard-Aton II
-#	980.1.2 = { birth="980.1.2" }
-#	1032.1.2 = { death="1032.1.2" }
+#	980.1.2 = {
+#		birth="980.1.2"
+#	}
+#	1032.1.2 = {
+#		death="1032.1.2"
+#	}
 #}
 #40202 = {
 #	name="Barnard-Aton" #Barnard-Aton III vicomte d'Albi de 1032 à 1050
@@ -110,9 +134,15 @@
 #	religion="catholic"
 #	culture="occitan"
 #	father=40200 #Aton III
-#	1010.1.1 = { birth="1010.1.1" }
-#	1036.1.1 = { add_spouse=40071 }#Rangearde de la marche 
-#	1060.1.1 = { death="1060.1.1" }
+#	1010.1.1 = {
+#		birth="1010.1.1"
+#	}
+#	1036.1.1 = {
+#		add_spouse=40071
+#	}#Rangearde de la marche 
+#	1060.1.1 = {
+#		death="1060.1.1"
+#	}
 #}
 ##############################################################################################
 #MAISON de BESIERS -vicomtes de Besièrs de 881 à 1030-
@@ -122,8 +152,12 @@
 	dynasty=1000036001
 	religion="catholic"
 	culture="occitan"
-	850.1.1 = { birth="850.1.1" }
-	897.1.1 = { death="897.1.1" }
+	850.1.1 = {
+		birth="850.1.1"
+	}
+	897.1.1 = {
+		death="897.1.1"
+	}
 }
 1000093004 = {
 	name="Boson" #Boson vicomte de Béziers 897 à 924 
@@ -131,8 +165,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093003 #Rainard
-	870.1.1 = { birth="870.1.1" }
-	924.1.1 = { death="924.1.1" }
+	870.1.1 = {
+		birth="870.1.1"
+	}
+	924.1.1 = {
+		death="924.1.1"
+	}
 }
 1000093005 = {
 	name="Théodon" #Théodon vicomte de Béziers 924 à 933 
@@ -140,8 +178,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093004 #Boson
-	890.1.1 = { birth="890.1.1" }
-	933.1.1 = { death="933.1.1" }
+	890.1.1 = {
+		birth="890.1.1"
+	}
+	933.1.1 = {
+		death="933.1.1"
+	}
 }
 1000093006 = {
 	name="Guilhèm" #Guilhèm I vicomte de Béziers 933 à 961
@@ -149,8 +191,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093004 #Boson
-	900.1.1 = { birth="900.1.1" }
-	961.1.1 = { death="961.1.1" }
+	900.1.1 = {
+		birth="900.1.1"
+	}
+	961.1.1 = {
+		death="961.1.1"
+	}
 }
 1000093007 = {
 	name="Rainard" #Rainard II vicomte de Béziers 961 à 969 
@@ -158,8 +204,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093006 #Guilhèm I 
-	920.1.1 = { birth="920.1.1" }
-	969.1.1 = { death="969.1.1" }
+	920.1.1 = {
+		birth="920.1.1"
+	}
+	969.1.1 = {
+		death="969.1.1"
+	}
 }
 1000093008 = {
 	name="Guilhèm" #Guilhèm II vicomte de Béziers 969 à 993 
@@ -167,8 +217,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093007 #Rainard II
-	940.1.1 = { birth="940.1.1" }
-	993.1.1 = { death="993.1.1" }
+	940.1.1 = {
+		birth="940.1.1"
+	}
+	993.1.1 = {
+		death="993.1.1"
+	}
 }
 1000093009 = {
 	name="Garsinde" #Guilhèm II vicomtesse de Béziers 993 à 1029 
@@ -177,8 +231,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093008 #Guilhèm II
-	960.1.1 = { birth="960.1.1" }
-	1029.1.1 = { death="1029.1.1" }
+	960.1.1 = {
+		birth="960.1.1"
+	}
+	1029.1.1 = {
+		death="1029.1.1"
+	}
 }
 1000093010 = {
 	name="Senégonde" #soeur de Garsinde 
@@ -187,8 +245,12 @@
 	religion="catholic"
 	culture="occitan"
 	father=1000093008 #Guilhèm II
-	965.1.1 = { birth="965.1.1" }
-	1010.1.1 = { death="1010.1.1" }
+	965.1.1 = {
+		birth="965.1.1"
+	}
+	1010.1.1 = {
+		death="1010.1.1"
+	}
 }
 ##############################################################################################
 #EVEQUES de Beauvais
@@ -197,16 +259,24 @@
 	dynasty=1000036003 #de Beauvais (générique, évêque)
 	religion="catholic"
 	culture="frankish"
-	1010.1.1 = { birth="1010.1.1" }
-	1085.1.1 = { death="1085.1.1" }
+	1010.1.1 = {
+		birth="1010.1.1"
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
 }
 1000093013 = {
 	name="Ursion" #Ursion de Melun
 	dynasty=5071 #de Melun
 	religion="catholic"
 	culture="frankish"
-	1030.1.1 = { birth="1030.1.1" }
-	1089.1.1 = { death="1089.1.1" }
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1089.1.1 = {
+		death="1089.1.1"
+	}
 }
 
 
@@ -217,8 +287,12 @@
 	dynasty=1000036006 #di Cinarca
 	religion="catholic"
 	culture="corsican"
-	940.1.1 = { birth="940.1.1" }
-	1000.1.1 = { death="1000.1.1" }
+	940.1.1 = {
+		birth="940.1.1"
+	}
+	1000.1.1 = {
+		death="1000.1.1"
+	}
 }
 #1000093020 already used
 #1000093021 already used
@@ -229,8 +303,12 @@
 	religion="catholic"
 	culture="corsican"
 	father=1000093019
-	990.1.1 = { birth="990.1.1" }
-	1070.1.1 = { death="1070.1.1" }
+	990.1.1 = {
+		birth="990.1.1"
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
 }
 1000093024 = {
 	name="Andrea" #.comte de Corse de 1070 à 1112
@@ -238,8 +316,12 @@
 	religion="catholic"
 	culture="corsican"
 	father=1000093023
-	1040.1.1 = { birth="1040.1.1" }
-	1112.1.1 = { death="1112.1.1" }
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1112.1.1 = {
+		death="1112.1.1"
+	}
 }
 1000093025 = {
 	name="Arrigo" #Arrigo II .comte de Corse de 1112 à 1160
@@ -247,8 +329,12 @@
 	religion="catholic"
 	culture="corsican"
 	father=1000093024
-	1100.1.1 = { birth="1100.1.1" }
-	1160.1.1 = { death="1160.1.1" }
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
 }
 1000093026 = {
 	name="Diotajuti" #dit Il Sardo .comte de Corse de 1160 à 1200
@@ -256,16 +342,24 @@
 	religion="catholic"
 	culture="corsican"
 	father=1000093025
-	1140.1.1 = { birth="1140.1.1" }
-	1200.1.1 = { death="1200.1.1" }
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
 }
 1000093027 = {
 	name="Ansaldo" #.comte de Corse de 1200 à 1204
 	dynasty=1000036007 #da Mare
 	religion="catholic"
 	culture="corsican"
-	1175.1.1 = { birth="1175.1.1" }
-	1254.1.1 = { death="1254.1.1" }
+	1175.1.1 = {
+		birth="1175.1.1"
+	}
+	1254.1.1 = {
+		death="1254.1.1"
+	}
 }
 1000093028 = {
 	name="Arrigo" #Arrigo III dit Il Maggiore .comte de Corse de 1204 à 1245
@@ -273,26 +367,44 @@
 	religion="catholic"
 	culture="corsican"
 	father=1000093026
-	1195.1.1 = { birth="1195.1.1" }
-	1200.1.1 = { add_claim = c_cinarca }
-	1204.1.1 = { remove_claim = c_cinarca }
-	1245.1.1 = { add_claim = c_cinarca }
-	1255.1.1 = { death="1255.1.1" }
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1200.1.1 = {
+		add_claim = c_cinarca
+	}
+	1204.1.1 = {
+		remove_claim = c_cinarca
+	}
+	1245.1.1 = {
+		add_claim = c_cinarca
+	}
+	1255.1.1 = {
+		death="1255.1.1"
+	}
 }
 1000093029 = {
 	name="Sinucello" #dit "Giudice de Cinarca" .comte de Corse de 1245 à 1312 next ruled by Genoa
 	dynasty=101840 #della Rocca
 	religion="catholic"
 	culture="corsican"
-	1221.1.1 = { birth="1221.1.1" }
-	1312.1.1 = { death="1312.1.1" }
+	1221.1.1 = {
+		birth="1221.1.1"
+	}
+	1312.1.1 = {
+		death="1312.1.1"
+	}
 }
 1000093030 = {
 	name="Arrigo"  #.comte de Corse de 1358 à 1401
 	dynasty=101840 #della Rocca
 	religion="catholic"
 	culture="corsican"
-	1350.1.1 = { birth="1350.1.1" }
-	1401.1.1 = { death="1401.1.1" }
+	1350.1.1 = {
+		birth="1350.1.1"
+	}
+	1401.1.1 = {
+		death="1401.1.1"
+	}
 }
 ##############################################################################################
