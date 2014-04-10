@@ -53944,7 +53944,7 @@ e_britannia = {
 			capital = 807 # c_Senoussi
 			
 			tribe = yes
-			culture = bedouin
+			culture = bedouin_arabic
 			
 			allow = {
 				always = no

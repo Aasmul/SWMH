@@ -1,4 +1,10 @@
-Version number 2.853 works with Ck2 version 2.0 (Ironman steamachievments not supported as SWMH changes the cheksum)
+Version number 2.854 works with Ck2 version 2.0 (Ironman steamachievments not supported as SWMH changes the cheksum)
+
+SWMH 2.854 Changelog.
+Fix for the bookmark CTD(for real this time)
+Ilkhanate turning into the Anglo-Mongol socitiy fixed.
+Return of the old minimap.
+Multiple smaller fixes.
 
 SWMH 2.853 Changelog:
 Compability with patch(still no India).
