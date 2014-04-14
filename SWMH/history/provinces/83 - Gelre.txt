@@ -15,10 +15,11 @@ b_montfort_gelre = castle
 #b_straelen = temple
 
 # Misc
-culture = dutch
+culture = low_frankish
 religion = catholic
 
 # History
+1150.1.1 = { culture = dutch }
 1306.1.1 = { trade_post = b_warendorp }
 
 

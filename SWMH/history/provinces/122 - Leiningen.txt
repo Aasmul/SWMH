@@ -14,9 +14,9 @@ b_wertheim = city
 #b_freudenberg = castle
 
 # Misc
-culture = german
+culture = franconian
 religion = catholic
 
 # History
-
+1170.1.1 = { culture = german }
 

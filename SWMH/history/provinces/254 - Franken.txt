@@ -15,7 +15,7 @@ b_wurzburg = temple
 #b_mainderheim = castle
 
 # Misc
-culture = german
+culture = franconian
 religion = catholic
 
 # History
@@ -23,3 +23,4 @@ religion = catholic
 1168.1.1 = {
 	capital = b_wurzburg
 }
+1170.1.1 = { culture = german }

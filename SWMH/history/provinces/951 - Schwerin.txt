@@ -18,4 +18,7 @@ b_schwerin = temple
 culture = pommeranian
 religion = slavic_pagan
 
+# History
+1160.8.2={ religion=catholic }
+1230.1.1= { culture= low_german } 
 

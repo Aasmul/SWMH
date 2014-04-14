@@ -1,0 +1,26 @@
+# 1066 - Wagrien
+
+# County Title
+title = c_wargrien
+
+# Settlements
+max_settlements = 3
+
+b_plon = castle
+b_oldenburgeast = city
+b_eutin = temple
+#b_bornhovd = city
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+terrain = forest
+
+# History
+1143.1.1 = { religion = catholic } 
+1143.1.1 = { culture = low_german }
+
+
+
+
+

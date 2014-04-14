@@ -14,11 +14,11 @@ b_siegen = temple
 #b_ermingardibruggern = city
 
 # Misc
-culture = german
+culture = franconian
 religion = catholic
 
 # History
-
+1170.1.1 = { culture = german }
 
 
 

@@ -20,4 +20,4 @@ religion = slavic_pagan
 
 1000.1.1 = { culture = polish }
 1000.1.1 = { religion = catholic }
-
+1253.1.1 = { culture = german }

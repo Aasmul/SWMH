@@ -31,6 +31,6 @@ religion = slavic_pagan
 1168.1.1 = { religion = catholic }
 1171.1.1 = { b_dargunabbey = temple }
 1226.1.1 = { b_gustrow = city }
-
+1230.1.1 = { culture = low_german } 
 
 

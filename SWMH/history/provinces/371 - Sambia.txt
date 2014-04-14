@@ -29,4 +29,4 @@ religion = baltic_pagan
 1252.1.1 = { remove_settlement = b_kaup }
 1252.1.1 = { b_cranz = city }
 1252.1.1 = { religion = catholic } #bishopery of Samland
-1274.1.1 = { culture = german } #Since Nantangia and Sambia is merged, the last(natangia) uprising surrender date is choosen(the death of Herkus Monte).
+1274.1.1 = { culture = low_german } #Since Nantangia and Sambia is merged, the last(natangia) uprising surrender date is choosen(the death of Herkus Monte).

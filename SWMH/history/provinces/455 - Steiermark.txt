@@ -21,11 +21,11 @@ b_stubing = castle #Stübing
 #b_voitsberg = castle
 
 # Misc
-culture = german
+culture = karantanci
 religion = catholic
 
 # History
-
-
+955.1.1 = { culture = bavarian }
+1170.1.1 = { culture = german }
 
 

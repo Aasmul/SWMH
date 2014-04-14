@@ -23,8 +23,7 @@ culture = pommeranian
 religion = slavic_pagan
 
 # History
-
-1066.1.1 = { culture = german } 
-1066.1.1 = { religion = catholic } 
-
+937.1.1 = { religion = catholic }
+950.1.1 = { culture = thuringan } 
+1170.1.1 = { culture = german } 
 1250.1.1= { b_dessau = city } 

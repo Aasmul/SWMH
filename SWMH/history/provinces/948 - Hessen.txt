@@ -16,8 +16,8 @@ b_kassel = city
 #b_fritzlar =city
 
 # Misc
-culture = german
+culture = franconian
 religion = catholic
 
 # History
-
+1170.1.1 = { culture = german }

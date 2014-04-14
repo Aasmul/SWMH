@@ -15,9 +15,10 @@ b_tubingen = city
 
 
 # Misc
-culture = german
+culture = swabian
 religion = catholic
 
 # History
+1170.1.1 = { culture = german }
 
 

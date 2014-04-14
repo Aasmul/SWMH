@@ -18,7 +18,8 @@ b_essen = temple
 
 
 # Misc
-culture = german
+culture = low_saxon
 religion = catholic
 
 # History
+1100.1.1 = { culture = low_german }

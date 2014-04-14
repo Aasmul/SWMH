@@ -22,7 +22,9 @@ b_gurk = temple
 
 
 # Misc
-culture = karantanci
+#culture = karantanci
+culture = bavarian #settled before 867
 religion = catholic
 
 # History
+1170.1.1 = { culture = german }

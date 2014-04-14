@@ -14,7 +14,8 @@ b_lipporn = castle
 #b_moskebach = temple
 
 # Misc
-culture = german
+culture = franconian
 religion = catholic
 
 # History
+1170.1.1 = { culture = german }

@@ -20,4 +20,4 @@ religion = slavic_pagan
 # History
 990.1.1 = { religion = catholic }
 #1227.1.1 = { b_henrykow = temple }
-1250.1.1 = { culture = german } # German Settlers
+#1300.1.1 = { culture = german } 

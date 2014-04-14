@@ -25,4 +25,4 @@ religion = baltic_pagan
 
 1240.1.1 = { b_bartenstein = castle }
 1273.1.1 = { religion = catholic } #death of Diwanus
-1273.1.1 = { culture = german }
+1273.1.1 = { culture = low_german }

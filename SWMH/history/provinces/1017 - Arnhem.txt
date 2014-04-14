@@ -11,10 +11,10 @@ b_harderwijk = temple
 #b_wageningen = city
 
 # Misc
-culture = dutch
+culture = low_frankish #northern parts could be low_saxon
 religion = catholic
 
 # History
-
+1150.1.1 = { culture = dutch }
 
 

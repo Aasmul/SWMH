@@ -22,7 +22,8 @@ b_schaunberg = castle
 #b_freudenstein = castle
 
 # Misc
-culture = german
+culture = bavarian
 religion = catholic
 
 # History
+1170.1.1 = { culture = german }

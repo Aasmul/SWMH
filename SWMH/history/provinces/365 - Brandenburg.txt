@@ -25,6 +25,6 @@ culture = pommeranian
 religion = slavic_pagan
 
 # History
-1160.1.1 = { culture = german }
-1160.1.1 = { religion = catholic } 
+1157.1.1 = { culture = german }
+1157.1.1 = { religion = catholic } 
 1187.1.1 = { b_brenna = city } 

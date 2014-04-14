@@ -23,6 +23,6 @@ religion = norse_pagan
 	culture = danish
 	religion = catholic
 }
-1106.1.1 = { culture = german }
+1106.1.1 = { culture = low_german }
 
 

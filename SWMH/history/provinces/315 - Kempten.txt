@@ -15,8 +15,8 @@ b_kempten = temple
 
 
 # Misc
-culture = german
+culture = bavarian
 religion = catholic
 
 # History
-
+1170.1.1 = { culture = german }

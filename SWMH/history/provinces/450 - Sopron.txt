@@ -25,7 +25,7 @@ b_vasvar = city
 
 
 # Misc
-culture = german
+culture = bavarian
 religion = catholic 
 
 # History
