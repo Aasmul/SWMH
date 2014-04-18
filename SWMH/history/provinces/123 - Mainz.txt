@@ -15,8 +15,8 @@ b_rudesheim = city
 #b_oestrich = city
 
 # Misc
-culture = german
+culture = franconian
 religion = catholic
 
 # History
-
+1170.1.1 = { culture = german }

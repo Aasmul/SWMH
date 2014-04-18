@@ -1,9 +1,10 @@
-bavarian;Bavarian;;;;;;;;;;;;;;x
-franconian;Franconian;;;;;;;;;;;;;;x
-low_german;Low German;;;;;;;;;;;;;;x
-old_saxon;Old Saxon;;;;;;;;;;;;;;x
-swabian;Swabian;;;;;;;;;;;;;;x
-thuringan;Thuringan;;;;;;;;;;;;;;x
+bavarian;Bavarian;Bavarian;Bavarian;;Bavarian;;;;;;;;;x
+swabian;Swabian;Swabian;Swabian;;Swabian;;;;;;;;;x
+low_saxon;Low Saxon;Low Saxon;Low Saxon;;Low Saxon;;;;;;;;;x
+low_german;Low German;Low German;Low German;;Low German;;;;;;;;;x
+thuringan;Thuringian;Thuringian;Thuringian;;Thuringian;;;;;;;;;x
+franconian;Franconian;Franconian;Franconian;;Franconian;;;;;;;;;x
+low_frankish;Low Frankish;Low Frankish;Low Frankish;;Low Frankish;;;;;;;;;x
 frisian;Frysk;Frysk;Frysk;;Frysk;;;;;;;;;x
 saxon;Angelcynn;Angelcynn;Angelcynn;;Angelcynn;;;;;;;;;x
 cornish;Kernowek;Kernowek;Kernowek;;Kernowek;;;;;;;;;x

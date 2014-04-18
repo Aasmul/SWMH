@@ -26,6 +26,6 @@ religion = slavic_pagan
 # History
 
 883.1.1 = { religion = catholic }
-1254.1.1 = { culture = german }
+#1254.1.1 = { culture = german } partially settled
 1265.1.1 = { b_budweis = city }
 

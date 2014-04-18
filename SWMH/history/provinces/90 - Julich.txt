@@ -14,8 +14,8 @@ b_monschau = temple
 #b_aldenhoven = city
 
 # Misc
-culture = german
+culture = franconian
 religion = catholic
 
 # History
-
+1170.1.1 = { culture = german }

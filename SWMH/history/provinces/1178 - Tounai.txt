@@ -13,7 +13,7 @@ b_doornik = city
 #b_orchies = city
 
 # Misc
-culture = dutch
+culture = frankish
 religion = catholic
 
 # History

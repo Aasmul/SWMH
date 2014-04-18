@@ -21,9 +21,10 @@ b_raabs = castle
 #b_maissau= castle
 
 # Misc
-culture = german
+culture = bavarian
 religion = catholic
 
 # History
 1114.1.1 = { b_klosterneuburg = temple } 
 1159.1.1 = { b_stpolten = city }
+1170.1.1 = { culture = german }

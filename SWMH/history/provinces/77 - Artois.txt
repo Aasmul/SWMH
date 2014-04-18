@@ -4,25 +4,20 @@
 title = c_artois
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 b_bethune = castle
 b_arras = city
-b_therouanne = temple
+b_terwaan = temple
 
-#b_abbeydeachin = temple
-#b_loos = city
-#b_montmonrency = castle
-#b_olhain = castle
 #b_lens = city
+#b_lille = city
+#b_bouvines = castle
+#b_beaumetz = castle
 #b_bapaume = castle
-#b_saintvaast = temple
-
 
 # Misc
-culture = frankish
+culture = frankish # originally had some Low Franconian areas in the north
 religion = catholic
 
 # History
-
-
 

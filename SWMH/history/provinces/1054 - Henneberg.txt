@@ -13,5 +13,7 @@ b_henneberg = castle
 
 #Misc
 religion = catholic
-culture = german
+culture = franconian
 
+# History
+1170.1.1 = { culture = german }

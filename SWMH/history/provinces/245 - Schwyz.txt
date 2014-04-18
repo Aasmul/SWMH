@@ -18,9 +18,10 @@ b_altdorf = castle
 
 
 # Misc
-culture = german
+culture = swabian
 religion = catholic
 
 # History
 800.1.1= { capital = b_altrapperswill }
+1170.1.1 = { culture = german }
 1291.7.15= { capital = b_schwyz }

@@ -18,10 +18,11 @@ b_lindau = temple
 #b_rankweil = temple
 
 # Misc
-culture = german
+culture = swabian
 religion = catholic
 
 # History
 
 #800.1.1 = { name = "Bregenz" }
 #1000.1.1 = { name = "Montfort" }
+1170.1.1 = { culture = german }

@@ -15,9 +15,11 @@ b_kuhenring = castle
 #b_hartenstein = castle
 
 # Misc
-culture = german
+culture = bohemian
 religion = catholic
 
 # History
-955.1.1 = { b_krems = city } 
+955.1.1 = { b_krems = city }
+1100.1.1 = { culture = bavarian }
 1137.1.1 = { b_zwettl = temple }
+1170.1.1 = { culture = german }

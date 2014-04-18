@@ -20,10 +20,10 @@ b_moers = city
 #b_rees = temple
 
 # Misc
-culture = german
+culture = low_frankish
 religion = catholic
 
 # History
-
+1150.1.1 = { culture = dutch }
 
 

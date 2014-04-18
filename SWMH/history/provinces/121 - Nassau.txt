@@ -16,7 +16,8 @@ b_solms = castle
 #b_schaldeck = castle
 
 # Misc
-culture = german
+culture = franconian
 religion = catholic
 
 # History
+1170.1.1 = { culture = german }

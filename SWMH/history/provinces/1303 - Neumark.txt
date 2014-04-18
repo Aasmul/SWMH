@@ -23,4 +23,4 @@ religion = slavic_pagan
 
 # History
 1250.1.1 = { religion = catholic }
-1250.1.1 = { culture = german }
+1250.1.1 = { culture = low_german }

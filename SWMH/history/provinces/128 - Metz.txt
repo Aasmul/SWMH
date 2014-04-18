@@ -17,7 +17,7 @@ b_hingsingen = castle
 #b_bouzonville = city
 
 # Misc
-culture = german
+culture = frankish
 religion = catholic
 
 # History

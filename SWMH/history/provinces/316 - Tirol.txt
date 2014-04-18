@@ -20,9 +20,10 @@ b_lienz = castle
 #b_klamm = castle # nearby Imst
 
 # Misc
-culture = german
+culture = bavarian
 religion = catholic
 
 # History
+1170.1.1 = { culture = german }
 1187.1.1 = { b_innsbruck = city }
 

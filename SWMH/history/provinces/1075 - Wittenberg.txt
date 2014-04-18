@@ -17,6 +17,7 @@ culture = pommeranian
 religion = slavic_pagan
 
 # History
-
-1100.1.1 = { culture = german } 
+937.1.1 = { religion = catholic }
+950.1.1 = { culture = thuringan } 
 1100.1.1 = { religion = catholic } 
+1170.1.1 = { culture = german } 

@@ -1,4 +1,4 @@
-# 454 - Vas
+# 464 - Vas
 
 # County Title
 title = c_vas
@@ -6,21 +6,21 @@ title = c_vas
 # Settlements
 max_settlements = 4
 
-b_kolonvar = castle
-b_tihany = city
-b_egerszeg = temple
-#b_kanizsa = castle
-#b_csobanc = castle
-#b_sumeg = castle
-#b_szentgrot = city
+b_szombathely = castle
+#b_sarvar = castle
+
+b_vasvar = city
+b_szentgotthard = temple
+
+#b_celldomolk = castle
+#b_kormend = castle
+#b_koszeg = city
+#b_nemetujvar = castle
 
 # Misc
-culture = croatian
+culture = bavarian
 religion = catholic
 
 # History
-890.1.1 = { religion = catholic }
+
 950.1.1 = { culture = hungarian }
-
-
-

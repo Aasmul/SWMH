@@ -25,7 +25,7 @@ religion = slavic_pagan
 
 # Christianity only arrived with the Danish king Valdemar I
 1168.1.1 = { religion = catholic }
-1168.1.1 = { culture = german } 
+1168.1.1 = { culture = low_german } 
 1187.1.1 = { b_travemunde = castle}
 
 1227.1.1 = {

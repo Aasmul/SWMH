@@ -18222,10 +18222,10 @@
 	culture="german"
 	
 	father=462802
-	1236.1.1 = {
+
+	1236.1.1 = { #1252 married Willem II van Holland (94003)
 		birth="1236.1.1"
-	}#1252 married Willem II van Holland (94003)
-	
+	}	
 	1266.5.27 = {
 		death="1266.5.27"
 	}

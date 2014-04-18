@@ -15,7 +15,7 @@ b_neuchatel = castle
 #b_murten = castle
 
 # Misc
-culture = german
+culture = arpitan
 religion = catholic
 
 # History

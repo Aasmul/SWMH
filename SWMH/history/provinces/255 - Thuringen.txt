@@ -18,8 +18,8 @@ b_gleichen = castle
 
 
 # Misc
-culture = german
+culture = thuringan
 religion = catholic
 
 # History
-
+1170.1.1 = { culture = german }

@@ -18,7 +18,8 @@ religion = slavic_pagan
 
 # History
 866.1.1 = { capital = b_belzig }
-870.1.1 = { capital = b_magdeburg }
-1066.1.1 = { culture = german } 
-1066.1.1 = { religion = catholic } 
+919.1.1 = { capital = b_magdeburg }
+919.1.1 = { culture = low_saxon } 
+919.1.1 = { religion = catholic } 
+1100.1.1 = { culture = low_german }
 1187.1.1 = { b_havelberg = temple } 

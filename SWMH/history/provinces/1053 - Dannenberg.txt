@@ -14,8 +14,9 @@ b_luchow = castle
 
 # Misc
 
-culture = german
-religion = catholic
+culture = pommeranian
+religion = slavic_pagan
 
 # History
-
+1153.1.1 = { culture = low_german }
+1153.1.1 = { religion = catholic } 

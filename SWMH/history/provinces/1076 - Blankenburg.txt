@@ -16,10 +16,10 @@ b_quedlinburg = temple
 
 
 # Misc
-culture = german
+culture = low_saxon
 religion = catholic
 
 # History
-
 1100.1.1 = { b_blankenburg = castle } 
+1100.1.1 = { culture = low_german }
 1187.1.1= { b_haldensleben = city } 

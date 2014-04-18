@@ -18,7 +18,7 @@ b_montsalvens = castle
 #b_bulle = city
 
 # Misc
-culture = german
+culture = arpitan
 religion = catholic
 
 # History

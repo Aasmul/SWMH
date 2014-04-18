@@ -20,9 +20,8 @@ b_mirecourt = city
 #b_epinal = city
 
 # Misc
-culture = german
+culture = frankish
 religion = catholic
 
 # History
-
 1187.1.1 = { b_sarrebourg = city }

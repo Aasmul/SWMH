@@ -21,11 +21,11 @@ b_saintbavo = temple
 
 
 # Misc
-culture = dutch
+culture = low_frankish
 religion = catholic
 
 # History
-
+1150.1.1 = { culture = dutch }
 
 
 

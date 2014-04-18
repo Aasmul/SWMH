@@ -13,10 +13,11 @@ b_roth = city
 #b_erlangen = castle
 #b_cadolzburg = castle
 #b_furth = city
+
 # Misc
-culture = german
+culture = franconian
 religion = catholic
 
 # History
 ## Nuremburg was Kaiserburg, inofficial capial
-
+1170.1.1 = { culture = german }
