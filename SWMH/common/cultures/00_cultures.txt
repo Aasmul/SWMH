@@ -289,7 +289,182 @@ central_germanic = {
 
 		modifier = german_culture_modifier
 	}
-    dutch = {
+	swabian = {
+		graphical_culture = germangfx
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Adalbert_Albert Adam_Adam Adolf Albrecht_Albert Almerich_Amalric Amadeus Andreas_Andrew Anselm Arnold_Arnold Arnulf_Arnulf Augustin 
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
+		}
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = german_culture_modifier
+	}
+	bavarian = {
+		graphical_culture = germangfx
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Adalbert_Albert Adam_Adam Adolf Albrecht_Albert Almerich_Amalric Amadeus Andreas_Andrew Anselm Arnold_Arnold Arnulf_Arnulf Augustin 
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
+		}
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = german_culture_modifier
+	}
+	low_saxon = {
+		graphical_culture = germangfx
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Adalbert_Albert Adam_Adam Adolf Albrecht_Albert Almerich_Amalric Amadeus Andreas_Andrew Anselm Arnold_Arnold Arnulf_Arnulf Augustin 
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
+		}
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = german_culture_modifier
+	}
+	low_german = { # melts from low_saxon at dates >= 1100.1.1
+		graphical_culture = germangfx
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Adalbert_Albert Adam_Adam Adolf Albrecht_Albert Almerich_Amalric Amadeus Andreas_Andrew Anselm Arnold_Arnold Arnulf_Arnulf Augustin 
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
+		}
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = german_culture_modifier
+	}
+	thuringan = {
+		graphical_culture = germangfx
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Adalbert_Albert Adam_Adam Adolf Albrecht_Albert Almerich_Amalric Amadeus Andreas_Andrew Anselm Arnold_Arnold Arnulf_Arnulf Augustin 
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
+		}
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = german_culture_modifier
+	}
+	franconian = {
+		graphical_culture = germangfx
+		
+		color = { 0.5 0.5 0.5 }
+
+		male_names = {
+			Adalbert_Albert Adam_Adam Adolf Albrecht_Albert Almerich_Amalric Amadeus Andreas_Andrew Anselm Arnold_Arnold Arnulf_Arnulf Augustin 
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
+		}
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = german_culture_modifier
+	}
+	low_frankish = {
+		graphical_culture = germangfx
+		
+		color = { 0.96 0.39 0.08 }
+
+		male_names = {
+			Adalbert_Albert Adam_Adam Adolf Albrecht_Albert Almerich_Amalric Amadeus Andreas_Andrew Anselm Arnold_Arnold Arnulf_Arnulf Augustin 
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia 
+		}
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = german_culture_modifier
+	}
+    dutch = { # partially melts from low_frankish at dates >= 1150.1.1
 		graphical_culture = germangfx
 		graphical_unit_culture = western
 		
