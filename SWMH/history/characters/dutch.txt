@@ -1,40 +1,40 @@
 10066 = {
 	name="Mathilda"
-	female = yes
+	female=yes
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=2
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	father=41025
 	mother=7999
-	999.1.1={
+	999.1.1 = {
 		birth="999.1.1"
 	}
-	1060.1.1={
+	1060.1.1 = {
 		death="1060.1.1"
 	}
 }
 
 10068 = {
 	name="Aleidis"
-	# AKA: Adele
-	female = yes
+	female=yes
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Adele
 	martial=2
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	father=40712
 	mother=40709
-	984.1.1={
+	984.1.1 = {
 		birth="984.1.1"
 	}
-	1046.1.1={
+	1046.1.1 = {
 		death="1046.1.1"
 	}
 }
@@ -107,121 +107,121 @@
 }
 
 106520 = {
-	name="Dirk" #Dirk V
+	name="Dirk"  #Dirk V
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	trait="just"
 	trait="cynical"
 	trait="tough_soldier"
 	father=106522
 	mother=106521
-	1054.1.1={
+	1054.1.1 = {
 		birth="1054.1.1"
 	}
-	1083.1.1={
+	1083.1.1 = {
 		add_spouse=31091
 	}
-	1091.6.17={
+	1091.6.17 = {
 		death="1091.6.17"
 	}
 }
 
 106522 = {
-	name="Floris" #Floris I
+	name="Floris"  #Floris I
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="catholic"
-	culture="dutch"
 	trait="slothful"
 	trait="temperate"
 	trait="clubfooted"
 	trait="flamboyant_schemer"
 	father=40713
 	mother=30008
-	1017.1.1={
+	1017.1.1 = {
 		birth="1017.1.1"
 	}
-	1046.1.1={
+	1046.1.1 = {
 		add_spouse = 106521
 	}
-	1061.6.28={
+	1061.6.28 = {
 		death="1061.6.28"
 	}
 }
 
 106523 = {
-	name="Dirk" #Dirk IV
+	name="Dirk"  #Dirk IV
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="catholic"
-	culture="dutch"
 	trait="slothful"
 	trait="temperate"
 	trait="clubfooted"
 	trait="flamboyant_schemer"
 	father=40713
 	mother=30008
-	1016.1.1={
+	1016.1.1 = {
 		birth="1016.1.1"
 	}
-	1049.1.13={
+	1049.1.13 = {
 		death="1049.1.13"
 	}
 }
 
 106524 = {
 	name="Bertha"
-	female = yes
+	female=yes
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=8
 	intrigue=5
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="just"
 	trait="hunchback"
 	trait="stutter"
 	trait="thrifty_clerk"
 	father=106522
 	mother=106521
-	1055.1.1={
+	1055.1.1 = {
 		birth="1055.1.1"
 	}
-	1094.1.1={
+	1094.1.1 = {
 		death="1094.1.1"
 	}
 }
 
 106529 = {
 	name="Mechthild"
-	# AKA: Mechtild
-	female = yes
+	female=yes
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Mechtild
 	martial=6
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="martial_cleric"
 	father=106522
 	mother=106521
-	1060.1.1={
+	1060.1.1 = {
 		birth="1060.1.1"
 	}
-	1095.1.1={
+	1095.1.1 = {
 		death="1095.1.1"
 	}
 }
@@ -229,89 +229,89 @@
 106530 = {
 	name="Willem"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	father=30053
-	1030.1.2={
+	1030.1.2 = {
 		birth="1030.1.2"
 	}
-	1076.4.27={
+	1076.4.27 = {
 		death="1076.4.27"
 	}
 }
 
 106531 = {
 	name="Adela"
-	female = yes
+	female=yes
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="thrifty_clerk"
 	father=106522
 	mother=106521
-	1055.1.1={
+	1055.1.1 = {
 		birth="1055.1.1"
 	}
-	1085.1.1={
+	1085.1.1 = {
 		death="1085.1.1"
 	}
 }
 
 106540 = {
 	name="Diederik"
-	# AKA: Theodoricus
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Theodoricus
 	martial=4
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="honest"
 	trait="arbitrary"
 	trait="craven"
 	trait="flamboyant_schemer"
 	father=106542
 	mother=106541
-	1035.1.2={
+	1035.1.2 = {
 		birth="1035.1.2"
 	}
-	1054.1.2={
+	1054.1.2 = {
 		add_spouse=106543
 	}
-	1082.10.19={
+	1082.10.19 = {
 		death="1082.10.19"
 	}
 }
 
 106542 = {
 	name="Gerard"
-	# AKA: Gerardus
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Gerardus
 	martial=7
 	diplomacy=4
 	intrigue=8
 	stewardship=8
-	religion="catholic"
-	culture="dutch"
 	trait="skilled_tactician"
 	father=30053
 	mother=30054
-	1012.1.2={
+	1012.1.2 = {
 		birth="1012.1.2"
 	}
-	1029.1.2={
+	1029.1.2 = {
 		add_spouse=106541
 	}
-	1053.1.7={
+	1053.1.7 = {
 		death="1053.1.7"
 	}
 }
@@ -319,86 +319,86 @@
 106544 = {
 	name="Gozewijn"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="tough_soldier"
 	father=106540
 	mother=106543
-	1055.1.2={
+	1055.1.2 = {
 		birth="1055.1.2"
 	}
-	1104.1.1={
+	1104.1.1 = {
 		death="1104.1.1"
 	}
 }
 
 106550 = {
-	name="Dirk" #Dirk II
+	name="Dirk"  #Dirk II
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="tough_soldier"
 	father = 106551
-	920.1.1={
+	920.1.1 = {
 		birth="920.1.1"
 	}
-	952.1.1={
+	952.1.1 = {
 		add_spouse=94000
 	}
-	988.5.6={
+	988.5.6 = {
 		death="988.5.6"
 	}
 }
 
 106551 = {
-	name="Dirk" #Dirk I
+	name="Dirk"  #Dirk I
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="tough_soldier"
 	father=31060
-	867.1.1={
+	867.1.1 = {
 		birth="867.1.1"
 	}
-	939.1.1={
+	939.1.1 = {
 		death="939.1.1"
 	}
 }
 
 106555 = {
-	name="Floris" #Floris II
+	name="Floris"  #Floris II
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="catholic"
-	culture="dutch"
 	trait="slothful"
 	trait="temperate"
 	trait="clubfooted"
 	trait="flamboyant_schemer"
 	father=106520
 	mother=31091
-	1085.1.1={
+	1085.1.1 = {
 		birth="1085.1.1"
 	}
-	1113.1.1={
+	1113.1.1 = {
 		add_spouse = 106554
 	}
-	1121.3.2={
+	1121.3.2 = {
 		death="1121.3.2"
 	}
 }
@@ -429,49 +429,49 @@
 }
 
 106570 = {
-	name="Emmo" #1044-1078
+	name="Emmo"  #1044-1078
 	dynasty=424
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	trait="honest"
 	trait="arbitrary"
 	trait="craven"
 	trait="tough_soldier"
 	father=106572
 	mother=106571
-	1030.1.1={
+	1030.1.1 = {
 		birth="1030.1.1"
 	}
-	1046.1.1={
+	1046.1.1 = {
 	add_spouse=31090
 	}
-	1078.1.17={
+	1078.1.17 = {
 		death="1078.1.17"
 	}
 }
 
 106572 = {
-	name="Giselbert" #1014-1044
+	name="Giselbert"  #1014-1044
 	dynasty=424
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="tough_soldier"
 	father=161296
-	985.1.1={
+	985.1.1 = {
 		birth="985.1.1"
 	}
-	1017.1.1={
+	1017.1.1 = {
 	add_spouse = 106571
 	}
-	1044.1.1={
+	1044.1.1 = {
 		death="1044.1.1"
 	}
 }
@@ -479,19 +479,19 @@
 106574 = {
 	name="Otto"
 	dynasty=424
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=4
 	intrigue=8
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="skilled_tactician"
 	father=106572
 	mother=106571
-	1042.1.1={
+	1042.1.1 = {
 		birth="1042.1.1"
 	}
-	1101.1.1={
+	1101.1.1 = {
 		death="1101.1.1"
 	}
 }
@@ -499,25 +499,25 @@
 106590 = {
 	name="Boudewijn"
 	dynasty=421
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	trait="wroth"
 	trait="charitable"
 	trait="gluttonous"
 	trait="tough_soldier"
 	father=106592
 	mother=106591
-	1025.1.2={
+	1025.1.2 = {
 		birth="1025.1.2"
 	}
-	1053.1.2={
+	1053.1.2 = {
 		add_spouse = 106593
 	}
-	1075.1.2={
+	1075.1.2 = {
 		death="1075.1.2"
 	}
 }
@@ -525,21 +525,21 @@
 106592 = {
 	name="Rudolf"
 	dynasty=421
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=8
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="fortune_builder"
 	father=32202
-	1000.1.2={
+	1000.1.2 = {
 		birth="1000.1.2"
 	}
-	1024.1.2={
+	1024.1.2 = {
 		add_spouse=106591
 	}
-	1058.1.10={
+	1058.1.10 = {
 		death="1058.1.10"
 	}
 }
@@ -567,20 +567,20 @@
 106594 = {
 	name="Boudewijn"
 	dynasty=421
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="harelip"
 	trait="thrifty_clerk"
 	father=106590
 	mother=106593
-	1055.1.2={
+	1055.1.2 = {
 		birth="1055.1.2"
 	}
-	1105.1.2={
+	1105.1.2 = {
 		death="1105.1.2"
 	}
 }
@@ -588,20 +588,20 @@
 106595 = {
 	name="Giselbert"
 	dynasty=421
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="hunchback"
 	trait="martial_cleric"
 	father=106590
 	mother=106593
-	1057.1.2={
+	1057.1.2 = {
 		birth="1057.1.2"
 	}
-	1107.1.2={
+	1107.1.2 = {
 		death="1107.1.2"
 	}
 }
@@ -609,20 +609,20 @@
 106596 = {
 	name="Engelbert"
 	dynasty=421
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="cynical"
 	trait="tough_soldier"
 	father=106590
 	mother=106593
-	1059.1.2={
+	1059.1.2 = {
 		birth="1059.1.2"
 	}
-	1109.1.2={
+	1109.1.2 = {
 		death="1109.1.2"
 	}
 }
@@ -631,20 +631,20 @@
 	name="Liutgard"
 	female=yes
 	dynasty=421
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	trait="humble"
 	trait="martial_cleric"
 	father=106590
 	mother=106593
-	1060.1.2={
+	1060.1.2 = {
 		birth="1060.1.2"
 	}
-	1110.1.2={
+	1110.1.2 = {
 		death="1110.1.2"
 	}
 }
@@ -652,23 +652,23 @@
 106600 = {
 	name="Hendrik"
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="cynical"
 	trait="amateurish_plotter"
 	father=106602
 	mother=106601
-	1020.1.2={
+	1020.1.2 = {
 		birth="1020.1.2"
 	}
-	1040.1.2={
+	1040.1.2 = {
 		add_spouse = 106603
 	}
-	1078.1.1={
+	1078.1.1 = {
 		death="1078.1.1"
 	}
 }
@@ -676,43 +676,43 @@
 106602 = {
 	name="Lambrecht"
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	trait="flamboyant_schemer"
 	father=41025
 	mother = 7999
-	995.1.1={
+	995.1.1 = {
 		birth="995.1.1"
 	}
-	1016.1.1={
+	1016.1.1 = {
 		add_spouse=106601
 	}
-	1054.6.19={
+	1054.6.19 = {
 		death="1054.6.19"
 	}
 }
 
 106603 = {
 	name="Adelheid"
-	female = yes
+	female=yes
 	dynasty=101554
+	religion="catholic"
+	culture="franconian"  # melted from: dutch
 	martial=8
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="catholic"
-	culture="dutch"
 	trait="charitable"
 	trait="scholarly_theologian"
 	father=161530
-	1027.1.1={
+	1027.1.1 = {
 		birth="1027.1.1"
 	}
-	1086.1.1={
+	1086.1.1 = {
 		death="1086.1.1"
 	}
 }
@@ -720,69 +720,69 @@
 106604 = {
 	name="Godfried"
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="arbitrary"
 	trait="hunchback"
 	trait="thrifty_clerk"
 	father=106600
 	mother=106603
-	1063.1.1={
+	1063.1.1 = {
 		birth="1063.1.1"
 	}
-	1108.1.1={
+	1108.1.1 = {
 		add_spouse=33209
 	}
-	1139.1.25={
+	1139.1.25 = {
 		death="1139.1.25"
 	}
 }
 
 106605 = {
 	name="Adela"
-	female = yes
+	female=yes
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="scholarly_theologian"
 	father=106602
 	mother=106601
-	1040.1.2={
+	1040.1.2 = {
 		birth="1040.1.2"
 	}
-	1090.1.2={
+	1090.1.2 = {
 		death="1090.1.2"
 	}
 }
 
 106642 = {
 	name="Reginar"
+	dynasty=7198  #Reginar
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	# AKA: Renier
-	dynasty=7198 #Reginar
 	martial=7
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="amateurish_plotter"
 	father=7998
 	mother=203
-	998.1.2={
+	998.1.2 = {
 		birth="998.1.2"
 	}
-	1016.1.2={
+	1016.1.2 = {
 		add_spouse = 106641
 	}
-	1039.1.3={
+	1039.1.3 = {
 		death="1039.1.3"
 	}
 }
@@ -814,18 +814,18 @@
 1200 = {
 	name="Hendrik"
 	dynasty=671
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="cynical"
 	trait="tough_soldier"
-	1028.1.2={
+	1028.1.2 = {
 		birth="1028.1.2"
 	}
-	1078.1.2={
+	1078.1.2 = {
 		death="1078.1.2"
 	}
 }
@@ -833,19 +833,19 @@
 1202 = {
 	name="Hendrik"
 	dynasty=671
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=6
 	intrigue=8
 	stewardship=8
-	religion="catholic"
-	culture="dutch"
 	trait="cynical"
 	trait="skilled_tactician"
 	father=1200
-	1049.1.2={
+	1049.1.2 = {
 		birth="1049.1.2"
 	}
-	1099.1.2={
+	1099.1.2 = {
 		death="1099.1.2"
 	}
 }
@@ -1040,48 +1040,48 @@
 }
 
 206800 = {
-	name="Gerard" #1171-1191
+	name="Gerard"  #1171-1191
 	dynasty=424
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="amateurish_plotter"
 	father=206801
 	mother=31548
-	1145.1.1={
+	1145.1.1 = {
 		birth="1145.1.1"
 	}
-	1179.1.1={
+	1179.1.1 = {
 	add_spouse=30021
 	}
-	1191.9.2={
+	1191.9.2 = {
 		death="1191.9.2"
 	}
 }
 
 206801 = {
-	name="Lodewijk" #1139-1171
+	name="Lodewijk"  #1139-1171
 	dynasty=424
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="just"
 	trait="amateurish_plotter"
 	father=33063
 	mother=33064
-	1110.1.1={
+	1110.1.1 = {
 		birth="1110.1.1"
 	}
-	1143.1.1={
+	1143.1.1 = {
 	add_spouse=31548
 	}
-	1171.8.11={
+	1171.8.11 = {
 		death="1171.8.11"
 	}
 }
@@ -1199,54 +1199,54 @@
 }
 
 206840 = {
-	name="Floris" #Floris III
+	name="Floris"  #Floris III
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=7
 	intrigue=6
 	stewardship=8
-	religion="catholic"
-	culture="dutch"
 	trait="just"
 	trait="proud"
 	trait="brave"
 	trait="tough_soldier"
 	father=206841
 	mother=206845
-	1140.1.1={
+	1140.1.1 = {
 		birth="1140.1.1"
 	}
-	1162.9.28={
+	1162.9.28 = {
 		add_spouse = 203512
 	}
-	1187.1.1={
+	1187.1.1 = {
 		trait="crusader"
 	}
-	1190.8.1={
+	1190.8.1 = {
 		death="1190.8.1"
 	}
 }
 
 206841 = {
-	name="Dirk" #Dirk VI
+	name="Dirk"  #Dirk VI
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="charitable"
 	trait="martial_cleric"
 	father = 106555
 	mother = 106554
-	1114.1.1={
+	1114.1.1 = {
 		birth="1114.1.1"
 	}
-	1137.1.1={
+	1137.1.1 = {
 		add_spouse=206845
 	}
-	1157.8.5={
+	1157.8.5 = {
 		death="1157.8.5"
 	}
 }
@@ -1327,50 +1327,50 @@
 }
 
 206847 = {
-	name="Boudewijn" #bishop of Sticht
+	name="Boudewijn"  #bishop of Sticht
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="humble"
 	trait="scholarly_theologian"
 	father=206841
 	mother=206845
-	1145.1.1={
+	1145.1.1 = {
 		birth="1145.1.1"
 	}
-	1178.5.27={
+	1178.5.27 = {
 	capital=c_sticht
 	}
-	1196.4.30={
+	1196.4.30 = {
 		death="1196.4.30"
 	}
 }
 
 206848 = {
-	name="Dirk" #bishop of Sticht
+	name="Dirk"  #bishop of Sticht
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="catholic"
-	culture="dutch"
 	trait="kind"
 	trait="detached_priest"
 	father=206841
 	mother=206845
-	1147.1.1={
+	
+	1147.1.1 = {
 		birth="1147.1.1"
 	}
-	
-	1197.1.1={
+	1197.1.1 = {
 	capital=c_sticht
 	}
-	1197.8.26={
+	1197.8.26 = {
 		death="1197.8.26"
 	}
 }
@@ -1378,27 +1378,27 @@
 206850 = {
 	name="Godfried"
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	trait="just"
 	trait="ill"
 	trait="thrifty_clerk"
 	father=206851
 	mother=206860
-	1142.1.1={
+	1142.1.1 = {
 		birth="1142.1.1"
 	}
-	1155.1.1={
+	1155.1.1 = {
 		add_spouse=206870
 	}
-	1173.1.1={
+	1173.1.1 = {
 		add_spouse=206806
 	}
-	1190.8.21={
+	1190.8.21 = {
 		death="1190.8.21"
 	}
 }
@@ -1406,23 +1406,23 @@
 206851 = {
 	name="Godfried"
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="kind"
 	trait="flamboyant_schemer"
 	father=106604
 	mother=33209
-	1110.1.1={
+	1110.1.1 = {
 		birth="1110.1.1"
 	}
-	1140.1.1={
+	1140.1.1 = {
 		add_spouse=206860
 	}
-	1142.6.13={
+	1142.6.13 = {
 		death="1142.6.13"
 	}
 }
@@ -1524,23 +1524,23 @@
 
 206857 = {
 	name="Adelheid"
-	female = yes
+	female=yes
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="lustful"
 	trait="arbitrary"
 	trait="flamboyant_schemer"
 	father=106604
 	mother=33209
-	1106.1.1={
+	1106.1.1 = {
 		birth="1106.1.1"
 	}
-	1151.1.22={
+	1151.1.22 = {
 		death="1151.1.22"
 	}
 }
@@ -1569,19 +1569,19 @@
 231002 = {
 	name="Kuno"
 	dynasty=100081
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="gluttonous"
 	trait="proud"
 	trait="tough_soldier"
-	1145.1.1={
+	1145.1.1 = {
 		birth="1145.1.1"
 	}
-	1195.1.1={
+	1195.1.1 = {
 		death="1195.1.1"
 	}
 }
@@ -1589,19 +1589,19 @@
 231003 = {
 	name="Menfrid"
 	dynasty=100081
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="just"
 	trait="proud"
 	trait="tough_soldier"
-	1145.1.1={
+	1145.1.1 = {
 		birth="1145.1.1"
 	}
-	1195.1.1={
+	1195.1.1 = {
 		death="1195.1.1"
 	}
 }
@@ -1609,83 +1609,83 @@
 231004 = {
 	name="Wihard"
 	dynasty=100085
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="brave"
 	trait="just"
 	trait="gluttonous"
 	trait="martial_cleric"
-	1145.1.1={
+	1145.1.1 = {
 		birth="1145.1.1"
 	}
-	1195.1.1={
+	1195.1.1 = {
 		death="1195.1.1"
 	}
 }
 
 30010 = {
 	name="Margareta"
-	female = yes
+	female=yes
 	dynasty=424
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	father=106572
 	mother=106571
-	1038.1.1={
+	1038.1.1 = {
 		birth="1038.1.1"
 	}
-	1062.1.1={
+	1062.1.1 = {
 		death="1062.1.1"
 	}
 }
 
 30011 = {
 	name="Judith"
-	female = yes
+	female=yes
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=3
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	father=41720
 	mother=30050
-	1079.1.2={
+	1079.1.2 = {
 		birth="1079.1.2"
 	}
-	1151.6.24={
+	1151.6.24 = {
 		death="1151.6.24"
 	}
 }
 
 30012 = {
 	name="Yolanda"
-	female = yes
+	female=yes
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	father=41720
 	mother=30050
 	
-	1089.1.2={
+	
+	
+	1089.1.2 = {
 		birth="1089.1.2"
 	}
-	
-	
-	1131.1.1={
+	1131.1.1 = {
 		death="1131.1.1"
 	}
 }
@@ -1693,46 +1693,46 @@
 30013 = {
 	name="Gerard"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	father=41720
 	mother=30050
 	
-	1090.1.2={
+	
+	
+	1090.1.2 = {
 		birth="1090.1.2"
 	}
-	1115.1.1={
+	1115.1.1 = {
 		add_spouse=30014
 	}
-	
-	
-	1131.10.24={
+	1131.10.24 = {
 		death="1131.10.24"
 	}
 }
 
 30014 = {
 	name="Ermgard"
-	female = yes
+	female=yes
 	dynasty=101918
+	religion="catholic"
+	culture="low_saxon"  # melted from: dutch
 	martial=4
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	father=41722
 	
-	1091.1.2={
+	
+	
+	1091.1.2 = {
 		birth="1091.1.2"
 	}
-	
-	
-	1134.1.1={
+	1134.1.1 = {
 		death="1134.1.1"
 	}
 }
@@ -1740,64 +1740,64 @@
 30015 = {
 	name="Hendrik"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	father=30013
 	mother=30014
 	
-	1117.1.2={
+	
+	
+	1117.1.2 = {
 		birth="1117.1.2"
 	}
-	1137.1.2={
+	1137.1.2 = {
 		add_spouse=30051
 	}
-	
-	
-	1182.9.10={
+	1182.9.10 = {
 		death="1182.9.10"
 	}
 }
 
 30016 = {
 	name="Adelheid"
-	female = yes
+	female=yes
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	father=30013
 	mother=30014
-	1118.1.2={
+	1118.1.2 = {
 		birth="1118.1.2"
 	}
-	1150.1.1={
+	1150.1.1 = {
 		death="1150.1.1"
 	}
 }
 
 30017 = {
 	name="Salome"
-	female = yes
+	female=yes
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=3
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	father=30013
 	mother=30014
-	1121.1.2={
+	1121.1.2 = {
 		birth="1121.1.2"
 	}
-	1167.1.1={
+	1167.1.1 = {
 		death="1167.1.1"
 	}
 }
@@ -1805,18 +1805,18 @@
 30018 = {
 	name="Gerard"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	father=30015
 	mother=30051
-	1140.1.2={
+	1140.1.2 = {
 		birth="1140.1.2"
 	}
-	1182.1.1={
+	1182.1.1 = {
 		death="1182.1.1"
 	}
 }
@@ -2483,18 +2483,18 @@
 
 30050 = {
 	name="Sophie"
-	female = yes
+	female=yes
 	dynasty=78
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
-	1060.1.2={
+	1060.1.2 = {
 		birth="1060.1.2"
 	}
-	1090.2.19={
+	1090.2.19 = {
 		death="1090.2.19"
 	}
 }
@@ -2502,23 +2502,23 @@
 30053 = {
 	name="Gerard"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="charitable"
 	trait="envious"
 	trait="amateurish_plotter"
 	father=30055
-	980.1.2={
+	980.1.2 = {
 		birth="980.1.2"
 	}
-	1005.1.2={
+	1005.1.2 = {
 		add_spouse=30054
 	}
-	1033.1.1={
+	1033.1.1 = {
 		death="1033.1.1"
 	}
 }
@@ -2527,19 +2527,19 @@
 	name="Bava"
 	female=yes
 	dynasty=429
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="charitable"
 	trait="envious"
 	trait="amateurish_plotter"
-	982.1.2={
+	982.1.2 = {
 		birth="982.1.2"
 	}
-	1045.1.1={
+	1045.1.1 = {
 		death="1045.1.1"
 	}
 }
@@ -2547,16 +2547,16 @@
 30055 = {
 	name="Rutger"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
-	960.1.2={
+	960.1.2 = {
 		birth="960.1.2"
 	}
-	983.1.1={
+	983.1.1 = {
 		death="983.1.1"
 	}
 }
@@ -2579,17 +2579,17 @@
 
 30079 = {
 	name="Adelheid"
-	female = yes
-	dynasty=427 #von Wassenberg
-	stewardship=6
+	female=yes
+	dynasty=427  #von Wassenberg
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
+	stewardship=6
 	father=41720
 	mother=30050
-	1090.1.2={
+	1090.1.2 = {
 		birth="1090.1.2"
 	}
-	1156.1.1={
+	1156.1.1 = {
 		death="1156.1.1"
 	}
 }
@@ -2597,18 +2597,18 @@
 30221 = {
 	name="Diederik"
 	dynasty=101918
+	religion="catholic"
+	culture="low_saxon"  # melted from: dutch
 	martial=4
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	father=41722
 	mother=30220
-	1093.1.1={
+	1093.1.1 = {
 		birth="1093.1.1"
 	}
-	1127.2.28={
+	1127.2.28 = {
 		death="1127.2.28"
 	}
 }
@@ -2646,74 +2646,74 @@
 30380 = {
 	name="Adda"
 	female=yes
-	dynasty=7130 #van Groothusen
+	dynasty=7130  #van Groothusen
 	religion="catholic"
-	culture="dutch"
-	1299.1.1={
+	culture="low_german"  # melted from: dutch
+	1299.1.1 = {
 		birth="1299.1.1"
 	}
-	1347.1.1={
+	1347.1.1 = {
 		death="1347.1.1"
 	}
 }
 
 30672 = {
 	name="Godebald"
-	dynasty=100082 #van Sticht
+	dynasty=100082  #van Sticht
 	religion="catholic"
-	culture="dutch"
-	1060.1.1={
+	culture="low_frankish"  # melted from: dutch
+	1060.1.1 = {
 		birth="1060.1.1"
 	}
-	1127.11.12={
+	1127.11.12 = {
 		death="1127.11.12"
 	}
 }
 
 30673 = {
 	name="Andries"
-	dynasty=7168 #van Cuijck
+	dynasty=7168  #van Cuijck
 	religion="catholic"
-	culture="dutch"
-	1070.1.1={
+	culture="low_frankish"  # melted from: dutch
+	1070.1.1 = {
 		birth="1070.1.1"
 	}
-	1138.1.1={
+	1138.1.1 = {
 		capital=c_sticht
 	}
-	1139.6.23={
+	1139.6.23 = {
 		death="1139.6.23"
 	}
 }
 
 30674 = {
 	name="Hartbert"
-	dynasty=7169 #van Bierum
+	dynasty=7169  #van Bierum
 	religion="catholic"
-	culture="dutch"
-	1090.1.1={
+	culture="low_frankish"  # melted from: dutch
+	1090.1.1 = {
 		birth="1090.1.1"
 	}
-	1139.6.23={
+	1139.6.23 = {
 		capital=c_sticht
 	}
-	1150.11.12={
+	1150.11.12 = {
 		death="1150.11.12"
 	}
 }
 
 30676 = {
 	name="Godfried"
-	dynasty=7170 #van Rhenen
+	dynasty=7170  #van Rhenen
 	religion="catholic"
-	culture="dutch"
-	1110.1.1={
+	culture="low_frankish"  # melted from: dutch
+	1110.1.1 = {
 		birth="1110.1.1"
 	}
-	1156.1.31={
+	1156.1.31 = {
 	capital=c_sticht
 	}
-	1178.5.27={
+	1178.5.27 = {
 		death="1178.5.27"
 	}
 }
@@ -2820,81 +2820,81 @@
 	name="Hendrik"
 	dynasty=101918
 	religion="catholic"
-	culture="dutch"
+	culture="low_saxon"  # melted from: dutch
 	father=41722
 	mother=30220
-	1092.1.1={
+	1092.1.1 = {
 		birth="1092.1.1"
 	}
-	1110.1.1={
+	1110.1.1 = {
 		add_spouse=30728
-	} 
-	1143.1.1={
+	}
+	1143.1.1 = {
 		death="1143.1.1"
 	}
 }
 
 30950 = {
 	name="Ida"
-	female = yes
+	female=yes
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father = 106604
 	mother=33209
-	1108.1.1={
+	1108.1.1 = {
 		birth="1108.1.1"
 	}
-	1162.7.27={
+	1162.7.27 = {
 		death="1162.7.27"
 	}
 }
 
 31040 = {
 	name="Hugo"
-	dynasty=7197 #van Voorne
+	dynasty=7197  #van Voorne
 	religion="catholic"
-	culture="dutch"
-	1108.1.1={
+	culture="low_frankish"  # melted from: dutch
+	1108.1.1 = {
 		birth="1108.1.1"
 	}
-	1129.1.1={
+	1129.1.1 = {
 		add_spouse=31063
 	}
-	1156.1.1={
+	1156.1.1 = {
 		death="1156.1.1"
 	}
 }
 
 31041 = {
 	name="Floris"
-	dynasty=7197 #van Voorne
+	dynasty=7197  #van Voorne
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=31040
 	mother=31063
-	1130.1.1={
+	1130.1.1 = {
 		birth="1130.1.1"
 	}
-	1191.1.1={
+	1191.1.1 = {
 		death="1191.1.1"
 	}
 }
 
 31042 = {
 	name="Dirk"
-	dynasty=7197 #van Voorne
+	dynasty=7197  #van Voorne
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=31040
 	mother=31063
-	1135.1.1={
+	1135.1.1 = {
 		birth="1135.1.1"
 	}
-	1168.1.1={
+	1168.1.1 = {
 		add_spouse=31123
 	}
-	1174.10.3={
+	1174.10.3 = {
 		death="1174.10.3"
 	}
 }
@@ -3059,118 +3059,118 @@
 	name="Gerulf"
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167701
-	835.1.1={
+	835.1.1 = {
 		birth="835.1.1"
 	}
-	889.1.1={
+	889.1.1 = {
 		death="889.1.1"
 	}
 }
 
 31061 = {
-	name="Floris" 
-	# AKA: Floris de Zwarte
+	name="Floris"
 	dynasty=432
-	
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Floris de Zwarte
+	
 	
 	father = 106555
 	mother = 106554
-	1115.1.1={
+	
+	1115.1.1 = {
 		birth="1115.1.1"
 	}
-	
-	1132.10.26={
+	1132.10.26 = {
 		death="1132.10.26"
 	}
 }
 
 31062 = {
-	name="Simon" 
+	name="Simon"
 	dynasty=432
-	
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
+	
 	
 	father = 106555
 	mother = 106554
-	1118.1.1={
+	
+	1118.1.1 = {
 		birth="1118.1.1"
 	}
-	
-	1147.1.1={
+	1147.1.1 = {
 		death="1147.1.1"
 	}
 }
 
 31063 = {
 	name="Hedwig"
-	female=yes 
+	female=yes
 	dynasty=432
-	
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
+	
 	trait="bastard"
 	father = 106555
 	
-	1105.1.1={
+	
+	1105.1.1 = {
 		birth="1105.1.1"
 	}
-	
-	1142.1.1={
+	1142.1.1 = {
 		death="1142.1.1"
 	}
 }
 
 31064 = {
-	name="Dirk" 
+	name="Dirk"
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=206841
 	mother=206845
-	1138.1.1={
+	
+	1138.1.1 = {
 		birth="1138.1.1"
 	}
-	
-	1151.1.1={
+	1151.1.1 = {
 		death="1151.1.1"
 	}
 }
 
 31065 = {
-	name="Robrecht" 
+	name="Robrecht"
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	trait="bastard"
 	father=206841
 	
-	1138.1.1={
+	
+	1138.1.1 = {
 		birth="1138.1.1"
 	}
-	
-	1190.1.1={
+	1190.1.1 = {
 		death="1190.1.1"
 	}
 }
 
 31066 = {
-	name="Otto" 
+	name="Otto"
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	
 	father=206841
 	mother=206845
-	1142.1.1={
+	
+	1142.1.1 = {
 		birth="1142.1.1"
 	}
-	
-	1209.2.13={
+	1209.2.13 = {
 		death="1209.2.13"
 	}
 }
@@ -3476,13 +3476,13 @@
 	female=yes
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=40713
 	mother=30008
-	1018.1.1={
+	1018.1.1 = {
 		birth="1018.1.1"
 	}
-	1056.1.1={
+	1056.1.1 = {
 		death="1056.1.1"
 	}
 }
@@ -3492,13 +3492,13 @@
 	female=yes
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=40713
 	mother=30008
-	1019.1.1={
+	1019.1.1 = {
 		birth="1019.1.1"
 	}
-	1064.1.1={
+	1064.1.1 = {
 		death="1064.1.1"
 	}
 }
@@ -3507,15 +3507,15 @@
 	name="Mathilde"
 	female=yes
 	dynasty=432
-	
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
+	
 	father=106520
 	mother=31091
-	1088.1.1={
+	1088.1.1 = {
 		birth="1088.1.1"
 	}
-	1130.1.1={
+	1130.1.1 = {
 		death="1130.1.1"
 	}
 }
@@ -3645,14 +3645,14 @@
 
 31123 = {
 	name="Griete"
-	female=yes 
-	dynasty=7200 
+	female=yes
+	dynasty=7200
 	religion="catholic"
-	culture="dutch"
-	1140.1.1={
+	culture="low_frankish"  # melted from: dutch
+	1140.1.1 = {
 		birth="1140.1.1"
 	}
-	1190.1.1={
+	1190.1.1 = {
 		death="1190.1.1"
 	}
 }
@@ -4350,49 +4350,49 @@
 }
 
 40712 = {
-	name="Arnulf" #Arnulf I
+	name="Arnulf"  #Arnulf I
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="tough_soldier"
 	father = 106550
 	mother = 94000
-	953.1.1={
+	953.1.1 = {
 		birth="953.1.1"
 	}
-	980.5.1={
+	980.5.1 = {
 		add_spouse=40709
 	}
-	993.9.18={
+	993.9.18 = {
 		death="993.9.18"
 	}
 }
 
 40713 = {
-	name="Dirk" #Dirk III
-	# AKA: Dirk 'Hierosolymita'
+	name="Dirk"  #Dirk III
 	dynasty=432
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Dirk 'Hierosolymita'
 	martial=7
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	trait="martial_cleric"
 	father=40712
 	mother=40709
-	982.1.1={
+	
+	982.1.1 = {
 		birth="982.1.1"
 	}
-	1014.1.1={
+	1014.1.1 = {
 		add_spouse=30008
 	}
-	
-	1039.5.27={
+	1039.5.27 = {
 		death="1039.5.27"
 	}
 }
@@ -4400,17 +4400,17 @@
 41010 = {
 	name="Gherbod"
 	dynasty=747
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=6
 	intrigue=4
 	stewardship=9
-	religion="catholic"
-	culture="dutch"
 	trait="thrifty_clerk"
-	1022.1.2={
+	1022.1.2 = {
 		birth="1022.1.2"
 	}
-	1072.1.2={
+	1072.1.2 = {
 		death="1072.1.2"
 	}
 }
@@ -4419,16 +4419,16 @@
 	name="Lambrecht"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father = 7810
 	mother=161488
-	950.1.2={
+	950.1.2 = {
 		birth="950.1.2"
 	}
-	994.1.1={
+	994.1.1 = {
 		add_spouse = 7999
 	}
-	1015.1.1={
+	1015.1.1 = {
 		death="1015.1.1"
 	}
 }
@@ -4436,23 +4436,23 @@
 41718 = {
 	name="Gerard"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="arbitrary"
 	trait="tough_soldier"
 	father=106542
 	mother=106541
-	1030.1.2={
+	1030.1.2 = {
 		birth="1030.1.2"
 	}
-	1054.1.2={
+	1054.1.2 = {
 		add_spouse=30010
 	}
-	1057.1.11={
+	1057.1.11 = {
 		death="1057.1.11"
 	}
 }
@@ -4460,18 +4460,18 @@
 41719 = {
 	name="Hendrik"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=8
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	father=41718
 	mother=30010
-	1056.1.2={
+	1056.1.2 = {
 		birth="1056.1.2"
 	}
-	1138.1.2={
+	1138.1.2 = {
 		death="1138.1.2"
 	}
 }
@@ -4479,21 +4479,21 @@
 41720 = {
 	name="Gerard"
 	dynasty=427
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	father=41718
 	mother=30010
-	1055.1.2={
+	1055.1.2 = {
 		birth="1055.1.2"
 	}
-	1087.1.2={
+	1087.1.2 = {
 		add_spouse=30050
 	}
-	1129.10.16={
+	1129.10.16 = {
 		death="1129.10.16"
 	}
 }
@@ -4501,23 +4501,23 @@
 41722 = {
 	name="Otto"
 	dynasty=101918
+	religion="catholic"
+	culture="low_saxon"  # melted from: dutch
 	martial=5
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="catholic"
-	culture="dutch"
 	trait="honest"
 	trait="midas_touched"
 	father=161367 
 	mother=41721
-	1050.1.1={
+	1050.1.1 = {
 		birth="1050.1.1"
 	}
-	1090.1.1={
+	1090.1.1 = {
 		add_spouse=30220
 	}
-	1113.1.2={
+	1113.1.2 = {
 		death="1113.1.2"
 	}
 }
@@ -4525,42 +4525,42 @@
 41723 = {
 	name="Gebhard"
 	dynasty=101918
+	religion="catholic"
+	culture="low_saxon"  # melted from: dutch
 	martial=6
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="thrifty_clerk"
 	father=161367
 	mother=41721
-	1057.1.2={
+	1057.1.2 = {
 		birth="1057.1.2"
 	}
-	1107.1.2={
+	1107.1.2 = {
 		death="1107.1.2"
 	}
 }
 
 41725 = {
-	name="Arnold" #1078-1126
+	name="Arnold"  #1078-1126
 	dynasty=424
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="thrifty_clerk"
 	father=106570
 	mother=31090
-	1060.1.1={
+	1060.1.1 = {
 		birth="1060.1.1"
 	}
-	1081.1.1={
+	1081.1.1 = {
 	add_spouse = 33062
 	}
-	1126.1.1={
+	1126.1.1 = {
 		death="1126.1.1"
 	}
 }
@@ -4568,23 +4568,23 @@
 41726 = {
 	name="Hendrik"
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=6
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="brave"
 	trait="tough_soldier"
 	father=106600
 	mother=106603
-	1058.1.1={
+	1058.1.1 = {
 		birth="1058.1.1"
 	}
-	1094.1.1={
+	1094.1.1 = {
 	add_spouse=31129
 	}
-	1095.3.1={
+	1095.3.1 = {
 		death="1095.3.1"
 	}
 }
@@ -4592,40 +4592,40 @@
 41727 = {
 	name="Adelbert"
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="dutch"
 	trait="martial_cleric"
 	father=106600
 	mother=106603
-	1070.1.1={
+	1070.1.1 = {
 		birth="1070.1.1"
 	}
-	1128.1.1={
+	1128.1.1 = {
 		death="1128.1.1"
 	}
 }
 
 41728 = {
 	name="Reginar"
-	# AKA: Reginard
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Reginard
 	martial=6
 	diplomacy=4
 	intrigue=3
 	stewardship=3
-	religion="catholic"
-	culture="dutch"
 	trait="tough_soldier"
 	father=106602
 	mother=106601
-	1025.1.1={
+	1025.1.1 = {
 		birth="1025.1.1"
 	}
-	1077.1.1={
+	1077.1.1 = {
 		death="1077.1.1"
 	}
 }
@@ -4801,20 +4801,20 @@
 
 479 = {
 	name="Sophie"
-	female = yes
+	female=yes
 	dynasty=424
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=8
 	intrigue=5
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	father=106570
 	mother=31090
-	1046.1.1={
+	1046.1.1 = {
 		birth="1046.1.1"
 	}
-	1075.1.1={
+	1075.1.1 = {
 		death="1075.1.1"
 	}
 }
@@ -5069,32 +5069,32 @@
 
 94017 = {
 	name="Ida"
-	female = yes
+	female=yes
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=106600
 	mother=106603
-	1064.1.1={
+	1064.1.1 = {
 		birth="1064.1.1"
 	}
-	1139.1.1={
+	1139.1.1 = {
 		death="1139.1.1"
 	}
 }
 
 94018 = {
 	name="Reginar"
-	# AKA: Reinier
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Reinier
 	father=41025
 	mother=7999
-	998.1.1={
+	998.1.1 = {
 		birth="998.1.1"
 	}
-	1030.1.1={
+	1030.1.1 = {
 		death="1030.1.1"
 	}
 }
@@ -5103,16 +5103,16 @@
 	name="Herman"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=106642
 	mother=106641
-	1020.1.1={
+	1020.1.1 = {
 		birth="1020.1.1"
 	}
-	1040.1.1={
+	1040.1.1 = {
 		add_spouse = 106640
 	}
-	1051.1.1={
+	1051.1.1 = {
 		death="1051.1.1"
 	}
 }
@@ -5173,13 +5173,13 @@
 31350 = {
 	name="Aginitrude"
 	female=yes
-	dynasty=100078 #van Brugge
+	dynasty=100078  #van Brugge
 	religion="catholic"
-	culture="dutch"
-	1052.1.1={
+	culture="low_frankish"  # melted from: dutch
+	1052.1.1 = {
 		birth="1052.1.1"
 	}
-	1123.1.1={
+	1123.1.1 = {
 		death="1123.1.1"
 	}
 }
@@ -5233,15 +5233,15 @@
 	name="Wenemar"
 	dynasty=421
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=32200
-	1070.1.1={
+	1070.1.1 = {
 		birth="1070.1.1"
-	} 
-	1114.1.1={
+	}
+	1114.1.1 = {
 		add_spouse=32154
-	} 
-	1130.1.1={
+	}
+	1130.1.1 = {
 		death="1130.1.1"
 	}
 }
@@ -5250,13 +5250,13 @@
 	name="Lambert"
 	dynasty=421
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=32201
-	1028.1.1={
-		birth="1028.1.1"
-	} 
 	
-	1073.1.1={
+	1028.1.1 = {
+		birth="1028.1.1"
+	}
+	1073.1.1 = {
 		death="1073.1.1"
 	}
 }
@@ -5264,13 +5264,13 @@
 	name="Folkhard"
 	dynasty=421
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=32202
-	1005.1.1={
-		birth="1005.1.1"
-	} 
 	
-	1064.1.1={
+	1005.1.1 = {
+		birth="1005.1.1"
+	}
+	1064.1.1 = {
 		death="1064.1.1"
 	}
 }
@@ -5279,47 +5279,47 @@
 	name="Lambert"
 	dynasty=421
 	religion="catholic"
-	culture="dutch"
-	976.1.1={
-		birth="976.1.1"
-	} 
+	culture="low_frankish"  # melted from: dutch
 	
-	1026.1.1={
+	976.1.1 = {
+		birth="976.1.1"
+	}
+	1026.1.1 = {
 		death="1026.1.1"
 	}
 }
 
 32203 = {
 	name="Walter"
-	dynasty=434 #van Gent/de Gand
+	dynasty=434  #van Gent/de Gand
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=106595
-	1098.1.1={
+	1098.1.1 = {
 		birth="1098.1.1"
 	}
 	1118.1.1 = {
 		add_spouse=91276
 	}
-	1139.1.1={
+	1139.1.1 = {
 		death="1139.1.1"
 	}
 }
 
 32204 = {
-	name="Robrecht" #chancellor of England
+	name="Robrecht"  #chancellor of England
 	dynasty=421
-	trait="grey_eminence"
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
+	trait="grey_eminence"
 	father=106595
-	1093.1.1={
+	1093.1.1 = {
 		birth="1093.1.1"
 	}
-	1135.12.2={
+	1135.12.2 = {
 		employer=205851 #Stephen de Blois
 	}
-	1153.1.1={
+	1153.1.1 = {
 		death="1153.1.1"
 	}
 }
@@ -5344,13 +5344,13 @@
 	name="Gozelin"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	trait="bastard"
 	father=106604
-	1100.1.1={
+	1100.1.1 = {
 		birth="1100.1.1"
 	}
-	1180.1.1={
+	1180.1.1 = {
 		death="1180.1.1"
 	}
 }
@@ -5376,7 +5376,7 @@
 	name="Arnoud"
 	dynasty=7280
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	1010.1.1 = {
 		birth="1010.1.1"
 	}
@@ -5389,7 +5389,7 @@
 	name="Arnoud"
 	dynasty=7280
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33192
 	1050.1.1 = {
 		birth="1050.1.1"
@@ -5403,7 +5403,7 @@
 	name="Godfried"
 	dynasty=7280
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33193
 	1088.1.1 = {
 		birth="1088.1.1"
@@ -5417,7 +5417,7 @@
 	name="Arnoud"
 	dynasty=7280
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33193
 	1082.1.1 = {
 		birth="1082.1.1"
@@ -5431,7 +5431,7 @@
 	name="Arnoud"
 	dynasty=7280
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33195
 	1105.1.1 = {
 		birth="1105.1.1"
@@ -5445,7 +5445,7 @@
 	name="Godfried"
 	dynasty=7280
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33196
 	1135.1.1 = {
 		birth="1135.1.1"
@@ -5543,13 +5543,13 @@
 	name="Hendrik"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=106604
 	mother=33209
-	1109.1.1={
+	1109.1.1 = {
 		birth="1109.1.1"
 	}
-	1141.9.27={
+	1141.9.27 = {
 		death="1141.9.27"
 	}
 }
@@ -5600,13 +5600,13 @@
 	name="Diederik"
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=106570
 	mother=31090
-	1061.1.1={
+	1061.1.1 = {
 		birth="1061.1.1"
 	}
-	1111.1.1={
+	1111.1.1 = {
 		death="1111.1.1"
 	}
 }
@@ -5615,31 +5615,31 @@
 	name="Reinoud"
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=106570
 	mother=31090
-	1063.1.1={
+	1063.1.1 = {
 		birth="1063.1.1"
 	}
-	1131.1.1={
+	1131.1.1 = {
 		death="1131.1.1"
 	}
 }
 
 33063 = {
-	name="Arnold" #1126-1139
+	name="Arnold"  #1126-1139
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=41725
 	mother=33062
-	1082.1.1={
+	1082.1.1 = {
 		birth="1082.1.1"
 	}
-	1082.1.1={
+	1082.1.1 = {
 		add_spouse = 33064
 	}
-	1139.4.11={
+	1139.4.11 = {
 		death="1139.4.11"
 	}
 }
@@ -5649,13 +5649,13 @@
 	female=yes
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=41725
 	mother=33062
-	1085.1.1={
+	1085.1.1 = {
 		birth="1085.1.1"
 	}
-	1132.1.1={
+	1132.1.1 = {
 		death="1132.1.1"
 	}
 }
@@ -5664,13 +5664,13 @@
 	name="Gerard"
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33063
 	mother=33064
-	1112.1.1={
+	1112.1.1 = {
 		birth="1112.1.1"
 	}
-	1138.1.1={
+	1138.1.1 = {
 		death="1138.1.1"
 	}
 }
@@ -5679,13 +5679,13 @@
 	name="Godeschalk"
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33063
 	mother=33064
-	1114.1.1={
+	1114.1.1 = {
 		birth="1114.1.1"
 	}
-	1138.1.1={
+	1138.1.1 = {
 		death="1138.1.1"
 	}
 }
@@ -5695,13 +5695,13 @@
 	female=yes
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33063
 	mother=33064
-	1116.1.1={
+	1116.1.1 = {
 		birth="1116.1.1"
 	}
-	1166.1.1={
+	1166.1.1 = {
 		death="1166.1.1"
 	}
 }
@@ -5710,13 +5710,13 @@
 	name="Jan"
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33063
 	mother=33064
-	1118.1.1={
+	1118.1.1 = {
 		birth="1118.1.1"
 	}
-	1180.6.23={
+	1180.6.23 = {
 		death="1180.6.23"
 	}
 }
@@ -5725,13 +5725,13 @@
 	name="Arnold"
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=206801
 	mother=31548
-	1144.1.1={
+	1144.1.1 = {
 		birth="1144.1.1"
 	}
-	1157.1.1={
+	1157.1.1 = {
 		death="1157.1.1"
 	}
 }
@@ -5740,13 +5740,13 @@
 	name="Hugo"
 	dynasty=424
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=206801
 	mother=31548
-	1146.1.1={
+	1146.1.1 = {
 		birth="1146.1.1"
 	}
-	1172.1.1={
+	1172.1.1 = {
 		death="1172.1.1"
 	}
 }
@@ -6088,12 +6088,12 @@
 	name="Gozewijn"
 	dynasty=427
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=106544
-	1075.1.1={
+	1075.1.1 = {
 		birth="1075.1.1"
 	}
-	1118.1.1={
+	1118.1.1 = {
 		death="1118.1.1"
 	}
 }
@@ -6102,15 +6102,15 @@
 	name="Gerard"
 	dynasty=427
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=106544
-	1078.1.1={
+	1078.1.1 = {
 		birth="1078.1.1"
 	}
-	1098.1.1={
+	1098.1.1 = {
 		add_spouse=168550
 	}
-	1128.4.1={
+	1128.4.1 = {
 		death="1128.4.1"
 	}
 }
@@ -6119,13 +6119,13 @@
 	name="Gozewijn"
 	dynasty=427
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33099
 	mother=16550
-	1105.1.1={
+	1105.1.1 = {
 		birth="1105.1.1"
 	}
-	1168.4.8={
+	1168.4.8 = {
 		death="1168.4.8"
 	}
 }
@@ -6134,12 +6134,12 @@
 	name="Gozewijn"
 	dynasty=427
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33100
-	1139.1.1={
+	1139.1.1 = {
 		birth="1139.1.1"
 	}
-	1179.4.11={
+	1179.4.11 = {
 		death="1179.4.11"
 	}
 }
@@ -6148,12 +6148,12 @@
 	name="Godfried"
 	dynasty=427
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33100
-	1148.1.1={
+	1148.1.1 = {
 		birth="1148.1.1"
 	}
-	1185.1.1={
+	1185.1.1 = {
 		death="1185.1.1"
 	}
 }
@@ -6544,12 +6544,12 @@
 	name="Richilde"
 	female=yes
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=4
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	father=94018
 	1021.1.1 = {
 		birth="1021.1.1"
@@ -6674,20 +6674,20 @@
 
 7810 = {
 	name="Reginar"
-	# AKA: Renier
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Renier
 	martial=7
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="amateurish_plotter"
 	father=7811
 	910.1.1 = {
 		birth="910.1.1"
 	}
-	946.1.1={
+	946.1.1 = {
 		add_spouse = 161488
 	}
 	973.1.1 = {
@@ -6698,14 +6698,14 @@
 
 7811 = {
 	name="Reginar"
-	# AKA: Renier
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Renier
 	martial=7
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="amateurish_plotter"
 	father=7812
 	880.1.1 = {
@@ -6718,14 +6718,14 @@
 
 7812 = {
 	name="Reginar"
-	# AKA: Renier
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Renier
 	martial=7
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="amateurish_plotter"
 	father=7815
 	mother=7814
@@ -6740,12 +6740,12 @@
 7813 = {
 	name="Giselbert"
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="amateurish_plotter"
 	father=7812
 	879.1.1 = {
@@ -6762,12 +6762,12 @@
 7815 = {
 	name="Giselbert"
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=7
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="amateurish_plotter"
 	821.1.1 = {
 		birth="821.1.1"
@@ -6782,14 +6782,14 @@
 
 7998 = {
 	name="Reginar"
-	# AKA: Renier
 	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Renier
 	martial=7
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	trait="amateurish_plotter"
 	father=7810
 	mother=161488
@@ -6827,16 +6827,16 @@
 }
 
 129001 = {
-	name="Adelheid" #Spouse of 394999
-	# AKA: Adelheide
-	dynasty=7198
+	name="Adelheid"  #Spouse of 394999
 	female=yes
+	dynasty=7198
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
+	# AKA: Adelheide
 	martial=4
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="catholic"
-	culture="dutch"
 	father=41726
 	mother=31129
 	1095.1.1 = {
@@ -6867,7 +6867,7 @@
 	name="Wolfger"
 	dynasty=6001
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	1075.1.1 = {
 		birth="1075.1.1"
 	}
@@ -6880,7 +6880,7 @@
 	name="Egbert"
 	dynasty=6001
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33595
 	1105.1.1 = {
 		birth="1105.1.1"
@@ -6894,7 +6894,7 @@
 	name="Gijsbrecht"
 	dynasty=6001
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33596
 	1145.1.1 = {
 		birth="1145.1.1"
@@ -6908,7 +6908,7 @@
 	name="Hendrik"
 	dynasty=6001
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=33596
 	1146.1.1 = {
 		birth="1146.1.1"
@@ -7081,7 +7081,7 @@
 	name="Otto"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=144994
 	881.1.1 = {
 		birth="881.1.1"
@@ -7095,7 +7095,7 @@
 	name="Richwin"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=7815
 	mother=7814
 	851.1.1 = {
@@ -7110,12 +7110,12 @@
 	name="Otto"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=144996
-	1020.1.1={
+	1020.1.1 = {
 		birth="1020.1.1"
 	}
-	1040.1.1={
+	1040.1.1 = {
 		death="1040.1.1"
 	}
 }
@@ -7124,13 +7124,13 @@
 	name="Hendrik"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=41025
 	mother = 7999
-	994.1.1={
+	994.1.1 = {
 		birth="994.1.1"
 	}
-	1038.8.5={
+	1038.8.5 = {
 		death="1038.8.5"
 	}
 }
@@ -7139,7 +7139,7 @@
 	name="Frederik"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=7812
 	881.1.1 = {
 		birth="881.1.1"
@@ -7153,7 +7153,7 @@
 	name="Rudolf"
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=7811
 	930.1.1 = {
 		birth="930.1.1"
@@ -7164,10 +7164,10 @@
 }
 
 161295 = {
-	name="Rogier" #Roger Reginar
-	dynasty=7198 #Reginar
+	name="Rogier"  #Roger Reginar
+	dynasty=7198  #Reginar
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=94019 #Herman Reginar
 	mother=106640 #Richilde Reginar
 	1041.1.1 = {
@@ -7198,7 +7198,7 @@
 	name="Godschalk"
 	dynasty=101918
 	religion="catholic"
-	culture="dutch"
+	culture="low_saxon"  # melted from: dutch
 	1030.1.1 = {
 		birth="1030.1.1"
 	}
@@ -7214,7 +7214,7 @@
 	name="Everhard"
 	dynasty=101554
 	religion="catholic"
-	culture="dutch"
+	culture="franconian"  # melted from: dutch
 	father=161529
 	990.1.1 = {
 		birth="990.1.1"
@@ -7287,11 +7287,11 @@
 }
 
 161535 = {
-	name="Alberada" #real name unknown
+	name="Alberada"  #real name unknown
 	female=yes
 	dynasty=7198
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=7812
 	900.1.1 = {
 		birth="900.1.1"
@@ -7305,7 +7305,7 @@
 	name="Gerbod"
 	dynasty=9501
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	1020.1.1 = {
 		birth="1020.1.1"
 	}
@@ -7320,7 +7320,7 @@
 	name="Gerbod"
 	dynasty=9501
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167006
 	1048.1.1 = {
 		birth="1048.1.1"
@@ -7341,15 +7341,15 @@
 	name="Frederik"
 	dynasty=9501
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167006
+
 	1050.1.1 = {
 		birth="1050.1.1"
 	}
-               1066.1.1 = {
+	1066.1.1 = {
 		employer=140
 	}
-
 	1070.1.1 = {
 		death="1070.1.1"
 	}
@@ -7377,13 +7377,13 @@
 	name="Arnulf"
 	dynasty=9501
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167007
 	mother=167009
+	
 	1067.1.1 = {
 		birth="1067.1.1"
 	}
-	
 	1117.1.1 = {
 		death="1117.1.1"
 	}
@@ -7395,13 +7395,13 @@
 	name="Gerbod"
 	dynasty=9501
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167007
 	mother=167009
+	
 	1068.1.1 = {
 		birth="1068.1.1"
 	}
-	
 	1102.5.17 = {
 		death="1102.5.17"
 	}
@@ -7412,13 +7412,13 @@
 	name="Albrecht"
 	dynasty=9501
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167007
 	mother=167009
+	
 	1070.1.1 = {
 		birth="1070.1.1"
 	}
-	
 	1120.1.1 = {
 		death="1120.1.1"
 	}
@@ -7441,7 +7441,7 @@
 	name="Gerulf"
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167702
 	800.1.1 = {
 		birth="800.1.1"
@@ -7455,7 +7455,7 @@
 	name="Dirk"
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=168619
 	780.1.1 = {
 		birth="780.1.1"
@@ -7469,27 +7469,27 @@
 	name="Gerard"
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167701
-	836.1.1={
+	836.1.1 = {
 		birth="836.1.1"
 	}
-	886.1.1={
+	886.1.1 = {
 		death="886.1.1"
 	}
 }
 
 167704 = {
-	name="Gunthar" 
+	name="Gunthar"
 	dynasty=246
 	religion="catholic"
-	culture="dutch"
+	culture="frisian"  # melted from: dutch
 	trait="martial_cleric"
 	father=168626
-	835.1.1={
+	835.1.1 = {
 		birth="835.1.1"
 	}
-	873.1.1={
+	873.1.1 = {
 		death="873.1.1"
 	}
 }
@@ -7498,13 +7498,13 @@
 	name="Waldger"
 	dynasty=246
 	religion="catholic"
-	culture="dutch"
+	culture="frisian"  # melted from: dutch
 	father=168628
 	mother=168629
-	865.1.1={
+	865.1.1 = {
 		birth="865.1.1"
 	}
-	928.1.1={
+	928.1.1 = {
 		death="928.1.1"
 	}
 }
@@ -7526,11 +7526,11 @@
 	name="Ansfried"
 	dynasty=417
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
+	
 	820.1.1 = {
 		birth="820.1.1"
 	}
-	
 	868.1.1 = {
 		death="868.1.1"
 	}
@@ -7542,12 +7542,12 @@
 	name="Hildiward"
 	dynasty=417
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167788
+	
 	845.1.1 = {
 		birth="845.1.1"
 	}
-	
 	868.1.1 = {
 		death="868.1.1"
 	}
@@ -7557,12 +7557,12 @@
 	name="Radboud"
 	dynasty=246
 	religion="catholic"
-	culture="dutch"
+	culture="frisian"  # melted from: dutch
 	father=167705
-	890.1.1={
+	890.1.1 = {
 		birth="890.1.1"
 	}
-	944.7.17={
+	944.7.17 = {
 		death="944.7.17"
 	}
 }
@@ -7570,15 +7570,15 @@
 
 
 168213 = {
-	name="Lambert" 
+	name="Lambert"
 	dynasty=417
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167789
+	
 	866.1.1 = {
 		birth="866.1.1"
 	}
-	
 	916.1.1 = {
 		death="916.1.1"
 	}
@@ -7588,12 +7588,12 @@
 	name="Hildiward"
 	dynasty=417
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=168213
+	
 	890.1.1 = {
 		birth="890.1.1"
 	}
-	
 	940.1.1 = {
 		death="940.1.1"
 	}
@@ -7603,12 +7603,12 @@
 	name="Robrecht"
 	dynasty=417
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=168214
+	
 	910.1.1 = {
 		birth="910.1.1"
 	}
-	
 	956.5.19 = {
 		death="956.5.19"
 	}
@@ -7618,12 +7618,12 @@
 	name="Ansfried"
 	dynasty=417
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=168214
+	
 	915.1.1 = {
 		birth="915.1.1"
 	}
-	
 	969.1.1 = {
 		death="969.1.1"
 	}
@@ -7633,12 +7633,12 @@
 	name="Lambert"
 	dynasty=417
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=168214
+	
 	920.1.1 = {
 		birth="920.1.1"
 	}
-	
 	975.1.1 = {
 		death="975.1.1"
 	}
@@ -7648,12 +7648,12 @@
 	name="Ansfried"
 	dynasty=417
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=168217
+	
 	945.1.1 = {
 		birth="945.1.1"
 	}
-	
 	1010.5.3 = {
 		death="1010.5.3"
 	}
@@ -7664,12 +7664,12 @@
 	female=yes
 	dynasty=417
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=168218
+	
 	970.1.1 = {
 		birth="970.1.1"
 	}
-	
 	1020.1.1 = {
 		death="1020.1.1"
 	}
@@ -7681,7 +7681,7 @@
 	name="Alfbad"
 	dynasty=246
 	religion="catholic"
-	culture="dutch"
+	culture="frisian"  # melted from: dutch
 	father=131726
 	725.1.1 = {
 		birth="725.1.1"
@@ -7786,38 +7786,38 @@
 }
 
 168314 = {
-	name="Waldrada" #concubine of Lothaire II of Lotharingia/Burgundy
-	female=yes 
+	name="Waldrada"  #concubine of Lothaire II of Lotharingia/Burgundy
+	female=yes
 	dynasty=246
 	religion="catholic"
-	culture="dutch"
+	culture="frisian"  # melted from: dutch
 	trait=fair
 	trait=gregarious
 	trait=kind
 	trait=quick
 	trait=fortune_builder
 	father=168626
-	839.1.1={
+	839.1.1 = {
 		birth="839.1.1"
 	}
-	854.1.1={
+	854.1.1 = {
 		employer = 144998 # Lothair II of Burgundy
-	}	
-	890.1.1={
+	}
+	890.1.1 = {
 		death="890.1.1"
 	}
 }
 168629 = {
-	name="Aleidis" #real name unknown
+	name="Aleidis"  #real name unknown
 	female=yes
 	dynasty=432
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=167701
-	838.1.1={
+	838.1.1 = {
 		birth=yes
 	}
-	888.1.1={
+	888.1.1 = {
 		death=yes
 	}
 }

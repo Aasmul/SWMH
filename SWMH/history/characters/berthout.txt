@@ -8,7 +8,7 @@
 	name="Berthout"
 	dynasty=7175
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	1046.1.1 = {
 		birth="1046.1.1"
 	}
@@ -22,7 +22,7 @@
 	name="Wouter"
 	dynasty=7175
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=1000140000
 	1076.1.1 = {
 		birth="1076.1.1"
@@ -37,7 +37,7 @@
 	name="Geeraert"
 	dynasty=7175
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=1000140001
 	1100.1.1 = {
 		birth="1100.1.1"
@@ -52,7 +52,7 @@
 	name="Wouter"
 	dynasty=7175
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=1000140002
 	1130.1.1 = {
 		birth="1130.1.1"
@@ -67,7 +67,7 @@
 	name="Wouter"
 	dynasty=7175
 	religion="catholic"
-	culture="dutch"
+	culture="low_frankish"  # melted from: dutch
 	father=1000140001
 	1103.1.1 = {
 		birth="1103.1.1"

@@ -1802,12 +1802,12 @@
 	name="Gundred"
 	female=yes
 	dynasty=9501
+	religion="catholic"
+	culture="low_frankish"  # melted from: dutch
 	martial=5
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="catholic"
-	culture="dutch"
 	trait="harelip"
 	trait="thrifty_clerk"
 	father=167006

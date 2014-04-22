@@ -456,12 +456,12 @@
 	name="Gisela"
 	female=yes
 	dynasty=420
+	religion="catholic"
+	culture="franconian"  # melted from: frankish
 	martial=5
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="catholic"
-	culture="frankish"
 	trait="flamboyant_schemer"
 	father=1256
 	mother=7667
@@ -958,12 +958,12 @@
 	name="Katharina"
 	female=yes
 	dynasty=287
+	religion="catholic"
+	culture="german"  # melted from: frankish
 	martial=5
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="catholic"
-	culture="frankish"
 	trait="charismatic_negotiator"
 	father=500004
 	mother=212692
@@ -9974,7 +9974,7 @@
 	female=yes
 	dynasty=529
 	religion="catholic"
-	culture="frankish"
+	culture="german"  # melted from: frankish
 	father=212511
 	mother=205894
 	1191.1.1 = {
@@ -9989,7 +9989,7 @@
 	name="Hugues"
 	dynasty=529
 	religion="catholic"
-	culture="frankish"
+	culture="german"  # melted from: frankish
 	trait="bastard"
 	father=212511
 	1194.1.1 = {
@@ -20381,7 +20381,7 @@
 	name="Amédée"
 	dynasty=87
 	religion="catholic"
-	culture="frankish"
+	culture="german"  # melted from: frankish
 	father=32764
 	1251.1.1 = {
 		birth="1251.1.1"
@@ -20411,12 +20411,12 @@
 462092 = {
 	name="Rodolphe"
 	dynasty=87
+	religion="catholic"
+	culture="german"  # melted from: frankish
 	martial=4
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="catholic"
-	culture="frankish"
 	trait="kind"
 	trait="brave"
 	trait="charismatic_negotiator"
@@ -20457,12 +20457,12 @@
 462094 = {
 	name="Louis"
 	dynasty=87
+	religion="catholic"
+	culture="german"  # melted from: frankish
 	martial=4
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="catholic"
-	culture="frankish"
 	trait="kind"
 	trait="chaste"
 	trait="charismatic_negotiator"
@@ -20504,12 +20504,12 @@
 462096 = {
 	name="Jean"
 	dynasty=87
+	religion="catholic"
+	culture="german"  # melted from: frankish
 	martial=8
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="frankish"
 	trait="wroth"
 	trait="tough_soldier"
 	father=462094
@@ -20526,12 +20526,12 @@
 	name="Isabelle"
 	female=yes
 	dynasty=87
+	religion="catholic"
+	culture="german"  # melted from: frankish
 	martial=8
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="frankish"
 	trait="slothful"
 	trait="martial_cleric"
 	father=462094
@@ -20549,7 +20549,7 @@
 	female=yes
 	dynasty=87
 	religion="catholic"
-	culture="frankish"
+	culture="german"  # melted from: frankish
 	father=462090
 	mother=462091
 	1270.1.1 = {
@@ -21643,12 +21643,12 @@
 487014 = {
 	name="Henri"
 	dynasty=294
+	religion="catholic"
+	culture="german"  # melted from: frankish
 	martial=6
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="frankish"
 	trait="chaste"
 	trait="zealous"
 	trait="scholarly_theologian"
@@ -25614,12 +25614,12 @@
 	name="Beatrice"
 	female=yes
 	dynasty=529
+	religion="catholic"
+	culture="german"  # melted from: frankish
 	martial=7
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="catholic"
-	culture="frankish"
 	father=212511
 	mother=205894
 	1192.1.1 = {
@@ -34837,12 +34837,12 @@
 	name="Rodolphe"
 	dynasty=87
 	religion="catholic"
-	culture="frankish"
+	culture="german"  # melted from: frankish
 	father=212017
+	#married Sybille de Montbeliard
 	1210.1.1 = {
 		birth="1210.1.1"
 	}
-	#married Sybille de Montbeliard
 	1263.1.1 = {
 		death="1263.1.1"
 	}
@@ -37030,10 +37030,10 @@
 
 33327 = {
 	name="Rupert"
-	#Rupert Cancor
-	dynasty=7290 
+	dynasty=7290
 	religion="catholic"
-	culture="frankish"
+	culture="franconian"  # melted from: frankish
+	#Rupert Cancor
 	father=91000
 	722.1.1 = {
 		birth="722.1.1"

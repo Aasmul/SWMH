@@ -3,15 +3,15 @@
 	name="Godschalk"
 	dynasty=101918
 	religion="catholic"
-	culture="dutch"
+	culture="low_saxon"  # melted from: dutch
 	father=0
 	1025.1.1 = {
 		birth="1025.1.1"
 	}
-        1045.1.1 = {
+	1045.1.1 = {
 		add_spouse = 41721
 	}
-        1063.1.1 = {
+	1063.1.1 = {
         add_trait="ill"
 	}
 	1064.1.1 = {
