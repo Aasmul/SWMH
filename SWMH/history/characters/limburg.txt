@@ -4,10 +4,10 @@
 	name="Mathilda"
 	female=yes
 	dynasty=287
+	religion="catholic"
+	culture="franconian"  # melted from: german
 	add_trait="thrifty_clerk"
 	diplomacy=19
-	religion="catholic"
-	culture="german"
 	father=33140
 	1095.1.1 = {
 		birth="1095.1.1"

@@ -2136,21 +2136,21 @@
 
 202515 = {
 	name="Astrid"
-	female = yes
+	female=yes
 	dynasty=375
+	religion="catholic"
+	culture="franconian"  # melted from: norwegian
 	martial=6
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="catholic"
-	culture="norwegian"
 	trait="ill"
 	trait="flamboyant_schemer"
 	father=202516
-	1152.1.2={
+	1152.1.2 = {
 		birth="1152.1.2"
 	}
-	1185.1.29={
+	1185.1.29 = {
 		death="1185.1.29"
 	}
 }

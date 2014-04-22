@@ -1781,31 +1781,31 @@
 }
 
 30553 = {
-	name="Knud" #Rostock # Knud Prislawsen Jarl of Lolland and Als 1167-1183
-	dynasty=101893 #Niklotid
+	name="Knud"  #Rostock # Knud Prislawsen Jarl of Lolland and Als 1167-1183
+	dynasty=101893  #Niklotid
 	religion="catholic"
-	culture="danish"
+	culture="pommeranian"  # melted from: danish
 	father=30551
 	mother=30549
-	1143.1.1={
+	1143.1.1 = {
 		birth="1143.1.1"
 	}
-	1183.11.6={
+	1183.11.6 = {
 		death="1183.11.6"
 	}
 }
 
 30554 = {
-	name="Valdemar" 
-	dynasty=101893 #Niklotid
+	name="Valdemar"
+	dynasty=101893  #Niklotid
 	religion="catholic"
-	culture="danish"
+	culture="pommeranian"  # melted from: danish
 	father=30551
 	mother=30549
-	1146.1.1={
+	1146.1.1 = {
 		birth="1146.1.1"
 	}
-	1182.1.1={
+	1182.1.1 = {
 		death="1182.1.1"
 	}
 }
@@ -1867,92 +1867,92 @@
 
 451501 = {
 	name="Helvig"
-	# AKA: Helvig Eriksdotter
-	female = yes
+	female=yes
 	dynasty=120
+	religion="catholic"
+	culture="low_german"  # melted from: danish
+	# AKA: Helvig Eriksdotter
 	martial=7
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="catholic"
-	culture="danish"
 	trait="cynical"
 	trait="clubfooted"
 	trait="harelip"
 	trait="scholarly_theologian"
 	father=451502
 	mother=451503
-	1315.1.2={
+	1315.1.2 = {
 		birth="1315.1.2"
 	}
-	1365.1.2={
+	1365.1.2 = {
 		death="1365.1.2"
 	}
 }
 
 451502 = {
 	name="Erik"
-	# AKA: Erik Valdemarsen
 	dynasty=120
+	religion="catholic"
+	culture="low_german"  # melted from: danish
+	# AKA: Erik Valdemarsen
 	martial=8
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="catholic"
-	culture="danish"
 	trait="scholarly_theologian"
-	1290.1.2={
+	1290.1.2 = {
 		birth="1290.1.2"
 	}
-	1310.1.2={
+	1310.1.2 = {
 		add_spouse=451503
 	}
-	1325.1.13={
+	1325.1.13 = {
 		death="1325.1.13"
 	}
 }
 
 451503 = {
 	name="Adelheid"
-	female = yes
+	female=yes
 	dynasty=154
+	religion="catholic"
+	culture="low_german"  # melted from: danish
 	martial=5
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="catholic"
-	culture="danish"
 	trait="greedy"
 	trait="brave"
 	trait="inbred"
 	trait="charismatic_negotiator"
-	1295.1.2={
+	1295.1.2 = {
 		birth="1295.1.2"
 	}
-	1336.1.2={
+	1336.1.2 = {
 		death="1336.1.2"
 	}
 }
 
 451504 = {
 	name="Valdemar"
-	# AKA: Valdemar Eriksson
 	dynasty=120
+	religion="catholic"
+	culture="low_german"  # melted from: danish
+	# AKA: Valdemar Eriksson
 	martial=7
 	diplomacy=8
 	intrigue=8
 	stewardship=5
-	religion="catholic"
-	culture="danish"
 	trait="slothful"
 	trait="humble"
 	trait="tough_soldier"
 	father=451502
 	mother=451503
-	1323.1.2={
+	1323.1.2 = {
 		birth="1323.1.2"
 	}
-	1373.1.2={
+	1373.1.2 = {
 		death="1373.1.2"
 	}
 }

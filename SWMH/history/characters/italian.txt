@@ -622,10 +622,10 @@
 
 30761 = {
 	name="Enrico"
-	# AKA: Heinrich
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
+	# AKA: Heinrich
 	father=212513
 	#mother=103003
 	1236.1.1 = {
@@ -639,9 +639,9 @@
 30764 = {
 	name="Constanza"
 	female=yes
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	trait="bastard"
 	father=212513
 	mother=70996 #Bianca Lancia
@@ -656,9 +656,9 @@
 30765 = {
 	name="Violante"
 	female=yes
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	trait="bastard"
 	father=212513
 	mother=70996 #Bianca Lancia
@@ -673,9 +673,9 @@
 
 30766 = {
 	name="Federico"
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	trait="bastard"
 	father=212513
 	1221.1.1 = {
@@ -691,9 +691,9 @@
 
 30767 = {
 	name="Gerardo"
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	trait="bastard"
 	father=212513
 	1219.1.1 = {
@@ -707,9 +707,9 @@
 30768 = {
 	name="Selvaggia"
 	female=yes
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	trait="bastard"
 	father=212513
 	1220.1.1 = {
@@ -723,9 +723,9 @@
 30769 = {
 	name="Blanceflor"
 	female=yes
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	trait="bastard"
 	father=212513
 	1226.1.1 = {
@@ -738,9 +738,9 @@
 
 30770 = {
 	name="Riccardo"
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	trait="bastard"
 	father=212513
 	1226.1.1 = {
@@ -753,9 +753,9 @@
 
 30771 = {
 	name="Federico"
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	trait="bastard"
 	father=212513
 	1227.1.1 = {
@@ -770,7 +770,7 @@
 	name="Federico"
 	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	father=7636
 	mother=125732
 	1259.1.1 = {
@@ -785,7 +785,7 @@
 	name="Enrico"
 	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	father=7636
 	mother=125732
 	1260.1.1 = {
@@ -800,7 +800,7 @@
 	name="Enzo"
 	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	father=7636
 	mother=125732
 	1261.1.1 = {
@@ -816,7 +816,7 @@
 	female=yes
 	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	father=7636
 	mother=125732
 	1266.1.1 = {
@@ -832,7 +832,7 @@
 	female=yes
 	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	father=7636
 	mother=125732
 	1258.1.1 = {
@@ -848,7 +848,7 @@
 	female=yes
 	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	add_trait="bastard" 
 	father=7636
 	1250.1.1 = {
@@ -863,7 +863,7 @@
 	name="Corrado"
 	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	father=30766
 	mother=30816
 	1240.1.1 = {
@@ -879,7 +879,7 @@
 	female=yes
 	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	father=30766
 	mother=30816
 	1242.1.1 = {
@@ -895,7 +895,7 @@
 	female=yes
 	dynasty=529
 	religion="catholic"
-	culture="italian"
+	culture="german"  # melted from: italian
 	father=30766
 	mother=30816
 	1246.1.1 = {
@@ -1881,12 +1881,12 @@
 	name="Caterina"
 	female=yes
 	dynasty=529
+	religion="catholic"
+	culture="german"  # melted from: italian
 	martial=5
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="catholic"
-	culture="italian"
 	trait="bastard"
 	trait="cynical"
 	trait="fortune_builder"
@@ -2127,23 +2127,23 @@
 
 7636 = {
 	name="Manfred"
-	# AKA: Manfredo
-	dynasty=529	
+	dynasty=529
 	religion="catholic"
-	culture="sicilian"
+	culture="german"  # melted from: sicilian
+	# AKA: Manfredo
 	trait="intricate_webweaver"
 	trait="greedy" 
 	trait="deceitful"
 	trait="bastard"
 	father=212513
 	mother=70996 #Bianca Lancia
+	#1259 married Helena Dukas
 	1232.1.1 = {
 		birth="1232.1.1"
 	}
 	1247.4.21 = {
 		add_spouse=70900 #Beatrix de Savoie
 	}
-	#1259 married Helena Dukas
 	1259.6.2 = {
 		add_spouse=125732 #Helene Komnenos Doukas
 	}
