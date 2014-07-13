@@ -41705,11 +41705,6 @@ e_arabia = {
 				b_banha = {}
 				b_samannud = {}
 			}
-			c_butanya = {
-				color={ 6 255 77 }
-				color2={ 255 255 255 }
-				
-			}
 		}
 		d_cairo = {
 			color={ 36 97 53 }
