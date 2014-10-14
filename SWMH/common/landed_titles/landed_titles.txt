@@ -55500,3 +55500,18 @@ e_india = {                      # Titular, created by special decision only if 
 			dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 		}
 
+# Needs to exist
+e_germany = {
+	color={ 155 155 155 }
+	color2={ 220 220 20 }
+	
+	capital = 90 # Jülich / Aachen
+	
+	religion=catholic
+	culture = german
+	name_tier = king
+	short_name = yes
+	allow = {
+		FROM = { is_titular = no }
+	}
+}

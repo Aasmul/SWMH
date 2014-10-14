@@ -1,6 +1,6 @@
 866.5.27=
 {
-liege="d_galicia"
+liege="k_spanish_galicia"
 }
 867.1.1=
 {
@@ -28,7 +28,7 @@ holder=73895
 }
 1065.12.27=
 {
-liege="d_galicia"
+liege="k_spanish_galicia"
 holder=1000140100
 }
 1071.2.1=

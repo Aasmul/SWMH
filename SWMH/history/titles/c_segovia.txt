@@ -4,7 +4,7 @@
 }
 1066.1.1=
 {
-liege="d_castilla"
+liege="k_castille"
 holder=107500
 }
 1072.10.7=
