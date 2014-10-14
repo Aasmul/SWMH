@@ -95,3 +95,8 @@ k_shiite = {
 		religion=shiite
 	}
 }
+
+d_shiite = {
+	color={ 60 190 60 }
+	color2={ 220 220 0 }
+}

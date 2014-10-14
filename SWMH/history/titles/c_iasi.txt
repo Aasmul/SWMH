@@ -4,7 +4,7 @@
 }
 1066.1.1=
 {
-	liege="d_pechenegs"
+	liege="k_pechenegs"
 }
 1066.1.1=
 {
