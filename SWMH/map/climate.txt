@@ -1,0 +1,14 @@
+#Example: Most of Europe north of med.
+mild_winter = {
+	# Nothing. Everything temperate for now
+}
+
+#Example: Inland Europe & Scandinavia
+normal_winter = {
+	# Nothing. Everything temperate for now
+}
+
+#Example: Russia & Lappland
+severe_winter = {
+	# Nothing. Everything temperate for now
+}
