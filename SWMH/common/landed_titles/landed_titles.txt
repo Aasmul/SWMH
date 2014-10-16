@@ -12929,6 +12929,7 @@ k_jerusalem = {
 				holy_site = jewish
 				holy_site = samaritan
 				holy_site = karaite
+				holy_site = ibadi
 			}
 			b_rammala = {}
 			b_blanchegarde = {}
@@ -40669,7 +40670,9 @@ e_africa = {
 				
 				b_algiers = {}
 				b_mattija = {}
-				b_miliyana = {}
+				b_miliyana = {
+					holy_site = ibadi
+				}
 				b_sharashal = {}
 				b_elachour = {}
 				b_aintorki= {}
@@ -41374,8 +41377,11 @@ e_arabia = {
 				
 				muslim = 500 # Crusade target weight
 				
-				b_medina = {holy_site = sunni
-					holy_site = shiite}
+				b_medina = {
+					holy_site = sunni
+					holy_site = shiite
+					holy_site = ibadi
+				}
 				b_khaybar = {}
 				b_rabig = {}
 				b_yanbu = {}
@@ -41394,7 +41400,9 @@ e_arabia = {
 					holy_site = sunni
 					holy_site = shiite
 					holy_site = pagan
-					holy_site = yazidi}
+					holy_site = yazidi
+					holy_site = ibadi
+				}
 				b_jeddah = {}
 				b_taif = {}
 				b_al_johfa = {}
@@ -41528,7 +41536,9 @@ e_arabia = {
 				color2={ 255 255 255 }
 				
 				b_alhamra = {}
-				b_nizwa = {}
+				b_nizwa = {
+					holy_site = ibadi
+				}
 				b_ibri = {}
 				b_jabrin = {}
 				b_rustaq = {}
