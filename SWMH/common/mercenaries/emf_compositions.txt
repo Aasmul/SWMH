@@ -1,0 +1,9 @@
+
+# Vanilla bektashi_composition equivalent for vanilla SWMH (EMF has a different composition that will override this file)
+haruriyyah_composition = {
+	levy_size = 6
+	archers = 150
+	light_infantry = 150
+	heavy_infantry = 350
+	horse_archers = 100
+}
