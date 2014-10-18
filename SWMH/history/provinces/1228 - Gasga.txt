@@ -6,7 +6,7 @@ title = c_gasaga
 # Settlements
 max_settlements = 1
 
-b_fachi = city
+b_fachi = tribal
 
 # Misc
 culture = tuareg

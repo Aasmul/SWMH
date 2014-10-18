@@ -6,9 +6,9 @@ title = c_pinsk
 # Settlements
 max_settlements = 4
 
-b_pinsk = castle
-b_luninets = city
-b_lyubeshiv = temple
+b_pinsk = tribal
+#b_luninets = city
+#b_lyubeshiv = temple
 
 #b_motal = city
 
@@ -18,5 +18,10 @@ culture = russian
 religion = slavic_pagan
 
 # History
-988.1.1 = {religion = orthodox }
+988.1.1 = {
+	religion = orthodox
 
+	b_pinsk = castle
+	b_luninets = city
+	b_lyubeshiv = temple
+}

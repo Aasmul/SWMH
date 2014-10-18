@@ -5,8 +5,8 @@ title = c_kano
 
 # Settlements
 max_settlements = 3
-b_kano = castle
-b_dala = city
+b_kano = tribal
+#b_dala = city
 
 #b_hadeja = temple
 

@@ -5,9 +5,9 @@ title = c_bryansk
 
 # Settlements
 max_settlements = 5
-b_bryansk = castle
-b_vshchizh = temple
-b_starodub_chernigov = city
+b_bryansk = tribal
+#b_vshchizh = temple
+#b_starodub_chernigov = city
 #b_mglin = city
 #b_trubchevsk = city
 
@@ -17,5 +17,10 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1100.1.1 = {
+	b_bryansk = castle
+	b_vshchizh = temple
+	b_starodub_chernigov = city
+}
 
 

@@ -5,10 +5,7 @@ title = c_gotland
 
 # Settlements
 max_settlements = 5
-b_visborg = castle
-b_visby = city
-b_geatish_roma = temple
-b_othem = castle
+b_visborg = tribal
 
 #b_slite = city
 #b_hemse
@@ -24,13 +21,17 @@ religion = norse_pagan
 
 # History
 867.1.1 = {
-	b_visborg = ca_shipyard_1
+	b_visborg = tb_shipyard_1
 }
 1047.10.25 = { culture = gothic } 
 1060.8.2 = {religion = catholic}
 
 
 1066.1.1 = { 
+	b_visborg = castle
+	b_visby = city
+	b_geatish_roma = temple
+	b_othem = castle
 	capital = b_visby
 	b_visby = ct_wall_1
 	b_visby = ct_port_1

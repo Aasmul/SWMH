@@ -6,9 +6,7 @@ title = c_gemer
 # Settlements
 max_settlements = 4
 
-b_gyorvar =castle
-b_szentmaratonhegy = temple
-b_moson = city
+b_gyorvar = tribal
 #b_oroszvar = city
 #b_gyorszentmarton = castle
 #b_abda = temple
@@ -22,6 +20,11 @@ culture = moravian
 religion = catholic 
 
 # History
+900.1.1 = {
+	b_gyorvar = castle
+	b_moson = city
+	b_szentmaratonhegy = temple
+}
 950.1.1 = { culture = hungarian }
 
 

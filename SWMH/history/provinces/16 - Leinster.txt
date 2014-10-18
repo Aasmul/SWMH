@@ -6,7 +6,7 @@ title = c_leinster
 # Settlements
 max_settlements = 4
 
-b_wexford = castle
+b_wexford = tribal
 b_ferns = temple
 
 #b_enniscorthy = castle
@@ -19,6 +19,10 @@ religion = catholic
 
 # History
 867.1.1 = {
-	b_wexford = ca_shipyard_1
+	b_wexford = tb_shipyard_1
+}
+1000.1.1 = {
+	b_wexford = castle
+	b_wexford = cb_shipyard_1
 }
 1047.10.25 = { culture = norsegaelic }

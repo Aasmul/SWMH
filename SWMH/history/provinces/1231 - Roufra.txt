@@ -6,7 +6,7 @@ title = c_roufra
 # Settlements
 max_settlements = 1
 
-b_koufra = castle
+b_koufra = tribal
 
 # Misc
 culture = zaghawa

@@ -6,8 +6,8 @@ title = c_chelm
 # Settlements
 max_settlements = 4
 
-b_uhrusk = castle
-b_kholm = city
+b_uhrusk = tribal
+#b_kholm = city
 #b_wlodawa = castle
 #b_hrubieszow = castle 
 
@@ -18,3 +18,7 @@ religion = slavic_pagan
 # History
 989.1.1 = {culture = russian}
 989.1.1 = {religion = orthodox}
+1066.1.1 = {
+	b_uhrusk = castle
+	b_kholm = city
+}

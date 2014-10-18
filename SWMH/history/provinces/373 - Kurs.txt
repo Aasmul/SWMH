@@ -6,8 +6,7 @@ title = c_kurs
 # Settlements
 max_settlements = 3
 
-b_tukums = castle
-b_sabile = city
+b_tukums = tribal
 #b_talsi = castle
 #b_renda = city
 #b_dundaga = temple
@@ -21,7 +20,11 @@ religion = baltic_pagan
 
 # History
 867.1.1 = {
-	b_tukums = ca_shipyard_1
+	b_tukums = tb_shipyard_1
 }
 1283.1.1= { trade_post = b_pat_luneburg }
-1290.1.1 = { religion = catholic }
+1290.1.1 = {
+	religion = catholic
+	b_tukums = castle
+	b_sabile = city
+}

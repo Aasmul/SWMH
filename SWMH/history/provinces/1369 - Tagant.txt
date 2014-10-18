@@ -5,7 +5,7 @@ title = c_tagant
 
 # Settlements
 max_settlements = 1
-b_tichitt = castle
+b_tichitt = tribal
 
 # Misc
 culture = soninke

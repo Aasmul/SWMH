@@ -6,7 +6,7 @@ title = c_porkhov
 # Settlements
 max_settlements = 3
 
-b_porkhov = castle
+b_porkhov = tribal
 #b_vysgorod = city
 #b_opokivysgorod = castle
 #b_jamvysgorod = castle
@@ -17,3 +17,6 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = {
+	b_porkhov = castle
+}

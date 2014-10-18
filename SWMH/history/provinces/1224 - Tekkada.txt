@@ -6,7 +6,7 @@ title = c_tekkada
 # Settlements
 max_settlements = 2
 
-b_takkeda = city
+b_takkeda = tribal
 
 #b_takarkert = castle
 

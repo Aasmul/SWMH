@@ -6,7 +6,7 @@ title = c_massat
 # Settlements
 max_settlements = 3
 
-b_safi = castle
+b_safi = tribal
 #b_oualidia = city
 #b_eljadida = temple
 
@@ -20,5 +20,8 @@ culture = zanata
 religion = sunni
 
 # History
+1062.1.1 = {
+	b_safi = castle
+}
 
 

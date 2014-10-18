@@ -5,9 +5,9 @@ title = c_zamfara
 
 # Settlements
 max_settlements = 4
-b_gusau = city
-b_dutsi = castle
-b_sokoto = temple
+b_gusau = tribal
+#b_dutsi = castle
+#b_sokoto = temple
 
 #b_anka = temple
 

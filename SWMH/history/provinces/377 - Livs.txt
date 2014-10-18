@@ -6,7 +6,7 @@ title = c_livs
 # Settlements
 max_settlements = 4
 
-b_viljandi = castle
+b_viljandi = tribal
 b_karksi = temple
 #b_ruhja = castle
 #b_helme = castle
@@ -21,6 +21,6 @@ religion = finnish_pagan
 
 # History
 1202.1.1 = { capital = b_karksi }
-
-1250.1.1 = { b_newpernau = city }
+1290.1.1 = { b_biljandi = castle }
+1290.1.1 = { b_newpernau = city }
 1290.1.1 = { religion = catholic }

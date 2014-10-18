@@ -5,9 +5,9 @@ title = c_murom
 
 # Settlements
 max_settlements = 4
-b_murom = castle
-b_borisobgleskij = city
-b_starodubvockij = temple
+b_murom = tribal
+#b_borisobgleskij = city
+#b_starodubvockij = temple
 #b_pavlovomorom = city
 #b_melenki = city
 
@@ -19,6 +19,11 @@ religion = finnish_pagan
 # History
 1150.1.1 = { culture = russian }
 1150.1.1 = { religion = orthodox}
+1187.1.1 = {
+	b_murom = castle
+	b_borisobgleskij = city
+	b_starodubvockij = temple
+}
 1237.1.1 = { remove_settlement = b_borisobgleskij } #Mongol invasion
 1237.1.1 = { remove_settlement = b_starodubvockij }
 

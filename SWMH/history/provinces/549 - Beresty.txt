@@ -5,8 +5,8 @@ title = c_beresty
 
 # Settlements
 max_settlements = 4
-b_beresty = castle
-b_kobryn = city
+b_beresty = tribal
+#b_kobryn = city
 #b_dzivin = temple
 #b_bialapodlaska = city
 #b_kamyanyets = castle
@@ -16,7 +16,11 @@ culture = russian
 religion = slavic_pagan
 
 # History
-988.1.1 = {religion = orthodox }
+989.1.1 = {
+	religion = orthodox
+	b_beresty = castle
+	b_kobryn = city
+}
 1276.1.1 = { b_kamyanyets = castle }
 
 

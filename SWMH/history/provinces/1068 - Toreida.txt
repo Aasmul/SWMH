@@ -6,9 +6,9 @@ title = c_toreida
 # Settlements
 max_settlements = 6
 
-b_toreida = castle
+b_toreida = tribal
 b_ikskila = temple
-b_riga = city
+#b_riga = city
 
 #b_sigulda = castle
 #b_salaspils = castle
@@ -28,6 +28,8 @@ religion = finnish_pagan
 
 # History
 1199.1.1 = { b_sigulda = castle } 
+1199.1.1 = { b_toreida = castle } 
+1199.1.1 = { b_riga = city } 
 1199.1.1 = { capital = b_ikskila } #bishopric of Riga
 1199.1.1 = { religion = catholic }
 1293.1.1= { trade_post = b_pat_luneburg }

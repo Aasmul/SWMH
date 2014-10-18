@@ -5,8 +5,8 @@ title = c_sibiridugu
 
 # Settlements
 max_settlements = 3
-b_sibi = castle
-b_bamako = temple
+b_sibi = tribal
+#b_bamako = temple
 
 #b_tabou = city
 

@@ -6,8 +6,8 @@ title = c_russa
 # Settlements
 max_settlements = 4
 
-b_demjanskkholmsky = castle
-b_rusa = city
+b_demjanskkholmsky = tribal
+#b_rusa = city
 #b_kholmkholmsky = city
 #b_velilkholmsky = castle
 #b_morevakholmsky = city
@@ -22,6 +22,10 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = {
+	b_demjanskkholmsky = castle
+	b_rusa = city
+}
 
 
 

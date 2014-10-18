@@ -6,7 +6,7 @@ title = c_ormond
 # Settlements
 max_settlements = 3
 
-b_waterford = castle
+b_waterford = tribal
 b_lismore = temple
 
 #b_clonmel = city
@@ -18,6 +18,10 @@ religion = catholic
 
 # History
 867.1.1 = {
+	b_waterford = tb_shipyard_1
+}
+1000.1.1 = {
+	b_waterford = castle
 	b_waterford = ca_shipyard_1
 }
 1047.10.25 = { culture = norsegaelic }

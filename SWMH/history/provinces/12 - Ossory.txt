@@ -6,8 +6,7 @@ title = c_ossory
 # Settlements
 max_settlements = 3
 
-b_gowran = castle
-b_kilkenny = city
+b_gowran = tribal
 #b_jerpoint = temple
 #b_callan = city
 #b_grannagh = castle
@@ -18,4 +17,8 @@ culture = irish
 religion = catholic
 
 # History
+1000.1.1 = {
+	b_gowran = castle
+	b_kilkenny = city
+}
 

@@ -6,9 +6,9 @@ title = c_nordskane
 # Settlements
 max_settlements = 4
 
-b_kernen = castle
-b_helsingborg = city
-b_krapperup = castle
+b_kernen = tribal
+#b_helsingborg = city
+#b_krapperup = castle
 #b_vramsgunnarstorp = city
 #b_billesholm = castle
 #b_rydeback = city
@@ -25,7 +25,10 @@ terrain = hills
 1018.1.1 = { religion = catholic } 
 1047.10.25 = { culture = danish } 
 1066.1.1 = {
+	b_kernen = castle
+	b_helsingborg = city
+	b_krapperup = castle
 	b_kernen = ca_keep_1
 	b_kernen = ca_militia_barracks_1
-	b_kernen = ca_wall_1   
+	b_kernen = ca_wall_1
 }

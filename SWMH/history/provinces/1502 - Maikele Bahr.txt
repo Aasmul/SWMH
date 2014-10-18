@@ -6,7 +6,7 @@ title = c_maikele_bahr
 # Settlements
 max_settlements = 1
 
-b_sinkat = castle
+b_sinkat = tribal
 
 # Misc
 culture = beja

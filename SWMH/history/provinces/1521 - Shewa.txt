@@ -5,8 +5,8 @@ title = c_shewa
 
 # Settlements
 max_settlements = 3
-b_shewa = castle
-b_antsokia = city
+b_shewa = tribal
+#b_antsokia = city
 
 #b_debreberhan = temple
 

@@ -5,8 +5,8 @@ title = c_gojjam
 
 # Settlements
 max_settlements = 4
-b_guihon = castle
-b_mertulematiam = temple
+b_guihon = tribal
+#b_mertulematiam = temple
 
 #b_debremarqos = city
 #b_gafat = castle

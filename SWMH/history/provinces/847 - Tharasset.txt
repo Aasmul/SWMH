@@ -6,8 +6,8 @@ title = c_tharasset
 # Settlements
 max_settlements = 4
 
-b_taroudaut = castle
-b_massa = city
+b_taroudaut = tribal
+#b_massa = city
 #b_tinmel = temple
 #b_igilliz = castle
 
@@ -26,6 +26,10 @@ culture = masmuda
 religion = sunni
 
 # History
+1062.1.1 = {
+	b_tharasset = castle
+	b_massa = city
+}
 1124.1.1 = { b_tinmel = temple }
 1126.1.2 = { capital = b_taroudaut }
 

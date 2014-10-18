@@ -6,9 +6,8 @@ title = c_nordland
 # Settlements
 max_settlements = 4
 
-b_austraat = castle # Austrátt
+b_austraat = tribal # Austrátt
 #b_uthaug = city # Upphaughr
-b_bjerkestrand = castle # Birkistrond
 #b_rastarkalv = city # Rastarkalfr
 #b_selva = castle # Solvi
 #b_agdenes = city # Agðarnes
@@ -22,6 +21,10 @@ religion = norse_pagan
 
 # History
 1000.1.1 = { b_rissa = castle } 
+1000.1.1 = {
+	b_austraat = castle # Austrátt
+	b_bjerkestrand = castle # Birkistrond
+}
 1024.1.1 = { religion = catholic }
 1047.10.25 = { culture = norwegian } 
 

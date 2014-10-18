@@ -6,11 +6,11 @@ title = c_rawamazovia
 # Settlements
 max_settlements = 4
 
-b_rawa = castle
+b_rawa = tribal
 #b_sochaczew = castle
 #b_bialapoland = temple
 #b_ostroleska = city
-b_jezow = city
+#b_jezow = city
 
 # Misc
 culture = polish
@@ -18,3 +18,7 @@ religion = slavic_pagan
 
 # History
 999.7.1 = { religion = catholic }
+1000.1.1 = {
+	b_rawa = castle
+	b_jezow = city
+}

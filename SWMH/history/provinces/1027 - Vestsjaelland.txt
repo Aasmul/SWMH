@@ -6,9 +6,9 @@ title = c_vestsjaelland
 # Settlements
 max_settlements = 5
 
-b_korsoer = castle
-b_kalundborg = castle
-b_skaelskoer = city
+b_korsoer = tribal
+#b_kalundborg = castle
+#b_skaelskoer = city
 
 #b_soroe = temple
 #b_slagelse = city
@@ -23,6 +23,11 @@ religion = norse_pagan
 
 # History
 1018.1.1 = { religion = catholic } 
+1018.1.1 = {
+	b_korsoer = castle
+	b_kalundborg = castle
+	b_skaelskoer = city
+}
 1047.10.25 = { culture = danish } 
 #1142.1.1 = { b_soroe = temple }
 

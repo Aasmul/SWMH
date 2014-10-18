@@ -5,8 +5,8 @@ title = c_kozelsk
 
 # Settlements
 max_settlements = 4
-b_kozelzk = castle
-b_belyov = castle
+b_kozelzk = tribal
+#b_belyov = castle
 b_bolkhov = temple
 #b_volokna = city
 #b_odoyey = city
@@ -21,4 +21,8 @@ religion = finnish_pagan
 988.1.1 = {
 	culture = russian
 	religion = orthodox
+}
+1066.1.1 = {
+	b_kozelzk = castle
+	b_belyov = castle
 }

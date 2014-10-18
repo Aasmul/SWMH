@@ -6,8 +6,7 @@ title = c_west_dvina
 # Settlements
 max_settlements = 3
 
-b_rezekene = castle
-b_ludza = city
+b_rezekene = tribal
 #b_daugavpils = castle
 #b_preili = city
 
@@ -18,4 +17,8 @@ religion = baltic_pagan
 
 # History
 
+1202.1.1 = {
+	b_rezekene = castle
+	b_ludza = city
+}
 1275.1.1 = { b_daugavpils = castle }

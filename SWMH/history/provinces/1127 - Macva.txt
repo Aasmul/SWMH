@@ -6,8 +6,8 @@ title = c_macva
 # Settlements
 max_settlements = 3
 
-b_debrc = castle
-b_macva = city
+b_debrc = tribal
+#b_macva = city
 #b_uzice = castle
 #b_valjevo = city
 #b_tronosa = temple

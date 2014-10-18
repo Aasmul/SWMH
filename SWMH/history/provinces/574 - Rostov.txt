@@ -6,9 +6,9 @@ title = c_rostov
 # Settlements
 max_settlements = 5
 
-b_sarskoyegorodishche = castle
-b_rostov = city
-b_spasoyakovlevsky = temple
+b_sarskoyegorodishche = tribal
+#b_rostov = city
+#b_spasoyakovlevsky = temple
 #b_petrovskoye = city
 #b_nerekhta = castle
 #b_nekrasovskoye = temple
@@ -23,7 +23,11 @@ religion = finnish_pagan
 	culture = russian
 	religion = orthodox
 }
-
+1156.1.1 = {
+	b_sarskoyegorodishche = castle
+	b_spasoyakovlevsky = temple
+	b_rostov = city
+}
 1337.1.1 = { b_petrovskoye = city }
 
 

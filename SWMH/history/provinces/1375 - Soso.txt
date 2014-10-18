@@ -5,8 +5,8 @@ title = c_soso
 
 # Settlements
 max_settlements = 3
-b_kirina = castle
-b_soso = city
+b_kirina = tribal
+#b_soso = city
 
 #b_beledugu = temple
 

@@ -6,8 +6,7 @@ title = c_torzhok
 # Settlements
 max_settlements = 3
 
-b_rajsna = castle
-b_torzhok = city
+b_rajsna = tribal
 #b_yshny_volochyok = city
 #b_bologoye = city
 #b_valday = temple
@@ -18,5 +17,9 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1100.1.1 = {
+	b_rajsna = castle
+	b_torzhok = city
+}
 
 

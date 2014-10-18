@@ -5,7 +5,7 @@ title = c_isle_of_man
 
 # Settlements
 max_settlements = 4
-b_rushen = castle
+b_rushen = tribal
 b_peel = temple
 #b_douglas = city
 #b_maughold = castle
@@ -18,6 +18,10 @@ terrain = hills
 
 # History
 867.1.1 = {
+	b_rushen = tb_shipyard_1
+}
+1000.1.1 = {
+	b_rushen = castle
 	b_rushen = ca_shipyard_1
 }
 1047.10.25 = { culture = norsegaelic }

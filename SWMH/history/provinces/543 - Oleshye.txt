@@ -6,11 +6,11 @@ title = c_oleshye
 # Settlements
 max_settlements = 6
 
-b_ochakiv = castle
-b_kocibey = castle
+b_ochakiv = tribal
+#b_kocibey = castle
 
 #b_odessa = city
-b_bohopol = temple
+#b_bohopol = temple
 
 
 #b_balta = castle
@@ -25,6 +25,11 @@ religion = tengri_pagan
 # History
 
 892.1.1 = { culture = pecheneg }
+1000.1.1 = {
+	b_ochakiv = castle
+	b_kocibey = castle
+	b_bohopol = temple
+}
 1091.1.1 = { culture = cuman }
 1190.1.1 = { trade_post = b_grimaldi } 
 1227.1.1 = { religion = sunni } 

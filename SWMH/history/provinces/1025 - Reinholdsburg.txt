@@ -6,7 +6,7 @@ title = c_reinholdsburg
 # Settlements
 max_settlements = 4
 
-b_krummediek = castle
+b_krummediek = tribal
 #b_kiel = city
 #b_gottorp = castle
 #b_neumunster = castle
@@ -22,6 +22,7 @@ religion = norse_pagan
 1066.1.1 = {
 	culture = danish
 	religion = catholic
+	b_krummediek = castle
 }
 1106.1.1 = { culture = german }
 

@@ -6,7 +6,7 @@ title = c_ostskane
 # Settlements
 max_settlements = 5
 
-b_vittskovle = castle
+b_vittskovle = tribal
 b_dalby = temple
 #b_vaeskane = city
 #b_gyllebo = castle
@@ -22,6 +22,7 @@ religion = norse_pagan
 
 # History
 1018.1.1 = { religion = catholic } 
+1018.1.1 = { b_vittskovle = castle }
 1047.10.25 = { culture = danish } 
 
 

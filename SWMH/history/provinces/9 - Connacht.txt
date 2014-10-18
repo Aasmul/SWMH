@@ -6,7 +6,7 @@ title = c_connacht
 # Settlements
 max_settlements = 3
 
-b_lisnatreanduff = castle
+b_lisnatreanduff = tribal
 b_killala = temple
 
 #b_mayo = temple
@@ -19,4 +19,6 @@ religion = catholic
 terrain = hills
 
 # History
-
+1000.1.1 = {
+	b_lisnatreanduff = castle
+}

@@ -6,8 +6,8 @@ title = c_zaslawye
 # Settlements
 max_settlements = 3
 
-b_zaslawye = castle # Izjaslavl' in russian
-b_mir = city
+b_zaslawye = tribal # Izjaslavl' in russian
+#b_mir = city
 #b_vileyka = city
 
 # Misc
@@ -16,4 +16,8 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+988.1.1 = {
+	b_zaslawye = castle
+	b_mir = city
+}
 

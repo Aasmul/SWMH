@@ -5,9 +5,9 @@ title = c_kagha
 
 # Settlements
 max_settlements = 4
-b_kagha = castle
-b_amcaka = city
-b_kotoko = temple
+b_kagha = tribal
+#b_amcaka = city
+#b_kotoko = temple
 
 #b_daima = castle
 

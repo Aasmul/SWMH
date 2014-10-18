@@ -6,7 +6,6 @@ title = c_leczyca
 # Settlements
 max_settlements = 4
 
-b_leczyca = castle
 b_tum = temple
 #b_inowlodz = castle
 #b_piatek = city
@@ -19,3 +18,4 @@ religion = slavic_pagan
 
 # History
 999.7.1 = { religion = catholic }
+1000.1.1 = { b_leczyca = castle }

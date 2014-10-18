@@ -5,9 +5,9 @@ title = c_kiri
 
 # Settlements
 max_settlements = 4
-b_kiri = castle
-b_kita = city
-b_diakha = temple
+b_kiri = tribal
+#b_kita = city
+#b_diakha = temple
 
 #b_tabon = castle
 

@@ -6,8 +6,8 @@ title = c_laanemaa
 # Settlements
 max_settlements = 4
 
-b_lihula = castle
-b_rotala = castle
+b_lihula = tribal
+#b_rotala = castle
 #b_koluvere = castle
 #b_kivi_vigala = castle
 #b_haapsalu = temple
@@ -22,6 +22,7 @@ culture = tsuudi
 religion = finnish_pagan
 
 # History
-1220.1.1 = { remove_settlement = b_rotala } #  Karl Magnusson and the swedish garrison gets killed by firestorm. 
+#1220.1.1 = { remove_settlement = b_rotala } #  Karl Magnusson and the swedish garrison gets killed by firestorm. 
 1279.1.1 = { b_haapsalu = temple } #bishopric of Ösel
 1279.1.1 = { religion = catholic }
+1279.1.1 = { b_lihula = castle }

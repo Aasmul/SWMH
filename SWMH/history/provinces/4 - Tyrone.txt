@@ -6,8 +6,7 @@ title = c_tyrone
 # Settlements
 max_settlements = 3
 
-b_dungannon = castle
-b_tullyhogue = castle
+b_dungannon = tribal
 #b_omagh = temple
 
 # Misc
@@ -17,3 +16,7 @@ terrain = hills
 
 # History
 
+1000.1.1 = {
+	b_dungannon = castle
+	b_tullyhogue = city
+}

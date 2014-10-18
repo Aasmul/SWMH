@@ -5,10 +5,10 @@ title = c_djenne
 
 # Settlements
 max_settlements = 6
-b_dioboro = castle
-b_djenne = city
+b_dioboro = tribal
+#b_djenne = city
 b_algasba = temple
-b_bandiagara = castle 
+#b_bandiagara = castle 
 
 #b_kaniana = castle 
 #b_hambarketolo = castle 
@@ -18,3 +18,8 @@ culture = soninke
 religion = west_african_pagan
 
 # History
+1300.1.1 = {
+	b_dioboro = castle
+	b_djenne = city
+	b_bandiagara = castle
+}

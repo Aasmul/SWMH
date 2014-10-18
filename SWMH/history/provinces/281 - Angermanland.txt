@@ -6,7 +6,7 @@ title = c_angermanland
 # Settlements
 max_settlements = 3
 
-b_bjartra = castle
+b_bjartra = tribal
 
 #b_ulvo = city
 
@@ -25,5 +25,7 @@ religion = finnish_pagan
 # History
 885.1.1 = { culture = norse } 
 885.1.1 = { religion = norse_pagan } 
-1047.10.25 = { culture = swedish } 
+1047.10.25 = {
+	culture = swedish 
+} 
 1090.1.1 = { religion = catholic }

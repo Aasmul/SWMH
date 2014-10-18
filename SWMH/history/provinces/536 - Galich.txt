@@ -6,10 +6,10 @@ title = c_galich
 # Settlements
 max_settlements = 5
 
-b_halych = castle
-b_dolyna = city
-b_tysmenytsya = temple
-b_kolomyya = castle
+b_halych = tribal
+#b_dolyna = city
+#b_tysmenytsya = temple
+#b_kolomyya = castle
 #b_horod = castle
 #b_vashkivtsi = city
 #b_stryj = city
@@ -19,6 +19,11 @@ culture = russian
 religion = slavic_pagan
 
 # History
-988.1.1 = {religion = orthodox }
+988.1.1 = {
+	b_halych = castle
+	b_dolyna = city
+	b_tysmenytsya = temple
+	b_kolomyya = castle
+}
 1187.1.1 = { b_stryj = city }
 

@@ -5,9 +5,9 @@ title = c_mali #Manding
 
 # Settlements
 max_settlements = 6
-b_niani = castle
+b_niani = tribal
 b_kangaba = temple
-b_malikura = city
+#b_malikura = city
 
 #b_keyla = city
 #b_odiene = castle
@@ -24,3 +24,7 @@ culture = manden
 religion = west_african_pagan
 
 # History
+1250.1.1 = {
+	b_malikura = city
+	b_niani = castle
+}

@@ -6,8 +6,7 @@ title = c_viken
 # Settlements
 max_settlements = 3
 
-b_ragnhildsholm = castle # Ragnildarholmir
-b_kungahalla = city # Konungahella
+b_ragnhildsholm = tribal # Ragnildarholmir
 #b_dragmark = temple
 #b_marstrand = city
 #b_bohus = castle
@@ -19,6 +18,13 @@ culture = norse
 religion = norse_pagan
 
 # History
+1000.1.1 = {
+	b_ragnhildsholm = castle
+	b_kungahalla = city
+
+	b_ragnhildsholm = ca_shipyard_1
+	b_kungahalla = ct_port_1
+}
 1015.1.1 = { religion = catholic } 
 1047.10.25 = { culture = norwegian } 
 

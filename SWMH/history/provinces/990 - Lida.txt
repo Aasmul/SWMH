@@ -6,7 +6,7 @@ title = c_lida
 # Settlements
 max_settlements = 2
 
-b_lida = castle
+b_lida = tribal
 #b_astryna = city
 #b_shchuchyn = city
 

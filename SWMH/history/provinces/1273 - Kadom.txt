@@ -6,7 +6,7 @@ title = c_kadom
 # Settlements
 max_settlements = 3
 
-b_kadom = castle
+b_kadom = tribal
 #b_temnikov = city
 b_sarov = temple
 
@@ -17,6 +17,7 @@ religion = finnish_pagan
 # History
 1150.1.1 = { religion = orthodox }
 1150.1.1 = { culture = russian }
+1150.1.1 = { b_kadom = castle }
 
 
 

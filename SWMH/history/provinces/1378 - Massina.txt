@@ -5,8 +5,8 @@ title = c_massina
 
 # Settlements
 max_settlements = 3
-b_macina = castle
-b_dia = city
+b_macina = tribal
+#b_dia = city
 
 #b_kabora = temple
 

@@ -5,9 +5,7 @@ title = c_gnieznienskie
 
 # Settlements
 max_settlements = 4
-b_gniezno = castle
-b_lekno = temple
-b_znin = castle
+b_gniezno = tribal
 
 #b_wagrowiec = castle
 #b_naklo = castle
@@ -21,4 +19,6 @@ religion = slavic_pagan
 962.1.1 = {
 	religion = catholic
 	b_gniezno = temple
+	b_lekno = temple
+	b_znin = castle
 }

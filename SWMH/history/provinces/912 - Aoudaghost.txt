@@ -5,8 +5,8 @@ title = c_aoudaghost
 
 # Settlements
 max_settlements = 4
-b_kiffa = castle
-b_aoudaghost = city
+b_kiffa = tribal
+#b_aoudaghost = city
 
 #b_moudjeria = temple
 #b_tamchakett = castle

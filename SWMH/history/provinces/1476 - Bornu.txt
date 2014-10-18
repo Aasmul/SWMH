@@ -5,9 +5,9 @@ title = c_bornu
 
 # Settlements
 max_settlements = 4
-b_bornu = castle
-b_sao = temple
-b_yao = city
+b_bornu = tribal
+#b_sao = temple
+#b_yao = city
 
 #b_fika = castle
 

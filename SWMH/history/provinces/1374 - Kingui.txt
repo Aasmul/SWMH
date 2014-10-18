@@ -5,8 +5,8 @@ title = c_kingui
 
 # Settlements
 max_settlements = 4
-b_saindemba = castle
-b_kingui = temple
+b_saindemba = tribal
+#b_kingui = temple
 
 #b_nioro = city
 #b_diara = castle

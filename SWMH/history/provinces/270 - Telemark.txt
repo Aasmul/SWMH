@@ -6,10 +6,9 @@ title = c_telemark
 # Settlements
 max_settlements = 3
 
-b_fivlavollen = castle # Tiflavellir
+b_fivlavollen = tribal # Tiflavellir
 #b_ulleberg = temple # Ullarberg
 #b_eidsborg = castle # Eiðsborg
-b_skien = city # Skiða
 #b_gimsoy = temple
 #b_boe = city # Bœr
 #b_nore = temple
@@ -19,8 +18,12 @@ religion = norse_pagan
 
 # History
 925.1.1 = { remove_settlement = b_fivlavollen } # Cheif Aasgrim slain, and his son Torstein leaves for Iceland
-925.1.1 = { b_eidsborg = castle }
+925.1.1 = { b_eidsborg = tribal }
 925.1.1 = { capital = b_eidsborg }
+1000.1.1 = { 
+	b_skien = city # Skiða
+	b_eidsborg = castle
+}
 1015.1.1 = { religion = catholic } 
 1047.10.25 = { culture = norwegian } 
 1280.1.1 = { trade_post = b_warendorp }

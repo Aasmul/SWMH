@@ -6,9 +6,9 @@ title = c_terebovl
 # Settlements
 max_settlements = 5
 
-b_terebovl = castle
-b_zbarazh = castle
-b_mykulyntsi = city
+b_terebovl = tribal
+#b_zbarazh = castle
+#b_mykulyntsi = city
 #b_tykhomel = temple
 #b_ilavche = temple
 #b_ternopil = castle
@@ -19,4 +19,9 @@ culture = russian
 religion = slavic_pagan
 
 # History
-988.1.1 = {religion = orthodox }
+988.1.1 = {
+	religion = orthodox
+	b_terebovl = castle
+	b_zbarazh = castle
+	b_mykulyntsi = city
+}

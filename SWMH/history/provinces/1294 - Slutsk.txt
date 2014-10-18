@@ -6,9 +6,9 @@ title = c_slutsk
 # Settlements
 max_settlements = 4
 
-b_slutsk = castle
-b_kapyl = city
-b_kletsk = castle
+b_slutsk = tribal
+#b_kapyl = city
+#b_kletsk = castle
 #b_nesvizh = castle #castle since 1553, was a city beforehand
 
 # Misc
@@ -17,3 +17,8 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = { 
+	b_slutsk = castle
+	b_kapyl = city
+	b_kletsk = castle
+}

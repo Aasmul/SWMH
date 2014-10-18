@@ -6,9 +6,7 @@ title = c_bereg
 # Settlements
 max_settlements = 3
 
-b_somogyvar = castle
-b_zselicszentjakab = city
-
+b_somogyvar = tribal
 #b_csurgo = temple
 #b_babocsa = castle
 #b_csakany = castle
@@ -23,5 +21,9 @@ religion = catholic
 # History
 890.1.1 = { religion = catholic }
 950.1.1 = { culture = hungarian }
+1000.1.1 = {
+	b_somogyvar = castle
+	b_zselicszentjakab = city
+}
 
 

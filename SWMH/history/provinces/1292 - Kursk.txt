@@ -6,7 +6,7 @@ title = c_kursk
 # Settlements
 max_settlements = 2
 
-b_kursk = castle
+b_kursk = tribal
 #b_oboyan = castle
 
 
@@ -16,3 +16,4 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = { b_kursk = castle }

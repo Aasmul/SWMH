@@ -6,8 +6,8 @@ title = c_novosil
 # Settlements
 max_settlements = 4
 
-b_novosil = castle
-b_mtsensk = city
+b_novosil = tribal
+#b_mtsensk = city
 b_kolpny = temple
 
 #b_korsev = castle
@@ -19,3 +19,7 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = {
+	b_novosil = castle
+	b_mtsensk = city
+}

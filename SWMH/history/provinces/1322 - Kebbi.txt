@@ -5,9 +5,9 @@ title = c_kebbi
 
 # Settlements
 max_settlements = 4
-b_gaya = castle
-b_birnin-kebbi = city
-b_argungu = temple
+b_gaya = tribal
+#b_birnin-kebbi = city
+#b_argungu = temple
 
 #b_dosso = castle
 

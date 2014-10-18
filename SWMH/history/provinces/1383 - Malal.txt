@@ -5,8 +5,8 @@ title = c_malal
 
 # Settlements
 max_settlements = 3
-b_malal = castle
-b_sankaran = city
+b_malal = tribal
+#b_sankaran = city
 
 #b_do = temple
 

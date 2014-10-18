@@ -6,9 +6,9 @@ title = c_utena
 # Settlements
 max_settlements = 4
 
-b_utenele = castle
-b_svencionys = temple
-b_utena = city
+b_utenele = tribal
+#b_svencionys = temple
+#b_utena = city
 #b_uzpaliai = castle
 #b_tauragnai = castle
 #b_pastavy = temple

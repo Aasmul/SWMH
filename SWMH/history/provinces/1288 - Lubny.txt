@@ -6,7 +6,7 @@ title = c_lubny
 # Settlements
 max_settlements = 3
 
-b_lubny = castle
+b_lubny = tribal
 #b_snityn = city
 #b_lukolm = castle
 #b_grosin = city
@@ -18,3 +18,6 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = {
+	b_lubny = castle
+}

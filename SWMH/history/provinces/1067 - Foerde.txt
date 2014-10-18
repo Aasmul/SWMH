@@ -6,8 +6,8 @@ title = c_foerde
 # Settlements
 max_settlements = 3
 
-b_aasmul = castle # Aasmul
-b_berle = castle # Berðla
+b_aasmul = tribal # Aasmul
+#b_berle = castle # Berðla
 #b_aatloeyna = castle # Atley
 #b_naustdal = city # Naustadalr
 #b_staarheim = city # Stoðrheimr
@@ -20,6 +20,7 @@ culture = norse
 religion = norse_pagan
 
 # History
+900.1.1 = { b_berle = castle }
 900.1.1 = { remove_settlement = b_aasmul }
 1024.1.1 = { religion = catholic }
 1047.10.25 = { culture = norwegian }

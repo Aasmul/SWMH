@@ -5,10 +5,10 @@ title = c_ghana #Wagadu
 
 # Settlements
 max_settlements = 7
-b_el_ghaba = castle
-b_koumbi_saleh = city
+b_el_ghaba = tribal
+#b_koumbi_saleh = city
 b_ghanata = temple
-b_goumbou = castle
+#b_goumbou = castle
 
 #b_kusata = castle 
 #b_nema = castle 
@@ -22,3 +22,8 @@ religion = west_african_pagan
 
 #islamization
 1067.1.1 = { religion = sunni }
+1300.1.1 = {
+	b_el_ghaba = castle
+	b_koumbi_saleh = city
+	b_goumbou = castle
+}

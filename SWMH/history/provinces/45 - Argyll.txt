@@ -5,7 +5,7 @@ title = c_argyll
 
 # Settlements
 max_settlements = 3
-b_inveraray = castle
+b_inveraray = tribal
 b_ardchattan = temple
 #b_oban = city
 #b_kilmartin = castle
@@ -17,5 +17,6 @@ religion = norse_pagan
 terrain = hills
 
 # History
+1000.1.1 = { b_inveraray = castle }
 1015.1.1 = { religion = catholic } 
 1047.10.25 = { culture = norsegaelic } 

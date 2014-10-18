@@ -6,8 +6,8 @@ title = c_aydhab
 # Settlements
 max_settlements = 3
 
-b_aydhab = castle
-b_halaib = city
+b_aydhab = tribal
+#b_halaib = city
 
 #b_birshalatayn = temple
 

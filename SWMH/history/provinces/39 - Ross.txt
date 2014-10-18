@@ -5,7 +5,7 @@ title = c_ross
 
 # Settlements
 max_settlements = 4
-b_tain = castle
+b_tain = tribal
 b_rosemarkie = temple
 #b_dingwall = castle
 #b_fortrose = temple
@@ -16,3 +16,6 @@ culture = scottish
 religion = catholic
 
 # History
+1000.1.1 = {
+	b_tain = castle
+}

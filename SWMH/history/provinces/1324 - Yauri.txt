@@ -5,9 +5,9 @@ title = c_yauri
 
 # Settlements
 max_settlements = 4
-b_birnin-yawuri = castle
-b_zuru = city
-b_kaduna = temple
+b_birnin-yawuri = tribal
+#b_zuru = city
+#b_kaduna = temple
 
 #b_kotonkoro = castle
 

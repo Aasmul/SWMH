@@ -5,12 +5,12 @@ title = c_krakowskie
 
 # Settlements
 max_settlements = 6
-b_wawel = castle
-b_krakow = city
-b_tyniec = temple
+b_wawel = tribal
+#b_krakow = city
+#b_tyniec = temple
 
 #b_kielce = city
-b_wojnicz = castle
+#b_wojnicz = castle
 #b_brzesko = temple
 #b_czestochowa = castle
 #b_kazimierz = castle
@@ -23,4 +23,10 @@ religion = slavic_pagan
 
 # History
 990.1.1 = { religion = catholic }
+1000.1.1 = {
+	b_wawel = castle
+	b_krakow = city
+	b_tyniec = temple
+	b_wojnicz = castle
+}
 1187.1.1 = { b_kleparz = city }

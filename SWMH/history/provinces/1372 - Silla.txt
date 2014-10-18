@@ -5,8 +5,8 @@ title = c_silla
 
 # Settlements
 max_settlements = 3
-b_silla = castle
-b_matam = city
+b_silla = tribal
+#b_matam = city
 
 #b_bakel = temple
 

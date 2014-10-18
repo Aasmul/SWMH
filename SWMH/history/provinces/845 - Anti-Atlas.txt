@@ -6,9 +6,7 @@ title = c_anti-atlas
 # Settlements
 max_settlements = 4
 
-b_tinmallal = castle
-b_ribatshakir = temple
-b_igiradyatuf = city
+b_tinmallal = tribal
 
 #b_agadir = castle
 #b_tata = city
@@ -28,5 +26,10 @@ culture = masmuda
 religion = sunni
 
 # History
+1062.1.1 = {
+	b_tinmallal = castle
+	b_ribatshakir = temple
+	b_igiradyatuf = city
+}
 
 

@@ -6,9 +6,9 @@ title = c_skara
 # Settlements
 max_settlements = 5
 
-b_lacko = castle
+b_lacko = tribal
 b_skara = temple
-b_arneasborg = castle
+#b_arneasborg = castle
 #b_galakvist = castle
 #b_ymseborg = castle
 #b_nabbeborg = castle
@@ -26,6 +26,7 @@ religion = norse_pagan
 1060.8.2 = {religion = catholic}
 
 1066.1.1 = { 
+	b_lacko = castle
 	b_lacko = ca_keep_1
 	b_lacko = ca_stable_1
 	b_lacko = ca_militia_barracks_1

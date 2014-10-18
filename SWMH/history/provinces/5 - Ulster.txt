@@ -6,9 +6,8 @@ title = c_ulster
 # Settlements
 max_settlements = 4
 
-b_carrickfergus = castle
+b_carrickfergus = tribal
 b_connor = temple
-b_dunseverick = castle
 
 #b_dunluce = castle
 #b_larne = castle
@@ -19,4 +18,7 @@ religion = catholic
 terrain = hills
 
 # History
-
+1000.1.1 = {
+	b_carrickfergus = castle
+	b_dunseverick = castle
+}

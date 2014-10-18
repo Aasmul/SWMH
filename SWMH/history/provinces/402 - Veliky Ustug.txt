@@ -6,8 +6,7 @@ title = c_veliky_ustug
 # Settlements
 max_settlements = 4
 
-b_velikyustug = castle
-b_gledenustyg = castle
+b_velikyustug = tribal
 
 #b_solvychegodsk = city
 #b_troitsegledenskymonastery = temple

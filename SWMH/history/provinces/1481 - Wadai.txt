@@ -5,7 +5,7 @@ title = c_wadai
 
 # Settlements
 max_settlements = 2
-b_abeche = city
+b_abeche = tribal
 
 #b_wara = temple
 

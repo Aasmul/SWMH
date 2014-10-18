@@ -6,12 +6,12 @@ title = c_orkanger
 # Settlements
 max_settlements = 3
 
-b_gytting = castle # Grýting
+b_gytting = tribal # Grýting
 #b_gjoelme = city # Gelmin
 #b_viggja = city # Vigg
 #b_bones = city # Búnes
 #b_lundamo = city # Lundar
-b_melhus = castle # Meðalhusar
+#b_melhus = castle # Meðalhusar
 
 # Misc
 culture = norse
@@ -19,4 +19,8 @@ religion = norse_pagan
 
 # History
 1030.1.1 = { religion = catholic } 
+1030.1.1 = {
+	b_gytting = castle
+	b_melhus = castle
+}
 1047.10.25 = { culture = norwegian } 

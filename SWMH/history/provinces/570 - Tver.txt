@@ -6,9 +6,9 @@ title = c_tver
 # Settlements
 max_settlements = 5
 
-b_dubna = castle
-b_tver = city
-b_starica = temple
+b_dubna = tribal
+#b_tver = city
+#b_starica = temple
 #b_tvergorodok = castle
 #b_sesatver = temple
 #b_vertjazin = city
@@ -21,6 +21,11 @@ religion = slavic_pagan
 # History
 988.1.1 = {religion = orthodox }
 1135.1.1 = { b_tvergorodok = castle }
+1135.1.1 = {
+	b_dubna = castle
+	b_tver = city
+	b_starica = temple
+}
 
 
 

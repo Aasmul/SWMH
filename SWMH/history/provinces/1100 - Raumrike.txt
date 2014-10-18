@@ -6,8 +6,8 @@ title = c_raumrike
 # Settlements
 max_settlements = 3
 
-b_eidsvoll = castle # Eiðsvellir
-b_kongsvinger = city # Vingr
+b_eidsvoll = tribal # Eiðsvellir
+#b_kongsvinger = city # Vingr
 #b_nes = temple # Nes
 #b_ullensaker = castle # Ullinshof
 #b_henu = castle # Heinhof
@@ -21,6 +21,10 @@ religion = norse_pagan
 
 # History
 1015.1.1 = { religion = catholic } 
+1015.1.1 = { 
+	b_eidsvoll = castle # Eiðsvellir
+	b_kongsvinger = city # Vingr
+}
 1047.10.25 = { culture = norwegian } 
 1200.1.1 = { b_soerum = castle } 
 

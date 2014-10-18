@@ -6,8 +6,8 @@ title = c_jarva
 # Settlements
 max_settlements = 3
 
-b_paide = castle
-b_keava = city
+b_paide = tribal
+#b_keava = city
 #b_turi = = castle
 #b_pilistvere = castle
 
@@ -20,3 +20,7 @@ religion = finnish_pagan
 
 # History
 1290.1.1 = { religion = catholic }
+1336.1.1 = {
+	b_paide = castle
+	b_keava = city
+}

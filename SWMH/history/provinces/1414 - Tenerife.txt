@@ -4,9 +4,9 @@
 title = c_tenerife
 # Settlements
 max_settlements = 3
-b_lanzarote = castle
-b_tenerife = city
-b_lagomera = temple
+b_lanzarote = tribal
+#b_tenerife = city
+#b_lagomera = temple
 
 
 

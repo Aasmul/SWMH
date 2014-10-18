@@ -6,7 +6,7 @@ title = c_insalah
 # Settlements
 max_settlements = 1
 
-b_insalah = city
+b_insalah = tribal
 
 # Misc
 culture = tuareg

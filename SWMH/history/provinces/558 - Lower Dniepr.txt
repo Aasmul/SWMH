@@ -5,10 +5,10 @@ title = c_lower_dniepr
 
 # Settlements
 max_settlements = 5
-b_dnieprkherson = castle
+b_dnieprkherson = tribal
 
-b_kyzylyar = city
-b_kairy = temple
+#b_kyzylyar = city
+#b_kairy = temple
 
 #b_shagingirei = castle
 #b_kuturogly = castle

@@ -6,7 +6,7 @@ title = c_koporje
 # Settlements
 max_settlements = 3
 
-b_koporje = castle
+b_koporje = tribal
 #b_kingisepp = castle
 #b_ivanovskaya = castle
 #b_khotchino = city
@@ -17,5 +17,6 @@ religion = finnish_pagan
 
 # History
 1150.1.1 = { religion = orthodox }
+1299.1.1 = { b_koporje = castle }
 
 

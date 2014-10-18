@@ -5,9 +5,8 @@ title = c_gowrie
 
 # Settlements
 max_settlements = 6
-b_scone = castle
+b_scone = tribal
 b_dunkeld = temple
-b_perth = city
 b_forteviot = castle
 #b_dundee = city
 #b_clunie = castle
@@ -20,6 +19,8 @@ religion = catholic
 # History
 
 1066.1.1 = { 
+	b_scone = castle
+	b_perth = city
 	b_scone = ca_keep_1
 	b_scone = ca_training_grounds_1
 	b_scone = ca_stable_1

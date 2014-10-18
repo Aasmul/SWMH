@@ -5,7 +5,7 @@ title = c_tjust
 # Settlements
 max_settlements = 2
 
-b_kronoberg = castle
+b_kronoberg = tribal
 b_vaxjo = temple
 #b_aringsas = city
 #b_alvesta = temple
@@ -17,6 +17,13 @@ religion = norse_pagan
 
 # History
 1047.10.25 = { culture = gothic } 
+800.1.1 = {
+	b_kronoberg = tb_shipyard_1
+}
+1000.1.1 = {
+	b_kronoberg = castle
+	b_kronoberg = ca_shipyard_1
+}
 1130.1.1 = {
 	religion = catholic
 }

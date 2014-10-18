@@ -5,7 +5,7 @@ title = c_blekinge
 
 # Settlements
 max_settlements = 2
-b_solvesborg = castle
+b_solvesborg = tribal
 #b_lyckeby = city
 #b_elleholm = temple
 #b_avaskar = city
@@ -20,7 +20,10 @@ religion = norse_pagan
 terrain = forest
 
 # History
-1018.1.1 = { religion = catholic } 
+1018.1.1 = {
+	religion = catholic
+	b_solvesborg = castle
+} 
 1047.10.25 = { culture = danish } 
 
 #1150.1.1 = { b_elleholm = temple }

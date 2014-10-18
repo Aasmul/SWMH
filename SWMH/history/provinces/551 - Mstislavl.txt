@@ -6,8 +6,8 @@ title = c_mstislavl
 # Settlements
 max_settlements = 5
 
-b_mstitslavl = castle
-b_slauharad = temple
+b_mstitslavl = tribal
+#b_slauharad = temple
 #b_mogliev = city
 #b_krychaw = castle
 
@@ -20,6 +20,10 @@ culture = russian
 religion = slavic_pagan
 
 # History
-988.1.1 = {religion = orthodox }
+987.1.1 = {
+	religion = orthodox
+	b_mstitslavl = castle
+	b_slauharad = temple
+}
 1150.1.1 = { b_krychaw = castle }
 1250.1.1 = { b_mogliev = city }

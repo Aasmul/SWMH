@@ -6,9 +6,9 @@ title = c_bartia
 # Settlements
 max_settlements = 5
 
-b_reszel = castle
+b_reszel = tribal
 b_heilsberg = temple
-b_gierdawy = castle
+#b_gierdawy = castle
 
 #b_rastembork = city
 #b_bartenstein = castle
@@ -26,3 +26,7 @@ religion = baltic_pagan
 1240.1.1 = { b_bartenstein = castle }
 1273.1.1 = { religion = catholic } #death of Diwanus
 1273.1.1 = { culture = german }
+1336.1.1 = {
+	b_reszel = castle
+	b_gierdawy = castle
+}

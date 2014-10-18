@@ -5,7 +5,7 @@ title = c_atholl
 
 # Settlements
 max_settlements = 4
-b_blair_atholl = castle
+b_blair_atholl = tribal
 b_fortingall = temple
 #b_pitlochry = city
 #b_grandtully = castle
@@ -15,3 +15,6 @@ culture = scottish
 religion = catholic
 
 # History
+1000.1.1 = {
+	b_blair_atholl = castle
+}

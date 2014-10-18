@@ -6,8 +6,8 @@ title = c_ustyuzhna
 # Settlements
 max_settlements = 3
 
-b_bezhetsk = castle
-b_ustyuzhna = city
+b_bezhetsk = tribal
+#b_ustyuzhna = city
 #b_gorodecnovgorod = castle
 #b_babayevo = city
 #b_moshenskoye = city
@@ -20,4 +20,8 @@ religion = finnish_pagan
 988.1.1 = {
 	culture = russian
 	religion = orthodox
+}
+1066.1.1 = {
+	b_bezhetsk = castle
+	b_ustyuzhna = city
 }

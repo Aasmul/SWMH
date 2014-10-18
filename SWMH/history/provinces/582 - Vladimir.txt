@@ -6,10 +6,10 @@ title = c_vladimir
 # Settlements
 max_settlements = 6
 
-b_bogolyubovo = castle
-b_vladimir = city
+b_bogolyubovo = tribal
+#b_vladimir = city
 #b_yurevpolskiy = city
-b_sergiyevposad = temple
+#b_sergiyevposad = temple
 #b_radonezh = castle
 #b_aleksandrov = city
 #b_strunino = city
@@ -26,6 +26,11 @@ religion = finnish_pagan
 	religion = orthodox
 }
 1152.1.1 = { b_yurevpolskiy = city } 
+1152.1.1 = {
+	b_bogolyubovo = castle
+	b_vladimir = city
+	b_sergiyevposad = temple
+} 
 1187.1.1 = { b_radonezh = castle } 
 1238.1.1 = { remove_settlement = b_yurevpolskiy } #Mongol invasion
 1238.1.1 = { remove_settlement = b_radonezh }

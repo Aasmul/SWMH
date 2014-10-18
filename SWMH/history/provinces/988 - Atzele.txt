@@ -6,8 +6,8 @@ title = c_atzele
 # Settlements
 max_settlements = 3
 
-b_gaujiena = castle
-b_aluksne = city
+b_gaujiena = tribal
+#b_aluksne = city
 #b_vilaka = castle
 #b_gulbene = castle
 
@@ -20,3 +20,7 @@ religion = baltic_pagan
 # History
 
 1290.1.1 = { religion = catholic }
+1290.1.1 = {
+	b_gaujiena = castle
+	b_aluksne = city
+}

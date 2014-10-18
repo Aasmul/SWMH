@@ -5,8 +5,8 @@ title = c_takrur
 
 # Settlements
 max_settlements = 4
-b_takrur = castle
-b_guede = city
+b_takrur = tribal
+#b_guede = city
 
 #b_dagana = temple
 #b_thilogne = castle

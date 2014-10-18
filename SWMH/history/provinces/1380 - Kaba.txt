@@ -5,7 +5,7 @@ title = c_kaba
 
 # Settlements
 max_settlements = 3
-b_kaba = castle
+b_kaba = tribal
 
 #b_cantor = city
 #b_bati_kaba = temple

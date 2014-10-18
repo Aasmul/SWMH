@@ -5,9 +5,7 @@ title = c_czersk
 
 # Settlements
 max_settlements = 4
-b_czersk = castle
-b_sieciechow = castle
-b_grojec = temple
+b_czersk = tribal
 #b_liw = castle
 #b_garwolin = castle
 #b_warszawa = city
@@ -18,5 +16,10 @@ culture = polish
 religion = slavic_pagan
 
 # History
-999.7.1 = { religion = catholic }
+987.1.1 = {
+	religion = catholic
+	b_czersk = castle
+	b_sieciechow = castle
+	b_grojec = temple
+}
 1337.1.1 = { b_warszawa = city }

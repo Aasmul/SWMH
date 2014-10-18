@@ -6,8 +6,8 @@ title = c_gomel
 # Settlements
 max_settlements = 4
 
-b_gorvol = castle
-b_gomel = city
+b_gorvol = tribal
+#b_gomel = city
 #b_recyca = temple
 
 #b_novyydrokov = castle
@@ -19,3 +19,7 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = { 
+	b_gorvol = castle
+	b_gomel = city
+}

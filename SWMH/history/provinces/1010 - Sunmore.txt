@@ -6,8 +6,8 @@ title = c_sunmore
 # Settlements
 max_settlements = 3
 
-b_blindheim = castle # Blindheimr
-b_giske = castle # Gizki
+b_blindheim = tribal # Blindheimr
+#b_giske = castle # Gizki
 #b_borgund = city # Borgund
 #b_volda = city # Hallkjelsvík
 #b_aspa = castle # Aspaey
@@ -17,6 +17,10 @@ culture = norse
 religion = norse_pagan
 
 # History
+1000.1.1 = { 
+	b_blindheim = castle # Blindheimr
+	b_giske = castle # Gizki
+}
 1000.1.1 = { capital = b_giske }
 1024.1.1 = { religion = catholic }
 1047.10.25 = { culture = norwegian } 

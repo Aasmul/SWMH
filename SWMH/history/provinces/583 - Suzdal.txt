@@ -6,10 +6,10 @@ title = c_suzdal
 # Settlements
 max_settlements = 5
 
-b_suzstarodub = castle
-b_suzdal = city
-b_kidksa = temple
-b_gorokhovets = castle
+b_suzstarodub = tribal
+#b_suzdal = city
+#b_kidksa = temple
+#b_gorokhovets = castle
 
 #b_kovrov = city
 #b_shuya = castle
@@ -27,4 +27,10 @@ religion = finnish_pagan
 	religion = orthodox
 }
 1187.1.1 = { b_shuya = castle }
+1187.1.1 = {
+	b_suzstarodub = castle
+	b_suzdal = city
+	b_kidksa = temple
+	b_gorokhovets = castle
+}
 
