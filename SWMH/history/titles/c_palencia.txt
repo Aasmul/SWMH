@@ -1,5 +1,5 @@
 860.1.1={
-liege="d_castilla"
+liege="k_castille"
 holder=73763
 }
 873.10.3={
@@ -34,12 +34,12 @@ holder=107510
 }
 ######
 1066.1.1={
-	liege="d_leon"
+	liege="k_leon"
 	holder=107640
 	law = true_cognatic_succession
 }
 1072.10.7={
-	liege = "d_castilla"
+	liege = "k_castille"
 }
 1093.12.8={
 	holder=107644

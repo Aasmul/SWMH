@@ -349,6 +349,41 @@ d_bektashi = {
 	mercenary_type = bektashi_composition
 }
 
+d_haruriyyah = {
+
+	color={ 150 200 80 }
+	color2={ 255 255 255 }
+	
+	graphical_culture = bektashigfx
+	
+	capital = 693 # Bagdad
+	
+	title = "DEDEBABA"
+	foa = "GRANDHEADMASTER_FOA"
+	
+	holy_order = yes
+
+	# Always exists
+	landless = yes
+	
+	culture = bedouin_arabic
+	
+	# Parent Religion 
+	religion = ibadi
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 6 # (Must be an integer between 1 and 512)
+
+	mercenary_type = haruriyyah_composition
+}
+
+
 d_jomsvikings = {
 
 	color={ 50 50 50 }
@@ -852,6 +887,35 @@ d_bulls_rishabha = {
 	mercenary_type = bulls_rishabha_composition
 }
 
+d_zun_warriors = {
+
+	color = { 230 255 0 }
+	
+	capital = 1185 # Kabul
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	culture = afghan
+	
+	# Parent Religion 
+	religion = zun_pagan_reformed
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Extra income due to donations, etc
+	monthly_income = 2 # (Must be an integer between 1 and 512)
+
+	mercenary_type = zun_warriors_composition
+}
+
+
 # MERCS
 
 d_sunni_turkic_company = {
@@ -859,6 +923,8 @@ d_sunni_turkic_company = {
 	color2 = { 255 255 255 }
 
 	capital = 621 # Kangly
+	
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = sunni
@@ -889,13 +955,7 @@ d_sunni_cuman_company = {
 
 	capital = 616 # Yaik
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = sunni
@@ -926,13 +986,7 @@ d_sunni_berber_company = {
 
 	capital = 833 # Atlas
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = sunni
@@ -963,13 +1017,7 @@ d_sunni_bedouin_company = {
 
 	capital = 862 # Halaban
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = sunni
@@ -1001,6 +1049,8 @@ d_shiite_turkic_company = {
 
 	capital = 621 # Kangly
 	
+	allow = { always = yes }
+	
 	# Parent Religion 
 	religion = shiite
 	culture = turkish
@@ -1030,13 +1080,7 @@ d_shiite_cuman_company = {
 
 	capital = 616 # Yaik
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = shiite
@@ -1067,13 +1111,7 @@ d_shiite_berber_company = {
 
 	capital = 833 # Atlas
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = shiite
@@ -1104,13 +1142,7 @@ d_shiite_bedouin_company = {
 
 	capital = 862 # Halaban
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = muslim
-			religion_group = zoroastrian_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = shiite
@@ -1141,10 +1173,7 @@ d_white_company = {
 
 	capital = 72 # Essex
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1175,10 +1204,7 @@ d_great_company = {
 
 	capital = 361 # Niederbayern
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1208,10 +1234,7 @@ d_company_of_st_george = {
 
 	capital = 235 # Lombardia
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1241,10 +1264,7 @@ d_star_company = {
 
 	capital = 353 # Ferrara
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1274,10 +1294,7 @@ d_little_hat_company = {
 
 	capital = 354 # mantua
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1307,10 +1324,7 @@ d_rose_company = {
 
 	capital = 355 # Padua
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1342,10 +1356,7 @@ d_catalan_company = {
 	
 	mercenary = yes
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1379,10 +1390,7 @@ d_navarrese_company = {
 	
 	mercenary = yes
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1408,10 +1416,7 @@ d_swiss_company = {
 
 	capital = 239 # Geneve
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1441,10 +1446,7 @@ d_breton_company = {
 
 	capital = 102 # Penthievre
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1544,6 +1546,8 @@ d_cuman_company = {
 
 	capital = 616 # Yaik
 	
+	allow = { always = yes }
+	
 	# Parent Religion 
 	religion = orthodox
 	culture = cuman
@@ -1573,13 +1577,7 @@ d_rus_company = {
 
 	capital = 547 # Kiev
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = pagan_group
-			religion_group = christian
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = orthodox
@@ -1611,6 +1609,8 @@ d_pecheneg_company = {
 
 	capital = 542 # Olvia
 	
+	allow = { always = yes }
+	
 	# Parent Religion 
 	religion = orthodox
 	
@@ -1640,6 +1640,8 @@ d_bulgarian_company = {
 	color2 = { 255 255 255 }
 
 	capital = 508 # Dorostotum
+	
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = orthodox
@@ -1671,6 +1673,8 @@ d_turkic_company = {
 
 	capital = 621 # Kangly
 	
+	allow = { always = yes }
+	
 	# Parent Religion 
 	religion = orthodox
 	
@@ -1701,10 +1705,7 @@ d_lombard_band = {
 
 	capital = 235 # Lombardia
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1734,10 +1735,7 @@ d_swiss_band = {
 
 	capital = 239 # Geneve
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1767,10 +1765,7 @@ d_breton_band = {
 
 	capital = 102 # Penthievre
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1804,10 +1799,7 @@ d_catalan_band = {
 	
 	mercenary = yes
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1839,10 +1831,7 @@ d_saxon_band = {
 	
 	mercenary = yes
 	
-	# Hire Trigger
-	allow = {
-		religion_group = christian
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -1871,6 +1860,8 @@ d_cuman_band = {
 	color2 = { 255 255 255 }
 
 	capital = 616 # Yaik
+	
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = orthodox
@@ -1902,13 +1893,7 @@ d_rus_band = {
 
 	capital = 547 # Kiev
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = pagan_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = orthodox
@@ -1940,13 +1925,7 @@ d_finnish_band = {
 
 	capital = 383 # Häme
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = pagan_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = finnish_pagan
@@ -1978,13 +1957,7 @@ d_lappish_band = {
 
 	capital = 386 # Kemi
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = pagan_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = finnish_pagan
@@ -2016,13 +1989,7 @@ d_lithuanian_band = {
 
 	capital = 421 # Lietuva / Zhmud
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = pagan_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = baltic_pagan
@@ -2054,13 +2021,7 @@ d_abyssinian_band = {
 
 	capital = 875 # Axum
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = jewish_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = miaphysite
@@ -2092,13 +2053,7 @@ d_nubian_band = {
 
 	capital = 878 # Hayya
 	
-	# Hire Trigger
-	allow = {
-		OR = {
-			religion_group = christian
-			religion_group = jewish_group
-		}
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = miaphysite
@@ -2130,10 +2085,7 @@ d_scottish_band = {
 
 	capital = 43 # Gowrie
 	
-	# Hire Trigger
-	allow = {
-		always = yes
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = catholic
@@ -2235,6 +2187,8 @@ d_pecheneg_band = {
 
 	capital = 542 # Olvia
 	
+	allow = { always = yes }
+	
 	# Parent Religion 
 	religion = orthodox
 	
@@ -2265,6 +2219,8 @@ d_bulgarian_band = {
 
 	capital = 508 # Dorostotum
 	
+	allow = { always = yes }
+	
 	# Parent Religion 
 	religion = orthodox
 	
@@ -2294,6 +2250,8 @@ d_turkic_band = {
 	color2 = { 255 255 255 }
 
 	capital = 621 # Kangly
+	
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = orthodox
@@ -2531,10 +2489,7 @@ d_ghilman = {
 
 	capital = 627 # Kara-Kum
 	
-	# Hire Trigger
-	allow = {
-		religion_group = muslim
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = sunni
@@ -2552,7 +2507,7 @@ d_ghilman = {
 	
 	strength_growth_per_century = 1.0
 	
-	mercenary_type = naval_merc_composition
+	mercenary_type = ghilman_composition
 }
 
 d_ghanan_band = {
@@ -2561,10 +2516,7 @@ d_ghanan_band = {
 
 	capital = 913 # Ghana
 	
-	# Hire Trigger
-	allow = {
-		culture_group = west_african
-	}
+	allow = { always = yes }
 	
 	# Parent Religion 
 	religion = west_african_pagan
@@ -12865,6 +12817,7 @@ k_jerusalem = {
 				holy_site = jewish
 				holy_site = samaritan
 				holy_site = karaite
+				holy_site = ibadi
 			}
 			b_rammala = {}
 			b_blanchegarde = {}
@@ -40605,7 +40558,9 @@ e_africa = {
 				
 				b_algiers = {}
 				b_mattija = {}
-				b_miliyana = {}
+				b_miliyana = {
+					holy_site = ibadi
+				}
 				b_sharashal = {}
 				b_elachour = {}
 				b_aintorki= {}
@@ -41310,8 +41265,11 @@ e_arabia = {
 				
 				muslim = 500 # Crusade target weight
 				
-				b_medina = {holy_site = sunni
-					holy_site = shiite}
+				b_medina = {
+					holy_site = sunni
+					holy_site = shiite
+					holy_site = ibadi
+				}
 				b_khaybar = {}
 				b_rabig = {}
 				b_yanbu = {}
@@ -41330,7 +41288,9 @@ e_arabia = {
 					holy_site = sunni
 					holy_site = shiite
 					holy_site = pagan
-					holy_site = yazidi}
+					holy_site = yazidi
+					holy_site = ibadi
+				}
 				b_jeddah = {}
 				b_taif = {}
 				b_al_johfa = {}
@@ -41464,7 +41424,9 @@ e_arabia = {
 				color2={ 255 255 255 }
 				
 				b_alhamra = {}
-				b_nizwa = {}
+				b_nizwa = {
+					holy_site = ibadi
+				}
 				b_ibri = {}
 				b_jabrin = {}
 				b_rustaq = {}
@@ -41704,11 +41666,6 @@ e_arabia = {
 				b_abbasiya= {}
 				b_banha = {}
 				b_samannud = {}
-			}
-			c_butanya = {
-				color={ 6 255 77 }
-				color2={ 255 255 255 }
-				
 			}
 		}
 		d_cairo = {
@@ -55441,3 +55398,18 @@ e_india = {                      # Titular, created by special decision only if 
 			dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 		}
 
+# Needs to exist
+e_germany = {
+	color={ 155 155 155 }
+	color2={ 220 220 20 }
+	
+	capital = 90 # Jülich / Aachen
+	
+	religion=catholic
+	culture = german
+	name_tier = king
+	short_name = yes
+	allow = {
+		FROM = { is_titular = no }
+	}
+}
