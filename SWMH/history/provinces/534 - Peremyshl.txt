@@ -5,10 +5,7 @@ title = c_peremyshl
 
 # Settlements
 max_settlements = 5
-b_peremyshl = castle
-b_sanok = city
-b_jaroslav = temple
-b_sudovavyshnia = city
+b_peremyshl = tribal
 
 #b_sambir = castle
 #b_drohobych = castle
@@ -22,5 +19,11 @@ religion = slavic_pagan
 # History
 989.1.1 = {culture = russian}
 989.1.1 = {religion = orthodox}
+989.1.1 = {
+	b_peremyshl = castle
+	b_sanok = city
+	b_jaroslav = temple
+	b_sudovavyshnia = city
+}
 1187.1.1 = { b_rzeszow = city }
 

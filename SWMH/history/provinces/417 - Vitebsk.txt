@@ -6,9 +6,7 @@ title = c_vitebsk
 # Settlements
 max_settlements = 4
 
-b_vitebsk = castle
-b_velizh = castle
-b_rudnya = temple
+b_vitebsk = tribal
 #b_haradok = city
 
 # Misc
@@ -17,3 +15,9 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+
+1200.1.1 = {
+	b_vitebsk = castle
+	b_velizh = city
+	b_rudnya = temple
+}

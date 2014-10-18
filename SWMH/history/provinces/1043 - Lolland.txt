@@ -6,8 +6,8 @@ title = c_lolland
 # Settlements
 max_settlements = 4
 
-b_aalholm = castle
-b_nykobing = city
+b_aalholm = tribal
+#b_nykobing = city
 #b_ravnsborg = castle
 #b_aarsmarke = castle
 #b_boennedslot = castle
@@ -22,5 +22,9 @@ religion = norse_pagan
 
 # History
 1018.1.1 = { religion = catholic } 
+1018.1.1 = {
+	b_aalholm = castle
+	b_nykobing = city
+}
 1047.10.25 = { culture = danish } 
 1104.1.1 = { b_ravnsborg = castle }

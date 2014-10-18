@@ -6,7 +6,7 @@ title = c_iskorosten
 # Settlements
 max_settlements = 3
 
-b_iskorosten = castle
+b_iskorosten = tribal
 b_ovruch = temple
 #b_chernobel = castle
 #b_mezhyrica = city
@@ -17,3 +17,6 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = {
+	b_iskorosten = castle
+}

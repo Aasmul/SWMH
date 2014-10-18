@@ -6,8 +6,8 @@ title = c_bandava
 # Settlements
 max_settlements = 4
 
-b_embute = castle
-b_kuldiga = city
+b_embute = tribal
+#b_kuldiga = city
 b_piltene = temple
 
 #b_kazdanga = castle
@@ -25,5 +25,6 @@ religion = baltic_pagan
 1251.3.3 = {
 	capital = b_piltene
 	b_piltene= temple
+	b_kuldiga = city
 } #bishoperic of Kurland
 1290.1.1 = { religion = catholic }

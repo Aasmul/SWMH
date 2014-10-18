@@ -5,7 +5,7 @@ title = c_finnmark
 
 # Settlements
 max_settlements = 1
-b_tromsoe = castle # Troms
+b_tromsoe = tribal # Troms
 
 culture = lappish
 religion = finnish_pagan

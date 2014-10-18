@@ -6,8 +6,8 @@ title = c_hayya
 # Settlements
 max_settlements = 2
 
-b_badi = castle
-b_ini = city
+b_badi = tribal
+#b_ini = city
 
 # Misc
 culture = beja

@@ -5,7 +5,7 @@ title = c_caithness
 
 # Settlements
 max_settlements = 4
-b_dornoch = castle
+b_dornoch = tribal
 b_durness = temple
 #b_dunrobin = castle
 #b_golspie = city
@@ -17,3 +17,6 @@ religion = catholic
 
 # History
 
+1030.1.1 = {
+	b_dornoch = castle
+}

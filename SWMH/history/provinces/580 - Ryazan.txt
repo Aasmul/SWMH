@@ -5,8 +5,8 @@ title = c_ryazan
 
 # Settlements
 max_settlements = 5
-b_ryazan = castle
-b_perejaslavl_rjazanskij = city
+b_ryazan = tribal
+#b_perejaslavl_rjazanskij = city
 b_grodets = temple
 
 #b_shilovo = castle
@@ -24,4 +24,8 @@ religion = finnish_pagan
 1110.1.1 = { religion = orthodox }
 1120.1.1 = { culture = russian }
 1187.1.1 = { b_shilovo = castle }
+1187.1.1 = {
+	b_ryazan = castle
+	b_perejaslavl_rjazanskij = city
+}
 1237.1.1 = { remove_settlement = b_shilovo } #Mongol invasion

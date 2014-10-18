@@ -5,8 +5,8 @@ title = c_legnica
 # Settlements
 max_settlements = 4
 
-b_legnica = castle
-b_swidnica = city
+b_legnica = tribal
+#b_swidnica = city
 #b_lewowek = castle
 #b_boleslawiec = temple
 
@@ -16,3 +16,7 @@ religion = slavic_pagan
 
 # History
 990.1.1 = { religion = catholic }
+1066.1.1 = {
+	b_legnica = castle
+	b_swidnica = city
+}

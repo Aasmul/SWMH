@@ -6,7 +6,7 @@ title = c_tyrconnell
 # Settlements
 max_settlements = 3
 
-b_donegal = castle
+b_donegal = tribal
 b_raphoe = temple
 
 #b_moville = temple
@@ -20,6 +20,8 @@ b_raphoe = temple
 culture = irish
 religion = catholic
 terrain = hills
-
 # History
-
+1000.1.1 = {
+	b_donegal = castle
+	b_gartan = city
+}

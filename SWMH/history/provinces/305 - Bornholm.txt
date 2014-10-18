@@ -6,8 +6,7 @@ title = c_bornholm
 # Settlements
 max_settlements = 3
 
-b_hammershus = castle
-b_ronne = city
+b_hammershus = tribal
 #b_knudsker = temple
 
 #b_aakirkeby = castle
@@ -21,16 +20,17 @@ culture = norse
 religion = norse_pagan
 
 # History
-867.1.1 = { 
+1000.1.1 = {
+	b_hammershus = castle
+	b_ronne = city
 	b_hammershus = ca_keep_1
 	b_hammershus = ca_stable_1
 	b_hammershus = ca_militia_barracks_1
 	b_hammershus = ca_wall_1
         b_hammershus = ca_shipyard_1
 	b_ronne = ct_port_1
-	b_ronne = ct_barracks_1 
+	b_ronne = ct_barracks_1
 } 
 1018.1.1 = { religion = catholic } 
 1047.10.25 = { culture = danish } 
-1187.1.1 = { b_ronne = city }
 1270.1.1 = { trade_post = b_bardewik }

@@ -5,8 +5,8 @@ title = c_timbuktu
 
 # Settlements
 max_settlements = 6
-b_tirakka = city
-b_safanqu = castle
+b_tirakka = tribal
+#b_safanqu = castle
 b_sankore = temple
 
 #b_kouga = castle
@@ -29,7 +29,9 @@ religion = west_african_pagan
 1070.1.1 = { culture = zanata }
 
 1267.5.1 = {
+	b_tirakka = castle
 	b_timbuktu = castle
+	b_safanqu = castle
 	capital = b_timbuktu
 }
 

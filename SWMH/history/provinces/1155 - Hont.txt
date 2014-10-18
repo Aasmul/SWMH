@@ -6,8 +6,8 @@ title = c_hont
 # Settlements
 max_settlements = 4
 
-b_hontvar = castle
-b_nogradhungary = city
+b_hontvar = tribal
+#b_nogradhungary = city
 
 #b_paszto = temple
 #b_balassagyarmat = city
@@ -23,6 +23,10 @@ religion = tengri_pagan
 
 # History
 890.1.1 = { religion = catholic }
+890.1.1 = {
+	b_hontvar = castle
+	b_nogradhungary = city
+}
 950.1.1 = { culture = hungarian }
 
 

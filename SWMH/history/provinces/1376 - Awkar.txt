@@ -5,7 +5,7 @@ title = c_awkar
 
 # Settlements
 max_settlements = 1
-b_awkar = castle
+b_awkar = tribal
 
 # Misc
 culture = soninke

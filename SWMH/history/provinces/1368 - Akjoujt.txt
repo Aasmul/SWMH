@@ -5,7 +5,7 @@ title = c_akjoujt
 
 # Settlements
 max_settlements = 1
-b_akjoujt = castle
+b_akjoujt = tribal
 
 # Misc
 culture = wolof

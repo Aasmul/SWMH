@@ -6,12 +6,11 @@ title = c_oppland
 # Settlements
 max_settlements = 2
 
-b_hole = castle # Hólar/Steinn
+b_hole = tribal # Hólar/Steinn
 #b_njardarhov = temple #Njarðarhof
 #b_nore = city # Nórar
 #b_eina = temple # Eyin
 #b_tingelstad = castle # Þengilstaðir
-b_tanberg = castle # Þornberg
 
 
 # Misc
@@ -19,6 +18,10 @@ culture = norse
 religion = norse_pagan
 
 # History
-1025.1.1 = { religion = catholic } 
+1025.1.1 = {
+	religion = catholic 
+	b_hole = castle
+	b_tanberg = castle
+} 
 1047.10.25 = { culture = norwegian } 
 

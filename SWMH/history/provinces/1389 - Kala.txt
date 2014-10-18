@@ -5,8 +5,8 @@ title = c_kala
 
 # Settlements
 max_settlements = 3
-b_segou = castle
-b_sama = city
+b_segou = tribal
+#b_sama = city
 
 #b_fadaku = temple
 

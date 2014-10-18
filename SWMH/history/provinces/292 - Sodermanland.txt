@@ -6,9 +6,7 @@ title = c_sodermanland
 # Settlements
 max_settlements = 5
 
-b_gripsholm = castle
-b_nykoping = city
-b_strangnas = temple
+b_gripsholm = tribal
 #b_torshalla = city
 
 #b_vaderbrunn = castle
@@ -21,6 +19,18 @@ culture = norse
 religion = norse_pagan
 
 # History
+800.1.1 = {
+	b_gripsholm = tb_shipyard_1
+}
+1000.1.1 = {
+	b_gripsholm = castle
+	b_nykoping = city
+	b_strangnas = temple
+
+	b_gripsholm = ca_shipyard_1
+	b_nykoping = ct_shipyard_1
+	b_strangnas = tp_shipyard_1
+}
 1047.10.25 = { culture = swedish } 
 1060.8.2 = {religion = catholic}
 

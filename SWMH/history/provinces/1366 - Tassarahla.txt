@@ -5,7 +5,7 @@ title = c_tassarahla
 
 # Settlements
 max_settlements = 1
-b_tassarahla = city
+b_tassarahla = tribal
 
 # Misc
 culture = tagelmust

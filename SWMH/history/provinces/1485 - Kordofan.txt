@@ -5,7 +5,7 @@ title = c_kordofan
 
 # Settlements
 max_settlements = 1
-b_elobeid = castle
+b_elobeid = tribal
 
 # Misc
 culture = daju

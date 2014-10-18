@@ -6,7 +6,7 @@ title = c_austisland
 # Settlements
 max_settlements = 1
 
-b_seydifsjord = castle
+b_seydifsjord = tribal
 #b_glaumbaer = castle
 
 
@@ -18,7 +18,11 @@ religion = norse_pagan
 
 # History
 867.1.1 = {
-	b_seydifsjord = ca_shipyard_1
+	b_seydifsjord = tb_shipyard_1
 }
-1015.1.1 = { religion = catholic } 
+1015.1.1 = { 
+	religion = catholic 
+	b_sedifsjord = castle
+	b_sedifsjord = ca_shipyard_1
+} 
 1047.10.25 = { culture = norwegian } 

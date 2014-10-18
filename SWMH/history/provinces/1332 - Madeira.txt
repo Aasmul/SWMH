@@ -5,7 +5,7 @@ title = c_madeira
 
 # Settlements
 max_settlements = 2
-b_machico = castle
+b_machico = tribal
 #b_camara = castle
 
 # Misc

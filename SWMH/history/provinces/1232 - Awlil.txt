@@ -6,7 +6,7 @@ title = c_awlil
 # Settlements
 max_settlements = 1
 
-b_awlil = city
+b_awlil = tribal
 
 # Misc
 culture = wolof

@@ -5,8 +5,8 @@ title = c_djolof
 
 # Settlements
 max_settlements = 3
-b_djolof = castle
-b_wuli = temple
+b_djolof = tribal
+#b_wuli = temple
 
 #b_sutuco = city
 

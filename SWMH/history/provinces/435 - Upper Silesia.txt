@@ -5,9 +5,9 @@ title = c_lower_silesia
 # Settlements
 max_settlements = 4
 
-b_glogow = castle
-b_krosno = castle
-b_lubiaz = temple
+b_glogow = tribal
+#b_krosno = castle
+#b_lubiaz = temple
 #b_zagan = castle
 #b_scinawa = city
 
@@ -16,6 +16,11 @@ culture = polish
 religion = slavic_pagan
 
 # History
-990.1.1 = { religion = catholic }
+990.1.1 = {
+	religion = catholic
+	b_glogow = castle
+	b_krosno = castle
+	b_lubiaz = temple
+}
 1250.1.1 = { culture = german }
 

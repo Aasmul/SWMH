@@ -7,8 +7,7 @@ title = c_sudovia
 max_settlements = 4
 
 
-b_elk = castle
-b_rajgrod = castle
+b_elk = tribal
 
 #b_sejny = temple
 #b_berzniki = city
@@ -23,3 +22,7 @@ religion = baltic_pagan
 
 # History
 
+1187.1.1 = {
+	b_elk = castle
+	b_rajgrod = castle
+}

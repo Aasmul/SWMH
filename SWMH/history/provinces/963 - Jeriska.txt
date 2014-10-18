@@ -6,9 +6,9 @@ title = c_jeriska
 # Settlements
 max_settlements = 5
 
-b_jersika = castle
+b_jersika = tribal
 b_koknese = temple
-b_marciena = castle
+#b_marciena = castle
 
 #b_krustpils = castle
 #b_berzaune = castle

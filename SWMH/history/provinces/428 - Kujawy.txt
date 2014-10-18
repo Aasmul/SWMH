@@ -5,9 +5,7 @@ title = c_kujawy
 
 # Settlements
 max_settlements = 5
-b_inowroclaw = castle
-b_brzesckujawski = city
-b_kruszwica = temple
+b_inowroclaw = tribal
 
 #b_bydgoszcz = city
 #b_gniewkow = castle
@@ -20,4 +18,9 @@ culture = polish
 religion = slavic_pagan
 
 # History
-999.7.1 = { religion = catholic }
+999.7.1 = {
+	religion = catholic
+	b_inowroclaw = castle
+	b_brzesckujawski = city
+	b_kruszwica = temple
+}

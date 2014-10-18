@@ -6,8 +6,8 @@ title = c_sydsjaelland
 # Settlements
 max_settlements = 4
 
-b_vordingborg = castle
-b_naestved = city
+b_vordingborg = tribal
+#b_naestved = city
 b_skovkloster = temple
 #b_valloslot = castle
 #b_praestoe = city
@@ -25,6 +25,8 @@ terrain = farmlands
 1018.1.1 = { religion = catholic } 
 1047.10.25 = { culture = danish } 
 1066.1.1 = { 
+	b_vordingborg = castle
+	b_naestved = city
 	b_vordingborg = ca_keep_1
 	b_vordingborg = ca_stable_1
 	b_vordingborg = ca_militia_barracks_1

@@ -5,9 +5,7 @@ title = c_poznanskie
 
 # Settlements
 max_settlements = 6
-b_poznan = castle
-b_sroda = city
-b_lubin = temple
+b_poznan = tribal
 #b_czarkow = city
 #b_obrzycko = temple
 
@@ -20,5 +18,10 @@ culture = polish
 religion = slavic_pagan
 
 # History
-962.1.1 = { religion = catholic }
+962.1.1 = {
+	religion = catholic
+	b_poznan = castle
+	b_sroda = city
+	b_lubin = temple
+}
 1187.1.1 = { b_miedryrzecz = castle }

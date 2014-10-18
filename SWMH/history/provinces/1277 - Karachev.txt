@@ -7,7 +7,7 @@ title = c_karachev
 max_settlements = 3
 
 b_karachev = castle
-b_kromy = castle
+#b_kromy = castle
 #b_orel = castle
 
 
@@ -17,3 +17,7 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = {
+	b_karachev = castle
+	b_kromy = castle
+}

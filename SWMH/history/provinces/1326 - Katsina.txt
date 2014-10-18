@@ -5,8 +5,8 @@ title = c_katsina
 
 # Settlements
 max_settlements = 2
-b_katsina = city
-b_maradi = castle
+b_katsina = tribal
+#b_maradi = castle
 
 # Misc
 culture = hausa

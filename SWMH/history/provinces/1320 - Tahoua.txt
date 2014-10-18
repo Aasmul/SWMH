@@ -5,7 +5,7 @@ title = c_tahoua
 
 # Settlements
 max_settlements = 1
-b_tahoua = city
+b_tahoua = tribal
 
 # Misc
 culture = hausa

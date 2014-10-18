@@ -5,8 +5,8 @@ title = c_say
 
 # Settlements
 max_settlements = 3
-b_niamey = castle
-b_say = city 
+b_niamey = tribal
+#b_say = city 
 
 #b_bura = temple
 

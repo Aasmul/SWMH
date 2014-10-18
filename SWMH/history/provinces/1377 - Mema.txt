@@ -5,9 +5,9 @@ title = c_mema
 
 # Settlements
 max_settlements = 6
-b_mema = castle
-b_pehe = temple
-b_kolima = city
+b_mema = tribal
+#b_pehe = temple
+#b_kolima = city
 
 #b_toladie = castle
 #b_akumbu = castle

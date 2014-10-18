@@ -7,11 +7,11 @@ title = c_chernigov
 max_settlements = 5
 
 
-b_chernigov = castle
-b_eletskymonestary = temple
+b_chernigov = tribal
+#b_eletskymonestary = temple
 #b_nizhyn = city
-b_kozelets = castle
-b_borzna = castle
+#b_kozelets = castle
+#b_borzna = castle
 
 #b_morivsk = castle
 #b_menachernigov = city
@@ -23,5 +23,11 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1187.1.1 = {
+	b_chernigov = castle
+	b_eletskymonestary = temple
+	b_kozelets = castle
+	b_borzna = castle
+}
 1239.1.1 = { remove_settlement = b_borzna } #Mongol invasion
 1239.1.1 = { remove_settlement = b_kozelets }

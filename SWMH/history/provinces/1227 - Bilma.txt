@@ -6,8 +6,8 @@ title = c_bilma
 # Settlements
 max_settlements = 3
 
-b_bilma = castle
-b_dirku = city
+b_bilma = tribal
+#b_dirku = city
 
 #b_sakadame = temple
 

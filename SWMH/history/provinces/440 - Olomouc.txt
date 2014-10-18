@@ -5,9 +5,7 @@ title = c_olomouc
 
 # Settlements
 max_settlements = 6
-b_staremesto = castle
-b_olomouc = temple
-b_hradiste = city
+b_staremesto = tribal
 #b_ostrava = castle
 #b_prerov = castle
 #b_sumperk = castle
@@ -23,8 +21,10 @@ religion = catholic
 
 # History
 907.1.1 = {
-      remove_settlement = b_staremesto
-      }
+	remove_settlement = b_staremesto
+	b_olomouc = temple
+	b_hradiste = city
+}
 907.1.1 = { capital = b_olomouc }
 930.1.1 = { b_ostrava = castle }
 1003.1.1 = { b_hradiste = city }

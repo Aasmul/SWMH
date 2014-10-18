@@ -6,8 +6,7 @@ title = c_narva
 # Settlements
 max_settlements = 5
 
-b_rakvere = castle
-b_narva = city
+b_rakvere = tribal
 #b_viru_nigulas = temple
 #b_kiltsi = castle
 #b_toolse = castle
@@ -23,6 +22,6 @@ culture = tsuudi
 religion = finnish_pagan
 
 # History
-#1220.1.1 = { b_wesenberg = castle } #Danish conquest
+1220.1.1 = { b_rakvere = castle } #Danish conquest
 1220.1.1 = { religion = catholic }
 1277.1.1 = { b_narva = city }

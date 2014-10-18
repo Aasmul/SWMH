@@ -6,8 +6,7 @@ title = c_yatvyagi
 # Settlements
 max_settlements = 4
 
-b_kymundsdorf = castle
-b_gardinas = city
+b_kymundsdorf = tribal
 #b_druskieniki = castle
 #b_mastai = city
 #b_skidlius = castle

@@ -5,9 +5,7 @@ title = c_alania
 
 # Settlements
  max_settlements = 5
- b_nuzal = castle
- b_zaur = castle
- b_magas = city
+ b_nuzal = tribal
  b_arkhyz = temple
  #b_alagir = castle
  #b_tskhinval = castle
@@ -19,7 +17,7 @@ culture = alan
 religion = orthodox
 
 # History
-1187.1.1 = { b_zaur = castle }
+#1187.1.1 = { b_zaur = castle }
 
 #Mongol invasion
-1238.1.1 = { remove_settlement = b_zaur }
+#1238.1.1 = { remove_settlement = b_zaur }

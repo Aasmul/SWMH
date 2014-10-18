@@ -5,9 +5,7 @@ title = c_orsha
 
 # Settlements
 max_settlements = 4
-b_krasnyy = castle
-b_kopys = castle
-b_orsha = city
+b_krasnyy = tribal
 
 
 #b_horki = city
@@ -18,3 +16,9 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+
+1200.1.1 = {
+	b_krasnyy = castle
+	b_kopys = castle
+	b_orsha = city
+}

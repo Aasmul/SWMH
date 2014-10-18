@@ -6,10 +6,10 @@ title = c_bekes
 # Settlements
 max_settlements = 4
 
-b_bekesvar = castle
+b_bekesvar = tribal
 #b_gyulamonostor = castle
-b_szeghalom = city
-b_ladanyvar = temple
+#b_szeghalom = city
+#b_ladanyvar = temple
 #b_gyulavar = castle
 #b_csaba = castle
 #b_veszto = city
@@ -20,6 +20,11 @@ religion = tengri_pagan
 
 # History
 890.1.1 = { religion = catholic }
+890.1.1 = { 
+	b_bekesvar = castle
+	b_szeghalom = city
+	b_ladanyvar = temple
+}
 950.1.1 = { culture = hungarian }
 
 

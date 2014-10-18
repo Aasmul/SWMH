@@ -5,7 +5,7 @@ title = c_cayor
 
 # Settlements
 max_settlements = 1
-b_cayor = castle
+b_cayor = tribal
 
 # Misc
 culture = wolof

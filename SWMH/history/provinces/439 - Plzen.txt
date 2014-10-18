@@ -5,9 +5,7 @@ title = c_plzen
 
 # Settlements
 max_settlements = 5
-b_plzen = castle
-b_stribo = city
-b_kladruby = temple
+b_plzen = tribal
 #b_tachov = castle
 #b_primda = castle
 #b_velhartice = castle
@@ -23,4 +21,9 @@ religion = slavic_pagan
 # History
 
 883.1.1 = { religion = catholic }
+1000.1.1 = {
+	b_plzen = castle
+	b_stribo = city
+	b_kladruby = temple
+}
 1126.1.6 = { b_primda = castle }

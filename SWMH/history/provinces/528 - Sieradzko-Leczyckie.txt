@@ -5,7 +5,7 @@ title = c_sieradzko-leczyckie
 
 # Settlements
 max_settlements = 4
-b_sieradz = castle
+b_sieradz = tribal
 b_sulejow = temple
 
 #b_warta = city
@@ -20,4 +20,5 @@ religion = slavic_pagan
 
 # History
 999.7.1 = { religion = catholic }
+1000.1.1 = { b_sieradz = castle }
 1187.1.1 = { b_warta = city }

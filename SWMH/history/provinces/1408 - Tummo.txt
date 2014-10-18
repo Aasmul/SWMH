@@ -6,7 +6,7 @@ title = c_tummo
 # Settlements
 max_settlements = 1
 
-b_tummo = city
+b_tummo = tribal
 
 # Misc
 culture = tuareg

@@ -6,9 +6,8 @@ title = c_dorpat
 # Settlements
 max_settlements = 5
 
-b_otepaa = castle
+b_otepaa = tribal
 b_tartu = temple
-b_noo = city
 #b_karknaabbey = temple
 #b_rongu = castle
 #b_vastseliina = castle
@@ -27,3 +26,4 @@ religion = finnish_pagan
 1224.1.1 = { capital = b_tartu }
 1224.1.1 = { b_karknaabbey = temple }
 1224.1.1 = { religion = catholic }
+1224.1.1 = { b_noo = city }

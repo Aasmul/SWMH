@@ -6,8 +6,7 @@ title = c_hedmark
 # Settlements
 max_settlements = 4
 
-b_ringsaker = castle #Hringisakr
-b_ringnes = castle # Hringanes
+b_ringsaker = tribal #Hringisakr
 #b_hamarhus = temple # Hamarr
 #b_lillehammer = city # Skógr/Lilþlæ Hama
 b_flikkeshaug = temple # Fylkishaugr
@@ -19,6 +18,10 @@ religion = norse_pagan
 
 # History
 
+1000.1.1 = {
+	b_ringsaker = castle
+	b_ringnes = castle
+}
 1025.1.1 = { religion = catholic } 
 1025.1.1 = { remove_settlement = b_flikkeshaug }
 1025.1.1 = { b_hamarhus = temple } 

@@ -6,8 +6,7 @@ title = c_jylland
 # Settlements
 max_settlements = 6
 
-b_skanderborg = castle
-b_randers = city
+b_skanderborg = tribal
 b_aarhus = temple
 
 #b_sostrup = castle
@@ -22,7 +21,11 @@ culture = norse
 religion = norse_pagan
 
 # History
-867.1.1 = { b_randers = ct_port_1 }
+1000.1.1 = {
+	b_skanderborg = castle
+	b_randers = city
+	b_randers = ct_port_1
+}
 1018.1.1 = { religion = catholic } 
 1047.10.25 = { culture = danish } 
 1274.1.1 = { trade_post = b_odenbel }

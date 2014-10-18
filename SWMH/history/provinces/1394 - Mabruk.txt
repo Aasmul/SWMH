@@ -5,7 +5,7 @@ title = c_mabruk
 
 # Settlements
 max_settlements = 1
-b_mabruk = city 
+b_mabruk = tribal 
 
 # Misc
 culture = songhai

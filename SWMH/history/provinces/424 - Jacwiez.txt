@@ -6,9 +6,7 @@ title = c_jacwiez
 # Settlements
 max_settlements = 4
 
-b_volkovysk = castle # capital and newprovince name
-b_navahrudka = city
-b_slonim = castle
+b_volkovysk = tribal # capital and newprovince name
 #b_lavrashevmonastery = temple
 
 # Misc
@@ -16,4 +14,9 @@ culture = lithuanian
 religion = baltic_pagan
 
 # History
+1200.1.1 = {
+	b_volkovysk = castle
+	b_navahrudka = city
+	b_slonim = castle
+}
 1223.1.1 = { b_lavrashevmonastery = temple }

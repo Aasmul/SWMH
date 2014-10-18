@@ -5,8 +5,8 @@ title = c_zamtam
 
 # Settlements
 max_settlements = 3
-b_zamtam = castle
-b_ngazargamu = city
+b_zamtam = tribal
+#b_ngazargamu = city
 
 #b_diaka = temple
 

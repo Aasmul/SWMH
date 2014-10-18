@@ -5,8 +5,8 @@ title = c_uri
 
 # Settlements
 max_settlements = 2
-b_uri = castle
-b_ainfarah = city
+b_uri = tribal
+#b_ainfarah = city
 
 # Misc
 culture = daju

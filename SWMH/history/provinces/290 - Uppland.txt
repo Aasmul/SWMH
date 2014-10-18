@@ -5,9 +5,8 @@ title = c_uppland
 
 # Settlements
 max_settlements = 5
-b_hatuna = castle
+b_hatuna = tribal
 b_uppsala = temple
-b_vaksala = city
 #b_rasbouppland = city
 #b_osteras = city
 #b_osthammar = city
@@ -21,7 +20,11 @@ religion = norse_pagan
 
 # History
 867.1.1 = {
-	b_hatuna = ca_shipyard_1
+	b_hatuna = tb_shipyard_1
+}
+1000.1.1 = {
+	b_hatuna = castle
+	b_vaksala = city
 }
 1047.10.25 = { culture = swedish } 
 1090.1.1 = { religion = catholic }

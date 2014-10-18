@@ -6,8 +6,8 @@ title = c_nordfriisland
 # Settlements
 max_settlements = 5
 
-b_rungholt = city
-b_leck = castle
+#b_rungholt = city
+b_leck = tribal
 #b_pelvorm = temple
 #b_husum = city
 
@@ -34,6 +34,8 @@ religion = norse_pagan
 980.1.1 = { capital = b_rungholt } 
 980.1.1 = { b_pelvorm = temple 
             b_husum = city
+			b_rungholt = city
+			b_leck = castle
 } 
 1018.1.1 = { religion = catholic } 
 

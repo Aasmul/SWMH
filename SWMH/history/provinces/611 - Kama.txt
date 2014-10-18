@@ -6,9 +6,9 @@ title = c_kama
 # Settlements
 max_settlements = 5
 
-b_osa = castle
-b_usttuntor = city
-b_chastye = temple
+b_osa = tribal
+#b_usttuntor = city
+#b_chastye = temple
 
 #b_krmayak = castle
 #b_pal = castle
@@ -23,4 +23,4 @@ religion = tengri_pagan
 # History
 923.1.1 = { religion = sunni } 
 
-1337.1.1 = { b_uymuzh = castle }  
+#1337.1.1 = { b_uymuzh = castle }  

@@ -6,10 +6,7 @@ title = c_brno
 # Settlements
 max_settlements = 5
 
-b_mikulcice = castle
-b_pohansko = city
-b_rejhrad = temple
-b_brno = castle
+b_mikulcice = tribal
 #b_zdar = temple
 #b_mikulov = city
 #b_zdar = temple
@@ -25,10 +22,9 @@ religion = catholic
 
 # History
 907.1.1 = {
-      remove_settlement = b_mikulcice
-      remove_settlement = b_pohansko
-      remove_settlement = b_rejhrad
-      }
+	remove_settlement = b_mikulcice
+	b_brno = castle
+}
 907.1.1 = { capital = b_brno }
 920.1.1 = { b_zdar = temple }
 930.1.1 = { b_mikulov = city }

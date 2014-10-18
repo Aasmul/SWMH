@@ -5,9 +5,8 @@ title = c_fife
 
 # Settlements
 max_settlements = 5
-b_cupar = castle
+b_cupar = tribal
 b_st_andrews = temple
-b_dunfermline = city
 #b_kinross = castle
 #b_leuchars = temple
 
@@ -17,6 +16,11 @@ culture = scottish
 religion = catholic
 
 # History
+
+1000.1.1 = {
+	b_cupar = castle
+	b_dunfermline = city
+}
 
 1066.1.1 = { 
 	b_cupar = ca_keep_1

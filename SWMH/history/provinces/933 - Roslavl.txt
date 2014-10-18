@@ -6,7 +6,7 @@ title = c_roslavl
 # Settlements
 max_settlements = 3
 
-b_roslavl = castle
+b_roslavl = tribal
 #b_mitishkino = castle
 #b_elnya = temple
 #b_pacynrostislvl = city
@@ -19,4 +19,8 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+988.1.1 = {
+	religion = orthodox
+	b_roslavl = castle
+}
 

@@ -5,7 +5,7 @@ title = c_tagali
 
 # Settlements
 max_settlements = 1
-b_tagali = castle
+b_tagali = tribal
 
 # Misc
 culture = daju

@@ -6,8 +6,8 @@ title = c_tana
 # Settlements
 max_settlements = 4
 
-b_tana = castle
-b_rostovnadonu = city
+b_tana = tribal
+#b_rostovnadonu = city
 #b_monastyrsky = temple
 
 #b_bataysk = castle

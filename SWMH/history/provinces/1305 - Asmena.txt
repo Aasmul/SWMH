@@ -5,9 +5,9 @@ title = c_asmena
 # Settlements
 max_settlements = 4
 
-b_kreva = castle
+b_kreva = tribal
 b_asmena = city
-b_alsenai = castle
+#b_alsenai = castle
 
 #b_norviliskes = temple
 #b_iuje = temple

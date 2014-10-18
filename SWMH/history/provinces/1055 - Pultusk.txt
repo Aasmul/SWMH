@@ -7,7 +7,7 @@ title = c_pultusk
 max_settlements = 4
 
 
-b_pultusk = castle
+b_pultusk = tribal
 b_czerwinsk = temple
 #b_wizna = temple
 #b_ostroleska = castle
@@ -21,3 +21,4 @@ religion = slavic_pagan
 
 # History
 999.7.1 = { religion = catholic }
+999.7.1 = { b_pultusk = castle }

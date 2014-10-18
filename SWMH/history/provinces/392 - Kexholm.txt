@@ -6,7 +6,7 @@ title = c_kexholm
 # Settlements
 max_settlements = 3
 
-b_kakisalmi = castle
+b_kakisalmi = tribal
 #b_sortavala = city
 #b_lieksa = city
 #b_viensuu = city
@@ -18,5 +18,8 @@ culture = karelian
 religion = finnish_pagan
 
 # History
-1187.1.1 = { b_sortavala = city }
+1187.1.1 = { 
+	b_sortavala = city
+	b_kakisalmi = castle
+}
 1292.1.1 = { religion = catholic }	#Northern Crusades

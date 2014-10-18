@@ -6,9 +6,9 @@ title = c_saris
 # Settlements
 max_settlements = 4
 
-b_borsodvar = castle
-b_gomor = city
-b_belapatfalva = temple
+b_borsodvar = tribal
+#b_gomor = city
+#b_belapatfalva = temple
 
 #b_jaszo = temple
 #b_miskolc = castle
@@ -23,4 +23,9 @@ religion = catholic
 
 900.1.1 = { religion = catholic }
 950.1.1 = { culture = hungarian }
+1000.1.1 = {
+	b_borsodvar = castle
+	b_gomor = city
+	b_belapatfalva = temple
+}
 

@@ -6,9 +6,9 @@ title = c_tarusa
 # Settlements
 max_settlements = 4
 
-b_tarusa = castle
-b_obolensk = castle
-b_borovsk = city
+b_tarusa = tribal
+#b_obolensk = castle
+#b_borovsk = city
 #b_stpaphnutiusmonestary = temple
 #b_aleksin = city
 #b_medyn = city
@@ -23,3 +23,8 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = {
+	b_tarusa = castle
+	b_obolensk = castle
+	b_borovsk = city
+}

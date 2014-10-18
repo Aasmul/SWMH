@@ -5,9 +5,9 @@ title = c_kanem
 
 # Settlements
 max_settlements = 4
-b_kanem = castle
-b_djimi = city
-b_mao = temple
+b_kanem = tribal
+#b_djimi = city
+#b_mao = temple
 
 #b_manan = temple
 

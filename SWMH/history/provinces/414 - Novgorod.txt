@@ -6,8 +6,7 @@ title = c_novgorod
 # Settlements
 max_settlements = 7
 
-b_novgorodkremlin = castle
-b_novgorod = city
+b_novgorodkremlin = tribal
 b_sanktsophia = temple
 b_peryn = temple
 #b_solcyn = city
@@ -27,10 +26,14 @@ religion = slavic_pagan
 
 # History
 867.1.1 = {
-	b_novgorodkremlin = ca_shipyard_1
+	b_novgorodkremlin = tb_shipyard_1
 }
 988.1.1 = {religion = orthodox }
-1136.1.1 = { b_solcyn = city } #Novgorod republic founded
+1136.1.1 = {
+	b_novgorod = city
+	b_solcyn = city #Novgorod republic founded
+	b_novgorodkremlin = castle
+} 
 1136.1.1 = { capital = b_novgorod }
 1150.1.1 = { b_yurievmonestary = temple }
 

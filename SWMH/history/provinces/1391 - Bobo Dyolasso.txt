@@ -5,7 +5,7 @@ title = c_bobodyolasso
 
 # Settlements
 max_settlements = 1
-b_bobodyolasso = castle
+b_bobodyolasso = tribal
 
 # Misc
 culture = manden

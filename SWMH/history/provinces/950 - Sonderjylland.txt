@@ -6,9 +6,9 @@ title = c_sonderjylland
 # Settlements
 max_settlements = 5
 
-b_haderslevhus = castle
-b_kolding = city
-b_ribe = temple
+b_haderslevhus = tribal
+#b_kolding = city
+#b_ribe = temple
 
 #b_riberhus = castle
 #b_koldinghus = castle
@@ -22,6 +22,11 @@ religion = norse_pagan
 
 # History
 1018.1.1 = { religion = catholic } 
+1018.1.1 = {
+	b_haderslevhus = castle
+	b_kolding = city
+	b_ribe = temple
+}
 1047.10.25 = { culture = danish } 
 
 

@@ -6,9 +6,7 @@ title = c_pskov
 # Settlements
 max_settlements = 6
 
-b_izborsk = castle
-b_pskov = city
-b_pechory = temple
+b_izborsk = tribal
 
 #b_ostrovpskov = castle
 #b_kamnopskov = city
@@ -26,6 +24,11 @@ religion = finnish_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+988.1.1 = {
+	b_izborsk = castle
+	b_pskov = city
+	b_pechory = temple
+}
 1150.1.1 = { culture = russian }
 1200.1.1 = { b_ostrovpskov = castle }
 1266.1.1 = { capital = b_pskov } #Pskov republic practically independent

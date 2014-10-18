@@ -6,8 +6,8 @@ title = c_druck
 # Settlements
 max_settlements = 4
 
-b_druck = castle
-b_borisow = city
+b_druck = tribal
+#b_borisow = city
 #b_teterin = temple
 #b_obolci = castle
 
@@ -17,3 +17,7 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = {
+	b_druck = castle
+	b_borisow = city
+}

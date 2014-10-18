@@ -6,10 +6,8 @@ title = c_skane
 # Settlements
 max_settlements = 7
 
-b_borgeby = castle
+b_borgeby = tribal
 b_lund = temple
-b_malmo = city
-b_skaneor = city
 
 #b_ystad = city
 #b_falsterbo = city
@@ -25,7 +23,10 @@ religion = norse_pagan
 
 # History
 
-867.1.1 = {
+1000.1.1 = {
+	b_borgeby = castle
+	b_malmo = city
+	b_skaneor = city
 	b_borgeby = ca_keep_1
 	b_borgeby = ca_militia_barracks_1
 	b_borgeby = ca_wall_1

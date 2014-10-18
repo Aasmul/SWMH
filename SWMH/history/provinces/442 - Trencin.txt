@@ -5,9 +5,9 @@ title = c_trencin
 
 # Settlements
 max_settlements = 4
-b_trencsen = castle
-b_becko = city
-b_rajec = temple
+b_trencsen = tribal
+#b_becko = city
+#b_rajec = temple
 
 #b_puho = castle
 #b_nagybiccse = castle
@@ -22,4 +22,9 @@ culture = moravian
 religion = catholic
 
 # History
+900.1.1 = {
+	b_trencsen = castle
+	b_becko = city
+	b_rajec = temple
+}
 

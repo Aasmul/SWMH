@@ -6,8 +6,8 @@ title = c_antalo
 # Settlements
 max_settlements = 3
 
-b_entoto = castle
-b_hayq = temple
+b_entoto = tribal
+#b_hayq = temple
 
 #b_bale = city
 #b_oromos = castle
@@ -18,4 +18,8 @@ religion = miaphysite
 
 # History
 
+1050.1.1 = {
+	b_entoto = castle
+	b_hayq = temple
+}
 1187.1.1 = { b_bale = city } 

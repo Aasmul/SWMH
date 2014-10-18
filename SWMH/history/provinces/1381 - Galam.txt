@@ -5,8 +5,8 @@ title = c_galam
 
 # Settlements
 max_settlements = 3
-b_galam = castle
-b_gundiuru = city
+b_galam = tribal
+#b_gundiuru = city
 
 #b_bondu = temple
 

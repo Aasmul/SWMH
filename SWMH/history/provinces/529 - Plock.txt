@@ -6,9 +6,7 @@ title = c_plock
 # Settlements
 max_settlements = 4
 
-b_plock = castle
-b_wyszogrod = city
-b_ciechanow = castle
+b_plock = tribal
 #b_plonsk = castle
 
 # Misc
@@ -16,4 +14,9 @@ culture = polish
 religion = slavic_pagan
 
 # History
-999.7.1 = { religion = catholic }
+999.7.1 = {
+	religion = catholic
+	b_plock = castle
+	b_wyszogrod = city
+	b_ciechanow = castle
+}

@@ -6,7 +6,7 @@ title = c_lepiel
 # Settlements
 max_settlements = 3
 
-b_lahoysk = castle
+b_lahoysk = tribal
 b_budslau = temple
 
 #b_vileyka = city
@@ -19,3 +19,6 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1200.1.1 = {
+	b_lahoysk = castle
+}

@@ -5,7 +5,7 @@ title = c_samoyeds
 
 # Settlements
 max_settlements = 1
-b_mezen = castle
+b_mezen = tribal
 
 
 # Misc

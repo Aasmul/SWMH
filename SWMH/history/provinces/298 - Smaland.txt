@@ -5,8 +5,7 @@ title = c_smaland
 
 # Settlements
 max_settlements = 3
-b_nasborg = castle
-b_jonkoping = city
+b_nasborg = tribal
 
 #b_brahehus = castle
 #b_ekesjo = castle
@@ -18,6 +17,10 @@ culture = norse
 religion = norse_pagan
 
 # History
+1000.1.1 = {
+	b_nasborg = castle
+	b_jonkoping = city
+}
 1047.10.25 = { culture = gothic } 
 1066.1.1 = { 
 	b_nasborg = ca_keep_1

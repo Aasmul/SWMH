@@ -6,9 +6,7 @@ title = c_pronsk
 # Settlements
 max_settlements = 4
 
-b_skopin = castle
-b_pronsk = city
-b_elets = castle
+b_skopin = tribal
 
 #b_ryazhsk = city
 #b_lipetsk = city
@@ -23,4 +21,10 @@ religion = finnish_pagan
 # History
 1130.1.1 = { religion = orthodox }
 1130.1.1 = { culture = russian }
+1130.1.1 = {
+	b_skopin = castle
+	b_pronsk = city
+	b_elets = castle
+}
+
 

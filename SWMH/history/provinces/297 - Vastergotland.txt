@@ -6,8 +6,7 @@ title = c_vastergotland
 # Settlements
 max_settlements = 4
 
-b_lena = castle
-b_lodose = city		
+b_lena = tribal	
 
 #b_lindholmen = castle
 #b_alvsborg = castle
@@ -19,6 +18,10 @@ culture = norse
 religion = norse_pagan
 
 # History
+1000.1.1 = {
+	b_lena = castle
+	b_lodose = city
+}
 1047.10.25 = { culture = gothic } 
 1060.8.2 = {religion = catholic}
 1257.1.1 = { trade_post = b_warendorp }

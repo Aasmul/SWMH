@@ -6,7 +6,7 @@ title = c_metsepole
 # Settlements
 max_settlements = 3
 
-b_limbazi= castle
+b_limbazi= tribal
 b_straupe = city
 
 #b_cesis = castle
@@ -25,3 +25,7 @@ religion = finnish_pagan
 1209.1.1 = { b_cesis = castle }
 1209.1.1 = { capital = b_cesis }
 1290.1.1 = { religion = catholic }
+1209.1.1 = {
+	b_limbazi= castle
+	b_straupe = city
+}

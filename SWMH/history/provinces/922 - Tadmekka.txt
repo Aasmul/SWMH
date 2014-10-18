@@ -6,7 +6,7 @@ title = c_tadmekka
 # Settlements
 max_settlements = 4
 
-b_tadmekka = castle
+b_tadmekka = tribal
 
 #b_essako = city # Es Souk
 #b_kidal = temple
@@ -21,9 +21,9 @@ religion = west_african_pagan
 #Berber colonization
 1057.1.1 = { culture = tuareg }
 
-1057.1.1 = {
-	b_essako = city
-}
+#1057.1.1 = {
+#	b_essako = city
+#}
 
 #islamization
 1057.1.1 = { religion = sunni }

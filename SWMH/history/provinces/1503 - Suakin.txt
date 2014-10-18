@@ -6,8 +6,8 @@ title = c_suakin
 # Settlements
 max_settlements = 3
 
-b_alkabli = castle
-b_sawakin = city
+b_alkabli = tribal
+#b_sawakin = city
 
 #b_shafia = temple
 

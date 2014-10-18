@@ -5,8 +5,8 @@ title = c_bambuk
 
 # Settlements
 max_settlements = 4
-b_bambuk = castle
-b_yaresna = city
+b_bambuk = tribal
+#b_yaresna = city
 
 #b_fegui = temple
 #b_alahina = castle
@@ -16,3 +16,7 @@ culture = manden
 religion = west_african_pagan
 
 # History
+1300.1.1 = {
+	b_bambuk = castle
+	b_yaresna = city
+}

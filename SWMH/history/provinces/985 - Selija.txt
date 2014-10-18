@@ -6,7 +6,7 @@ title = c_selija
 # Settlements
 max_settlements = 2
 
-b_selpils = castle
+b_selpils = tribal
 #b_jekabpils = city
 #b_nereta = city
 #b_jaunjelgava = castle
@@ -18,4 +18,7 @@ religion = baltic_pagan
 # History
 
 1199.1.1 = { religion = catholic }
+1200.1.1 = {
+	b_selpils = castle
+}
 

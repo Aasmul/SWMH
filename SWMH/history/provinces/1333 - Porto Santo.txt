@@ -5,7 +5,7 @@ title = c_porto_santo
 
 # Settlements
 max_settlements = 1
-b_porto_santo = castle
+b_porto_santo = tribal
 
 # Misc
 culture = zanata

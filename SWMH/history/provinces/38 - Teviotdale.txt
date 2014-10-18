@@ -5,7 +5,7 @@ title = c_teviotdale
 
 # Settlements
 max_settlements = 4
-b_jedburgh = castle
+b_jedburgh = tribal
 b_melrose = temple
 #b_roxburgh = city
 #b_kelso = city
@@ -17,6 +17,7 @@ religion = catholic
 
 # History
 700.1.1 = { culture = saxon } 
+867.1.1 = { b_jedburgh = castle }
 1000.1.1 = { culture = scottish } 
 
 

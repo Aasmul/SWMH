@@ -6,7 +6,7 @@ title = c_kola
 # Settlements
 max_settlements = 3
 
-b_olonec = castle
+b_olonec = tribal
 
 #b_valaam = temple
 #b_kizhi = temple

@@ -6,8 +6,8 @@ title = c_sacz
 # Settlements
 max_settlements = 4
 #b_szczyrzycz = temple
-b_sacz = castle
-b_biecz = castle
+b_sacz = tribal
+#b_biecz = castle
 
 
 #b_gorlice = castle
@@ -20,4 +20,8 @@ religion = slavic_pagan
 
 # History
 999.7.1 = { religion = catholic }
+999.7.1 = {
+	b_sacz = castle
+	b_biecz = castle
+}
 1234.1.1 = { b_szczyrzycz = temple }

@@ -6,10 +6,10 @@ title = c_sennar
 # Settlements
 max_settlements = 4
 
-b_sennar = castle
+b_sennar = tribal
 
-b_kosti = city
-b_sinjah = temple
+#b_kosti = city
+#b_sinjah = temple
 #b_bakkah = castle
 #b_kukur = castle
 #b_galgani = city

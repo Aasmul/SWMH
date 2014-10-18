@@ -6,9 +6,7 @@ title = c_aukshayts
 # Settlements
 max_settlements = 5
 
-b_kernave = castle
-b_vilnius = city
-b_rokantiskes = castle
+b_kernave = tribal
 
 #b_salcininkai = temple
 #b_medininkai = castle
@@ -23,6 +21,11 @@ religion = baltic_pagan
 
 # History
 
+1200.1.1 = {
+	b_kernave = castle
+	b_vilnius = castle
+	b_vilnius = city
+}
 1250.1.1 = { b_medininkai = castle }
 1311.1.1 = { b_salcininkai = temple }
 

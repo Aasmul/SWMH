@@ -6,8 +6,8 @@ title = c_finnveden
 # Settlements
 max_settlements = 2
 
-b_piksborg = castle
-b_ljungby = city
+b_piksborg = tribal
+#b_ljungby = city
 
 # Misc
 culture = norse
@@ -17,4 +17,6 @@ religion = norse_pagan
 1047.10.25 = { culture = gothic } 
 1130.1.1 = {
 	religion = catholic
+	b_piksborg = castle
+	b_ljungby = city
 }

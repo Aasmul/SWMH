@@ -22,7 +22,7 @@ b_bechar = city
 
 # Misc
 culture = zanata
-religion = ibadi
+religion = kharijite
 
 # History
 1030.1.1 = { religion = sunni }

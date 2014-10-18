@@ -6,8 +6,8 @@ title = c_pereyaslavl_zalessky
 # Settlements
 max_settlements = 4
 
-b_pereyaslavlzalessky = castle
-b_rybinsk = city
+b_pereyaslavlzalessky = tribal
+#b_rybinsk = city
 b_nikitskij = temple
 #b_yaroslavka = city
 
@@ -19,5 +19,9 @@ religion = finnish_pagan
 988.1.1 = {
 	culture = russian
 	religion = orthodox
+}
+1200.1.1 = {
+	b_pereyaslavlzalessky = castle
+	b_rybinsk = city
 }
 

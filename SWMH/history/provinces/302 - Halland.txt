@@ -5,9 +5,7 @@ title = c_halland
 
 # Settlements
 max_settlements = 4
-b_varberg = castle
-b_falkenberg = city
-b_halmstad = temple
+b_varberg = tribal
 #b_lillohus = castle
 #b_kungsbacka = castle
 #b_laholm = city
@@ -21,6 +19,11 @@ religion = norse_pagan
 terrain = forest
 
 # History
+1000.1.1 = {
+	b_varberg = castle
+	b_falkenberg = city
+	b_halmstad = temple
+}
 1018.1.1 = { religion = catholic } 
 1047.10.25 = { culture = danish } 
 #1231.1.1 = { b_halmstad = temple }

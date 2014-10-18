@@ -6,10 +6,10 @@ title = c_sogn
 # Settlements
 max_settlements = 2
 
-b_hoeyanger = castle # Heyangr
+b_hoeyanger = tribal # Heyangr
 #b_dinjga = city # Diganes
 #b_gulen = = city # Gulaﬁing
-b_aurland = castle # Aurland
+#b_aurland = castle # Aurland
 #b_laerdalsoeyri = city # LÊradalr
 
 
@@ -20,4 +20,8 @@ religion = norse_pagan
 # History
 1024.1.1 = { religion = catholic }
 1047.10.25 = { culture = norwegian } 
+1066.1.1 = {
+	b_hoeyanger = castle # Heyangr
+	b_aurland = castle # Aurland
+}
 

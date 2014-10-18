@@ -5,8 +5,8 @@ title = c_hoggar
 
 # Settlements
 max_settlements = 2
-b_hoggar = castle
-b_tamanrasset = city
+b_hoggar = tribal
+#b_tamanrasset = city
 
 # Misc
 culture = tuareg

@@ -6,8 +6,8 @@ title = c_vestervig
 # Settlements
 max_settlements = 5
 
-b_viborg = castle
-b_aalborg = city
+b_viborg = tribal
+#b_aalborg = city
 b_vestervig = temple
 #b_boerglum = temple
 #b_hoegholt = castle
@@ -21,5 +21,9 @@ religion = norse_pagan
 # History
 985.1.1= { trade_post = b_giaethning }
 1018.1.1 = { religion = catholic } 
+1018.1.1 = {
+	b_viborg = castle
+	b_aalborg = city
+}
 1047.10.25 = { culture = danish } 
 1362.1.1 = { trade_post = -1 }

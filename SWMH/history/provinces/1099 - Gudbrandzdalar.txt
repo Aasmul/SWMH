@@ -6,9 +6,9 @@ title = c_gudbrandzdalar
 # Settlements
 max_settlements = 3
 
-b_hundorp = castle # Hundþorp
+b_hundorp = tribal # Hundþorp
 #b_lom = temple # Lóm
-b_dovre = castle # Dofrar
+#b_dovre = castle # Dofrar
 #b_vinstra = city # Liðstaðir
 #b_otta = city # Breiðin
 #b_einbugga = city # Einbú
@@ -21,5 +21,9 @@ religion = norse_pagan
 
 # History 
 1022.1.1 = { b_lom = temple }
+1022.1.1 = {
+	b_hundorp = castle
+	b_dovre = castle
+}
 1047.10.25 = { culture = norwegian } 
 1130.1.1 = { religion = catholic }

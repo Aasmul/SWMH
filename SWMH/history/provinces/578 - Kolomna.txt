@@ -6,7 +6,7 @@ title = c_kolomna
 # Settlements
 max_settlements = 4
 
-b_kolomna = castle
+b_kolomna = tribal
 b_tula = castle
 #b_zaratysk = city
 #b_ozery = city
@@ -22,3 +22,7 @@ religion = finnish_pagan
 1130.1.1 = { religion = orthodox }
 1130.1.1 = { culture = russian }
 
+1187.1.1 = {
+	b_kolomna = castle
+	b_tula = castle
+}

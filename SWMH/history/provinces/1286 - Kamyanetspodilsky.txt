@@ -6,8 +6,8 @@ title = c_kamyanetspodilsky
 # Settlements
 max_settlements = 4
 
-b_kamyanetspodilsky = castle
-b_skalapodilska = castle
+b_kamyanetspodilsky = tribal
+#b_skalapodilska = castle
 b_sokilets = temple
 #b_kolodiivka = castle
 
@@ -18,5 +18,9 @@ religion = slavic_pagan
 
 # History
 988.1.1 = {religion = orthodox }
+1066.1.1 = {
+	b_kamyanetspodilsky = castle
+	b_skalapodilska = castle
+}
 1240.1.1 = { remove_settlement = b_skalapodilska }
 1337.1.1 = { b_skalapodilska = castle }

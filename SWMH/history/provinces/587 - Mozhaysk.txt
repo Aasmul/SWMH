@@ -5,8 +5,7 @@ title = c_mozhaysk
 
 # Settlements
 max_settlements = 4
-b_volgamozhaysk = castle
-b_ruza = castle
+b_volgamozhaysk = tribal
 #b_zvenigorodmozaskiy = city
 #b_vetca = city
 #b_vereya = castle
@@ -20,3 +19,7 @@ religion = slavic_pagan
 # History
 988.1.1 = {religion = orthodox}
 #1180.1.1 = { b_zvenigorodmozaskiy = city }
+1187.1.1 = {
+	b_volgamozhaysk = castle
+	b_ruza = castle
+}

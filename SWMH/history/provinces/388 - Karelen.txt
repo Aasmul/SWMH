@@ -6,7 +6,7 @@ title = c_karelen
 # Settlements
 max_settlements = 2
 
-b_kem = castle
+b_kem = tribal
 #b_solovetsky = temple
 #b_karhumaki = city
 
@@ -19,3 +19,6 @@ religion = finnish_pagan
 # History
 1150.1.1 = { religion = orthodox }
 1150.1.1 = { b_solovetsky = temple }
+1150.1.1 = {
+	b_kem = castle
+}

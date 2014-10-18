@@ -5,8 +5,8 @@ title = c_diafunu
 
 # Settlements
 max_settlements = 3
-b_diafunu = castle
-b_guidimakka = temple
+b_diafunu = tribal
+#b_guidimakka = temple
 
 #b_kaniaga = city
 

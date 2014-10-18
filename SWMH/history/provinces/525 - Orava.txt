@@ -6,7 +6,7 @@ title = c_orava
 # Settlements
 max_settlements = 3
 
-b_arva = castle
+b_arva = tribal
 #b_rozsahegy = city
 #b_nameszto = castle
 #b_liptoszentmiklos
@@ -19,3 +19,6 @@ culture = moravian
 religion = catholic
 
 # History
+900.1.1 = {
+	b_arva = castle
+}

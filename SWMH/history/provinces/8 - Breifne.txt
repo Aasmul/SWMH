@@ -6,8 +6,7 @@ title = c_breifne
 # Settlements
 max_settlements = 3
 
-b_dromahair = castle
-b_leitrim = city
+b_dromahair = tribal
 #b_carrickonshannon = castle
 #b_fenagh = temple
 
@@ -17,4 +16,7 @@ religion = catholic
 terrain = hills
 
 # History
-
+1000.1.1 = {
+	b_dromahair = castle
+	b_leitrim = city
+}

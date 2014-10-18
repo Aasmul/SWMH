@@ -6,8 +6,8 @@ title = c_ifni
 # Settlements
 max_settlements = 3 
 
-b_nullamta = castle
-b_ifni = city
+b_nullamta = tribal
+#b_ifni = city
 
 #b_guelmim = temple
 
@@ -23,5 +23,9 @@ religion = ibadi
 
 # History
 1030.1.1 = { religion = sunni }
+1062.1.1 = {
+	b_nullamta = castle
+	b_ifni = city
+}
 
 

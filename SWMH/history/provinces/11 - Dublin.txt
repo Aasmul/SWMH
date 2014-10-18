@@ -6,8 +6,7 @@ title = c_dublin
 # Settlements
 max_settlements = 5
 
-b_dunleary = castle
-b_dublin = city
+b_dunleary = tribal
 
 #b_christ_church = temple
 #b_dublin_castle = castle
@@ -20,8 +19,13 @@ religion = norse_pagan
 
 # History
 867.1.1 = {
-	b_dunleary = ca_shipyard_1
+	b_dunleary = tb_shipyard_1
 } 
+1000.1.1 = {
+	b_dunleary = castle
+	b_dunleary = ca_shipyard_1
+	b_dublin = city
+}
 1028.1.1 = { b_christ_church = temple }
 1028.1.1 = { religion = catholic }
 1047.10.25 = { culture = norsegaelic }

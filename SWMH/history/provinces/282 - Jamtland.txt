@@ -6,7 +6,7 @@ title = c_jamtland
 # Settlements
 max_settlements = 2
 
-b_brunflo = castle # Hagnastadha
+b_brunflo = tribal # Hagnastadha
 #b_vasterhus = temple 
 #b_hov = castle # Hof
 

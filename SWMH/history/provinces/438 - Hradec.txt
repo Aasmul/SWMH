@@ -5,9 +5,9 @@ title = c_hradec
 
 # Settlements
 max_settlements = 6
-b_hradeckralove = castle
-b_chrudim = city
-b_opatovice = temple
+b_hradeckralove = tribal
+#b_chrudim = city
+#b_opatovice = temple
 #b_caslav = castle
 #b_trutnov = castle
 #b_policka = castle
@@ -21,7 +21,12 @@ religion = slavic_pagan
 
 # History
 
-883.1.1 = { religion = catholic }
+883.1.1 = {
+	religion = catholic
+	b_hradeckralove = castle
+	b_chrudim = city
+	b_opatovice = temple
+}
 
 1130.1.1 = { b_caslav = castle }
 

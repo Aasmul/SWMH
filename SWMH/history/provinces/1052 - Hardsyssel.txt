@@ -5,8 +5,8 @@ title = c_hardsyssel
 
 # Settlements
 max_settlements = 4
-b_skive = castle
-b_ringkobing = city
+b_skive = tribal
+#b_ringkobing = city
 
 #b_vardehus = castle
 #b_krubholm= castle
@@ -20,6 +20,10 @@ religion = norse_pagan
 # History
 867.1.1 = { b_ringkobing = ct_port_1 } 
 1018.1.1 = { religion = catholic } 
+1018.1.1 = {
+	b_skive = castle
+	b_ringkobing = city
+}
 1047.10.25 = { culture = danish } 
 
 
