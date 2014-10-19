@@ -8,8 +8,9 @@ e_mexikha = {
 	# Always exists
 	landless = yes
 	
-	tribe = yes
+# 	tribe = yes
 	
 	culture = nahuatl
 	religion = aztec
 }
+

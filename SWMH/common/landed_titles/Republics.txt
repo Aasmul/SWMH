@@ -23,3 +23,4 @@ b_taning = {
 	culture = frisian
 	religion = catholic
 }
+
