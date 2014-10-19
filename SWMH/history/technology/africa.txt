@@ -40,17 +40,11 @@ technology = {
 technology = {
 	titles = {
     d_alwahat  
-		d_semien
 		d_afar
 		d_gondar
-		d_wag
-		d_gojjam
 		d_damot
-		d_shewa
 		d_nobatia
 		d_nubia
-		d_hayya
-		d_harer
 		d_sennar
     d_berbera 
     d_ifat    
@@ -129,3 +123,4 @@ technology = {
 		culture = 3.5
 	}
 }
+
