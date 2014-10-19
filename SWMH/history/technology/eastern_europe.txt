@@ -62,14 +62,12 @@ technology = {
 		d_novgorod
 		d_rostov
 		d_tver
-		d_yaroslavl
 		d_vladimir
 		d_moskva
 		d_kiev
 		d_galich
 		d_volhynia
 		d_turov
-		d_vitebsk
 		d_smolensk
 		d_chernigov
 		d_novgorod-seversk
@@ -111,5 +109,6 @@ technology = {
 		culture = 3.5
 	}
 }
+
 
 

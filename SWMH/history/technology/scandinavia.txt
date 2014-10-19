@@ -7,7 +7,6 @@ technology = {
 		d_vastergotland
 		d_norrland
 		d_bergslagen
-		d_smaland
 		d_skane
 		d_sjaelland
 		d_slesvig
@@ -22,7 +21,6 @@ technology = {
 		d_finland
 		d_esthonia
 		d_kola
-    d_halland    
     d_jylland    
     d_bornholm   
     d_halsingland
@@ -57,3 +55,4 @@ technology = {
 		culture = 3.5
 	}
 }
+
