@@ -1,0 +1,131 @@
+
+#LEVANT
+
+technology = {
+	titles = {
+		d_ascalon
+		d_jerusalem
+		d_galilee
+		d_aleppo
+		d_antioch
+		d_tripoli
+		d_damascus
+		d_syria
+    d_acre     
+    d_homs     
+    d_jordan   
+    d_diyareast  
+	}  
+
+	769 = {
+		military = 0.8
+		economy = 1.5
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+#ARABIA
+
+technology = {
+	titles = {
+		d_arabia_petrae
+		d_medina
+		d_sanaa
+		d_oman
+		d_nefoud
+		d_amman
+		d_sinai
+		d_oultrejourdain
+	}  
+
+	769 = {
+		military = 0.7
+		economy = 0.4
+		culture = 0.9
+	}
+		
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}
+#PERSIA_WEST
+
+technology = {
+	titles = {
+		d_tigris
+		d_basra
+		d_baghdad
+		d_mosul
+		d_jazira
+		d_fars
+		d_hamadan
+		d_tabriz
+		d_azerbaijan
+		d_mazandaran
+		d_kermanshah
+		d_esfahan
+    d_jebal     
+    d_khoar     
+    d_ahwaz     
+    d_tabarestan
+    d_gilan     
+	}  
+
+	769 = {
+		military = 1.0
+		economy = 1.4
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 3.5
+		economy = 3.8
+		culture = 4.3
+	}
+}
+#PERSIA_KHORASAN
+
+technology = {
+	titles = {
+		d_baluchistan
+		d_sistan
+		d_kabul
+		d_zabulistan
+		d_khorasan
+		d_kerman
+    d_birjand 
+    d_hormuz
+    d_mafaza    
+    d_nishapur  
+    d_herat     
+    d_balkh     
+    d_makran    
+    d_soghd     
+    d_ustrushana
+    d_ferghana  
+    d_shash     
+    d_zabolestan
+    d_khottal   
+	}  
+
+	769 = {
+		military = 1.1
+		economy = 1.0
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 3.9
+		economy = 3.5
+		culture = 3.7
+	}
+}
+

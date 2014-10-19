@@ -1,0 +1,131 @@
+#MEDITERREAN
+
+technology = {
+	titles = {
+		d_alexandria
+		d_damietta
+		d_cairo
+		d_aswan
+		d_axum
+		d_tripolitania
+		d_cyrenaica
+		d_tlemcen
+		d_tunis
+		d_marrakech
+		d_tangiers
+		d_fes
+		d_alger
+    d_aydhab
+	}  
+    
+	769 = {
+		military = 1.0
+		economy = 1.2
+		culture = 1.2
+		
+		TECH_CASTLE_CONSTRUCTION = 2.0
+		TECH_TEMPLE_CONSTRUCTION = 2.0
+		TECH_LEGALISM = 2.0
+	}
+	   
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}  
+}   
+
+#EAST AFRICA
+
+technology = {
+	titles = {
+    d_alwahat  
+		d_semien
+		d_afar
+		d_gondar
+		d_wag
+		d_gojjam
+		d_damot
+		d_shewa
+		d_nobatia
+		d_nubia
+		d_hayya
+		d_harer
+		d_sennar
+    d_berbera 
+    d_ifat    
+    d_tedjoura
+    d_amhara  
+    d_alodia  
+    d_elatrun 
+    d_darfur  
+    d_badi
+    d_kassala       
+	}  
+    
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		  
+	}  
+	   
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}  
+}   
+    
+#WEST AFRICA
+    
+technology = {
+	titles = {
+		d_timbuktu
+		d_ghana
+		d_mali
+		d_songhay
+		d_kabylia
+    d_qamuda
+    d_zab   
+    d_draa  
+    d_mema   
+    d_tagant 
+    d_oualata
+    d_bambuk 
+    d_kala   
+    d_wolof  
+    d_takrur 
+    d_mossi  
+    d_hoggar 
+    d_tuat   
+    d_mzab   
+    d_air    
+    d_fezzan 
+    d_tibesti
+    d_bornu  
+    d_kanem  
+    d_wadai  
+    d_kawar  
+    d_kano   
+    d_kebbi  
+    d_gobir
+    d_adrar   
+    d_taghaza 
+    d_canarias
+    d_madeira
+	}  
+	
+	769 = {
+		military = 0.1
+		economy = 0.2
+		culture = 0.2
+		
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}
