@@ -3,7 +3,7 @@ d_ugandians = {
 	color2={ 255 255 255 }
 	
 	culture = tsuudi
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 379 # Dorpat
 	
@@ -20,7 +20,7 @@ d_oseelians = {
 	color2={ 255 255 255 }
 	
 	culture = tsuudi
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 376 # Osel
 	
@@ -37,7 +37,7 @@ d_rotalians = {
 	color2={ 255 255 255 }
 	
 	culture = tsuudi
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 987 # L‰‰nemaa
 	
@@ -54,7 +54,7 @@ d_vironians = {
 	color2={ 255 255 255 }
 	
 	culture = tsuudi
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 380 # Narva
 	
@@ -71,7 +71,7 @@ d_sakalians = {
 	color2={ 255 255 255 }
 	
 	culture = livonian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 377 # Sakala
 	
@@ -88,7 +88,7 @@ d_vanemas = {
 	color2={ 255 255 255 }
 	
 	culture = livonian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 373 # Kurs
 	
@@ -105,7 +105,7 @@ d_selonians = {
 	color2={ 255 255 255 }
 	
 	culture = lettigallish
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 985 # Selija
 	
@@ -122,7 +122,7 @@ d_talavians = {
 	color2={ 255 255 255 }
 	
 	culture = lettigallish
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 375 # Talava
 	
@@ -139,7 +139,7 @@ d_deltuvians = {
 	color2={ 255 255 255 }
 	
 	culture = lithuanian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 979 # Deltuva
 	
@@ -156,7 +156,7 @@ d_veleti = {
 	color2={ 255 255 255 }
 	
 	culture = pommeranian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 307 # Werle
 	
@@ -173,7 +173,7 @@ d_wolinians = {
 	color2={ 255 255 255 }
 	
 	culture = pommeranian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 1267 # Szvuine
 	
@@ -190,7 +190,7 @@ d_chutizi = {
 	color2={ 255 255 255 }
 	
 	culture = pommeranian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 310 # Anhalt
 	
@@ -207,7 +207,7 @@ d_leubuzzi = {
 	color2={ 255 255 255 }
 	
 	culture = pommeranian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 430 # Lubusz
 	
@@ -224,7 +224,7 @@ d_drevlyans = {
 	color2={ 255 255 255 }
 	
 	culture = russian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 1280 # Iskorosten
 	
@@ -241,7 +241,7 @@ d_ulichs = {
 	color2={ 255 255 255 }
 	
 	culture = russian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 541 # Peresechen
 	
@@ -258,7 +258,7 @@ d_volhynians = {
 	color2={ 255 255 255 }
 	
 	culture = russian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 535 # Vladimir Volynsky
 	
@@ -275,7 +275,7 @@ d_buzhans = {
 	color2={ 255 255 255 }
 	
 	culture = russian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 1286 # Kamyanetspodilsky
 	
@@ -292,7 +292,7 @@ d_tivertsi = {
 	color2={ 255 255 255 }
 	
 	culture = russian
-	tribe = yes
+# 	tribe = yes
 	
 	capital = 1283 # Cern
 	

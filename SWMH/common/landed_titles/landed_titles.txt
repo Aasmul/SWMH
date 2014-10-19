@@ -140,7 +140,7 @@ e_golden_horde = {
 	# Always exists
 	landless = yes
 	
-	tribe = yes
+# 	tribe = yes
 	
 	culture = mongol
 	religion = tengri_pagan
@@ -154,7 +154,7 @@ e_il-khanate = {
 	# Always exists
 	landless = yes
 	
-	tribe = yes
+# 	tribe = yes
 	
 	culture = mongol
 	religion = tengri_pagan
@@ -169,7 +169,7 @@ e_mongol_empire = {
 	# Always exists
 	landless = yes
 	
-	tribe = yes
+# 	tribe = yes
 	
 	culture = mongol
 	religion = tengri_pagan
@@ -183,7 +183,7 @@ e_timurids = {
 	# Always exists
 	landless = yes
 	
-	tribe = yes
+# 	tribe = yes
 	
 	culture = mongol
 	religion = sunni
@@ -53215,7 +53215,7 @@ e_britannia = {
 		d_curonian = {
 			color = { 141 55 29 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53232,7 +53232,7 @@ e_britannia = {
 		d_danes = {
 			color={ 247 77 54 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			dignity = 10
 			
@@ -53268,7 +53268,7 @@ e_britannia = {
 				always = no
 			}
 			
-			tribe = yes
+# 			tribe = yes
 			
 			culture = tsuudi
 			title = "HIGH_CHIEF"
@@ -53287,7 +53287,7 @@ e_britannia = {
 		d_geats = {
 			color={ 35 57 180 }
 
-			tribe = yes
+# 			tribe = yes
 			
 			dignity = 8
 			
@@ -53308,7 +53308,7 @@ e_britannia = {
 		d_ingers = {
 			color={ 125 125 40 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53322,7 +53322,7 @@ e_britannia = {
 		d_kajaneborg = {
 			color = { 123 73 13 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53342,7 +53342,7 @@ e_britannia = {
 		d_kexholm = {
 			color={ 121 98 20 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53358,7 +53358,7 @@ e_britannia = {
 			
 			capital = 594 #	Sarkel
 			
-			tribe = yes
+# 			tribe = yes
 			
 			culture = khazar
 			
@@ -53374,7 +53374,7 @@ e_britannia = {
 		d_kola = {
 			color={ 194 171 117 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53389,7 +53389,7 @@ e_britannia = {
 		d_sami = {
 			color = { 101 99 35 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53410,7 +53410,7 @@ e_britannia = {
 		d_lettigalians = {
 			color = { 126 51 51 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53441,7 +53441,7 @@ e_britannia = {
 			
 			capital = 591 # Cheremisa
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53458,7 +53458,7 @@ e_britannia = {
 			
 			capital = 581 # Murom
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53474,7 +53474,7 @@ e_britannia = {
 			
 			capital = 588 # Mari
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53496,7 +53496,7 @@ e_britannia = {
 			
 			capital = 542 # Olvia
 			
-			tribe = yes
+# 			tribe = yes
 			culture = pecheneg
 			
 			allow = {
@@ -53512,7 +53512,7 @@ e_britannia = {
 		d_pruthenians = {
 			color = { 159 195 75 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53536,7 +53536,7 @@ e_britannia = {
 			# Actually Samoyeds
 			color = { 101 70 34 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53553,7 +53553,7 @@ e_britannia = {
 		d_satakunta = {
 			color = { 117 47 47 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53577,7 +53577,7 @@ e_britannia = {
 		d_sweden = {
 			color={ 55 112 170 }
 
-			tribe = yes
+# 			tribe = yes
 			
 			dignity = 10
 			
@@ -53595,7 +53595,7 @@ e_britannia = {
 		d_tavasts = {
 			color = { 131 21 21 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53611,7 +53611,7 @@ e_britannia = {
 			
 			capital = 574 # Rostov / Merya
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53625,7 +53625,7 @@ e_britannia = {
 		d_veps = {
 			color = { 120 90 40 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53641,7 +53641,7 @@ e_britannia = {
 			
 			capital = 580 # Ryazan
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53677,7 +53677,7 @@ e_britannia = {
 		d_votes = {
 			color = { 0 193 119 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53692,7 +53692,7 @@ e_britannia = {
 		d_yatviags = {
 			color = { 149 97 97 }
 			
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53709,7 +53709,7 @@ e_britannia = {
 		d_zemigalians = {
 			color = { 183 21 21 }
 			culture = lettigallish
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53724,7 +53724,7 @@ e_britannia = {
 			color={ 245 163 176 }
 			color2={ 255 255 255 }
 			culture = polish
-			tribe = yes
+# 			tribe = yes
 			
 			capital = 527 # Krakowskie
 			
@@ -53742,7 +53742,7 @@ e_britannia = {
 			color2={ 255 255 255 }
 			
 			culture = russian
-			tribe = yes
+# 			tribe = yes
 			
 			capital = 419 # Polotsk
 			
@@ -53760,7 +53760,7 @@ e_britannia = {
 			color2={ 255 255 255 }
 			
 			culture = russian
-			tribe = yes
+# 			tribe = yes
 			
 			capital = 567 # Novgorod Seversky
 			
@@ -53778,7 +53778,7 @@ e_britannia = {
 			color2={ 255 255 255 }
 			
 			culture = russian
-			tribe = yes
+# 			tribe = yes
 			
 			capital = 570 # Tver
 			
@@ -53796,7 +53796,7 @@ e_britannia = {
 			color2={ 255 255 255 }
 			
 			culture = russian
-			tribe = yes
+# 			tribe = yes
 			
 			capital = 548 # Pinsk
 			
@@ -53814,7 +53814,7 @@ e_britannia = {
 			color2={ 255 255 255 }
 			
 			culture = russian
-			tribe = yes
+# 			tribe = yes
 			
 			capital = 551 # Mstislavl
 			
@@ -53832,7 +53832,7 @@ e_britannia = {
 			color2={ 255 255 255 }
 			
 			culture = pommeranian
-			tribe = yes
+# 			tribe = yes
 			
 			capital = 312 # Meissen
 			
@@ -53850,7 +53850,7 @@ e_britannia = {
 			color2={ 255 255 255 }
 			
 			culture = pommeranian
-			tribe = yes
+# 			tribe = yes
 			
 			capital = 364 # Luzycka
 			
@@ -53868,7 +53868,7 @@ e_britannia = {
 			color2={ 255 255 255 }
 			
 			culture = pommeranian
-			tribe = yes
+# 			tribe = yes
 			
 			capital = 260 # Mecklenburg
 			
@@ -53886,7 +53886,7 @@ e_britannia = {
 			
 			capital = 437 # Praha
 			culture = bohemian
-			tribe = yes
+# 			tribe = yes
 			
 			allow = {
 				always = no
@@ -53900,7 +53900,7 @@ e_britannia = {
 			
 			capital = 807 # c_Senoussi
 			
-			tribe = yes
+# 			tribe = yes
 			culture = bedouin_arabic
 			
 			allow = {
@@ -53912,7 +53912,7 @@ e_britannia = {
 			color = { 105 20 0 }
 			
 			capital = 916 # Taghaza
-			tribe = yes
+# 			tribe = yes
 			culture = sanhaja
 			
 			allow = {
@@ -53926,7 +53926,7 @@ e_britannia = {
 			color = { 86 51 13 }
 			
 			capital = 921 # Idjil
-			tribe = yes
+# 			tribe = yes
 			culture = tagelmust
 			
 			allow = {
@@ -53940,7 +53940,7 @@ e_britannia = {
 			color = { 194 116 28 }
 			
 			capital = 846 # Ifni
-			tribe = yes
+# 			tribe = yes
 			culture = tagelmust
 			
 			allow = {
@@ -53953,7 +53953,7 @@ e_britannia = {
 		d_guddala = {
 			color = { 150 56 175 }
 			
-			tribe = yes
+# 			tribe = yes
 			culture = tagelmust
 			
 			allow = {
@@ -53966,7 +53966,7 @@ e_britannia = {
 		d_gazzula = {
 			color = { 150 56 175 }
 			
-			tribe = yes
+# 			tribe = yes
 			culture = tagelmust
 			
 			allow = {
@@ -53979,7 +53979,7 @@ e_britannia = {
 		d_targa = {
 			color = { 150 97 51 }
 			
-			tribe = yes
+# 			tribe = yes
 			culture = tuareg
 			
 			allow = {
@@ -53992,7 +53992,7 @@ e_britannia = {
 		d_lawata = {
 			color = { 122 53 19 }
 			
-			tribe = yes
+# 			tribe = yes
 			culture = zanata
 			
 			allow = {
@@ -54005,7 +54005,7 @@ e_britannia = {
 		d_soninke = {
 			color = { 110 50 30 }
 			
-			tribe = yes
+# 			tribe = yes
 			culture = soninke
 			
 			allow = {
@@ -54018,7 +54018,7 @@ e_britannia = {
 			
 			capital = 1482 # Borkou
 
-			tribe = yes
+# 			tribe = yes
 			culture = zaghawa
 			
 			allow = {
@@ -54031,7 +54031,7 @@ e_britannia = {
 		d_duguwa = {
 			color = { 143 64 64 }
 			
-			tribe = yes
+# 			tribe = yes
 			culture = zaghawa
 			
 			allow = {
@@ -54044,7 +54044,7 @@ e_britannia = {
 
 			capital = 1398 # Ghardaiya
 
-			tribe = yes
+# 			tribe = yes
 			culture = zaghawa
 			
 			allow = {
@@ -54059,7 +54059,7 @@ e_britannia = {
 
 			capital = 922 # Tadmekka
 
-			tribe = yes
+# 			tribe = yes
 			culture = tagelmust
 			
 			allow = {
@@ -54074,7 +54074,7 @@ e_britannia = {
 
 			capital = 1411 # Djanet
 
-			tribe = yes
+# 			tribe = yes
 			culture = sanhaja
 			
 			allow = {
@@ -54089,7 +54089,7 @@ e_britannia = {
 
 			capital = 809 # Syrte
 
-			tribe = yes
+# 			tribe = yes
 			culture = zanata
 			
 			allow = {
@@ -54104,7 +54104,7 @@ e_britannia = {
 
 			capital = 1225 # Agadés
 
-			tribe = yes
+# 			tribe = yes
 			culture = tuareg
 			
 			allow = {
@@ -54119,7 +54119,7 @@ e_britannia = {
 
 			capital = 1224 # Takkeda
 
-			tribe = yes
+# 			tribe = yes
 			culture = tuareg
 			
 			allow = {
@@ -54132,7 +54132,7 @@ e_britannia = {
 		d_naqis = {
 			color = { 230 230 110 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = beja
 			
 			title = "Ra'ís"
@@ -54142,7 +54142,7 @@ e_britannia = {
 		d_baqlin = {
 			color = { 230 235 105 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = beja
 			
 			title = "Ra'ís"
@@ -54152,7 +54152,7 @@ e_britannia = {
 		d_djarin = {
 			color = { 235 240 100 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = beja
 			
 			title = "Ra'ís"
@@ -54162,7 +54162,7 @@ e_britannia = {
 		d_qataa = {
 			color = { 240 230 100 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = beja
 			
 			title = "Ra'ís"
@@ -54172,7 +54172,7 @@ e_britannia = {
 		d_bazin = {
 			color = { 225 232 105 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = beja
 			
 			title = "Ra'ís"
@@ -54182,7 +54182,7 @@ e_britannia = {
 		d_danakil = {
 			color = { 90 150 255 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = afar
 			
 			title = "Ra'ís"
@@ -54192,7 +54192,7 @@ e_britannia = {
 		d_silesians = {
 			color={ 231 183 14 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = polish
 			
 			title_prefix = "TRIBE_OF"
@@ -54200,7 +54200,7 @@ e_britannia = {
 		d_polans = {
 			color={ 114 30 41 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = polish
 			
 			title_prefix = "TRIBE_OF"
@@ -54208,7 +54208,7 @@ e_britannia = {
 		d_vistulans = { 
 			color={ 119 64 47 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = polish
 			
 			title_prefix = "TRIBE_OF"
@@ -54216,7 +54216,7 @@ e_britannia = {
 		d_mazovians = { 
 			color={ 147 21 39 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = polish
 			
 			title_prefix = "TRIBE_OF"
@@ -54240,7 +54240,7 @@ e_britannia = {
 			
 			capital = 543 # Oleshye
 			
-			tribe = yes
+# 			tribe = yes
 			culture = pecheneg
 			
 			allow = {
@@ -54294,7 +54294,7 @@ e_britannia = {
 		}
 		k_magyar = {
 			color={ 187 70 70 }
-			tribe = yes
+# 			tribe = yes
 			culture = hungarian
 			
 			capital = 522 # Pest
@@ -54410,7 +54410,7 @@ e_britannia = {
 		k_blemmyes = {
 			color = { 255 67 20 }
 
-			tribe = yes
+# 			tribe = yes
 			culture = beja
 		}
 
