@@ -5,9 +5,9 @@ title = c_nitra
 
 # Settlements
 max_settlements = 4
-b_nyitra = tribal
-#b_tapolcsany = city
-#b_zobor = temple
+b_nyitra = castle
+b_tapolcsany = city
+b_zobor = temple
 
 #b_surany = castle
 #b_zsambok = castle
@@ -18,10 +18,3 @@ b_nyitra = tribal
 # Misc
 culture = moravian
 religion = catholic
-
-# History
-900.1.1 = {
-	b_nyitra = castle
-	b_tapolcsany = city
-	b_zobor = temple
-}
