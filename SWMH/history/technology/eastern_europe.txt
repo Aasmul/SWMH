@@ -1,0 +1,115 @@
+#CENTRAL EUROPE
+
+technology = {
+	titles = {
+		d_brandenburg
+		d_mazovia
+		d_greater_poland
+		d_silesia
+		d_lesser_poland
+		d_kuyavia
+		d_mecklemburg
+		d_pommerania
+		d_pomeralia
+		d_meissen
+		d_livonia
+		d_prussia
+		d_courland
+		d_bohemia
+		d_moravia
+		d_pecs
+		d_esztergom
+		d_nyitra
+		d_ungvar
+		d_pest
+		d_transylvania
+		d_temes
+		d_rashka
+		d_dioclea
+		d_slavonia
+		d_bosnia
+		d_croatia
+		d_dalmatia
+		d_samogitia
+    d_lubeck             
+    d_lubusz             
+    d_lausitz            
+    d_sieradzko-leczyckie
+    d_trakai             
+	}  
+	769 = {
+		military = 0.2
+		economy = 0.2
+		culture = 0.2
+		
+	}
+	
+	1337 = {
+		military = 3.7
+		economy = 3.8
+		culture = 3.7
+	}
+}
+
+
+#EASTERN EUROPE
+
+technology = {
+	titles = {
+		d_polotsk
+		d_lithuanians
+		d_yatviags
+		d_novgorod
+		d_rostov
+		d_tver
+		d_yaroslavl
+		d_vladimir
+		d_moskva
+		d_kiev
+		d_galich
+		d_volhynia
+		d_turov
+		d_vitebsk
+		d_smolensk
+		d_chernigov
+		d_novgorod-seversk
+		d_ryazan
+		d_pereyaslavl
+		d_wallachia
+		d_moldau
+		d_vidin
+		d_pskov
+		d_maris
+		d_mordvins
+    d_zvenyhorod         
+    d_podlaise           
+    d_belz               
+    d_talava             
+    d_zemigalia          
+    d_lettigale          
+    d_dorpat             
+    d_osel_wiek          
+    d_nizhny_novgorod    
+    d_ustyg              
+    d_murom              
+    d_minsk              
+    d_toropec            
+    d_novosil            
+    d_russa              
+    d_olvia              
+	}  
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}
+
+
