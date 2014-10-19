@@ -6,8 +6,8 @@ title = c_deltuva
 # Settlements
 max_settlements = 5
 
-b_deltuva = castle
-b_ukmerge = tribal
+b_deltuva = tribal
+#b_ukmerge = tribal
 b_giedraiciai = temple
 #b_moletai = temple
 #b_anyksciai = temple
