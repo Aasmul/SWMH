@@ -499,7 +499,7 @@
 				owner = ROOT
 				leader = ROOT
 				match_character = ROOT
-				match_mult = 0.5
+				match_mult = 0.25
 				attrition = 1.0
 			}
 			create_character = {
@@ -519,7 +519,7 @@
 					province = 106 # Nantes
 					owner = PREV
 					match_character = ROOT
-					match_mult = 0.5
+					match_mult = 0.25
 					attrition = 1.0
 				}
 			}
@@ -539,7 +539,7 @@
 					province = 106 # Nantes
 					owner = PREV
 					match_character = ROOT
-					match_mult = 0.5
+					match_mult = 0.25
 					attrition = 1.0
 				}
 			}
@@ -618,7 +618,7 @@
 				owner = ROOT
 				leader = ROOT
 				match_character = ROOT
-				match_mult = 0.5
+				match_mult = 0.125
 				attrition = 1.0
 			}
 			spawn_fleet = {
@@ -2841,7 +2841,7 @@
 				owner = ROOT
 				leader = ROOT
 				match_character = ROOT
-				match_mult = 0.1
+				match_mult = 0.05
 				attrition = 1.0
 			}
 			create_character = {
@@ -2861,7 +2861,7 @@
 					province = 272 # Akershus
 					owner = PREV
 					match_character = ROOT
-					match_mult = 0.1
+					match_mult = 0.05
 					attrition = 1.0
 				}
 			}
@@ -2881,7 +2881,7 @@
 					province = 272 # Akershus
 					owner = PREV
 					match_character = ROOT
-					match_mult = 0.1
+					match_mult = 0.05
 					attrition = 1.0
 				}
 			}
@@ -3621,7 +3621,7 @@
 				owner = ROOT
 				leader = ROOT
 				match_character = ROOT
-				match_mult = 0.8
+				match_mult = 0.4
 				attrition = 0.5
 			}
 			create_character = {
@@ -3641,7 +3641,7 @@
 					province = 57 # York
 					owner = PREV
 					match_character = ROOT
-					match_mult = 0.8
+					match_mult = 0.4
 					attrition = 0.5
 				}
 			}
@@ -3662,7 +3662,7 @@
 					province = 57 # York
 					owner = PREV
 					match_character = ROOT
-					match_mult = 0.8
+					match_mult = 0.4
 					attrition = 0.5
 				}
 			}
@@ -3757,7 +3757,7 @@
 				owner = ROOT
 				leader = ROOT
 				match_character = ROOT
-				match_mult = 1.75
+				match_mult = 0.875
 				attrition = 0.5
 			}
 			c_163119 = { # Ubbe
@@ -3765,7 +3765,7 @@
 					province = 57 # York
 					owner = PREV
 					match_character = ROOT
-					match_mult = 1.75
+					match_mult = 0.875
 					attrition = 0.5
 				}
 			}
@@ -3786,7 +3786,7 @@
 					province = 57 # York
 					owner = PREV
 					match_character = ROOT
-					match_mult = 1.75
+					match_mult = 0.875
 					attrition = 0.5
 					disband_on_peace = yes
 				}
@@ -3882,7 +3882,7 @@
 				owner = ROOT
 				leader = ROOT
 				match_character = ROOT
-				match_mult = 1.0
+				match_mult = 0.5
 				attrition = 1.0
 			}
 			spawn_fleet = {

@@ -1064,7 +1064,7 @@
 				owner = ROOT
 				leader = ROOT
 				match_character = ROOT
-				match_mult = 0.3
+				match_mult = 0.08
 				attrition = 1.0
 			}
 			spawn_unit = {
@@ -1072,7 +1072,7 @@
 				owner = ROOT
 				leader = 148 # Odo of Bayeux
 				match_character = ROOT
-				match_mult = 0.3
+				match_mult = 0.08
 				attrition = 1.0
 			}
 			spawn_unit = {
@@ -1080,7 +1080,7 @@
 				owner = ROOT
 				leader = 6818 # William of Eu
 				match_character = ROOT
-				match_mult = 0.3
+				match_mult = 0.08
 				attrition = 1.0
 			}
 			spawn_unit = {
@@ -1088,7 +1088,7 @@
 				owner = ROOT
 				leader = 150 # Robert of Mortain
 				match_character = ROOT
-				match_mult = 0.3
+				match_mult = 0.08
 				attrition = 1.0
 				merge = yes # Merge all armies in this province
 			}
