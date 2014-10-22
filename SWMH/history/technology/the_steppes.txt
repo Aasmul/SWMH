@@ -21,6 +21,15 @@ technology = {
 		d_merv
 		d_dihistan
 		d_beloozero
+    d_khwarazm       
+    d_ustyurt        
+    d_dasht-i-qipchaq
+    d_jand           
+    d_zhyetsu        
+    d_kashgar        
+    d_qocho          
+    d_ayaguz         
+    d_jungaria       
     d_syrt           
     d_mordva         
 	}
