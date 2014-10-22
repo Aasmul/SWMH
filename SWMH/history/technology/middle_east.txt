@@ -72,7 +72,10 @@ technology = {
 		d_mazandaran
 		d_kermanshah
 		d_esfahan
+    d_jebal     
     d_khoar     
+    d_ahwaz     
+    d_tabarestan
     d_gilan     
 	}  
 
@@ -98,7 +101,17 @@ technology = {
 		d_kerman
     d_birjand 
     d_hormuz
+    d_mafaza    
+    d_nishapur  
+    d_herat     
+    d_balkh     
     d_makran    
+    d_soghd     
+    d_ustrushana
+    d_ferghana  
+    d_shash     
+    d_zabolestan
+    d_khottal   
 	}  
 
 	769 = {
