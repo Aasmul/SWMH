@@ -194,7 +194,7 @@
 				owner = ROOT
 				leader = ROOT
 				match_character = ROOT
-				match_mult = 0.35
+				match_mult = 0.19
 				attrition = 1.0
 			}
 			spawn_unit = {
@@ -202,7 +202,7 @@
 				owner = ROOT
 				leader = 124 # Tostig
 				match_character = ROOT
-				match_mult = 0.35
+				match_mult = 0.19
 				attrition = 1.0
 			}
 			spawn_unit = {
@@ -210,8 +210,9 @@
 				owner = ROOT
 				leader = 102534 # Olav Kyrre
 				match_character = ROOT
-				match_mult = 0.35
+				match_mult = 0.19
 				attrition = 1.0
+				merge = yes # Merge all armies in this province
 			}
 		}
 	}

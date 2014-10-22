@@ -3637,7 +3637,7 @@
 					province = 496 # Constantinople
 					owner = PREV
 					match_character = ROOT
-					match_mult = 0.8
+					match_mult = 0.4
 				}
 			}
 			create_character = {
@@ -3657,7 +3657,7 @@
 					province = 496 # Constantinople
 					owner = PREV
 					match_character = ROOT
-					match_mult = 0.8
+					match_mult = 0.4
 				}
 			}
 			create_character = {
@@ -3677,7 +3677,7 @@
 					province = 496 # Constantinople
 					owner = PREV
 					match_character = ROOT
-					match_mult = 0.8
+					match_mult = 0.4
 				}
 			}
 		}
