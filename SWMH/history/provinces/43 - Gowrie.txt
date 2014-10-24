@@ -7,7 +7,7 @@ title = c_gowrie
 max_settlements = 6
 b_scone = tribal
 b_dunkeld = temple
-b_forteviot = castle
+#b_forteviot = castle
 #b_dundee = city
 #b_clunie = castle
 

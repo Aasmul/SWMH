@@ -5,7 +5,7 @@ title = c_dunphris
 
 # Settlements
 max_settlements = 3
-b_lochmaben = castle
+b_lochmaben = tribal
 #b_dumfries = city
 #b_caerlaverock = castle
 
@@ -15,4 +15,8 @@ religion = catholic
 
 # History
 400.1.1 = { culture = cumbric } 
+1000.1.1 = { 
+	culture = scottish
+	b_lochmaben = castle
+} 
 1100.1.1 = { culture = scottish } 

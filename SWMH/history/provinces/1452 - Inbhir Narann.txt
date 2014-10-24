@@ -5,7 +5,7 @@ title = c_inbhirnarann
 
 # Settlements
 max_settlements = 2
-b_cawdor = castle
+b_cawdor = tribal
 #b_nairn = city
 
 # Misc
@@ -13,3 +13,6 @@ culture = scottish
 religion = catholic
 
 # History
+1000.1.1 = {
+	b_cawdor = castle
+}
