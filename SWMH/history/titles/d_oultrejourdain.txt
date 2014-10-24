@@ -1,3 +1,13 @@
+866.1.1={
+	liege = "e_arabia"
+}
+866.1.1={
+	holder = 163135
+}
+877.1.1={
+	liege = 0
+	holder = 0
+}
 978.1.1={
 	liege="k_shiite"
 }
