@@ -7,7 +7,7 @@ title = c_laois
 max_settlements = 3
 
 b_aghaboe = temple
-b_dunamase = tribal
+b_dunamase = castle
 #b_durrow = castle
 #b_timahoe = temple
 
@@ -16,6 +16,3 @@ culture = irish
 religion = catholic
 
 # History
-1000.1.1 = {
-	b_dunamase = castle
-}

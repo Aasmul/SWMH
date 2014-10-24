@@ -7,7 +7,7 @@ title = c_annaly
 max_settlements = 3
 
 
-b_longford = tribal
+b_longford = castle
 b_granard = temple
 #b_moatfarrell = castle
 
@@ -16,6 +16,3 @@ culture = irish
 religion = catholic
 
 # History
-1000.1.1 = {
-	b_longford = castle
-}

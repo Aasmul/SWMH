@@ -6,7 +6,7 @@ title = c_tipperary
 # Settlements
 max_settlements = 3
 
-b_cashel = tribal
+b_cashel = castle
 b_emly = temple
 #b_kilcash = temple
 #b_cahir = castle
@@ -17,6 +17,3 @@ culture = irish
 religion = catholic
 
 # History
-1000.1.1 = {
-	b_cashel = castle
-}

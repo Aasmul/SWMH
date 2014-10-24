@@ -6,8 +6,8 @@ title = c_galway
 # Settlements
 max_settlements = 4
 
-b_tuam = tribal
-#b_galway = city
+b_tuam = castle
+b_galway = city
 
 #b_clonfert = temple
 #b_kilmacduagh = temple
@@ -21,7 +21,3 @@ culture = irish
 religion = catholic
 
 # History
-1000.1.1 = {
-	b_tuam = castle
-	b_galway = city
-}
