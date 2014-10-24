@@ -503,10 +503,7 @@ succession_laws = {
 			temporary = no
 			OR = {
 				is_primary_type_title = yes
-				AND = {
-					is_landless_type_title = yes
-					is_tribal_type_title = no
-				}
+				holy_order = yes
 				AND = {
 					tier = baron
 					OR = {
