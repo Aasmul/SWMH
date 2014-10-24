@@ -6,7 +6,7 @@ title = c_tethbae
 # Settlements
 max_settlements = 3
 
-b_athlone = tribal
+b_athlone = castle
 b_ardagh = temple
 #b_moate = castle
 
@@ -16,6 +16,3 @@ culture = irish
 religion = catholic
 
 # History
-1000.1.1 = {
-	b_athlone = castle
-}

@@ -6,8 +6,8 @@ title = c_limerick
 # Settlements
 max_settlements = 3
 
-b_limerick_castle = tribal
-#b_limerick = city
+b_limerick_castle = castle
+b_limerick = city
 
 #b_askeaton = castle
 #b_adare = city
@@ -19,10 +19,6 @@ religion = catholic
 
 # History
 867.1.1 = {
-	b_limerick_castle = tb_shipyard_1
-}
-1000.1.1 = {
-	b_limerick_castle = castle
-	b_limerick = city
+	b_limerick_castle = ca_shipyard_1
 }
 1047.10.25 = { culture = norsegaelic }
