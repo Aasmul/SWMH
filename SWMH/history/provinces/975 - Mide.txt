@@ -6,8 +6,8 @@ title = c_mide
 # Settlements
 max_settlements = 4
 
-b_tara_meath = tribal
-#b_morgallion = castle
+b_tara_meath = castle
+b_morgallion = castle
 b_kells = temple
 #b_ratoath = city
 #b_navan = city
@@ -19,7 +19,3 @@ culture = irish
 religion = catholic
 
 # History
-1000.1.1 = {
-	b_tara_meath = castle
-	b_morgallion = castle
-}

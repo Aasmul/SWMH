@@ -6,8 +6,8 @@ title = c_cork
 # Settlements
 max_settlements = 4
 
-b_dunboy = tribal
-#b_cork = city
+b_dunboy = castle
+b_cork = city
 b_cloyne = temple
 
 #b_youghal = city
@@ -20,10 +20,6 @@ religion = catholic
 
 # History
 867.1.1 = {
-	b_dunboy = tb_shipyard_1
-}
-1000.1.1 = {
-	b_dunboy = castle
-	b_cork = city
+	b_dunboy = ca_shipyard_1
 }
 1047.10.25 = { culture = norsegaelic }
