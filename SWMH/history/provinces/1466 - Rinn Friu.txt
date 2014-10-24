@@ -6,7 +6,7 @@ title = c_rinnfriu
 # Settlements
 max_settlements = 5
 b_cadzow = castle
-b_glasgow = city
+#b_glasgow = city
 b_st_kentigern = temple
 #b_lanark = city
 #b_bothwell = castle
@@ -19,4 +19,8 @@ religion = catholic
 # History
 
 400.1.1 = { culture = cumbric } 
-1000.1.1 = { culture = scottish } 
+1000.1.1 = { 
+	culture = scottish
+	b_cadzow = castle
+	b_glasgow = city
+} 

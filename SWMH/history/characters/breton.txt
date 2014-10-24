@@ -4813,3 +4813,42 @@
 		death=yes
 	}
 }
+189430 = {
+	name="Gradlon" # 
+	dynasty=10290904
+	religion="catholic"
+	culture="breton"
+	father=159669
+	713.1.1={
+		birth="713.1.1"
+	}
+	758.1.1={
+		death="758.1.1"
+	}
+}
+189431 = {
+	name="Morvan" # 
+	dynasty=10290904
+	religion="catholic"
+	culture="breton"
+	father=189430
+	740.1.1={
+		birth="740.1.1"
+	}
+	788.1.1={
+		death="788.1.1"
+	}
+}
+189432 = {
+	name="Concar" # 
+	dynasty=10290904
+	religion="catholic"
+	culture="breton"
+	father=189431
+	765.1.1={
+		birth="765.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}

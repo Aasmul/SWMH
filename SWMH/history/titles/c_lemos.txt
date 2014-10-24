@@ -1,6 +1,6 @@
 866.5.27=
 {
-liege="k_spanish_galicia"
+liege="k_asturias"
 }
 867.1.1=
 {

@@ -23903,3 +23903,616 @@
 		death="747.1.1"
 	}
 }
+
+108512 = {
+	name="Rodrigo"
+	dynasty=402
+	martial=8
+	diplomacy=5
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="castillan"
+	trait="tough_soldier"
+	father=108510
+	mother=108511
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1068.1.1 = {
+		add_spouse=72706
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
+}
+108570 = {
+	name="Alfonso" #AKA: Alfonso V 'el Noble'
+	dynasty=436
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="castillan"
+	trait="tough_soldier"
+	father=108590
+	mother=107673
+	996.1.1 = {
+		birth="996.1.1"
+	}
+	999.9.1 = {
+		capital=k_leon
+		give_nickname = nick_the_noble
+	}
+	1015.1.1 = {
+		add_spouse=109624
+	}
+	1023.1.2 = {
+		add_spouse=106042
+	}
+	1028.8.7 = {
+		death="1028.8.7"
+	}
+}
+108590={
+	name="Bermudo" # AKA: Bermudo II 'el Gotoso'
+	dynasty=436
+
+	father=108600
+	mother=70244
+
+	religion=catholic
+	culture=castillan
+
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+
+	trait=chaste
+	trait=cynical
+	trait=ill
+	trait=charismatic_negotiator
+
+	953.1.1={
+		birth=yes
+	}
+	984.1.1={
+		capital=k_leon
+	}
+	991.1.1={
+		add_spouse=107673
+	}
+	998.1.1={
+		give_nickname=nick_the_gouty
+	}
+	999.9.1={
+		death=yes
+	}
+}
+108591={
+	name="Velasquita"
+	female=yes
+
+	religion=catholic
+	culture=castillan
+
+	965.1.1={
+		birth=yes
+	}
+	1015.1.1={
+		death=yes
+	}
+}
+108610 = {
+	name="Ramiro" #AKA: Ramiro III 'el Niño'
+	dynasty=436
+	martial=6
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="castillan"
+	trait="deceitful"
+	trait="brave"
+	trait="flamboyant_schemer"
+	father=70026
+	mother=70027
+	960.1.1 = {
+		birth="960.1.1"
+	}
+	966.1.1 = {
+		capital=k_leon
+	}
+	979.1.1 = {
+		add_spouse=70028
+	}
+	984.1.1 = {
+		death="984.1.1"
+	}
+}
+70031 = {
+	name="Ordoño"
+	dynasty=436
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="castillan"
+	trait="bastard"
+	trait="cynical"
+	trait="underhanded_rogue"
+	father=108590
+	987.1.1 = {
+		birth="987.1.1"
+	}
+	1016.1.1 = {
+		add_spouse=70113
+	}
+	1042.9.18 = {
+		death="1042.9.18"
+	}
+}
+70043 = {
+	name="Alfonso"
+	dynasty=436
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="castillan"
+	trait="slothful"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	father=70031
+	mother=70113
+	1026.1.1 = {
+		birth="1026.1.1"
+	}
+	1066.1.1 = {
+		employer=70032
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+70051 = {
+	name="Jimena"
+	female=yes
+	dynasty=436
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="castillan"
+	trait="deceitful"
+	trait="wroth"
+	trait="thrifty_clerk"
+	father=70031
+	mother=70113
+	1017.1.1 = {
+		birth="1017.1.1"
+	}
+	1045.1.1 = {
+		death="1045.1.1"
+	}
+}
+70075={
+	name="Bermudo" #AKA: Bermudo III of León
+	dynasty=436
+
+	father=108570
+	mother=109624
+
+	religion=catholic
+	culture=castillan
+
+	martial=4
+	diplomacy=3
+	intrigue=3
+	stewardship=6
+
+	trait=shy
+	trait=content
+	trait=indulgent_wastrel
+
+	1018.1.1={
+		birth=yes
+	}
+	1037.9.4={
+		death=yes
+	}
+}
+70091 = {
+	name="Elvira"
+	female=yes
+	dynasty=402
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="castillan"
+	trait="cynical"
+	trait="proud"
+	trait="amateurish_plotter"
+	father=108510
+	mother=108511
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	
+	1111.1.1 = {
+		death="1111.1.1"
+	}
+}
+70092 = {
+	name="Fernando"
+	dynasty=8620
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="castillan"
+	trait="greedy"
+	trait="brave"
+	trait="tough_soldier"
+	
+	1004.1.1 = {
+		birth="1004.1.1"
+	}
+	1022.1.1 = {
+		add_spouse=70093
+	}
+	1054.1.1 = {
+		death="1054.1.1"
+	}
+}
+70112 = {
+	name="Gotina"
+	female=yes
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="castillan"
+	trait="chaste"
+	trait="zealous"
+	trait="indulgent_wastrel"
+	966.1.1={
+		birth="966.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+9051 = {
+	name="Vellido"
+	dynasty=20061
+	martial=4
+	diplomacy=4
+	intrigue=9
+	stewardship=5
+	religion="catholic"
+	culture="castillan"
+	trait="deceitful"
+	trait="elusive_shadow"
+	1045.1.2 = {
+		birth="1045.1.2"
+	}
+	1095.1.2 = {
+		death="1095.1.2"
+	}
+}
+71586={
+	name="Lope"
+	dynasty=442
+
+	father=71583
+	mother=71584
+
+	religion=catholic
+	culture=castillan
+
+	1097.1.1={
+		birth=yes
+	}
+	1124.1.1={
+		death=yes
+	}
+}
+71581={
+	name="Talesa"
+	female=yes
+	dynasty=442
+
+	father=110515
+	mother=71587
+
+	religion=catholic
+	culture=castillan
+
+	1070.1.1={
+		birth=yes
+	}
+	1155.11.1 = {
+		death=yes
+	}
+}
+200076={
+	name="Gómez"
+	dynasty=8603
+
+	father=200079
+
+	religion=catholic
+	culture=castillan
+
+	1000.1.1={
+		birth=yes
+	}
+	1057.8.11={
+		death=yes
+	}
+}
+200077={
+	name="Fernando"
+	dynasty=8603
+
+	father=72840
+	mother=200078
+
+	religion=catholic
+	culture=castillan
+
+	1143.1.1={
+		birth=yes
+	}
+	1175.6.3={
+		death=yes
+	}
+}
+200078={
+	name="María"
+	female=yes
+
+	religion=catholic
+	culture=castillan
+
+	1125.1.1={
+		birth=yes
+	}
+	1187.1.1={
+		death=yes
+	}
+}
+200079={
+	name="Diego"
+	dynasty=8603
+
+	religion=catholic
+	culture=castillan
+
+	978.1.1={
+		birth=yes
+	}
+	1028.1.1={
+		death=yes
+	}
+}
+200080={
+	name="Mayor"
+	female=yes
+	dynasty=12143
+
+	father=72475
+	mother=72476
+
+	religion=catholic
+	culture=castillan
+
+	1209.1.1={
+		birth=yes
+	}
+	1226.1.1={
+		death=yes
+	}
+}
+200081={
+	name="Beatriz"
+	female=yes
+
+	religion=catholic
+	culture=castillan
+
+	1210.1.1={
+		birth=yes
+	}
+	1266.1.1={
+		death=yes
+	}
+}
+200082={
+	name="María"
+	female=yes
+	dynasty=12143
+
+	father=72475
+	mother=72477
+
+	religion=catholic
+	culture=castillan
+
+	1229.1.1={
+		birth=yes
+	}
+	1291.1.1={
+		death=yes
+	}
+}
+200083={
+	name="Diego"
+	dynasty=12143
+
+	father=72475
+	mother=72477
+
+	religion=catholic
+	culture=castillan
+
+	1224.1.1={
+		birth=yes
+	}
+	1278.1.1={
+		death=yes
+	}
+}
+200084={
+	name="Mayor"
+	female=yes
+	dynasty=12143
+
+	father=72475
+	mother=72477
+
+	religion=catholic
+	culture=castillan
+
+	trait=detached_priest
+
+	1226.1.1={
+		birth=yes
+	}
+	1290.1.1={
+		death=yes
+	}
+}
+200085={
+	name="Teresa"
+	female=yes
+	dynasty=12143
+	father=72475
+	mother=72477
+
+	religion=catholic
+	culture=castillan
+
+	1228.1.1={
+		birth=yes
+	}
+	1289.1.1={
+		death=yes
+	}
+}
+200102={
+	name="Ordoño"
+	dynasty=8620
+
+	father=70107
+	mother=70108
+
+	religion=catholic
+	culture=castillan
+
+	1079.1.1={
+		birth=yes
+	}
+	1104.1.19={
+		death=yes
+	}
+}
+200103={
+	name="Gontroda"
+	female=yes
+	dynasty=8620
+
+	father=70107
+	mother=70108
+
+	religion=catholic
+	culture=castillan
+
+	1081.1.1={
+		birth=yes
+	}
+	1104.1.19={
+		death=yes
+	}
+}
+200104={
+	name="Marina"
+	female=yes
+	dynasty=12143
+
+	father=72478
+	mother=71436
+
+	religion=catholic
+	culture=castillan
+
+	trait=detached_priest
+
+	1256.1.1={
+		birth=yes
+	}
+	1320.1.1={
+		death=yes
+	}
+}
+200105={
+	name="Rodrigo"
+	dynasty=12143
+
+	father=72475
+	mother=72476
+
+	religion=catholic
+	culture=castillan
+
+	1205.1.1={
+		birth=yes
+	}
+	1228.1.1={
+		add_spouse=200081
+	}
+	1260.1.1={
+		death=yes
+	}
+}
+200106={
+	name="Lope"
+	dynasty=7033
+
+	religion=catholic
+	culture=castillan
+
+	1252.1.1={
+		birth=yes
+	}
+	1279.1.1={
+		add_spouse=200107
+	}
+	1300.8.1={
+		death=yes
+	}
+}
+200107={
+	name="María"
+	female=yes
+
+	religion=catholic
+	culture=castillan
+
+	1260.1.1={
+		birth=yes
+	}
+	1325.1.1={
+		death=yes
+	}
+}

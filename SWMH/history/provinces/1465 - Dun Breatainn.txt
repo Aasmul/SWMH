@@ -6,7 +6,7 @@ title = c_dunbreatainn
 # Settlements
 max_settlements = 3
 
-b_dumbarton = castle
+b_dumbarton = tribal
 b_old_kilpatrick = temple
 #b_arrochar = city
 
@@ -16,4 +16,7 @@ religion = catholic
 
 # History
 400.1.1 = { culture = cumbric } 
-1000.1.1 = { culture = scottish } 
+1000.1.1 = { 
+	culture = scottish
+	b_dumbarton = castle
+} 

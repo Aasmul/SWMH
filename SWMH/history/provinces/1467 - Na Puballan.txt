@@ -5,7 +5,7 @@ title = c_napuballan
 
 # Settlements
 max_settlements = 3
-b_neidpath = castle
+b_neidpath = tribal
 b_stobo = temple
 #b_peebles = city
 
@@ -18,4 +18,7 @@ religion = catholic
 
 # History
 700.1.1 = { culture = saxon } 
-1000.1.1 = { culture = scottish } 
+1000.1.1 = { 
+	culture = scottish
+	b_neidpath = castle
+} 

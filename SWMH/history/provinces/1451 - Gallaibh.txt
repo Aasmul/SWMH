@@ -5,7 +5,7 @@ title = c_gallaibh
 
 # Settlements
 max_settlements = 3
-b_thurso = castle
+b_thurso = tribal
 #b_wick = castle
 #b_dunbeath = city
 
@@ -15,3 +15,6 @@ culture = scottish
 religion = catholic
 
 # History
+1000.1.1 = {
+	b_thruso = castle
+}

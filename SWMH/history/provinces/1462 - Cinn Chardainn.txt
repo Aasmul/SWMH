@@ -6,8 +6,8 @@ title = c_cinnchardainn
 # Settlements
 max_settlements = 4
 
-b_dunnottar = castle
-b_stonehaven = city
+b_dunnottar = tribal
+#b_stonehaven = city
 b_ecclesgreig = temple
 #b_inverbervie = castle
 
@@ -16,3 +16,7 @@ culture = scottish
 religion = catholic
 
 # History
+1000.1.1 = {
+	b_dunnottar = castle
+	b_stonehaven = city
+}
