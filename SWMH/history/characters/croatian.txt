@@ -2243,3 +2243,562 @@
 		death="1086.1.1"
 	}
 }
+34145 = {
+	name="Ninoslav"
+	dynasty=183
+	religion="catholic"
+	culture="croatian"
+	father=218801
+	1205.1.1={
+		birth="1205.1.1"
+	}
+	1232.1.1={
+		religion="bogomilist"
+	} 
+	1249.3.1={
+		death="1249.3.1"
+	}
+}
+34146 = {
+	name="Radonja"
+	dynasty=183
+	religion="catholic"
+	culture="croatian"
+	father=218801
+	1203.1.1={
+		birth="1203.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+34147 = {
+	name="Ugrin"
+	dynasty=183
+	religion="catholic"
+	culture="croatian"
+	father=218801
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+34148 = {
+	name="Prijezda"
+	dynasty=34
+	religion="catholic"
+	culture="croatian"
+	1211.1.1={
+		birth="1211.1.1"
+	}
+	1250.1.1={
+		religion="bogomilist"
+	} 
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+34149 = {
+	name="Prijezda"
+	dynasty=34
+	religion="catholic"
+	culture="croatian"
+	father=34148
+	1233.1.1={
+		birth="1233.1.1"
+	}
+	1250.1.1={
+		religion="bogomilist"
+	}
+	1295.1.1={
+		death="1295.1.1"
+	}
+}
+34150 = {
+	name="Vuk"
+	dynasty=34
+	religion="catholic"
+	culture="croatian"
+	father=34148
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1250.1.1={
+		religion="bogomilist"
+	}
+	1287.1.1={
+		death="1287.1.1"
+	}
+}
+34151 = {
+	name="Ninoslav"
+	dynasty=34
+	religion="catholic"
+	culture="croatian"
+	father=468810
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+34153 = {
+	name="Stjepan"
+	dynasty=34
+	religion="catholic"
+	culture="croatian"
+	trait="bastard"
+	father=34151
+	1312.1.1={
+		birth="1312.1.1"
+	}
+	1395.9.7={
+		death="1395.9.7"
+	}
+}
+468800 = {
+	name="Stjepan"
+	dynasty=34
+	martial=4
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="croatian"
+	trait="flamboyant_schemer"
+	father=468810
+	mother=34120
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1306.1.1={
+		add_spouse = 471538
+	}
+	1353.1.1={
+		death="1353.1.1"
+	}
+}
+468801 = {
+	name="Katarina"
+	female = yes
+	dynasty=34
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="croatian"
+	father=468800
+	mother=471538
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1396.1.1={
+		death="1396.1.1"
+	}
+}
+468805 = {
+	name="Vladislav"
+	dynasty=34
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="croatian"
+	trait="lustful"
+	trait="tough_soldier"
+	father=468810
+	mother=34120
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1337.1.1={
+		add_spouse=470010
+	}
+	1353.1.1={
+		death="1353.1.1"
+	}
+}
+468806 = {
+	name="Katarina"
+	female = yes
+	dynasty=34
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="catholic"
+	culture="croatian"
+	trait="flamboyant_schemer"
+	father=468810
+	mother=34120
+	1294.1.1={
+		birth="1294.1.1"
+	}
+	1355.1.1={
+		death="1355.1.1"
+	}
+}
+468807 = {
+	name="Marija"
+	female = yes
+	dynasty=34
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="croatian"
+	trait="fortune_builder"
+	father=468810
+	mother=34120
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1358.1.1={
+		death="1358.1.1"
+	}
+}
+468810 = {
+	name="Stjepan"
+	dynasty=34
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="croatian"
+	trait="charitable"
+	trait="amateurish_plotter"
+	father=34148
+	1242.1.1={
+		birth="1242.1.1"
+	}
+	1250.1.1={
+		religion="bogomilist"
+	} 
+	1289.1.1={
+		religion="catholic"
+	} 
+	1289.1.1={
+		add_spouse=34120
+	}
+	1314.1.13={
+		death="1314.1.13"
+	}
+}
+218800 = {
+	name="Kulin"
+	dynasty=183
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="croatian"
+	trait="lustful"
+	trait="humble"
+	trait="brave"
+	trait="skilled_tactician"
+	1153.1.1={
+		birth="1153.1.1"
+	}
+	1204.1.1={
+		death="1204.1.1"
+	}
+}
+218801 = {
+	name="Stjepan"
+	dynasty=183
+	martial=8
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="croatian"
+	trait="charitable"
+	trait="tough_soldier"
+	father=218800
+	1185.1.1={
+		birth="1185.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+146000 = {
+	name="Mislav"
+	dynasty=512
+	religion="catholic"
+	culture="croatian"
+	father=146001
+	800.1.1={
+		birth="800.1.1"
+	}
+	845.1.1={
+		death="845.1.1"
+	}
+}
+146001 = {
+	name="Vladislav"
+	dynasty=512
+	religion="catholic"
+	culture="croatian"
+	father=146002
+	780.1.1={
+		birth="780.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+146002 = {
+	name="Klonimir"
+	dynasty=512
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146004
+	760.1.1={
+		birth="760.1.1"
+	}
+	780.1.1 = {
+		religion = catholic
+	}
+	815.1.1={
+		death="815.1.1"
+	}
+}
+146003 = {
+	name="Borna"
+	dynasty=512
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146004
+	758.1.1={
+		birth="758.1.1"
+	}
+	780.1.1 = {
+		religion = catholic
+	}
+	821.1.1={
+		death="821.1.1"
+	}
+}
+146004 = {
+	name="Viseslav"
+	dynasty=512
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146005
+	738.1.1={
+		birth="738.1.1"
+	}
+	780.1.1 = {
+		religion = catholic
+	}
+	802.1.1={
+		death="802.1.1"
+	}
+}
+146005 = {
+	name="Budimir"
+	dynasty=512
+	religion="slavic_pagan"
+	culture="croatian"
+
+	718.1.1={
+		birth="718.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+146006 = {
+	name="Dobimir"
+	dynasty=100462
+	religion="catholic"
+	culture="croatian"
+	father=146007
+	790.1.1 = {
+		birth="760.1.1"
+	}
+	845.1.1 = {
+		death="845.1.1"
+	}
+}
+146007 = {
+	name="Krepimir"
+	dynasty=100462
+	religion="catholic"
+	culture="croatian"
+	father=146008
+	759.1.1 = {
+		birth="759.1.1"
+	}
+	818.1.1 = {
+		death="818.1.1"
+	}
+}
+146008 = {
+	name="Pridislav"
+	dynasty=100462
+	religion="slavic_pagan"
+	culture="croatian"
+
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	780.1.1 = {
+		religion = catholic
+	}
+	792.1.1 = {
+		death="792.1.1"
+	}
+}
+146179 = {
+	name="Vitimir"
+	dynasty=12284
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146180
+	798.1.1={
+		birth=yes
+	}
+	859.1.1={
+		death=yes
+	}
+}
+146180 = {
+	name="Drzislav"
+	dynasty=12284
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146181
+	777.1.1={
+		birth=yes
+	}
+	833.1.1={
+		death=yes
+	}
+}
+146181 = {
+	name="Sebeslav"
+	dynasty=12284
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146182
+	759.1.1={
+		birth=yes
+	}
+	818.1.1={
+		death=yes
+	}
+}
+146182 = {
+	name="Hranislav"
+	dynasty=12284
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146184
+	741.1.1={
+		birth=yes
+	}
+	804.1.1={
+		death=yes
+	}
+}
+146183 = {
+	name="Dragomir"
+	dynasty=12284
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146184
+	743.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+146184 = {
+	name="Tvrdoslav"
+	dynasty=12284
+	religion="slavic_pagan"
+	culture="croatian"
+
+	719.1.1={
+		birth=yes
+	}
+	781.1.1={
+		death=yes
+	}
+}
+146009 = {
+	name="Petar"
+	dynasty=9560
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146010
+	761.1.1 = {
+		birth="761.1.1"
+	}
+	813.1.1 = {
+		death="813.1.1"
+	}
+}
+146010 = {
+	name="Beloje"
+	dynasty=9560
+	religion="slavic_pagan"
+	culture="croatian"
+
+	729.1.1 = {
+		birth="729.1.1"
+	}
+	786.1.1 = {
+		death="786.1.1"
+	}
+}
+146011 = {
+	name="Mislav"
+	dynasty=1022356
+	religion="slavic_pagan"
+	culture="croatian"
+
+	725.1.1 = {
+		birth="725.1.1"
+	}
+	787.1.1 = {
+		death="787.1.1"
+	}
+}
+146012 = {
+	name="Miroslav"
+	dynasty=1022356
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146011
+	755.1.1 = {
+		birth="755.1.1"
+	}
+	806.1.1 = {
+		death="806.1.1"
+	}
+}
+146013 = {
+	name="Milorad"
+	dynasty=1022356
+	religion="slavic_pagan"
+	culture="croatian"
+	father=146012
+	790.1.1 = {
+		birth="790.1.1"
+	}
+	843.1.1 = {
+		death="843.1.1"
+	}
+}

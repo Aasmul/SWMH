@@ -5841,3 +5841,1746 @@
 		death="1072.12.1"
 	}
 }
+70273 = {
+	name="Toda"
+	female=yes
+	dynasty=788
+	martial=5
+	diplomacy=9
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="charitable"
+	trait="just"
+	trait="flamboyant_schemer"
+	father=70274
+	mother=54001
+	
+	905.1.1 = {
+		birth="905.1.1"
+	}
+	958.1.1 = {
+		death="958.1.1"
+	}
+}
+70274 = {
+	name="Galindo"
+	dynasty=788
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="ambitious"
+	trait="diligent"
+	trait="intricate_webweaver"
+	father=70276
+	mother=70299
+	
+	865.1.1 = {
+		birth="865.1.1"
+	}
+	900.1.1 = {
+		add_spouse=54001
+	}
+	905.1.1 = {
+		add_spouse=73770
+	}
+	922.1.1 = {
+		death="922.1.1"
+	}
+}
+70277 = {
+	name="Galindo"
+	dynasty=788
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=4
+	religion="catholic"
+	culture="basque"
+	trait="craven"
+	trait="content"
+	trait="indulgent_wastrel"
+	father=70300
+	807.1.1 = {
+		birth="807.1.1"
+	}
+	867.1.1 = {
+		death="867.1.1"
+	}
+}
+70301 = {
+	name="Matrona"
+	female=yes
+	dynasty=788
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="basque"
+	trait="mystic"
+	trait="depressed"
+	trait="indulgent_wastrel"
+	father=70300
+	
+	802.1.1 = {
+		birth="802.1.1"
+	}
+	870.1.1 = {
+		death="870.1.1"
+	}
+}
+70302={
+	name="Gartzia" # AKA: García I 'el Malo'
+	dynasty=12285
+
+	father=200193
+
+	religion=catholic
+	culture=basque
+
+	785.1.1={
+		birth=yes
+	}
+	818.1.1={
+		add_spouse=70301
+	}
+	820.1.1={
+		remove_spouse=70301
+	}
+	825.1.1={
+		add_spouse=73777
+	}
+	833.1.1={
+		death=yes
+	}
+}
+70303 = {
+	name="Galindo"
+	dynasty=12285
+	martial=6
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="basque"
+	trait="kind"
+	trait="ill"
+	trait="misguided_warrior"
+	father=70302
+	mother=70301
+	
+	819.1.1 = {
+		birth="819.1.1"
+	}
+	844.1.1 = {
+		death="844.1.1"
+	}
+}
+71543 = {
+	name="Fernando"
+	dynasty=442
+	religion="catholic"
+	culture="basque"
+	father=106000
+	trait="bastard"
+	1062.1.1 = {
+		birth="1062.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+73774={
+	name="Galindo"
+	dynasty=12315
+
+	father=70291
+
+	religion=catholic
+	culture=basque
+
+	812.1.1={
+		birth=yes
+	}
+	840.1.1={
+		religion=sunni
+	}
+	843.1.1={
+		death=yes
+	}
+}
+73775={
+	name="Muza"
+	dynasty=12315
+
+	father=73774
+
+	religion=sunni
+	culture=basque
+
+	843.1.1={
+		birth=yes
+	}
+	862.9.26={
+		employer=73800
+	}
+	871.8.4={
+		death=yes
+	}
+}
+73808={
+	name="Kasio"
+	dynasty=12293
+
+	religion=catholic
+	culture=basque
+
+	670.1.1={
+		birth=yes
+	}
+	714.1.1={
+		religion=sunni
+	}
+	723.1.1={
+		death=yes
+	}
+}
+73809={
+	name="Fortun"
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	710.1.1={
+		birth=yes
+	}
+	731.1.1={
+		add_spouse=200202
+	}
+	768.1.1={
+		death=yes
+	}
+}
+73810={
+	name="Muza"
+	dynasty=12293
+
+	father=73809
+	mother=200202
+
+	religion=sunni
+	culture=basque
+
+	745.1.1={
+		birth=yes
+	}
+	768.1.1={
+		add_spouse=200204
+	}
+	797.1.1={
+		add_spouse=73811
+	}
+	802.12.1={
+		death=yes
+	}
+}
+73812={
+	name="Muza"
+	dynasty=12293
+
+	father=73810
+	mother=73811
+
+	religion=sunni
+	culture=basque
+
+	800.1.1={
+		birth=yes
+	}
+	830.1.1={
+		add_spouse=73776
+	}
+	862.9.26={
+		death=yes
+	}
+}
+73813={
+	name="Lope"
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	831.1.1={
+		birth=yes
+	}
+	860.1.1={
+		add_spouse=73814
+	}
+	875.4.27={
+		death=yes
+	}
+}
+73815={
+	name="Mohamed"
+	dynasty=12293
+
+	father=73813
+	mother=73814
+
+	religion=sunni
+	culture=basque
+
+	862.1.1={
+		birth=yes
+	}
+	898.10.2={
+		death=yes
+	}
+}
+73816={
+	name="Isa"
+	dynasty=12293
+
+	father=73813
+	mother=73814
+
+	religion=sunni
+	culture=basque
+
+	864.1.1 = {
+		birth=yes
+	}
+	920.1.1 = {
+		death=yes
+	}
+}
+73817 = {
+	name="Motarrif"
+	dynasty=12293
+
+	father=73813
+	mother=73814
+
+	religion=sunni
+	culture=basque
+
+	866.1.1={
+		birth=yes
+	}
+	922.1.1={
+		death=yes
+	}
+}
+73818={
+	name="Ismail"
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	833.1.1={
+		birth=yes
+	}
+	889.5.6={
+		add_spouse=73819
+	}
+	889.10.10={
+		death=yes
+	}
+}
+73820={
+	name="Muza"
+	dynasty=12293
+
+	father=73818
+
+	religion=sunni
+	culture=basque
+
+	858.1.1={
+		birth=yes
+	}
+	889.5.6={
+		death=yes
+	}
+}
+73821={
+	name="Motarrif"
+	dynasty=12293
+
+	father=73818
+
+	religion=sunni
+	culture=basque
+
+	861.1.1={
+		birth=yes
+	}
+	891.1.1={
+		death=yes
+	}
+}
+73822={
+	name="Saad"
+	dynasty=12293
+
+	father=73818
+
+	religion=sunni
+	culture=basque
+
+	863.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+73823={
+	name="Mohamed"
+	dynasty=12293
+
+	father=73818
+	mother=73819
+
+	religion=sunni
+	culture=basque
+
+	890.1.1={
+		birth=yes
+	}
+	907.1.1={
+		death=yes
+	}
+}
+73824={
+	name="Motarrif"
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	835.1.1={
+		birth=yes
+	}
+	870.1.1={
+		add_spouse=73778
+	}
+	906.1.1={
+		death=yes
+	}
+}
+73825={
+	name="Mohamed"
+	dynasty=12293
+
+	father=73824
+
+	religion=sunni
+	culture=basque
+
+	860.1.1={
+		birth=yes
+	}
+	873.9.5={
+		death=yes
+	}
+}
+73826={
+	name="Muza"
+	dynasty=12293
+
+	father=73824
+
+	religion=sunni
+	culture=basque
+
+	862.1.1={
+		birth=yes
+	}
+	873.9.5={
+		death=yes
+	}
+}
+73827={
+	name="Lope"
+	dynasty=12293
+
+	father=73824
+
+	religion=sunni
+	culture=basque
+
+	864.1.1={
+		birth=yes
+	}
+	873.9.5={
+		death=yes
+	}
+}
+73828={
+	name="Abdala"
+	dynasty=12293
+
+	father=73824
+
+	religion=sunni
+	culture=basque
+
+	866.1.1={
+		birth=yes
+	}
+	930.1.1={
+		death=yes
+	}
+}
+73829={
+	name="Fortun"
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	840.1.1={
+		birth=yes
+	}
+	874.3.23={
+		death=yes
+	}
+}
+73830={
+	name="Ismail"
+	dynasty=12293
+
+	father=73829
+
+	religion=sunni
+	culture=basque
+
+	862.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+73831={
+	name="Muza"
+	dynasty=12293
+
+	father=73829
+
+	religion=sunni
+	culture=basque
+
+	863.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+73832={
+	name="Mohamed"
+	dynasty=12293
+
+	father=73829
+
+	religion=sunni
+	culture=basque
+
+	865.1.1={
+		birth=yes
+	}
+	882.1.1 = {
+		death=yes
+	}
+}
+73833={
+	name="Lope"
+	dynasty=12293
+
+	father=73829
+
+	religion=sunni
+	culture=basque
+
+	866.1.1={
+		birth=yes
+	}
+	882.1.1={
+		death=yes
+	}
+}
+73836={
+	name="Muza"
+	dynasty=12293
+
+	father=73835
+	mother=73834
+
+	religion=sunni
+	culture=basque
+
+	859.1.1={
+		birth=yes
+	}
+	915.1.1={
+		death=yes
+	}
+}
+73837={
+	name="Munia"
+	female=yes
+	dynasty=12293
+
+	father=73812
+	mother=73776
+
+	religion=sunni
+	culture=basque
+
+	840.1.1={
+		birth=yes
+	}
+	903.1.1={
+		death=yes
+	}
+}
+70033={
+	name="Oneka"
+	female=yes
+	dynasty=8779
+
+	father=73034
+	mother=73044
+
+	religion=catholic
+	culture=basque
+
+	1042.1.1={
+		birth=yes
+	}
+	1082.1.1={
+		death=yes
+	}
+}
+70076={
+	name="Nuño"
+	dynasty=7000
+
+	father=108570
+	trait=bastard
+
+	religion=catholic
+	culture=basque
+
+	1025.1.1={
+		birth=yes
+	}
+	1046.1.1={
+		add_spouse=70077
+	}
+	1066.1.1={
+		employer=108500
+	}
+	1075.1.1={
+		death=yes
+	}
+}
+70078={
+	name="Ximena"
+	female=yes
+	dynasty=7000
+
+	father=70076
+	mother=70077
+
+	religion=catholic
+	culture=basque
+	
+	1048.1.1={
+		birth=yes
+	}
+	1098.1.1 = {
+		death=yes
+	}
+}
+70079={
+	name="Teresa"
+	female=yes
+	dynasty=7000
+
+	father=70076
+	mother=70077
+
+	religion=catholic
+	culture=basque
+	
+	1050.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+70211={
+	name="Ximena"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1040.1.1={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+70269={
+	name="Erramun"
+	dynasty=10024
+
+	father=70271
+	mother=70273
+
+	religion=catholic
+	culture=basque
+
+	921.1.1={
+		birth=yes
+	}
+	948.1.1={
+		add_spouse=54000
+	}
+	970.1.1={
+		death=yes
+	}
+}
+70271={
+	name="Bernart"
+	dynasty=10024
+
+	father=70272
+
+	religion=catholic
+	culture=basque
+	
+	905.1.1={
+		birth=yes
+	}
+	921.1.1={
+		add_spouse=70273
+	}
+	956.1.1={
+		death=yes
+	}
+}
+70272={
+	name="Erramun"
+	dynasty=10024
+
+	religion=catholic
+	culture=basque
+	
+	886.1.1={
+		birth=yes
+	}
+	936.1.1={
+		death=yes
+	}
+}
+71580={
+	name="Beatritz"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1044.1.1={
+		birth=yes
+	}
+	1069.1.1={
+		death=yes
+	}
+}
+72487={
+	name="Teresa"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1253.1.1={
+		birth=yes
+	}
+	1313.1.1={
+		death=yes
+	}
+}
+73896={
+	name="Bermudo"
+	dynasty=8779
+
+	father=200163
+
+	religion=catholic
+	culture=basque
+
+	908.1.1={
+		birth=yes
+	}
+	955.8.1={
+		death=yes
+	}
+}
+73897={
+	name="Vela"
+	dynasty=8779
+
+	father=200163
+
+	religion=catholic
+	culture=basque
+
+	900.1.1={
+		birth=yes
+	}
+	950.5.25={
+		death=yes
+	}
+}
+73898={
+	name="Vela"
+	dynasty=8779
+
+	father=73896
+
+	religion=catholic
+	culture=basque
+
+	931.1.1={
+		birth=yes
+	}
+	976.3.27={
+		death=yes
+	}
+}
+200026={
+	name="Lope"
+	dynasty=12293
+
+	father=73815
+
+	religion=sunni
+	culture=basque
+
+	880.1.1={
+		birth=yes
+	}
+	907.9.30={
+		death=yes
+	}
+}
+200027={
+	name="Abdala"
+	dynasty=12293
+
+	father=73815
+
+	religion=sunni
+	culture=basque
+
+	882.1.1={
+		birth=yes
+	}
+	915.11.1={
+		death=yes
+	}
+}
+200028={
+	name="Motarrif"
+	dynasty=12293
+
+	father=73815
+
+	religion=sunni
+	culture=basque
+
+	884.1.1={
+		birth=yes
+	}
+	916.3.31={
+		death=yes
+	}
+}
+200029={
+	name="Mohamed"
+	dynasty=12293
+
+	father=200027
+
+	religion=sunni
+	culture=basque
+
+	905.1.1={
+		birth=yes
+	}
+	923.1.1={
+		death=yes
+	}
+}
+200030={
+	name="Mohamed"
+	dynasty=12293
+
+	father=200026
+
+	religion=sunni
+	culture=basque
+
+	902.1.1={
+		birth=yes
+	}
+	929.7.1={
+		death=yes
+	}
+}
+200061={
+	name="Obeko"
+	dynasty=8750
+
+	religion=catholic
+	culture=basque
+
+	720.1.1={
+		birth=yes
+	}
+	745.1.1={
+		add_spouse=200060
+	}
+	770.1.1={
+		death=yes
+	}
+}
+200090={
+	name="Alvar"
+	dynasty=8741
+
+	father=200092
+
+	religion=catholic
+	culture=basque
+
+	958.1.1={
+		birth=yes
+	}
+	1015.2.20={
+		death=yes
+	}
+}
+200091={
+	name="Gartzia"
+	dynasty=8741
+
+	father=200090
+
+	religion=catholic
+	culture=basque
+
+	980.1.1={
+		birth=yes
+	}
+	1033.1.21={
+		death=yes
+	}
+}
+200092={
+	name="Herramel"
+	dynasty=8741
+
+	father=200093
+	mother=107681
+
+	religion=catholic
+	culture=basque
+
+	931.1.1={
+		birth=yes
+	}
+	988.12.24={
+		death=yes
+	}
+}
+200093={
+	name="Alvar"
+	dynasty=8741
+
+	father=200094
+
+	religion=catholic
+	culture=basque
+
+	883.1.1={
+		birth=yes
+	}
+	930.1.1={
+		add_spouse=107681
+	}
+	931.1.1={
+		death=yes
+	}
+}
+200094={
+	name="Herramel"
+	dynasty=8741
+
+	religion=catholic
+	culture=basque
+
+	860.1.1={
+		birth=yes
+	}
+	912.1.1={
+		death=yes
+	}
+}
+200095={
+	name="Herramel"
+	dynasty=8741
+
+	father=200091
+
+	religion=catholic
+	culture=basque
+
+	1008.1.1={
+		birth=yes
+	}
+	1064.1.1={
+		death=yes
+	}
+}
+200158={
+	name="Lope"
+	dynasty=1046010
+
+	religion=catholic
+	culture=basque
+
+	730.1.1={
+		birth=yes
+	}
+	764.1.1={
+		add_spouse=200060
+	}
+	780.1.1={
+		death=yes
+	}
+}
+200159={
+	name="Gartzia"
+	dynasty=1046010
+
+	father=200158
+	mother=200060
+
+	religion=catholic
+	culture=basque
+
+	765.1.1={
+		birth=yes
+	}
+	816.1.1={
+		death=yes
+	}
+}
+200160={
+	name="Munio"
+	dynasty=8779
+
+	father=200161
+	mother=200162
+
+	religion=catholic
+	culture=basque
+
+	870.1.1={
+		birth=yes
+	}
+	922.1.1={
+		death=yes
+	}
+}
+200161={
+	name="Vela"
+	dynasty=8779
+
+	father=70120
+
+	religion=catholic
+	culture=basque
+
+	846.1.1={
+		birth=yes
+	}
+	867.1.1={
+		add_spouse=200162
+	}
+	883.1.1={
+		death=yes
+	}
+}
+200162={
+	name="Belaskita"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	850.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+200163={
+	name="Nuño"
+	dynasty=8779
+
+	father=200161
+	mother=200162
+
+	religion=catholic
+	culture=basque
+
+	874.1.1={
+		birth=yes
+	}
+	948.1.1={
+		death=yes
+	}
+}
+200164={
+	name="Vela"
+	dynasty=8779
+
+	father=200166
+
+	religion=catholic
+	culture=basque
+
+	1029.1.1={
+		birth=yes
+	}
+	1073.1.1={
+		add_spouse=200165
+	}
+	1080.1.1={
+		death=yes
+	}
+}
+200165={
+	name="Maior"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1057.1.1={
+		birth=yes
+	}
+	1111.1.1={
+		death=yes
+	}
+}
+200166={
+	name="Aznar"
+	dynasty=8779
+
+	father=200168
+
+	religion=catholic
+	culture=basque
+
+	1000.1.1={
+		birth=yes
+	}
+	1051.1.1={
+		death=yes
+	}
+}
+200167={
+	name="Fortun"
+	dynasty=8779
+
+	father=200166
+
+	religion=catholic
+	culture=basque
+
+	1027.1.1={
+		birth=yes
+	}
+	1067.1.1={
+		death=yes
+	}
+}
+200168={
+	name="Gartzia"
+	dynasty=8779
+
+	father=200169
+
+	religion=catholic
+	culture=basque
+
+	977.1.1={
+		birth=yes
+	}
+	1048.1.1={
+		death=yes
+	}
+}
+200169={
+	name="Aznar"
+	dynasty=8779
+
+	father=73896
+
+	religion=catholic
+	culture=basque
+
+	943.1.1={
+		birth=yes
+	}
+	1002.1.1={
+		death=yes
+	}
+}
+200170={
+	name="Konstantzia"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1058.1.1={
+		birth=yes
+	}
+	1115.1.1={
+		death=yes
+	}
+}
+200171={
+	name="Eneko"
+	dynasty=8779
+
+	father=200164
+	mother=200165
+
+	religion=catholic
+	culture=basque
+
+	1077.1.1={
+		birth=yes
+	}
+	1098.1.1={
+		add_spouse=200172
+	}
+	1129.4.23={
+		death=yes
+	}
+}
+200172={
+	name="Oria"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1080.1.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+200173={
+	name="Lope"
+	dynasty=8779
+
+	father=200164
+	mother=200165
+
+	religion=catholic
+	culture=basque
+
+	1079.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		death=yes
+	}
+}
+200174={
+	name="Ladron"
+	dynasty=1046008
+
+	father=200171
+	mother=200172
+
+	religion=catholic
+	culture=basque
+
+	1099.1.1={
+		birth=yes
+	}
+	1117.1.1={
+		add_spouse=200175
+	}
+	1155.1.1={
+		death=yes
+	}
+}
+200175={
+	name="Teresa"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1100.1.1={
+		birth=yes
+	}
+	1156.1.1={
+		death=yes
+	}
+}
+200176={
+	name="Lope"
+	dynasty=8779
+
+	father=200171
+
+	religion=catholic
+	culture=basque
+
+	1101.1.1={
+		birth=yes
+	}
+	1126.1.1={
+		add_spouse=200177
+	}
+	1150.1.1={
+		death=yes
+	}
+}
+200177={
+	name="Munia"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1107.1.1={
+		birth=yes
+	}
+	1160.1.1={
+		death=yes
+	}
+}
+200178={
+	name="Toda"
+	female=yes
+	dynasty=8779
+
+	father=200171
+	mother=200172
+
+	religion=catholic
+	culture=basque
+
+	1103.1.1={
+		birth=yes
+	}
+	1134.1.1={
+		death=yes
+	}
+}
+200179={
+	name="Eneko"
+	dynasty=8779
+
+	father=200176
+	mother=200177
+
+	religion=catholic
+	culture=basque
+
+	1128.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+200180={
+	name="Vela"
+	dynasty=1046008
+
+	father=200174
+	mother=200175
+
+	religion=catholic
+	culture=basque
+
+	1119.1.1={
+		birth=yes
+	}
+	1142.1.1={
+		add_spouse=200181
+	}
+	1174.1.1={
+		death=yes
+	}
+}
+200181={
+	name="Belaskita"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1125.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+200182={
+	name="Joanes"
+	dynasty=1046008
+
+	father=200180
+	mother=200181
+
+	religion=catholic
+	culture=basque
+
+	1143.1.1={
+		birth=yes
+	}
+	1169.1.1={
+		add_spouse=200183
+	}
+	1181.3.21={
+		death=yes
+	}
+}
+200183={
+	name="Mentzia"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1150.1.1={
+		birth=yes
+	}
+	1206.1.1={
+		death=yes
+	}
+}
+200184={
+	name="Piarres"
+	dynasty=1046008
+
+	father=200180
+	mother=200181
+
+	religion=catholic
+	culture=basque
+
+	1145.1.1={
+		birth=yes
+	}
+	1164.1.1={
+		add_spouse=200185
+	}
+	1194.1.1={
+		death=yes
+	}
+}
+200185={
+	name="Toda"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	1147.1.1={
+		birth=yes
+	}
+	1212.1.1={
+		death=yes
+	}
+}
+200186={
+	name="Ladron"
+	dynasty=1046008
+
+	father=200184
+	mother=200185
+
+	religion=catholic
+	culture=basque
+
+	1165.1.1={
+		birth=yes
+	}
+	1217.1.1={
+		death=yes
+	}
+}
+200189={
+	name="Gartzia"
+	dynasty=1046009
+
+	religion=catholic
+	culture=basque
+
+	776.1.1={
+		birth=yes
+	}
+	822.1.1={
+		death=yes
+	}
+}
+200190={
+	name="Belasko"
+	dynasty=12285
+
+	father=200191
+	mother=200192
+
+	religion=catholic
+	culture=basque
+
+	753.1.1={
+		birth=yes
+	}
+	817.1.1={
+		death=yes
+	}
+}
+200191={
+	name="Belasko"
+	dynasty=12285
+
+	religion=catholic
+	culture=basque
+
+	724.1.1={
+		birth=yes
+	}
+	750.1.1={
+		add_spouse=200192
+	}
+	779.1.1={
+		death=yes
+	}
+}
+200192={
+	name="Antsa"
+	female=yes
+
+	religion=catholic
+	culture=basque
+
+	731.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+200193={
+	name="Galindo"
+	dynasty=12285
+
+	father=200191
+	mother=200192
+
+	religion=catholic
+	culture=basque
+
+	751.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+200194={
+	name="Mohamed"
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	712.1.1={
+		birth=yes
+	}
+	740.1.1={
+		add_spouse=200198
+	}
+	780.1.1={
+		death=yes
+	}
+}
+200195={
+	name="Motarrif"
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	714.1.1={
+		birth=yes
+	}
+	741.1.1={
+		add_spouse=200199
+	}
+	770.1.1={
+		death=yes
+	}
+}
+200196={
+	name="Yunus"
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	716.1.1={
+		birth=yes
+	}
+	773.11.1={
+		death=yes
+	}
+}
+200197={
+	name="Yahya"
+	dynasty=12293
+
+	father=73808
+
+	religion=sunni
+	culture=basque
+
+	718.1.1={
+		birth=yes
+	}
+	774.11.1={
+		death=yes
+	}
+}
+200200={
+	name="Taur"
+	dynasty=12293
+
+	father=200194
+	mother=200198
+
+	religion=sunni
+	culture=basque
+
+	741.1.1={
+		birth=yes
+	}
+	799.11.1={
+		death=yes
+	}
+}
+200201={
+	name="Salama"
+	dynasty=12293
+
+	father=200195
+	mother=200199
+
+	religion=sunni
+	culture=basque
+
+	744.1.1={
+		birth=yes
+	}
+	800.11.1={
+		death=yes
+	}
+}
+200203={
+	name="Zahir"
+	dynasty=12293
+
+	father=73809
+	mother=200202
+
+	religion=sunni
+	culture=basque
+
+	747.1.1={
+		birth=yes
+	}
+	805.11.1={
+		death=yes
+	}
+}
+200205={
+	name="Motarrif"
+	dynasty=12293
+
+	father=73810
+	mother=200204
+
+	religion=sunni
+	culture=basque
+
+	769.1.1={
+		birth=yes
+	}
+	799.11.1={
+		death=yes
+	}
+}

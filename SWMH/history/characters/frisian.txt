@@ -577,3 +577,44 @@
 	}
 }
 
+
+167702 = {
+	name="Dirk"
+	dynasty=432
+	religion="catholic"
+	culture="frisian"
+	father=168619
+	780.1.1 = {
+		birth="780.1.1"
+	}
+	813.1.1 = {
+		death="813.1.1"
+	}
+}
+168232 = {
+	name="Liederik"
+	dynasty=724
+	religion="catholic"
+	culture="frisian"
+	740.1.1={
+		birth="740.1.1"
+	}
+	
+	817.1.1={
+		death="817.1.1"
+	}
+}
+168233 = {
+	name="Ingelram"
+	dynasty=724
+	religion="catholic"
+	culture="frisian"
+	father=168232
+	770.1.1={
+		birth="770.1.1"
+	}
+	
+	825.1.1={
+		death="825.1.1"
+	}
+}

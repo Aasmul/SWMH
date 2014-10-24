@@ -355,3 +355,420 @@
 		death="905.1.1"
 	}
 }
+6849 = {
+	name="Koksha"
+	religion=finnish_pagan
+	culture=mordvin
+	840.1.1={
+		birth=yes
+	}
+	897.1.1={
+		death=yes
+	}
+}
+6852 = {
+	name="Tushtya"
+	religion=finnish_pagan
+	culture=mordvin
+	839.1.1={
+		birth=yes
+	}
+	895.1.1={
+		death=yes
+	}
+}
+159711 = {
+	name="Nishkepaz"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029107
+	father = 194151
+	788.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+159712 = {
+	name="Purysho"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029108
+	father=160114
+	842.1.1={
+		birth=yes
+	}
+	927.1.1={
+		death=yes
+	}
+}
+159713 = {
+	name="Kezhevat"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029107
+	father=159711
+	838.1.1={
+		birth=yes
+	}
+	927.1.1={
+		death=yes
+	}
+}
+159714 = {
+	name="Tyueykezhut"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029107
+	father=159711
+	839.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+160114 = {
+	name="Shudyr-Samych"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029108
+	father = 194149
+	800.1.1={
+		birth="800.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+160115 = {
+	name="Azyren"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029108
+	father=160114
+	843.1.1={
+		birth=yes
+	}
+	927.1.1={
+		death=yes
+	}
+}
+160116 = {
+	name="Saksa"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029108
+	father=160115
+	861.1.1={
+		birth="861.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+160117 = {
+	name="Surt"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029108
+	father=160115
+	862.1.1={
+		birth="862.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+160118 = {
+	name="Tutyra"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029108
+	father=159712
+	861.1.1={
+		birth="861.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+160119 = {
+	name="Uzhara"
+	religion="finnish_pagan"
+	culture=mordvin
+	dynasty=1029108
+	father=159712
+	862.1.1={
+		birth="862.1.1"
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+194147 = {
+	name = "Varaka"
+	dynasty = 1029108
+	religion = finnish_pagan
+	culture = mordvin
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194148 = {
+	name = "Nuyat"
+	dynasty = 1029108
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194147
+	760.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194149 = {
+	name = "Atyamas"
+	dynasty = 1029108
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194148
+	780.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194150 = {
+	name = "Surt"
+	dynasty = 1029107
+	religion = finnish_pagan
+	culture = mordvin
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194151 = {
+	name = "Kardaz"
+	dynasty = 1029107
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194150
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194152 = {
+	name = "Uzhara"
+	dynasty = 1029105
+	religion = finnish_pagan
+	culture = mordvin
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194153 = {
+	name = "Kezhevat"
+	dynasty = 1029105
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194152
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194154 = {
+	name = "Tikshayka"
+	dynasty = 1029105
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194153
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194155 = {
+	name = "Kardaz"
+	dynasty = 1045025
+	religion = finnish_pagan
+	culture = mordvin
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194156 = {
+	name = "Parush"
+	dynasty = 1029106
+	religion = finnish_pagan
+	culture = mordvin
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194157 = {
+	name = "Kinyak"
+	dynasty = 1029106
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194156
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194158 = {
+	name = "Koshel"
+	dynasty = 1029106
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194157
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194159 = {
+	name = "Varaka"
+	dynasty = 1029104
+	religion = finnish_pagan
+	culture = mordvin
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194160 = {
+	name = "Pivtsay"
+	dynasty = 1029104
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194159
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194161 = {
+	name = "Kinyak"
+	dynasty = 1029104
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194160
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194162 = {
+	name = "Paksyut"
+	dynasty = 1045026
+	religion = finnish_pagan
+	culture = mordvin
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194163 = {
+	name = "Chipaz"
+	dynasty = 1045026
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194162
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194164 = {
+	name = "Azyren"
+	dynasty = 1045026
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194163
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194165 = {
+	name = "Inzhay"
+	dynasty = 1045027
+	religion = finnish_pagan
+	culture = mordvin
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194166 = {
+	name = "Dergun"
+	dynasty = 1045027
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194165
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194167 = {
+	name = "Parush"
+	dynasty = 1045027
+	religion = finnish_pagan
+	culture = mordvin
+	father = 194166
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
