@@ -31150,7 +31150,7 @@ e_france = {
 	}
 } # END e_france
 
-e_iberia = {
+e_spain = {
 	color={ 250 201 20 }
 	color2={ 255 255 255 }
 
@@ -39850,7 +39850,7 @@ e_iberia = {
 			culture_group = iberian
 			religion_group = christian
 			OR = {
-				has_landed_title = e_iberia
+				has_landed_title = e_spain
 				has_landed_title = k_castille 
 				has_landed_title = k_leon
 			}
@@ -39871,7 +39871,7 @@ e_iberia = {
 			culture_group = iberian
 			religion_group = christian
 			OR = {
-				has_landed_title = e_iberia
+				has_landed_title = e_spain
 				has_landed_title = k_castille 
 				has_landed_title = k_leon
 			}
@@ -39892,7 +39892,7 @@ e_iberia = {
 			culture_group = iberian
 			religion_group = christian
 			OR = {
-				has_landed_title = e_iberia
+				has_landed_title = e_spain
 				has_landed_title = k_castille 
 				has_landed_title = k_leon
 			}
@@ -39913,7 +39913,7 @@ e_iberia = {
 			culture_group = iberian
 			religion_group = christian
 			OR = {
-				has_landed_title = e_iberia
+				has_landed_title = e_spain
 				has_landed_title = k_castille 
 				has_landed_title = k_leon
 			}
@@ -39934,7 +39934,7 @@ e_iberia = {
 			culture_group = iberian
 			religion_group = christian
 			OR = {
-				has_landed_title = e_iberia
+				has_landed_title = e_spain
 				has_landed_title = k_castille 
 				has_landed_title = k_leon
 			}
@@ -39955,7 +39955,7 @@ e_iberia = {
 			culture_group = iberian
 			religion_group = christian
 			OR = {
-				has_landed_title = e_iberia
+				has_landed_title = e_spain
 				has_landed_title = k_aragon
 			}
 			OR = {
@@ -39975,7 +39975,7 @@ e_iberia = {
 			culture_group = iberian
 			religion_group = christian
 			OR = {
-				has_landed_title = e_iberia
+				has_landed_title = e_spain
 				has_landed_title = k_aragon
 			}
 			OR = {
@@ -40174,7 +40174,7 @@ e_iberia = {
 	} # END k_asturias
 
 # END TITULAR SWMH Spain
-} # END e_iberia
+} # END e_spain
 
 e_africa = {
 	color={ 204 1 1 }
