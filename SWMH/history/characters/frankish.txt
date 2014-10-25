@@ -46806,3 +46806,109 @@
 		death="1328.10.12"
 	}
 }
+200096={
+	name="Mathilde"
+	female=yes
+	dynasty=80
+
+	father=461745
+	mother=32221
+
+	religion=catholic
+	culture=frankish
+
+	1272.1.1={
+		birth=yes
+	}
+	1348.1.1={
+		death=yes
+	}
+}
+200101={
+	name="Laure"
+	female=yes
+	dynasty=4003
+
+	father=7466
+
+	religion=catholic
+	culture=frankish
+
+	1237.1.1={
+		birth=yes
+	}
+	1270.8.1={
+		death=yes
+	}
+}
+200108={
+	name="Marie"
+	female=yes
+	dynasty=81
+
+	father=461710
+	mother=461711
+
+	religion=catholic
+	culture=frankish
+
+	1290.1.1={
+		birth=yes
+	}
+	1346.4.30={
+		death=yes
+	}
+}
+200139={
+	name="Marie"
+	female=yes
+	dynasty=93
+
+	father=461905
+	mother=461906
+
+	religion=catholic
+	culture=frankish
+
+	1273.1.1={
+		birth=yes
+	}
+	1319.4.10={
+		death=yes
+	}
+}
+200187={
+	name="Guigues"
+	dynasty=5092
+
+	religion=catholic
+	culture=frankish
+
+	1160.1.1={
+		birth=yes
+	}
+	1196.1.1={
+		add_spouse=205527
+	}
+	1216.9.29={
+		death=yes
+	}
+}
+200188={
+	name="Agnes"
+	female=yes
+	dynasty=5092
+
+	father=200187
+	mother=205527
+
+	religion=catholic
+	culture=frankish
+
+	1205.1.1={
+		birth=yes
+	}
+	1231.7.11={
+		death=yes
+	}
+}

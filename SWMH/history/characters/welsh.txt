@@ -8623,3 +8623,44 @@
 		death="892.1.1"
 	}
 }
+205140 = {
+	name="Hywel" # ap Caradog
+	dynasty=14284 #Rhos
+	father=160046
+	religion="catholic"
+	culture="welsh"
+	750.1.1={
+		birth="750.1.1"
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+205137 = {
+	name="Angharad" # 
+	female = yes
+	dynasty=1029129 #Gwent
+	religion="catholic"
+	culture="welsh"
+	father=159831
+	561.1.1={
+		birth="561.1.1"
+	}
+	605.1.1={
+		death="605.1.1"
+	}
+}
+205138 = {
+	name="Ceindrych"
+	female = yes
+	dynasty=1029032 #1st Brycheiniog
+	religion="catholic"
+	culture="welsh"
+	father=184130
+	611.1.1={
+		birth="611.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
