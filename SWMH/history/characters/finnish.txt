@@ -828,3 +828,505 @@
 		death="1066.1.1"
 	}
 }
+143126 = {
+	name="Haapa"
+	dynasty=100386
+	religion="finnish_pagan"
+	culture="finnish"
+	father=20618
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1158.1.1={
+		death="1158.1.1"
+	}
+}
+143127 = {
+	name="Jurva"
+	dynasty=100386
+	religion="finnish_pagan"
+	culture="finnish"
+	father=143126
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1158.1.1={
+		culture="lappish"
+		name="Baeivi"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+160131 = {
+	name="Ukko"
+	religion="finnish_pagan"
+	culture=finnish
+	dynasty=1029143
+	father=6828
+	855.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160132 = {
+	name="Päiviö"
+	religion="finnish_pagan"
+	culture=finnish
+	dynasty=1029144
+	father=159715
+	855.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160133 = {
+	name="Kettu"
+	religion="finnish_pagan"
+	culture=finnish
+	dynasty=1029143
+	father=6828
+	856.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+160130 = {
+	name="Toivo"
+	religion="finnish_pagan"
+	culture=finnish
+	dynasty=1029144
+	father=159715
+	856.1.1={
+		birth=yes
+	}
+	900.1.1={
+		death=yes
+	}
+}
+170306 = {
+	name="Ihala"
+	dynasty=100384
+	religion="finnish_pagan"
+	culture="finnish"
+	738.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+170307 = {
+	name="Terho"
+	dynasty=100384
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170306
+	767.1.1={
+		birth=yes
+	}
+	835.1.1={
+		death=yes
+	}
+}
+170308 = {
+	name="Pyry"
+	dynasty=100384
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170307
+	809.1.1={
+		birth=yes
+	}
+	867.1.1={
+		death=yes
+	}
+}
+170309 = {
+	name="Päiviö"
+	dynasty=100382
+	religion="finnish_pagan"
+	culture="finnish"
+	741.1.1={
+		birth=yes
+	}
+	798.1.1={
+		death=yes
+	}
+}
+170310 = {
+	name="Miemo"
+	dynasty=100382
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170309
+	771.1.1={
+		birth=yes
+	}
+	818.1.1={
+		death=yes
+	}
+}
+170311 = {
+	name="Satajalka"
+	dynasty=100382
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170310
+	798.1.1={
+		birth=yes
+	}
+	843.1.1={
+		death=yes
+	}
+}
+170312 = {
+	name="Päiviö"
+	dynasty=100382
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170311
+	821.1.1={
+		birth=yes
+	}
+	866.1.1={
+		death=yes
+	}
+}
+170313 = {
+	name="Mielus"
+	dynasty=100383
+	religion="finnish_pagan"
+	culture="finnish"
+	737.1.1={
+		birth=yes
+	}
+	792.1.1={
+		death=yes
+	}
+}
+170314 = {
+	name="Jalo"
+	dynasty=100383
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170313
+	766.1.1={
+		birth=yes
+	}
+	834.1.1={
+		death=yes
+	}
+}
+170315 = {
+	name="Otso"
+	dynasty=100383
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170314
+	806.1.1={
+		birth=yes
+	}
+	865.1.1={
+		death=yes
+	}
+}
+170316 = {
+	name="Ahma"
+	dynasty=100392
+	religion="finnish_pagan"
+	culture="finnish"
+	744.1.1={
+		birth=yes
+	}
+	787.1.1={
+		death=yes
+	}
+}
+170317 = {
+	name="Ukko"
+	dynasty=100392
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170316
+	768.1.1={
+		birth=yes
+	}
+	821.1.1={
+		death=yes
+	}
+}
+170318 = {
+	name="Satatieto"
+	dynasty=100392
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170317
+	797.1.1={
+		birth=yes
+	}
+	838.1.1={
+		death=yes
+	}
+}
+170319 = {
+	name="Ukko"
+	dynasty=100392
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170318
+	824.1.1={
+		birth=yes
+	}
+	867.1.1={
+		death=yes
+	}
+}
+170320 = {
+	name="Sampo"
+	dynasty=100390
+	religion="finnish_pagan"
+	culture="finnish"
+	739.1.1={
+		birth=yes
+	}
+	781.1.1={
+		death=yes
+	}
+}
+170321 = {
+	name="Uoti"
+	dynasty=100390
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170320
+	764.1.1={
+		birth=yes
+	}
+	812.1.1={
+		death=yes
+	}
+}
+170322 = {
+	name="Kettu"
+	dynasty=100390
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170321
+	786.1.1={
+		birth=yes
+	}
+	837.1.1={
+		death=yes
+	}
+}
+170323 = {
+	name="Uoti"
+	dynasty=100390
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170322
+	818.1.1={
+		birth=yes
+	}
+	867.1.1={
+		death=yes
+	}
+}
+170324 = {
+	name="Lemetti"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	724.1.1={
+		birth=yes
+	}
+	780.1.1={
+		death=yes
+	}
+}
+170325 = {
+	name="Ihala"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170324
+	751.1.1={
+		birth=yes
+	}
+	795.1.1={
+		death=yes
+	}
+}
+170326 = {
+	name="Väinö"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170325
+	773.1.1={
+		birth=yes
+	}
+	820.1.1={
+		death=yes
+	}
+}
+170327 = {
+	name="Lemetti"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170326
+	799.1.1={
+		birth=yes
+	}
+	846.1.1={
+		death=yes
+	}
+}
+170328 = {
+	name="Kettu"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170327
+	820.1.1={
+		birth=yes
+	}
+	867.1.1={
+		death=yes
+	}
+}
+170329 = {
+	name="Haapa"
+	dynasty=100386
+	religion="finnish_pagan"
+	culture="finnish"
+	732.1.1={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+170330 = {
+	name="Kaleva"
+	dynasty=100386
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170329
+	759.1.1={
+		birth=yes
+	}
+	807.1.1={
+		death=yes
+	}
+}
+170331 = {
+	name="Mielitty"
+	dynasty=100386
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170330
+	783.1.1={
+		birth=yes
+	}
+	838.1.1={
+		death=yes
+	}
+}
+170332 = {
+	name="Haapa"
+	dynasty=100386
+	religion="finnish_pagan"
+	culture="finnish"
+	father=170331
+	814.1.1={
+		birth=yes
+	}
+	862.1.1={
+		death=yes
+	}
+}
+194125 = {
+	name = "Oiva"
+	dynasty = 1029144
+	religion = finnish_pagan
+	culture = finnish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194126 = {
+	name = "Reko"
+	dynasty = 1029144
+	religion = finnish_pagan
+	culture = finnish
+	father = 194125
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194127 = {
+	name = "Susi"
+	dynasty = 1029144
+	religion = finnish_pagan
+	culture = finnish
+	father = 194126
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+194128 = {
+	name = "Aimo"
+	dynasty = 1029143
+	religion = finnish_pagan
+	culture = finnish
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194129 = {
+	name = "Miemo"
+	dynasty = 1029143
+	religion = finnish_pagan
+	culture = finnish
+	father = 194128
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194130 = {
+	name = "Asikko"
+	dynasty = 1029143
+	religion = finnish_pagan
+	culture = finnish
+	father = 194129
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
