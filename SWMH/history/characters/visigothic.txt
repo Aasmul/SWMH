@@ -4,7 +4,7 @@
 	dynasty=1046025
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	718.1.1={
 		birth=yes
@@ -21,7 +21,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	723.1.1={
 		birth=yes
@@ -38,7 +38,7 @@
 	mother=200224
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	742.1.1={
 		birth=yes
@@ -56,7 +56,7 @@
 	mother=200257
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	665.1.1={
 		birth=yes
@@ -73,7 +73,7 @@
 	mother=200239
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	643.1.1={
 		birth=yes
@@ -93,7 +93,7 @@
 	father=200242
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	624.1.1={
 		birth=yes
@@ -107,7 +107,7 @@
 	dynasty=1046031
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	530.1.1={
 		birth=yes
@@ -123,7 +123,7 @@
 	father=200241
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	570.1.1={
 		birth=yes
@@ -140,7 +140,7 @@
 	mother=200246
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	650.1.1={
 		birth=yes
@@ -160,7 +160,7 @@
 	mother=200236
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	682.1.1={
 		birth=yes
@@ -176,7 +176,7 @@
 	father=200244
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	700.1.1={
 		birth=yes
@@ -193,7 +193,7 @@
 	father=200255
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	627.1.1={
 		birth=yes
@@ -206,7 +206,7 @@
 	name="Witiza"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	620.1.1={
 		birth=yes
@@ -225,7 +225,7 @@
 	father=200255
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	622.1.1={
 		birth=yes
@@ -241,7 +241,7 @@
 	father=200240
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	640.1.1={
 		birth=yes
@@ -257,7 +257,7 @@
 	father=200240
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	645.1.1={
 		birth=yes
@@ -273,7 +273,7 @@
 	father=200250
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	688.1.1={
 		birth=yes
@@ -289,7 +289,7 @@
 	name="Ardo"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	678.1.1={
 		birth=yes
@@ -303,7 +303,7 @@
 	dynasty=1046032
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	573.1.1={
 		birth=yes
@@ -319,7 +319,7 @@
 	father=200254
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	598.1.1={
 		birth=yes
@@ -335,7 +335,7 @@
 	father=200272
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	595.1.1={
 		birth=yes
@@ -356,7 +356,7 @@
 	mother=200260
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	633.1.1={
 		birth=yes
@@ -372,7 +372,7 @@
 	father=200259
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	600.1.1={
 		birth=yes
@@ -386,7 +386,7 @@
 	dynasty=1046034
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	568.1.1={
 		birth=yes
@@ -403,7 +403,7 @@
 	father=200259
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	605.1.1={
 		birth=yes
@@ -416,7 +416,7 @@
 	name="Gundemar"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	558.1.1={
 		birth=yes
@@ -429,7 +429,7 @@
 	name="Witerico"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	562.1.1={
 		birth=yes
@@ -445,7 +445,7 @@
 	father=200272
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	583.1.1={
 		birth=yes
@@ -461,7 +461,7 @@
 	father=200273
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	555.1.1={
 		birth=yes
@@ -477,7 +477,7 @@
 	father=200274
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	525.1.1={
 		birth=yes
@@ -491,7 +491,7 @@
 	dynasty=1046033
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	498.1.1={
 		birth=yes
@@ -507,7 +507,7 @@
 	father=200274
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	523.1.1={
 		birth=yes
@@ -520,7 +520,7 @@
 	name="Athanagildo"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	520.1.1={
 		birth=yes
@@ -533,7 +533,7 @@
 	name="Akhila"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	516.1.1={
 		birth=yes
@@ -546,7 +546,7 @@
 	name="Sesenando"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	605.1.1={
 		birth=yes
@@ -559,7 +559,7 @@
 	name="Theudisclo"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	500.1.1={
 		birth=yes
@@ -572,7 +572,7 @@
 	name="Theudis"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	498.1.1={
 		birth=yes
@@ -588,7 +588,7 @@
 	father=200283
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	500.1.1={
 		birth=yes
@@ -605,7 +605,7 @@
 	trait=bastard
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	489.1.1={
 		birth=yes
@@ -621,7 +621,7 @@
 	father=200284
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	463.1.1={
 		birth=yes
@@ -638,7 +638,7 @@
 	mother=200293
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	440.1.1={
 		birth=yes
@@ -655,7 +655,7 @@
 	mother=200293
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	428.1.1={
 		birth=yes
@@ -672,7 +672,7 @@
 	mother=200293
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	423.1.1={
 		birth=yes
@@ -688,7 +688,7 @@
 	father=200297
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	379.1.1={
 		birth=yes
@@ -707,7 +707,7 @@
 	father=200296
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	374.1.1={
 		birth=yes
@@ -720,7 +720,7 @@
 	name="Sygericco"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	370.1.1={
 		birth=yes
@@ -736,7 +736,7 @@
 	father=200296
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	372.1.1={
 		birth=yes
@@ -752,7 +752,7 @@
 	father=200292
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	370.1.1={
 		birth=yes
@@ -771,7 +771,7 @@
 	father=200295
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	341.1.1={
 		birth=yes
@@ -789,7 +789,7 @@
 	mother=200294
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	402.1.1={
 		birth=yes
@@ -806,7 +806,7 @@
 	father=200296
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	392.1.1={
 		birth=yes
@@ -820,7 +820,7 @@
 	dynasty=1046035
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	311.1.1={
 		birth=yes
@@ -836,7 +836,7 @@
 	father=200295
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	334.1.1={
 		birth=yes
@@ -852,7 +852,7 @@
 	father=200295
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	350.1.1={
 		birth=yes
@@ -865,8 +865,8 @@
 	name="Aid"
 	dynasty=12289
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	839.1.1={
 		birth=yes
@@ -885,8 +885,8 @@
 	father=73851
 	mother=73886
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	865.1.1={
 		birth=yes
@@ -902,8 +902,8 @@
 	father=73851
 	mother=73886
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	867.1.1={
 		birth=yes
@@ -919,8 +919,8 @@
 	father=73900
 	mother=73907
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	860.1.1={
 		birth=yes
@@ -933,8 +933,8 @@
 	name="Hamdan"
 	dynasty=12260
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	825.1.1={
 		birth=yes
@@ -950,8 +950,8 @@
 	name="al-Gaçi"
 	dynasty=12296
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	748.1.1={
 		birth=yes
@@ -966,8 +966,8 @@
 
 	father=73908
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	782.1.1={
 		birth=yes
@@ -982,8 +982,8 @@
 
 	father=73909
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	817.1.1={
 		birth=yes
@@ -998,8 +998,8 @@
 
 	father=73910
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	849.1.1={
 		birth=yes
@@ -1012,8 +1012,8 @@
 	name="Çacharya"
 	dynasty=12297
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	832.1.1={
 		birth=yes
@@ -1032,8 +1032,8 @@
 	father=73912
 	mother=73915
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	860.1.1={
 		birth=yes
@@ -1049,8 +1049,8 @@
 	father=73912
 	mother=73915
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	863.1.1={
 		birth=yes
@@ -1063,8 +1063,8 @@
 	name="Çeida"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	841.1.1={
 		birth=yes
@@ -1079,8 +1079,8 @@
 
 	father=73899
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	889.1.1={
 		birth=yes
@@ -1095,8 +1095,8 @@
 
 	father=73916
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	915.1.1={
 		birth=yes
@@ -1111,8 +1111,8 @@
 
 	father=73917
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	941.1.1={
 		birth=yes
@@ -1127,8 +1127,8 @@
 
 	father=73930
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	823.1.1={
 		birth=yes
@@ -1144,8 +1144,8 @@
 	name="Çacharya"
 	dynasty=12299
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	794.1.1={
 		birth=yes
@@ -1160,8 +1160,8 @@
 
 	father=73930
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	825.1.1={
 		birth=yes
@@ -1174,8 +1174,8 @@
 	name="Leyla"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	830.1.1={
 		birth=yes
@@ -1191,8 +1191,8 @@
 	father=73929
 	mother=73932
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	849.1.1={
 		birth=yes
@@ -1205,8 +1205,8 @@
 	name="Abdelaçiç"
 	dynasty=12300
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	816.1.1={
 		birth=yes
@@ -1221,8 +1221,8 @@
 
 	father=73934
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	841.1.1={
 		birth=yes
@@ -1237,8 +1237,8 @@
 
 	father=73934
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	843.1.1={
 		birth=yes
@@ -1254,8 +1254,8 @@
 	name="Karima"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	851.1.1={
 		birth=yes
@@ -1268,8 +1268,8 @@
 	name="Abrafim"
 	dynasty=12301
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	826.1.1={
 		birth=yes
@@ -1285,8 +1285,8 @@
 	name="Melica"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	833.1.1={
 		birth=yes
@@ -1302,8 +1302,8 @@
 	father=73938
 	mother=73939
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	851.1.1={
 		birth=yes
@@ -1316,8 +1316,8 @@
 	name="Amet"
 	dynasty=12304
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	830.1.1={
 		birth=yes
@@ -1333,8 +1333,8 @@
 	name="Habiba"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	848.1.1={
 		birth=yes
@@ -1350,8 +1350,8 @@
 	father=73952
 	mother=73953
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	867.1.1={
 		birth=yes
@@ -1364,8 +1364,8 @@
 	name="Yunus"
 	dynasty=12305
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	780.1.1={
 		birth=yes
@@ -1380,8 +1380,8 @@
 
 	father=73955
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	803.1.1={
 		birth=yes
@@ -1396,8 +1396,8 @@
 
 	father=73956
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	836.1.1={
 		birth=yes
@@ -1413,8 +1413,8 @@
 	name="Isra"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	846.1.1={
 		birth=yes
@@ -1430,8 +1430,8 @@
 	father=73957
 	mother=73958
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	865.1.1={
 		birth=yes
@@ -1447,8 +1447,8 @@
 	father=73957
 	mother=73958
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	867.1.1={
 		birth=yes
@@ -1461,8 +1461,8 @@
 	name="Alkada"
 	dynasty=12306
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	800.1.1={
 		birth=yes
@@ -1477,8 +1477,8 @@
 
 	father=73961
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	834.1.1={
 		birth=yes
@@ -1494,8 +1494,8 @@
 	name="Yaçmina"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	850.1.1={
 		birth=yes
@@ -1508,8 +1508,8 @@
 	name="Çohair"
 	dynasty=12307
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	815.1.1={
 		birth=yes
@@ -1524,8 +1524,8 @@
 
 	father=73964
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	843.1.1={
 		birth=yes
@@ -1540,8 +1540,8 @@
 
 	father=73964
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	850.1.1={
 		birth=yes
@@ -1554,8 +1554,8 @@
 	name="Abdela"
 	dynasty=12309
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	811.1.1={
 		birth=yes
@@ -1571,8 +1571,8 @@
 	name="Monnia"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	822.1.1={
 		birth=yes
@@ -1588,8 +1588,8 @@
 	father=73969
 	mother=73970
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	842.1.1={
 		birth=yes
@@ -1602,8 +1602,8 @@
 	name="Jalid"
 	dynasty=12310
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	828.1.1={
 		birth=yes
@@ -1619,8 +1619,8 @@
 	name="Tarifa"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	840.1.1={
 		birth=yes
@@ -1636,8 +1636,8 @@
 	father=73972
 	mother=73973
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	860.1.1={
 		birth=yes
@@ -1650,8 +1650,8 @@
 	name="Abdela"
 	dynasty=12311
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	831.1.1={
 		birth=yes
@@ -1667,8 +1667,8 @@
 	name="Ayça"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	835.1.1={
 		birth=yes
@@ -1684,8 +1684,8 @@
 	father=73976
 	mother=73977
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	856.1.1={
 		birth=yes
@@ -1701,8 +1701,8 @@
 	father=73976
 	mother=73977
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	858.1.1={
 		birth=yes
@@ -1717,8 +1717,8 @@
 
 	father=73980
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	732.1.1={
 		birth=yes
@@ -1733,8 +1733,8 @@
 
 	father=73981
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	760.1.1={
 		birth=yes
@@ -1749,8 +1749,8 @@
 
 	father=73982
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	795.1.1={
 		birth=yes
@@ -1765,8 +1765,8 @@
 
 	father=73983
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	826.1.1={
 		birth=yes
@@ -1782,8 +1782,8 @@
 	name="Nadia"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	846.1.1={
 		birth=yes
@@ -1799,8 +1799,8 @@
 	father=73984
 	mother=73985
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	865.1.1={
 		birth=yes
@@ -1816,7 +1816,7 @@
 	father=73785
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	martial=6
 	diplomacy=8
@@ -1842,7 +1842,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	860.1.1={
 		birth=yes
@@ -1859,7 +1859,7 @@
 	mother=70151
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	897.1.1={
 		birth=yes
@@ -1876,7 +1876,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	884.1.1={
 		birth=yes
@@ -1893,7 +1893,7 @@
 	mother=70155
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	914.1.1={
 		birth=yes
@@ -1910,7 +1910,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	947.1.1={
 		birth=yes
@@ -1926,7 +1926,7 @@
 	father=70272
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	910.1.1={
 		birth=yes
@@ -1943,7 +1943,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	920.1.1={
 		birth=yes
@@ -1960,7 +1960,7 @@
 	mother=70279
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	950.1.1={
 		birth=yes
@@ -1977,7 +1977,7 @@
 	dynasty=100204
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	813.1.1={
 		birth=yes
@@ -1991,7 +1991,7 @@
 	dynasty=12313
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	840.1.1={
 		birth=yes
@@ -2008,7 +2008,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	850.1.1={
 		birth=yes
@@ -2025,7 +2025,7 @@
 	mother=73988
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	867.1.1={
 		birth=yes
@@ -2039,7 +2039,7 @@
 	dynasty=12314
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	833.1.1={
 		birth=yes
@@ -2056,7 +2056,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	840.1.1={
 		birth=yes
@@ -2073,7 +2073,7 @@
 	mother=73991
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	863.1.1={
 		birth=yes
@@ -2089,7 +2089,7 @@
 	father=73785
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	842.1.1={
 		birth=yes
@@ -2106,7 +2106,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	849.1.1={
 		birth=yes
@@ -2120,7 +2120,7 @@
 	dynasty=100204
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	father=73993
 	mother=73994
@@ -2139,7 +2139,7 @@
 	father=73785
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	843.1.1={
 		birth=yes
@@ -2157,7 +2157,7 @@
 	father=73785
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	844.1.1={
 		birth=yes
@@ -2173,7 +2173,7 @@
 	father=73785
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	846.1.1={
 		birth=yes
@@ -2190,7 +2190,7 @@
 	father=73785
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	847.1.1={
 		birth=yes
@@ -2204,7 +2204,7 @@
 	dynasty=393
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	842.1.1={
 		birth=yes
@@ -2221,7 +2221,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	850.1.1={
 		birth=yes
@@ -2235,7 +2235,7 @@
 	dynasty=393
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	father=74101
 	mother=74102
@@ -2255,7 +2255,7 @@
 	mother=70151
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	martial=6
 	diplomacy=5
@@ -2285,7 +2285,7 @@
 	stewardship=8
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	925.1.1={
 		birth=yes
@@ -2304,7 +2304,7 @@
 	father=74103
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	martial=4
 	diplomacy=4
@@ -2329,8 +2329,8 @@
 	name="Muça"
 	dynasty=1046013
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	733.1.1={
 		birth=yes
@@ -2343,8 +2343,8 @@
 	name="Yuçuf"
 	dynasty=1046014
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	727.1.1={
 		birth=yes
@@ -2357,8 +2357,8 @@
 	name="Abderrabmen"
 	dynasty=1046015
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	738.1.1={
 		birth=yes
@@ -2370,8 +2370,8 @@
 200053={
 	name="Harun"
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	768.1.1={
 		birth=yes
@@ -2384,8 +2384,8 @@
 	name="Çulema"
 	dynasty=1046016
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	737.1.1={
 		birth=yes
@@ -2399,7 +2399,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	710.1.1={
 		birth=yes
@@ -2417,7 +2417,7 @@
 	mother=200056
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	729.1.1={
 		birth=yes
@@ -2431,7 +2431,7 @@
 	dynasty=1046017
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	715.1.1={
 		birth=yes
@@ -2448,7 +2448,7 @@
 	female=yes
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	745.1.1={
 		birth=yes
@@ -2464,7 +2464,7 @@
 	father=73901
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	698.1.1={
 		birth=yes
@@ -2480,7 +2480,7 @@
 	father=200069
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	913.1.1={
 		birth=yes
@@ -2496,7 +2496,7 @@
 	father=200073
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	870.1.1={
 		birth=yes
@@ -2517,7 +2517,7 @@
 	mother=73767
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	885.1.1={
 		birth=yes
@@ -2531,7 +2531,7 @@
 	dynasty=1046018
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	847.1.1={
 		birth=yes
@@ -2547,7 +2547,7 @@
 	father=73765
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	875.1.1={
 		birth=yes
@@ -2565,7 +2565,7 @@
 	mother=73766
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	881.1.1={
 		birth=yes
@@ -2579,7 +2579,7 @@
 	dynasty=8618
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	925.1.1={
 		birth=yes
@@ -2595,7 +2595,7 @@
 	father=200086
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	950.1.1={
 		birth=yes
@@ -2611,7 +2611,7 @@
 	father=200086
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	952.1.1={
 		birth=yes
@@ -2627,7 +2627,7 @@
 	father=200088
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	976.1.1={
 		birth=yes
@@ -2640,7 +2640,7 @@
 	name="Rostan"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	740.1.1={
 		birth=yes
@@ -2653,7 +2653,7 @@
 	name="Oddilon"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	756.1.1={
 		birth=yes
@@ -2666,7 +2666,7 @@
 	name="Ermenguer"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	758.1.1={
 		birth=yes
@@ -2679,7 +2679,7 @@
 	name="Suneario"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	799.1.1={
 		birth=yes
@@ -2693,7 +2693,7 @@
 	dynasty=1046019
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	747.1.1={
 		birth=yes
@@ -2710,7 +2710,7 @@
 	mother=70151
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	898.1.1={
 		birth=yes
@@ -2723,7 +2723,7 @@
 	name="Fredol"
 
 	religion=catholic
-	culture=visigothic
+	culture=leonese
 
 	768.1.1={
 		birth=yes
@@ -2738,8 +2738,8 @@
 
 	father=73801
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	804.1.1={
 		birth=yes
@@ -2754,8 +2754,8 @@
 
 	father=73799
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	790.1.1={
 		birth=yes
@@ -2770,8 +2770,8 @@
 
 	father=73799
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	792.1.1={
 		birth=yes
@@ -2786,8 +2786,8 @@
 
 	father=200207
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	816.1.1={
 		birth=yes
@@ -2802,8 +2802,8 @@
 
 	father=200208
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	820.1.1={
 		birth=yes
@@ -2821,8 +2821,8 @@
 
 	father=200206
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	831.1.1={
 		birth=yes
@@ -2838,8 +2838,8 @@
 	father=200210
 	mother=200213
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	847.1.1={
 		birth=yes
@@ -2852,8 +2852,8 @@
 	name="Tarifa"
 	female=yes
 
-	religion=sunni
-	culture=visigothic
+	religion=catholic
+	culture=bedouin_arabic
 
 	827.1.1={
 		birth=yes
