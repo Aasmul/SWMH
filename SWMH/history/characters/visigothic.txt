@@ -865,7 +865,7 @@
 	name="Aid"
 	dynasty=12289
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	839.1.1={
@@ -885,7 +885,7 @@
 	father=73851
 	mother=73886
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	865.1.1={
@@ -902,7 +902,7 @@
 	father=73851
 	mother=73886
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	867.1.1={
@@ -919,7 +919,7 @@
 	father=73900
 	mother=73907
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	860.1.1={
@@ -933,7 +933,7 @@
 	name="Hamdan"
 	dynasty=12260
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	825.1.1={
@@ -950,7 +950,7 @@
 	name="al-Gaçi"
 	dynasty=12296
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	748.1.1={
@@ -966,7 +966,7 @@
 
 	father=73908
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	782.1.1={
@@ -982,7 +982,7 @@
 
 	father=73909
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	817.1.1={
@@ -998,7 +998,7 @@
 
 	father=73910
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	849.1.1={
@@ -1012,7 +1012,7 @@
 	name="Çacharya"
 	dynasty=12297
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	832.1.1={
@@ -1032,7 +1032,7 @@
 	father=73912
 	mother=73915
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	860.1.1={
@@ -1049,7 +1049,7 @@
 	father=73912
 	mother=73915
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	863.1.1={
@@ -1063,7 +1063,7 @@
 	name="Çeida"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	841.1.1={
@@ -1079,7 +1079,7 @@
 
 	father=73899
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	889.1.1={
@@ -1095,7 +1095,7 @@
 
 	father=73916
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	915.1.1={
@@ -1111,7 +1111,7 @@
 
 	father=73917
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	941.1.1={
@@ -1127,7 +1127,7 @@
 
 	father=73930
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	823.1.1={
@@ -1144,7 +1144,7 @@
 	name="Çacharya"
 	dynasty=12299
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	794.1.1={
@@ -1160,7 +1160,7 @@
 
 	father=73930
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	825.1.1={
@@ -1174,7 +1174,7 @@
 	name="Leyla"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	830.1.1={
@@ -1191,7 +1191,7 @@
 	father=73929
 	mother=73932
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	849.1.1={
@@ -1205,7 +1205,7 @@
 	name="Abdelaçiç"
 	dynasty=12300
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	816.1.1={
@@ -1221,7 +1221,7 @@
 
 	father=73934
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	841.1.1={
@@ -1237,7 +1237,7 @@
 
 	father=73934
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	843.1.1={
@@ -1254,7 +1254,7 @@
 	name="Karima"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	851.1.1={
@@ -1268,7 +1268,7 @@
 	name="Abrafim"
 	dynasty=12301
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	826.1.1={
@@ -1285,7 +1285,7 @@
 	name="Melica"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	833.1.1={
@@ -1302,7 +1302,7 @@
 	father=73938
 	mother=73939
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	851.1.1={
@@ -1316,7 +1316,7 @@
 	name="Amet"
 	dynasty=12304
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	830.1.1={
@@ -1333,7 +1333,7 @@
 	name="Habiba"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	848.1.1={
@@ -1350,7 +1350,7 @@
 	father=73952
 	mother=73953
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	867.1.1={
@@ -1364,7 +1364,7 @@
 	name="Yunus"
 	dynasty=12305
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	780.1.1={
@@ -1380,7 +1380,7 @@
 
 	father=73955
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	803.1.1={
@@ -1396,7 +1396,7 @@
 
 	father=73956
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	836.1.1={
@@ -1413,7 +1413,7 @@
 	name="Isra"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	846.1.1={
@@ -1430,7 +1430,7 @@
 	father=73957
 	mother=73958
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	865.1.1={
@@ -1447,7 +1447,7 @@
 	father=73957
 	mother=73958
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	867.1.1={
@@ -1461,7 +1461,7 @@
 	name="Alkada"
 	dynasty=12306
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	800.1.1={
@@ -1477,7 +1477,7 @@
 
 	father=73961
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	834.1.1={
@@ -1494,7 +1494,7 @@
 	name="Yaçmina"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	850.1.1={
@@ -1508,7 +1508,7 @@
 	name="Çohair"
 	dynasty=12307
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	815.1.1={
@@ -1524,7 +1524,7 @@
 
 	father=73964
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	843.1.1={
@@ -1540,7 +1540,7 @@
 
 	father=73964
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	850.1.1={
@@ -1554,7 +1554,7 @@
 	name="Abdela"
 	dynasty=12309
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	811.1.1={
@@ -1571,7 +1571,7 @@
 	name="Monnia"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	822.1.1={
@@ -1588,7 +1588,7 @@
 	father=73969
 	mother=73970
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	842.1.1={
@@ -1602,7 +1602,7 @@
 	name="Jalid"
 	dynasty=12310
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	828.1.1={
@@ -1619,7 +1619,7 @@
 	name="Tarifa"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	840.1.1={
@@ -1636,7 +1636,7 @@
 	father=73972
 	mother=73973
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	860.1.1={
@@ -1650,7 +1650,7 @@
 	name="Abdela"
 	dynasty=12311
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	831.1.1={
@@ -1667,7 +1667,7 @@
 	name="Ayça"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	835.1.1={
@@ -1684,7 +1684,7 @@
 	father=73976
 	mother=73977
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	856.1.1={
@@ -1701,7 +1701,7 @@
 	father=73976
 	mother=73977
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	858.1.1={
@@ -1717,7 +1717,7 @@
 
 	father=73980
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	732.1.1={
@@ -1733,7 +1733,7 @@
 
 	father=73981
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	760.1.1={
@@ -1749,7 +1749,7 @@
 
 	father=73982
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	795.1.1={
@@ -1765,7 +1765,7 @@
 
 	father=73983
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	826.1.1={
@@ -1782,7 +1782,7 @@
 	name="Nadia"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	846.1.1={
@@ -1799,7 +1799,7 @@
 	father=73984
 	mother=73985
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	865.1.1={
@@ -2329,7 +2329,7 @@
 	name="Muça"
 	dynasty=1046013
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	733.1.1={
@@ -2343,7 +2343,7 @@
 	name="Yuçuf"
 	dynasty=1046014
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	727.1.1={
@@ -2357,7 +2357,7 @@
 	name="Abderrabmen"
 	dynasty=1046015
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	738.1.1={
@@ -2370,7 +2370,7 @@
 200053={
 	name="Harun"
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	768.1.1={
@@ -2384,7 +2384,7 @@
 	name="Çulema"
 	dynasty=1046016
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	737.1.1={
@@ -2738,7 +2738,7 @@
 
 	father=73801
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	804.1.1={
@@ -2754,7 +2754,7 @@
 
 	father=73799
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	790.1.1={
@@ -2770,7 +2770,7 @@
 
 	father=73799
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	792.1.1={
@@ -2786,7 +2786,7 @@
 
 	father=200207
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	816.1.1={
@@ -2802,7 +2802,7 @@
 
 	father=200208
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	820.1.1={
@@ -2821,7 +2821,7 @@
 
 	father=200206
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	831.1.1={
@@ -2838,7 +2838,7 @@
 	father=200210
 	mother=200213
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	847.1.1={
@@ -2852,7 +2852,7 @@
 	name="Tarifa"
 	female=yes
 
-	religion=catholic
+	religion=sunni
 	culture=bedouin_arabic
 
 	827.1.1={
