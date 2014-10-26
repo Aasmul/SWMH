@@ -7,7 +7,7 @@ title = c_wicklow
 max_settlements = 3
 
 b_glendalough = temple
-b_wicklow = castle
+#b_wicklow = castle
 
 #b_carnew = city
 #b_arklow = castle
@@ -18,7 +18,8 @@ culture = norse
 religion = catholic
 
 # History
-867.1.1 = {
+1000.1.1 = {
+	b_wicklow = castle
 	b_wicklow = ca_shipyard_1
 }
 1047.10.25 = { culture = norsegaelic }
