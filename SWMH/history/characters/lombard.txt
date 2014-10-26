@@ -3,7 +3,7 @@
 	name="Audoin"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	519.1.1={
 		birth=yes
 	}
@@ -19,7 +19,7 @@
 	female=yes
 	dynasty=1044032 #Theoderingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	520.1.1={
 		birth=yes
 	}
@@ -31,7 +31,7 @@
 	name="Alboin"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190122
 	mother=190123
 	539.1.1={
@@ -45,7 +45,7 @@
 	name="Grasulf"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190122
 	mother=190123
 	542.1.1={
@@ -59,7 +59,7 @@
 	name="Gisulf"#duke of Friuli
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190125
 	559.1.1={
 		birth=yes
@@ -72,7 +72,7 @@
 	name="Zotto" #duke of Benevento
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190125
 	560.1.1={
 		birth=yes
@@ -88,7 +88,7 @@
 	name="Gisulf" #II duke of Friuli
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190126
 	578.1.1={
 		birth=yes
@@ -104,7 +104,7 @@
 	name="Taso" #duke of Friuli
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190128
 	mother=190129
 	594.1.1={
@@ -118,7 +118,7 @@
 	name="Cacco"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190128
 	mother=190129
 	595.1.1={
@@ -132,7 +132,7 @@
 	name="Radoald"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190128
 	mother=190129
 	596.1.1={
@@ -147,7 +147,7 @@
 	female=yes
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190128
 	mother=190129
 	598.1.1={
@@ -158,10 +158,10 @@
 	}
 }
 190133 = {
-	name="Grimoald" #king of lombards
+	name="Grimoald" #king of italians
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190128
 	mother=190129
 	609.1.1={
@@ -175,11 +175,11 @@
 	}
 }
 190134 = {
-	name="Theodota" #daughter of Aripert II king of Lombards
+	name="Theodota" #daughter of Aripert II king of italians
 	female=yes
 	dynasty=1044046 #Bavarae
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190181
 	634.1.1={
 		birth=yes
@@ -192,7 +192,7 @@
 	name="Romuald"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190133
 	mother=190134
 	653.1.1={
@@ -209,7 +209,7 @@
 	name="Garibald"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190133
 	mother=190134
 	655.1.1={
@@ -224,7 +224,7 @@
 	female=yes
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190248
 	653.1.1={
 		birth=yes
@@ -237,7 +237,7 @@
 	name="Grimoald"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190135
 	mother=190137
 	669.1.1={
@@ -254,7 +254,7 @@
 	name="Gisulf"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190135
 	mother=190137
 	670.1.1={
@@ -272,7 +272,7 @@
 	female=yes
 	dynasty=1044036 #Lampertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	670.1.1={
 		birth=yes
 	}
@@ -284,7 +284,7 @@
 	name="Romuald"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190139
 	mother=190140
 	686.1.1={
@@ -308,7 +308,7 @@
 	female=yes
 	dynasty=1044037 #Giselbertling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	684.1.1={
 		birth=yes
 	}
@@ -321,7 +321,7 @@
 	female=yes
 	dynasty=1044038 #Gaiduldling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	709.1.1={
 		birth=yes
 	}
@@ -333,7 +333,7 @@
 	name="Gisulf"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190141
 	mother=190142
 	702.1.1={
@@ -351,7 +351,7 @@
 	female=yes
 	dynasty=1044039 #Waldulfingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	701.1.1={
 		birth=yes
 	}
@@ -363,7 +363,7 @@
 	name="Liutprand"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190144
 	mother=190145
 	719.1.1={
@@ -377,7 +377,7 @@
 	name="Arechis"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190146
 	735.1.1={
 		birth=yes
@@ -394,7 +394,7 @@
 	female=yes
 	dynasty=1044053 #Alachisling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190347
 	mother=190340
 	735.1.1={
@@ -408,7 +408,7 @@
 	name="Romoald"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190147
 	mother=190148
 	751.1.1={
@@ -422,7 +422,7 @@
 	name="Grimoald"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190147
 	mother=190148
 	752.1.1={
@@ -440,7 +440,7 @@
 	female=yes
 	dynasty=1044041 #Romoaldingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	750.1.1={
 		birth=yes
 	}
@@ -452,7 +452,7 @@
 	name="Ilderic"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190150
 	mother=190151
 	768.1.1={
@@ -466,7 +466,7 @@
 	name="Arechis" #duke of Benevento
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190126
 	581.1.1={
 		birth=yes
@@ -479,7 +479,7 @@
 	name="Aiulf"
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190153
 	601.1.1={
 		birth=yes
@@ -492,7 +492,7 @@
 	name="Grasulf" #duke of Friuli
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190126
 	579.1.1={
 		birth=yes
@@ -505,7 +505,7 @@
 	name="Ago" #duke of Friuli
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190246
 	599.1.1={
 		birth=yes
@@ -518,7 +518,7 @@
 	name="Lupus" #duke of Friuli
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190247
 	620.1.1={
 		birth=yes
@@ -531,7 +531,7 @@
 	name="Arnefrit" #duke of Friuli
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190248
 	638.1.1={
 		birth=yes
@@ -544,7 +544,7 @@
 	name="Wechtar" #duke of Friuli
 	dynasty=1044059 #Wechtaringi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	636.1.1={
 		birth=yes
 	}
@@ -556,7 +556,7 @@
 	name="Landar" #duke of Friuli
 	dynasty=1044059 #Wechtaringi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190250
 	652.1.1={
 		birth=yes
@@ -569,7 +569,7 @@
 	name="Rodoald" #duke of Friuli
 	dynasty=1044059 #Wechtaringi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190251
 	668.1.1={
 		birth=yes
@@ -583,7 +583,7 @@
 	female=yes
 	dynasty=1044059 #Wechtaringi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190251
 	669.1.1={
 		birth=yes
@@ -596,7 +596,7 @@
 	name="Ado" #duke of Friuli
 	dynasty=1044059 #Wechtaringi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190251
 	678.1.1={
 		birth=yes
@@ -609,7 +609,7 @@
 	name="Ansfrid" #duke of Friuli
 	dynasty=1044060 #Ansfridingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	656.1.1={
 		birth=yes
 	}
@@ -624,7 +624,7 @@
 	name="Ferdulf" #duke of Friuli
 	dynasty=1044060 #Ansfridingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190255
 	mother=190253
 	685.1.1={
@@ -638,7 +638,7 @@
 	name="Corvulus" #duke of Friuli
 	dynasty=1044060 #Ansfridingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190256
 	701.1.1={
 		birth=yes
@@ -651,7 +651,7 @@
 	name="Ferdulf"
 	dynasty=1044060 #Ansfridingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190257
 	721.1.1={
 		birth=yes
@@ -664,7 +664,7 @@
 	name="Munichis"
 	dynasty=1044052 #Munichingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	701.1.1={
 		birth=yes
 	}
@@ -676,7 +676,7 @@
 	name="Anselm" #duke of Friuli
 	dynasty=1044052 #Munichingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190259
 	718.1.1={
 		birth=yes
@@ -689,7 +689,7 @@
 	name="Munichis"
 	dynasty=1044052 #Munichingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190259
 	719.1.1={
 		birth=yes
@@ -702,7 +702,7 @@
 	name="Peter" #duke of friuli
 	dynasty=1044052 #Munichingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190261
 	735.1.1={
 		birth=yes
@@ -715,7 +715,7 @@
 	name="Ursus" #count of Padua
 	dynasty=1044052 #Munichingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190261
 	737.1.1={
 		birth=yes
@@ -728,7 +728,7 @@
 	name="Hrodgaud"
 	dynasty=1044052 #Munichingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190261
 	740.1.1={
 		birth=yes
@@ -738,11 +738,11 @@
 	}
 }
 190344 = {
-	name="Gisaltruda" #wife of Aistulf king of Lombards
+	name="Gisaltruda" #wife of Aistulf king of italians
 	female=yes
 	dynasty=1044052 #Munichingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190259
 	730.1.1={
 		birth=yes
@@ -755,7 +755,7 @@
 	name="Falco"
 	dynasty=1044042 #Falco
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	743.1.1={
 		birth=yes
 	}
@@ -771,7 +771,7 @@
 	female=yes
 	dynasty=1044043 #Walbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	747.1.1={
 		birth=yes
 	}
@@ -783,7 +783,7 @@
 	name="Grimoald" #duke of Benevento
 	dynasty=1044042 #Falco
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190155
 	mother=190156
 	760.1.1={
@@ -797,7 +797,7 @@
 	name="Sicard" #fictional
 	dynasty=1044044 #Sicard
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	742.1.1={
 		birth=yes
 	}
@@ -813,7 +813,7 @@
 	female=yes
 	dynasty=1044085 #Liutprandling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	740.1.1={
 		birth=yes
 	}
@@ -825,7 +825,7 @@
 	name="Sico" #duke of Benevento
 	dynasty=1044044 #Sicard
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190158
 	mother=190159
 	758.1.1={
@@ -839,7 +839,7 @@
 	name="Sicard" #duke of Benevento
 	dynasty=1044044 #Sicard
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190160
 	779.1.1={
 		birth=yes
@@ -853,7 +853,7 @@
 	female=yes
 	dynasty=1044044 #Sicard
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190160
 	783.1.1={
 		birth=yes
@@ -866,7 +866,7 @@
 	name="Siconulf" #duke of Salerno
 	dynasty=1044044 #Sicard
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190160
 	789.1.1={
 		birth=yes
@@ -879,7 +879,7 @@
 	name="Sico" #duke of Salerno
 	dynasty=1044044 #Sicard
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190160
 	813.1.1={
 		birth=yes
@@ -889,11 +889,11 @@
 	}
 }
 190165 = {
-	name="Masane" #marries Cleph king of Lombards
+	name="Masane" #marries Cleph king of italians
 	female=yes
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190122
 	mother=190123
 	540.1.1={
@@ -908,7 +908,7 @@
 	female=yes
 	dynasty=1044031 #Gausian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190122
 	mother=190123
 	541.1.1={
@@ -922,7 +922,7 @@
 	name="Beleo"
 	dynasty=1044045 #Beleo
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	507.1.1={
 		birth=yes
 	}
@@ -934,7 +934,7 @@
 	name="Cleph"
 	dynasty=1044045 #Beleo
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190167
 	523.1.1={
 		birth=yes
@@ -950,7 +950,7 @@
 	name="Authari"
 	dynasty=1044045 #Beleo
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190168
 	556.1.1={
 		birth=yes
@@ -969,7 +969,7 @@
 	name="Agilulf"
 	dynasty=1044045 #Beleo
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190168
 	559.1.1={
 		birth=yes
@@ -982,11 +982,11 @@
 	}
 }
 190172 = {
-	name="Gundeberga" #wife of Arioald king of Lombards
+	name="Gundeberga" #wife of Arioald king of italians
 	female=yes
 	dynasty=1044045 #Beleo
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190170
 	mother=190171
 	598.1.1={
@@ -1000,7 +1000,7 @@
 	name="Adaloald"
 	dynasty=1044045 #Beleo
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190170
 	mother=190171
 	602.1.1={
@@ -1014,7 +1014,7 @@
 	name="Arioald"
 	dynasty=1044047 #Arioaldling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	578.1.1={
 		birth=yes
 	}
@@ -1029,7 +1029,7 @@
 	name="Nanding"
 	dynasty=1044048 #Harodingian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	572.1.1={
 		birth=yes
 	}
@@ -1041,7 +1041,7 @@
 	name="Rothari"
 	dynasty=1044048 #Harodingian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190175
 	599.1.1={
 		birth=yes
@@ -1054,7 +1054,7 @@
 	name="Rodoald"
 	dynasty=1044048 #Harodingian
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190176
 	620.1.1={
 		birth=yes
@@ -1064,10 +1064,10 @@
 	}
 }
 190181 = {
-	name="Aripert" #king of Lombards
+	name="Aripert" #king of italians
 	dynasty=1044046 #Bavarae
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190180
 	609.1.1={
 		birth=yes
@@ -1077,10 +1077,10 @@
 	}
 }
 190182 = {
-	name="Godepert" #king of Lombards
+	name="Godepert" #king of italians
 	dynasty=1044046 #Bavarae
 	religion="catholic" #arian
-	culture="lombard"
+	culture="italian"
 	father=190181
 	629.1.1={
 		birth=yes
@@ -1090,10 +1090,10 @@
 	}
 }
 190183 = {
-	name="Raginpert" #king of Lombards
+	name="Raginpert" #king of italians
 	dynasty=1044046 #Bavarae
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190182
 	653.1.1={
 		birth=yes
@@ -1103,10 +1103,10 @@
 	}
 }
 190184 = {
-	name="Aripert" #king of Lombards
+	name="Aripert" #king of italians
 	dynasty=1044046 #Bavarae
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190183
 	672.1.1={
 		birth=yes
@@ -1116,10 +1116,10 @@
 	}
 }
 190185 = {
-	name="Pectarit" #king of Lombards
+	name="Pectarit" #king of italians
 	dynasty=1044046 #Bavarae
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190181
 	637.1.1={
 		birth=yes
@@ -1133,7 +1133,7 @@
 	female=yes
 	dynasty=1044049 #Pandulfingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	640.1.1={
 		birth=yes
 	}
@@ -1146,7 +1146,7 @@
 	female=yes
 	dynasty=1044046 #Bavarae
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190185
 	mother=190186
 	656.1.1={
@@ -1157,10 +1157,10 @@
 	}
 }
 190188 = {
-	name="Cunipert" #king of Lombards
+	name="Cunipert" #king of italians
 	dynasty=1044046 #Bavarae
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190185
 	mother=190186
 	659.1.1={
@@ -1171,10 +1171,10 @@
 	}
 }
 190189 = {
-	name="Liutpert" #king of Lombards
+	name="Liutpert" #king of italians
 	dynasty=1044046 #Bavarae
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190188
 	689.1.1={
 		birth=yes
@@ -1188,8 +1188,8 @@
 	female=yes
 	dynasty=1044046 #Bavarae
 	religion="catholic"
-	culture="lombard"
-	father=190184 #Aripert II of Lombardy
+	culture="italian"
+	father=190184 #Aripert II of italiany
 	700.1.1={
 		birth=yes
 	}
@@ -1201,7 +1201,7 @@
 	name="Ansprand"
 	dynasty=1044051 #Ansprandling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	652.1.1={
 		birth=yes
 	}
@@ -1216,7 +1216,7 @@
 	name="Sigibert"
 	dynasty=1044051 #Ansprandling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190193
 	mother=190192
 	674.1.1={
@@ -1231,7 +1231,7 @@
 	female=yes
 	dynasty=1044051 #Ansprandling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190193
 	mother=190192
 	668.1.1={
@@ -1245,7 +1245,7 @@
 	name="Liutprand"
 	dynasty=1044051 #Ansprandling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190193
 	mother=190192
 	698.1.1={
@@ -1262,7 +1262,7 @@
 	name="Hildeprand"
 	dynasty=1044051 #Ansprandling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190194
 	710.1.1={
 		birth=yes
@@ -1272,11 +1272,11 @@
 	}
 }
 190199 = {
-	name="Tasia" #maries Ratchis king of Lombards
+	name="Tasia" #maries Ratchis king of italians
 	female=yes
 	dynasty=1044051 #Ansprandling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190194
 	711.1.1={
 		birth=yes
@@ -1286,11 +1286,11 @@
 	}
 }
 190340 = {
-	name="Ansia" #maries Desiderius king of Lombards
+	name="Ansia" #maries Desiderius king of italians
 	female=yes
 	dynasty=1044051 #Ansprandling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190194
 	712.1.1={
 		birth=yes
@@ -1303,7 +1303,7 @@
 	name="Billo"
 	dynasty=1044050 #Billoingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	658.1.1={
 		birth=yes
 	}
@@ -1315,7 +1315,7 @@
 	name="Pemmo"
 	dynasty=1044050 #Billoingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190341
 	687.1.1={
 		birth=yes
@@ -1328,10 +1328,10 @@
 	}
 }
 190343 = {
-	name="Ratchis" #king of Lombards
+	name="Ratchis" #king of italians
 	dynasty=1044050 #Billoingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190342
 	mother=190191
 	716.1.1={
@@ -1345,10 +1345,10 @@
 	}
 }
 190331 = {
-	name="Aistulf" #king of Lombards
+	name="Aistulf" #king of italians
 	dynasty=1044050 #Billoingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190342
 	mother=190191
 	717.1.1={
@@ -1393,7 +1393,7 @@
 	}
 }
 190347 = {
-	name="Desiderius" #Desiderius, King of Lombards - Daufer
+	name="Desiderius" #Desiderius, King of italians - Daufer
 	dynasty=1044053 #Alachislings
 
 	father=190346
@@ -1416,7 +1416,7 @@
 	female=yes
 	dynasty=1044053 #Alachislings
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190347
 	mother=190340
 	745.1.1={
@@ -1449,7 +1449,7 @@
 	female=yes
 	dynasty=1044053 #Alachislings
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190347
 	mother=190340
 	744.1.1={
@@ -1463,7 +1463,7 @@
 	name="Adelchis"
 	dynasty=1044053 #Alachislings
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190347
 	mother=190340
 	759.1.1={
@@ -1474,10 +1474,10 @@
 	}
 }
 190354 = {
-	name="Alahis" #king of Lombards
+	name="Alahis" #king of italians
 	dynasty=1044054 #Sicardling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	654.1.1={
 		birth=yes
 	}
@@ -1489,7 +1489,7 @@
 	name="Theodicus" #duke of Spoleto
 	dynasty=1044061 #Theodingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	727.1.1={
 		birth=yes
 	}
@@ -1505,7 +1505,7 @@
 	female=yes
 	dynasty=1044062 #Giselbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	731.1.1={
 		birth=yes
 	}
@@ -1517,7 +1517,7 @@
 	name="Hildeprand" #duke of Spoleto
 	dynasty=1044061 #Theodingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190265
 	mother=190266
 	750.1.1={
@@ -1531,7 +1531,7 @@
 	name="Ursus" #count of Bologna (Persiceta)
 	dynasty=1044063 #Ursingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	721.1.1={
 		birth=yes
 	}
@@ -1543,7 +1543,7 @@
 	name="John" #count of Bologna
 	dynasty=1044063 #Ursingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190268
 	740.1.1={
 		birth=yes
@@ -1556,7 +1556,7 @@
 	name="Ursus" #count of Bologna
 	dynasty=1044063 #Ursingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190269
 	760.1.1={
 		birth=yes
@@ -1569,7 +1569,7 @@
 	name="Ademaro" #count of Verona
 	dynasty=1044064 #Ademingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	701.1.1={
 		birth=yes
 	}
@@ -1581,7 +1581,7 @@
 	name="Ademaro" #count of Verona
 	dynasty=1044064 #Ademingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190271
 	742.1.1={
 		birth=yes
@@ -1595,7 +1595,7 @@
 	female=yes
 	dynasty=1044064 #Ademingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190269
 	743.1.1={
 		birth=yes
@@ -1608,7 +1608,7 @@
 	name="Adalbert" #count of Genoa
 	dynasty=1044065 #Adalbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	725.1.1={
 		birth=yes
 	}
@@ -1620,7 +1620,7 @@
 	name="Ademaro" #count of Genoa
 	dynasty=1044065 #Adalbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190274
 	742.1.1={
 		birth=yes
@@ -1634,7 +1634,7 @@
 	female=yes
 	dynasty=1044065 #Adalbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190274
 	744.1.1={
 		birth=yes
@@ -1647,7 +1647,7 @@
 	name="Peter" #count of Corsica
 	dynasty=1044065 #Adalbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190274
 	747.1.1={
 		birth=yes
@@ -1660,7 +1660,7 @@
 	name="Walperto" #duke of Tuscany
 	dynasty=1044066 #Walpertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	702.1.1={
 		birth=yes
 	}
@@ -1672,7 +1672,7 @@
 	name="Alperto" #duke of Tuscany
 	dynasty=1044066 #Walpertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190278
 	722.1.1={
 		birth=yes
@@ -1688,7 +1688,7 @@
 	name="Tachiperto" #duke of Tuscany
 	dynasty=1044066 #Walpertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190278
 	743.1.1={
 		birth=yes
@@ -1702,7 +1702,7 @@
 	female=yes
 	dynasty=1044066 #Walpertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190278
 	745.1.1={
 		birth=yes
@@ -1715,7 +1715,7 @@
 	name="Lupo" #count of Ferrara
 	dynasty=1044066 #Walpertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190278
 	727.1.1={
 		birth=yes
@@ -1728,7 +1728,7 @@
 	name="Tachiperto" #count of Ancona and Urbino
 	dynasty=1044067 #Tachipertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	721.1.1={
 		birth=yes
 	}
@@ -1740,7 +1740,7 @@
 	name="Lupo" #count of Ancona
 	dynasty=1044067 #Tachipertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190283
 	741.1.1={
 		birth=yes
@@ -1753,7 +1753,7 @@
 	name="Halo" #count of Urbino
 	dynasty=1044067 #Tachipertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190283
 	747.1.1={
 		birth=yes
@@ -1767,7 +1767,7 @@
 	female=yes
 	dynasty=1044067 #Tachipertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190283
 	753.1.1={
 		birth=yes
@@ -1780,7 +1780,7 @@
 	name="Teuderic" #count of Ravenna
 	dynasty=1044068 #Teudericingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	743.1.1={
 		birth=yes
 	}
@@ -1795,7 +1795,7 @@
 	name="Hilderic" #count of Ravenna
 	dynasty=1044068 #Teudericingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190287
 	mother=190281
 	761.1.1={
@@ -1812,7 +1812,7 @@
 	name="Daufer" #count of Salerno
 	dynasty=1044069 #Daufingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	743.1.1={
 		birth=yes
 	}
@@ -1824,7 +1824,7 @@
 	name="Rotfrit" #count of Salerno
 	dynasty=1044069 #Daufingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190289
 	776.1.1={
 		birth=yes
@@ -1837,7 +1837,7 @@
 	name="Adelchis" #count of Salerno
 	dynasty=1044069 #Daufingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190290
 	796.1.1={
 		birth=yes
@@ -1851,7 +1851,7 @@
 	female=yes
 	dynasty=1044069 #Daufingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190290
 	797.1.1={
 		birth=yes
@@ -1864,7 +1864,7 @@
 	name="Potelfrit"
 	dynasty=1044069 #Daufingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190289
 	778.1.1={
 		birth=yes
@@ -1878,7 +1878,7 @@
 	female=yes
 	dynasty=1044069 #Daufingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190293
 	804.1.1={
 		birth=yes
@@ -1891,7 +1891,7 @@
 	name="Rodoald" #count of Consenza
 	dynasty=1044070 #Rodoingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	723.1.1={
 		birth=yes
 	}
@@ -1903,7 +1903,7 @@
 	name="Radulhin" #count of Consenza
 	dynasty=1044070 #Rodoingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190295
 	740.1.1={
 		birth=yes
@@ -1916,7 +1916,7 @@
 	name="Ermepert" #count of Constanza
 	dynasty=1044070 #Rodoingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190295
 	743.1.1={
 		birth=yes
@@ -1930,7 +1930,7 @@
 	female=yes
 	dynasty=1044070 #Rodoingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190295
 	742.1.1={
 		birth=yes
@@ -1943,7 +1943,7 @@
 	name="Roderissus" #count of Taranto
 	dynasty=1044086 #Roderissingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	745.1.1={
 		birth=yes
 	}
@@ -1958,7 +1958,7 @@
 	name="Rodegar" #count of Taranto
 	dynasty=1044086 #Roderissingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190299
 	mother=190298
 	763.1.1={
@@ -1972,7 +1972,7 @@
 	name="Roderissus" #count of Taranto
 	dynasty=1044086 #Roderissingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190300
 	783.1.1={
 		birth=yes
@@ -1985,7 +1985,7 @@
 	name="Framicus"
 	dynasty=1044086 #Roderissingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190299
 	mother=190298
 	765.1.1={
@@ -1999,7 +1999,7 @@
 	name="Gandulf" #count of Bari
 	dynasty=1044071 #Gandulfingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	721.1.1={
 		birth=yes
 	}
@@ -2011,7 +2011,7 @@
 	name="Daufer" #count of Bari
 	dynasty=1044071 #Gandulfingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190303
 	763.1.1={
 		birth=yes
@@ -2024,7 +2024,7 @@
 	name="Rodegar" #count of Bari
 	dynasty=1044071 #Gandulfingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190304
 	789.1.1={
 		birth=yes
@@ -2038,7 +2038,7 @@
 	female=yes
 	dynasty=1044071 #Gandulfingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190303
 	741.1.1={
 		birth=yes
@@ -2052,7 +2052,7 @@
 	female=yes
 	dynasty=1044071 #Gandulfingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190303
 	743.1.1={
 		birth=yes
@@ -2065,7 +2065,7 @@
 	name="Maio" #count of Aprutium
 	dynasty=1044072 #Maioingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	742.1.1={
 		birth=yes
 	}
@@ -2080,7 +2080,7 @@
 	name="Maio" #count of Aprutium
 	dynasty=1044072 #Maioingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190308
 	mother=190306
 	766.1.1={
@@ -2094,7 +2094,7 @@
 	name="Paldo" #count of Apulia
 	dynasty=1044073 #Paldingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	746.1.1={
 		birth=yes
 	}
@@ -2109,7 +2109,7 @@
 	name="Stefano" #count of Apulia
 	dynasty=1044073 #Paldingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190310
 	mother=190307
 	766.1.1={
@@ -2123,7 +2123,7 @@
 	name="Varbert" #count of Mantua
 	dynasty=1044074 #Varbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	736.1.1={
 		birth=yes
 	}
@@ -2139,7 +2139,7 @@
 	female=yes
 	dynasty=1044074 #Varbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	735.1.1={
 		birth=yes
 	}
@@ -2151,7 +2151,7 @@
 	name="Lambert" #count of Parma
 	dynasty=1044074 #Varbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190312
 	mother=190313
 	753.1.1={
@@ -2165,7 +2165,7 @@
 	name="Grimauld"
 	dynasty=1044074 #Varbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190312
 	mother=190313
 	755.1.1={
@@ -2180,7 +2180,7 @@
 	female=yes
 	dynasty=1044074 #Varbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190312
 	mother=190313
 	757.1.1={
@@ -2194,7 +2194,7 @@
 	name="Billo"
 	dynasty=1044074 #Varbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190312
 	mother=190313
 	758.1.1={
@@ -2208,7 +2208,7 @@
 	name="Drogo"
 	dynasty=1044074 #Varbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190312
 	mother=190313
 	759.1.1={
@@ -2222,7 +2222,7 @@
 	name="Daufer"
 	dynasty=1044074 #Varbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	father=190312
 	mother=190313
 	763.1.1={
@@ -2236,7 +2236,7 @@
 	name="Paldo" #count of Milan
 	dynasty=1044075 #Paldoling
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	746.1.1={
 		birth=yes
 	}
@@ -2248,7 +2248,7 @@
 	name="Tato" #count of Trent
 	dynasty=1044076 #Tatingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	746.1.1={
 		birth=yes
 	}
@@ -2260,7 +2260,7 @@
 	name="Lambert" #count of Modena
 	dynasty=1044077 #Lambertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	741.1.1={
 		birth=yes
 	}
@@ -2272,7 +2272,7 @@
 	name="Engelbert" #count of Treviso
 	dynasty=1044078 #Engelbertingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	742.1.1={
 		birth=yes
 	}
@@ -2284,7 +2284,7 @@
 	name="Liutfred" #count of Montferrat
 	dynasty=1044079 #Liutfredingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	737.1.1={
 		birth=yes
 	}
@@ -2296,7 +2296,7 @@
 	name="Gaidoald" #count of Brescia
 	dynasty=1044080 #Gaidolaldingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	740.1.1={
 		birth=yes
 	}
@@ -2308,7 +2308,7 @@
 	name="Taso" #count of Sienna
 	dynasty=1044081 #Tasingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	746.1.1={
 		birth=yes
 	}
@@ -2320,7 +2320,7 @@
 	name="Peter" #count of Orvieto/Orbetello
 	dynasty=1044082 #Petringi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	737.1.1={
 		birth=yes
 	}
@@ -2332,7 +2332,7 @@
 	name="Faroald" #count of Piombino
 	dynasty=1044083 #Faroaldingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	751.1.1={
 		birth=yes
 	}
@@ -2344,7 +2344,7 @@
 	name="Liutprand" #duke of Susa
 	dynasty=1044084 #Liutprandingi
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	740.1.1={
         birth=yes
 	}
@@ -2356,7 +2356,7 @@
 	name="Pando" #count of Capua
 	dynasty=7184 #di Capua
 	religion="catholic"
-	culture="lombard"
+	culture="italian"
 	740.1.1={
 		birth=yes
 	}
