@@ -1,6 +1,9 @@
 860.1.1={
 	liege = d_ulster
 }
+860.1.1={
+	holder = 1000226434 # Cathalan
+}
 1066.1.1={
 	holder = 1000226409 #"Maél Muire", Bishop of Down
 }
