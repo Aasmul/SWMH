@@ -6294,7 +6294,9 @@ e_hre = {
 		color2={ 220 220 20 }
 		dignity = 30 # One more than Burgundy
 	}
-	allow = { ruled_years = 5
+	allow = {
+		realm_size = 120
+		ruled_years = 5
 		war = no
 		is_adult = yes
 		NOT = { tier = emperor }
@@ -6338,6 +6340,7 @@ e_byzantium = {
 		e_roman_empire = {
 			has_holder = no
 		}
+		realm_size = 120
 		ruled_years = 5
 		war = no
 		is_adult = yes
@@ -12707,10 +12710,9 @@ e_hungary = {
 	# Creation/usurpation trigger
 	allow = {
 		religion_group = christian
-		AND = {
-			has_landed_title = k_hungary
-			has_landed_title = k_croatia}
-
+		has_landed_title = k_hungary
+		has_landed_title = k_croatia
+		realm_size = 120
 		ruled_years = 5
 		war = no
 		is_adult = yes
@@ -16685,17 +16687,15 @@ e_scandinavia = {
 			religion_group = christian
 			religion_group = pagan_group
 		}
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
 		NOT = { tier = emperor }
-		AND = {
-			has_landed_title = k_denmark
-			has_landed_title = k_norway
-			has_landed_title = k_sweden
-		}
+		has_landed_title = k_denmark
+		has_landed_title = k_norway
+		has_landed_title = k_sweden
 	}
-	
 }
 
 k_pomerania = {
@@ -20582,16 +20582,14 @@ e_poland = {
 			culture = polish
 			culture = lithuanian
 		}
-		AND = {
-			has_landed_title = k_poland
-			has_landed_title = k_lithuania
-		}
+		has_landed_title = k_poland
+		has_landed_title = k_lithuania
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
 		NOT = { tier = emperor }
 	}
-	
 }
 
 k_terra = {
@@ -24538,6 +24536,7 @@ e_russia = {
 			religion_group = christian
 			religion_group = pagan_group
 		}
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
@@ -25551,6 +25550,11 @@ e_persia = {
 	
 	allow = {
 		culture_group = iranian
+		realm_size = 120
+		war = no
+		ruled_years = 5
+		is_adult = yes
+		NOT = { tier = emperor }
 	}
 	
 	k_persia = {
@@ -29128,6 +29132,7 @@ e_italy = {
 		religion_group = christian
 		has_landed_title = k_italy
 		has_landed_title = k_sicily
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
@@ -31139,6 +31144,7 @@ e_france = {
 		has_landed_title = c_ile_de_france
 		has_landed_title = d_brittany
 		has_landed_title = d_aquitaine
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
@@ -31172,6 +31178,7 @@ e_spain = {
 	
 	# Creation/usurpation trigger
 	allow = {
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
@@ -40939,6 +40946,7 @@ e_africa = {
 	
 	allow = {
 		religion_group = muslim
+		realm_size = 120
 		ruled_years = 5
 		war = no
 		is_adult = yes
@@ -40953,6 +40961,7 @@ e_africa = {
 		}
 	}
 } # END e_africa
+
 	k_canarias = {
 		color={ 182 198 176 }
 		color2={ 255 255 255 }
@@ -42003,7 +42012,9 @@ e_arabia = {
 			NOT = { tier = emperor }
 		}
 	} # END k_egypt       
-	allow = { ruled_years = 5
+	allow = {
+		realm_size = 120
+		ruled_years = 5
 		war = no
 		is_adult = yes
 		NOT = { tier = emperor }
@@ -42683,6 +42694,7 @@ e_abyssinia = {
 		has_landed_title=k_maikelebahr
 		has_landed_title=k_nubia
 		has_landed_title=k_abyssinia
+		realm_size = 120
 	}
 }
 
@@ -52194,6 +52206,7 @@ e_britannia = {
 					religion_group = christian
 					religion_group = pagan_group
 				}
+				realm_size = 120
 				ruled_years = 5
 				war = no
 				is_adult = yes
@@ -52660,7 +52673,9 @@ e_britannia = {
 					}
 				}
 			} # END k_songhay
-			allow = { ruled_years = 5
+			allow = {
+				realm_size = 120
+				ruled_years = 5
 				war = no
 				is_adult = yes
 				NOT = { tier = emperor }
