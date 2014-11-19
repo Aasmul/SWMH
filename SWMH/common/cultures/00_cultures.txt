@@ -1638,7 +1638,6 @@ finno_ugric = {
 
 	finnish = {
 		graphical_culture = ugricgfx
-		
 		color = { 0.1 0.6 0.6 }
 
 		male_names = {

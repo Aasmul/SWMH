@@ -1,0 +1,42 @@
+700.1.1 = {
+	liege = k_saxony
+	de_jure_liege = k_saxony
+}
+761.1.1={
+	holder = 190457 #Bruno
+}
+782.1.1={
+	holder = 0
+	liege = 0
+	
+# Nothing should be de jure vassal to k_germany in either 867 or 1066+ in SWMH,
+# so that's why this is commented-out (says ziji):
+#	
+#	de_jure_liege = k_germany
+}
+1235.1.1=
+{
+liege="e_hre"
+#law = agnatic_succession
+#law = succ_primogeniture
+}
+1235.1.1=
+{
+	holder = 462802
+}
+1252.1.1=
+{
+	holder = 462832
+}
+1262.1.1=
+{
+	holder = 462803
+}
+1279.1.1=
+{
+	holder = 462821
+}
+1318.9.22=
+{
+	holder = 462823
+}
