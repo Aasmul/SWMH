@@ -26410,7 +26410,7 @@ e_persia = {
 				b_rahbah = {}
 				b_jasim = {}
 				b_midhrawi = {}
-				#b_rashid = {} # c_rashid
+				#b_rashid = {} # c_gabiyaha
 				b_jaarah = {}
 			}
 			c_kufa = {
@@ -39838,7 +39838,7 @@ e_spain = {
 				culture = andalusian_arabic
 			}
 		}
-	} # END k_al_andalus
+	} # END k_andalusia
 
 # TITULAR SWMH Spain
 
@@ -45920,7 +45920,7 @@ e_britannia = {
 				b_newstead = {}
 				b_rufford = {}
 			}
-		}#End d_fiveboroughs
+		}#End d_fivebouroughs
 		d_york = {
 			color={ 207 192 167 }
 			color2={ 255 255 255 }
@@ -52212,7 +52212,7 @@ e_britannia = {
 				is_adult = yes
 				NOT = { tier = emperor }    
 			}
-		} # END e_albion
+		} # END: e_britannia
 
 		e_mali = {
 			color={ 223 139 40 }
@@ -53663,10 +53663,6 @@ e_britannia = {
 			foa = "HIGH_CHIEF_FOA"
 			title_prefix = "TRIBE_OF"
 		}
-		#d_turkmens = {
-		#	color={ 143 121 33 }
-		#	culture = turkish
-		#}
 		d_ural = {
 			color = { 208 178 78 }
 		}
@@ -53909,7 +53905,7 @@ e_britannia = {
 			color = { 173 150 43 }
 			color2 = { 0 128 128 }
 			
-			capital = 807 # c_Senoussi
+			capital = 807 # c_senoussi
 			
 # 			tribe = yes
 			culture = bedouin_arabic
@@ -54345,7 +54341,7 @@ e_britannia = {
 			color = { 144 171 225 }
 			culture = turkish
 		}
-		k_seljuk_turks = { # Seljuk Turks
+		e_seljuk_turks = { # Seljuk Turks
 			color={ 99 168 74 }
 			capital = 646 # Esfahan
 			culture = turkish
