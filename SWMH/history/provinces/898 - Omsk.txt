@@ -1,7 +1,7 @@
 # 898 - Omsk
 
 # County Title
-title = c_omsk
+title = c_tobol
 
 # Settlements
 max_settlements = 4
