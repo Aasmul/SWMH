@@ -9,9 +9,8 @@ max_settlements = 4
 b_ginbo = tribal
 
 #b_bonga = city
-#b_gishabay = temple
 #b_wacha = castle
-#b_chiri = castle
+#b_chiri = temple
 #b_yadeta = castle
 #b_kaffa = city
 #b_garo = castle
@@ -25,6 +24,6 @@ religion = pagan
 1050.1.1 = {
 	b_ginbo = castle
 	b_bonga = city
-	b_gishabay = temple
+	b_chiri = temple
 }
 1187.1.1 = { b_wacha = castle } 
