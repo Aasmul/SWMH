@@ -42083,6 +42083,7 @@ e_abyssinia = {
 				color={ 159 8 20 }
 				color2={ 255 255 255 }
 				
+				b_zeila = {}
 				b_harar = {}
 				b_hargeysa = {}
 				b_diridawa = {}
