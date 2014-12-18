@@ -6157,8 +6157,8 @@ e_hre = {
 					moravian="Kromerziz"
 					polish="Kromieryz"
 					german="Kremsier"
-					b_staremesto = {}
 				}
+				b_staremesto = {}
 			}
 			c_opava = {
 				color={ 163 107 41 }
