@@ -8,15 +8,13 @@ max_settlements = 5
 
 b_tespina = castle
 b_plovdiv = city
-b_asenscastle = castle
-#b_bachkovo = temple
+b_asenscastle_petrich = castle
+#b_ustra = castle
+#b_bachkovo = castle
 #b_krichim = castle
 #b_perushtitsa = city
-#b_steinmahos = temple
-#b_kuklen = temple
-#b_ustra = castle
-
-
+#b_steinmahos = castle
+#b_kuklen = castle
 
 # Misc
 culture = bulgarian
@@ -26,7 +24,7 @@ religion = bogomilist #many Paulicians were deported to here
 
 
 #4th crusade
-1205.1.1 = { remove_settlement = b_asenscastle } 
+1205.1.1 = { remove_settlement = b_asenscastle_petrich } 
 
 1337.1.1 = { b_perushtitsa = city }
 
