@@ -5,7 +5,7 @@ title = c_tobol
 
 # Settlements
 max_settlements = 4
-b_omsk = tribal
+b_tobol = tribal
 #b_tara_omsk = city
 b_isilkul = temple
 
