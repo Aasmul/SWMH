@@ -114,3 +114,21 @@
 		death=yes
 	}
 }
+228025 = {
+	name="Setyamka"
+	dynasty=100379
+	martial=4
+	diplomacy=8
+	intrigue=4
+	stewardship=6
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait="clubfooted"
+	trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}

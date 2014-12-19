@@ -12639,3 +12639,150 @@
 		death=yes
 	}
 }
+32891 = {
+	name="Dunya-huz" 
+	dynasty=7273
+	religion="sunni"
+	culture="bedouin_arabic"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+3206={
+	name="al-Mansur" #AKA: Muhammad al-Mansur
+	dynasty=569
+
+	martial=9
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	trait=underhanded_rogue
+
+	938.1.1={
+		birth=yes
+	}
+	981.1.1={
+		add_spouse=70125
+	}
+	1002.8.10={
+		death=yes
+	}
+}
+3910={
+	name="Abd-al-Rahman"
+	dynasty=572
+
+	father=45027
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1028.1.1={
+		birth=yes
+	}
+	1081.1.1={
+		death=yes
+	}
+}
+20852={
+	name="Abd-al-Malik"
+	dynasty=101607
+
+	father = 45001
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1035.1.1={
+		birth=yes
+	}
+	1078.1.1={
+		death=yes
+	}
+}
+45000={
+	name="Abd-al-Hazm"
+	dynasty=101607
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	991.1.1={
+		birth=yes
+	}
+	1043.1.1={
+		death=yes
+	}
+}
+45002={
+	name="Abd-al-Rahman"
+	dynasty=101607
+	
+	father = 45001
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1034.1.1={
+		birth=yes
+	}
+	1085.1.1={
+		death=yes
+	}
+}
+45025={
+	name="Abd-al-Aziz"
+	dynasty=569
+	
+	father=73226
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	999.1.1={
+		birth=yes
+	}
+	1061.1.1={
+		death=yes
+	}
+}
+45026={
+	name="Abd-al-Malik"
+	dynasty=569
+	
+	father=45025
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	1020.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		add_spouse=20858
+	}
+	1065.1.1={
+		add_claim=d_valencia
+	}
+	1069.1.1={
+		death=yes
+	}
+}
+200054={
+	name="Suleyman"
+	dynasty=1046007
+
+	religion=sunni
+	culture=bedouin_arabic
+
+	736.1.1={
+		birth=yes
+	}
+	793.1.1={
+		death=yes
+	}
+}
