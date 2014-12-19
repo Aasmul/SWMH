@@ -3305,3 +3305,382 @@
 		death=yes
 	}
 }
+200231={
+	name="Onecca"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	744.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+200215={
+	name="Çeida"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	746.1.1={
+		birth=yes
+	}
+	808.1.1={
+		death=yes
+	}
+}
+200218={
+	name="Monnia"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	743.1.1={
+		birth=yes
+	}
+	805.1.1={
+		death=yes
+	}
+}
+200227={
+	name="Abda"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	740.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}
+70140={
+
+	name="Bera" 
+
+	religion=catholic
+	culture=visigothic
+
+	778.1.1={
+	
+		birth=yes
+
+	}
+	
+	844.1.1={
+
+		death=yes	
+	}
+
+}
+70152={
+	name="Wifredo" # Guifré II Borrell I
+	dynasty=100204
+
+	father=70150
+	mother=70151
+
+	religion=catholic
+	culture=visigothic
+
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+
+	trait=humble
+	trait=kind
+	trait=underhanded_rogue
+
+	880.1.1={
+		birth=yes
+	}
+	898.1.1={
+		add_spouse=127039
+	}
+	911.1.1={
+		death=yes
+	}
+}
+70153={
+	name="Winidilda"
+	female=yes
+	dynasty=100204
+
+	father=70150
+	mother=70151
+
+	religion=catholic
+	culture=visigothic
+
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+
+	trait=mystic
+	trait=charitable
+	trait=indulgent_wastrel
+
+	899.1.1={
+		birth=yes
+	}
+	949.1.1={
+		death=yes
+	}
+}
+74100={
+	name="Riculfo"
+	dynasty=100204
+
+	father=73785
+
+	religion=catholic
+	culture=visigothic
+
+	trait=detached_priest
+
+	848.1.1={
+		birth=yes
+	}
+	916.1.1={
+		death=yes
+	}
+}
+200037={
+	name="Abda"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	744.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+200044={
+	name="Emira"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	740.1.1={
+		birth=yes
+	}
+	800.1.1={
+		death=yes
+	}
+}
+200047={
+	name="Ayab"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	750.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+200050={
+	name="Nadira"
+	female=yes
+
+	religion=sunni
+	culture=visigothic
+
+	743.1.1={
+		birth=yes
+	}
+	808.1.1={
+		death=yes
+	}
+}
+200060={
+	name="Ermenisinda"
+	female=yes
+	dynasty=8601
+
+	father=70011
+
+	religion=catholic
+	culture=visigothic
+
+	729.1.1={
+		birth=yes
+	}
+	787.1.1={
+		death=yes
+	}
+}
+200062={
+	name="Adelgaster"
+	dynasty=8625
+
+	father=70118
+
+	religion=catholic
+	culture=visigothic
+
+	761.1.1={
+		birth=yes
+	}
+	810.1.1={
+		death=yes
+	}
+}
+200063={
+	name="Egilone"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	689.1.1={
+		birth=yes
+	}
+	745.1.1={
+		death=yes
+	}
+}
+200065={
+	name="Fronilde"
+	female=yes
+	dynasty=7012
+
+	father=457681
+
+	religion=catholic
+	culture=visigothic
+
+	898.1.1={
+		birth=yes
+	}
+	949.1.1={
+		death=yes
+	}
+}
+200066={
+	name="Monnio"
+	dynasty=776
+
+	father=200067
+	mother=200068
+
+	religion=catholic
+	culture=visigothic
+
+	860.1.1={
+		birth=yes
+	}
+	878.1.1={
+		add_spouse=73766
+	}
+	912.1.1={
+		death=yes
+	}
+}
+200067={
+	name="Nunno"
+	dynasty=776
+
+	religion=catholic
+	culture=visigothic
+
+	835.1.1={
+		birth=yes
+	}
+	859.1.1={
+		add_spouse=200068
+	}
+	880.1.1={
+		death=yes
+	}
+}
+200068={
+	name="Argilo"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	840.1.1={
+		birth=yes
+	}
+	896.1.1={
+		death=yes
+	}
+}
+200069={
+	name="Nunno"
+	dynasty=776
+
+	father=73768
+	mother=73767
+
+	religion=catholic
+	culture=visigothic
+
+	884.1.1={
+		birth=yes
+	}
+	927.1.1={
+		death=yes
+	}
+}
+200198={
+	name="Nur"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	722.1.1={
+		birth=yes
+	}
+	783.1.1={
+		death=yes
+	}
+}
+200199={
+	name="Yaçmina"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	724.1.1={
+		birth=yes
+	}
+	789.1.1={
+		death=yes
+	}
+}
+200204={
+	name="Nadia"
+	female=yes
+
+	religion=catholic
+	culture=visigothic
+
+	750.1.1={
+		birth=yes
+	}
+	802.1.1={
+		death=yes
+	}
+}

@@ -1330,3 +1330,39 @@
 		death = yes
 	}
 }
+228004 = {
+	name="Aimo"
+	dynasty=100388
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="finnish_pagan"
+	culture="finnish"
+	trait="greedy"
+	trait="proud"
+	trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+228001 = {
+	name="Kaleva"
+	dynasty=100386
+	religion="finnish_pagan"
+	culture="finnish"
+	father=143127
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1158.1.1={
+		culture="lappish"
+		name="Njuolla"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
