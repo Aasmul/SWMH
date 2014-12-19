@@ -31,11 +31,14 @@ religion = norse_pagan
 # History
 850.1.1 = { capital = b_leck }
 867.1.1 = { b_rungholt = ct_port_1 }
-980.1.1 = { capital = b_rungholt } 
-980.1.1 = { b_pelvorm = temple 
+980.1.1 = {
+			b_pelvorm = temple 
             b_husum = city
 			b_rungholt = city
 			b_leck = castle
+}
+980.1.1 = {
+			capital = b_rungholt
 } 
 1018.1.1 = { religion = catholic } 
 

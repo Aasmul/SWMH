@@ -16,5 +16,5 @@ religion = catholic
 
 # History
 1000.1.1 = {
-	b_thruso = castle
+	b_thurso = castle
 }

@@ -4841,8 +4841,8 @@
 	culture="norman"
 	trait="skilled_tactician"
         trait=cruel
-        trai=ambitious
-        trai=cynical
+        trait=ambitious
+        trait=cynical
 	995.1.1 = {
 		birth=yes
 	}
@@ -4862,8 +4862,8 @@
 	culture="norman"
 	trait="charismatic_negotiator"
         trait=cruel
-        trai=ambitious
-        trai=cynical
+        trait=ambitious
+        trait=cynical
 	father=448
         mother=1000227388
 	1023.1.1 = {
