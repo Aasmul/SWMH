@@ -6734,3 +6734,37 @@
 		death=yes
 	}
 }
+71947={
+	name="Armengol"
+	dynasty=778
+
+	father=207561
+	mother=210575
+
+	religion=catholic
+	culture=basque
+
+	1174.1.1={
+		birth=yes
+	}
+	1217.1.1={
+		death=yes
+	}
+}
+200061={
+	name="Obeko"
+	dynasty=8750
+
+	religion=catholic
+	culture=basque
+
+	720.1.1={
+		birth=yes
+	}
+	745.1.1={
+		add_spouse=200060
+	}
+	770.1.1={
+		death=yes
+	}
+}

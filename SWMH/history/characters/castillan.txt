@@ -24143,3 +24143,49 @@
 		death=yes
 	}
 }
+70253={
+	name="Elvira"
+	female=yes
+
+	religion=catholic
+	culture=castillan
+	
+	1015.1.1={
+		birth=yes
+	}
+	1043.1.1={
+		death=yes
+	}
+}
+200078={
+	name="María"
+	female=yes
+
+	religion=catholic
+	culture=castillan
+
+	1125.1.1={
+		birth=yes
+	}
+	1187.1.1={
+		death=yes
+	}
+}
+200080={
+	name="Mayor"
+	female=yes
+	dynasty=12143
+
+	father=72475
+	mother=72476
+
+	religion=catholic
+	culture=castillan
+
+	1209.1.1={
+		birth=yes
+	}
+	1226.1.1={
+		death=yes
+	}
+}

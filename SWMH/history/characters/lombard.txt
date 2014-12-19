@@ -3842,3 +3842,100 @@
 		death=yes
 	}
 }
+190132 = {
+	name="Geila" #wife of Garibald II king of Bavaria
+	female=yes
+	dynasty=1044031 #Gausian
+	religion="catholic"
+	culture="lombard"
+	father=190128
+	mother=190129
+	603.1.1={
+		birth=yes
+	}
+	657.1.1={
+		death=yes
+	}
+}
+190190 = {
+	name="Regintrude" #marries Theodo II of Bavaria
+	female=yes
+	dynasty=1044046 #Bavarae
+	religion="catholic"
+	culture="lombard"
+	father=190182
+	657.1.1={
+		birth=yes
+	}
+	709.1.1={
+		death=yes
+	}
+}
+190351 = {
+	name="Liutperga" #marries Tassilo IV of Bavaria
+	female=yes
+	dynasty=1044053 #Alachislings
+	religion="catholic"
+	culture="lombard"
+	father=190347
+	mother=190340
+	750.1.1={
+		birth=yes
+	}
+	794.1.1={
+		death=yes
+	}
+}
+200329={
+	name=Mabilia
+	female=yes
+	dynasty=100336
+
+	father=200325
+	mother=200326
+
+	religion=catholic
+	culture=lombard
+
+	1081.1.1={
+		birth=yes
+	}	
+	1143.2.1={
+		death=yes
+	}
+}
+200349={
+	name=Gisulf
+	dynasty=100336
+
+	father=200335
+	mother=73344
+
+	religion=catholic
+	culture=lombard
+
+	1066.1.1={
+		birth=yes
+	}	
+	1119.1.1={
+		death=yes
+	}
+}
+200365={
+	name=Theodora
+	female=yes
+	dynasty=100336
+
+	father=200333
+	mother=200334
+
+	religion=catholic
+	culture=lombard
+
+	1051.1.1={
+		birth=yes
+	}	
+	1101.1.1={
+		death=yes
+	}
+}
