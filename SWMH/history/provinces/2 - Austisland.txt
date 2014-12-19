@@ -22,7 +22,7 @@ religion = norse_pagan
 }
 1015.1.1 = { 
 	religion = catholic 
-	b_sedifsjord = castle
-	b_sedifsjord = ca_shipyard_1
+	b_seydifsjord = castle
+	b_seydifsjord = ca_shipyard_1
 } 
 1047.10.25 = { culture = norwegian } 

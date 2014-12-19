@@ -24,15 +24,14 @@ religion = norse_pagan
 1018.1.1 = { religion = catholic } 
 1047.10.25 = { culture = danish } 
 1064.1.1 = {
-	b_thryaborg = castle
+	b_thyraborg = castle
 	b_thyraborg = ca_wall_1
 	b_thyraborg = ca_dannevirke_wall_3
 	b_thyraborg = ca_dannevirke_wall_2
 	b_hedeby = city
 	b_hedeby = ct_port_1
 	b_hedeby = ct_marketplace_1
-	b_hedeby = 0
-        b_sonderborg = castle
+    b_sonderborg = castle
 	b_slesvig = city
 	b_slesvig = ct_port_1
 	b_slesvig = ct_marketplace_1

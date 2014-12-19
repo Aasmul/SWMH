@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_egge = tribal # Egg
 #b_steinkjer = city # Steinker
-#b_maere = temple # Mærin
+b_maere = temple # Mærin
 #b_stormoen = castle # Stafr
 #b_sul = city # Sula
 #b_steine = city # Stiklarstaðir
@@ -24,6 +24,5 @@ religion = norse_pagan
 1030.1.1 = {
 	b_egge = castle # Egg
 	b_steinkjer = city # Steinker
-	b_maere = temple # Mærin
 }
 1047.10.25 = { culture = norwegian } 

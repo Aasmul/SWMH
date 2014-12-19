@@ -3002,3 +3002,68 @@
 		death=yes
 	}
 }
+146174 = {
+	name="Kresomysl"
+	dynasty=506
+	religion="slavic_pagan"
+	culture="bohemian"
+	father=168345
+	722.1.1={
+		birth=yes
+	}
+	787.1.1={
+		death=yes
+	}
+}
+146175 = {
+	name="Strojmir"
+	dynasty=506
+	religion="slavic_pagan"
+	culture="bohemian"
+	father=146174
+	742.1.1={
+		birth=yes
+	}
+	801.1.1={
+		death=yes
+	}
+}
+146176 = {
+	name="Predslav"
+	dynasty=7508
+	religion="slavic_pagan"
+	culture="bohemian"
+	father=187000
+	748.1.1={
+		birth=yes
+	}
+	801.1.1={
+		death=yes
+	}
+}
+146177 = {
+	name="Rostislav"
+	dynasty=7508
+	religion="slavic_pagan"
+	culture="bohemian"
+	father=187000
+	750.1.1={
+		birth=yes
+	}
+	809.1.1={
+		death=yes
+	}
+}
+146178 = {
+	name="Svetimir"
+	dynasty=7508
+	religion="slavic_pagan"
+	culture="bohemian"
+	father=187000
+	752.1.1={
+		birth=yes
+	}
+	814.1.1={
+		death=yes
+	}
+}

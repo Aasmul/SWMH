@@ -6157,8 +6157,8 @@ e_hre = {
 					moravian="Kromerziz"
 					polish="Kromieryz"
 					german="Kremsier"
-					b_staremesto = {}
 				}
+				b_staremesto = {}
 			}
 			c_opava = {
 				color={ 163 107 41 }
@@ -6294,7 +6294,9 @@ e_hre = {
 		color2={ 220 220 20 }
 		dignity = 30 # One more than Burgundy
 	}
-	allow = { ruled_years = 5
+	allow = {
+		realm_size = 120
+		ruled_years = 5
 		war = no
 		is_adult = yes
 		NOT = { tier = emperor }
@@ -6312,7 +6314,6 @@ e_roman_empire = {
 	title = "Emperor"
 	title_female = "Empress"
 	
-	duchy_revokation = yes
 	purple_born_heirs = yes
 	
 	culture = italian
@@ -6332,9 +6333,6 @@ e_byzantium = {
 	religion = orthodox
 	short_name = yes
 	
-	# The Emperor can revoke duchies at no prestige cost and no opinion penalty with other vassals
-	duchy_revokation=yes
-	
 	has_top_de_jure_capital = yes
 	purple_born_heirs = yes
 	
@@ -6342,6 +6340,7 @@ e_byzantium = {
 		e_roman_empire = {
 			has_holder = no
 		}
+		realm_size = 120
 		ruled_years = 5
 		war = no
 		is_adult = yes
@@ -12711,10 +12710,9 @@ e_hungary = {
 	# Creation/usurpation trigger
 	allow = {
 		religion_group = christian
-		AND = {
-			has_landed_title = k_hungary
-			has_landed_title = k_croatia}
-
+		has_landed_title = k_hungary
+		has_landed_title = k_croatia
+		realm_size = 120
 		ruled_years = 5
 		war = no
 		is_adult = yes
@@ -16689,17 +16687,15 @@ e_scandinavia = {
 			religion_group = christian
 			religion_group = pagan_group
 		}
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
 		NOT = { tier = emperor }
-		AND = {
-			has_landed_title = k_denmark
-			has_landed_title = k_norway
-			has_landed_title = k_sweden
-		}
+		has_landed_title = k_denmark
+		has_landed_title = k_norway
+		has_landed_title = k_sweden
 	}
-	
 }
 
 k_pomerania = {
@@ -17772,7 +17768,7 @@ k_pomerania = {
 				norman = "Poméranie"
 				arpitan = "Poméranie"
 				occitan = "Pomerània"
-				catlan = "Pomerània"
+				catalan = "Pomerània"
 				basque = "Pomerania"
 				leonese = "Pomerania"
 				galician = "Pomerania"
@@ -20586,16 +20582,14 @@ e_poland = {
 			culture = polish
 			culture = lithuanian
 		}
-		AND = {
-			has_landed_title = k_poland
-			has_landed_title = k_lithuania
-		}
+		has_landed_title = k_poland
+		has_landed_title = k_lithuania
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
 		NOT = { tier = emperor }
 	}
-	
 }
 
 k_terra = {
@@ -24542,6 +24536,7 @@ e_russia = {
 			religion_group = christian
 			religion_group = pagan_group
 		}
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
@@ -25555,6 +25550,11 @@ e_persia = {
 	
 	allow = {
 		culture_group = iranian
+		realm_size = 120
+		war = no
+		ruled_years = 5
+		is_adult = yes
+		NOT = { tier = emperor }
 	}
 	
 	k_persia = {
@@ -26410,7 +26410,7 @@ e_persia = {
 				b_rahbah = {}
 				b_jasim = {}
 				b_midhrawi = {}
-				#b_rashid = {} # c_rashid
+				#b_rashid = {} # c_gabiyaha
 				b_jaarah = {}
 			}
 			c_kufa = {
@@ -29132,6 +29132,7 @@ e_italy = {
 		religion_group = christian
 		has_landed_title = k_italy
 		has_landed_title = k_sicily
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
@@ -31143,6 +31144,7 @@ e_france = {
 		has_landed_title = c_ile_de_france
 		has_landed_title = d_brittany
 		has_landed_title = d_aquitaine
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
@@ -31176,6 +31178,7 @@ e_spain = {
 	
 	# Creation/usurpation trigger
 	allow = {
+		realm_size = 120
 		war = no
 		ruled_years = 5
 		is_adult = yes
@@ -39835,7 +39838,7 @@ e_spain = {
 				culture = andalusian_arabic
 			}
 		}
-	} # END k_al_andalus
+	} # END k_andalusia
 
 # TITULAR SWMH Spain
 
@@ -40596,6 +40599,7 @@ e_africa = {
 				b_bedrabine = {}
 				b_tessala = {}
 				b_letelagh = {}
+				b_ainelberd = {}
 				b_dhaya = {}
 				b_elhaicaiba = {}
 			}
@@ -40611,7 +40615,6 @@ e_africa = {
 				b_marsafarukh = {}
 				b_maghnia = {}
 				b_benisaf = {}
-				b_ainelberd = {}
 				b_merselhadjad = {}
 				b_gdyel = {}
 			}
@@ -40943,6 +40946,7 @@ e_africa = {
 	
 	allow = {
 		religion_group = muslim
+		realm_size = 120
 		ruled_years = 5
 		war = no
 		is_adult = yes
@@ -40957,6 +40961,7 @@ e_africa = {
 		}
 	}
 } # END e_africa
+
 	k_canarias = {
 		color={ 182 198 176 }
 		color2={ 255 255 255 }
@@ -42007,7 +42012,9 @@ e_arabia = {
 			NOT = { tier = emperor }
 		}
 	} # END k_egypt       
-	allow = { ruled_years = 5
+	allow = {
+		realm_size = 120
+		ruled_years = 5
 		war = no
 		is_adult = yes
 		NOT = { tier = emperor }
@@ -42687,6 +42694,7 @@ e_abyssinia = {
 		has_landed_title=k_maikelebahr
 		has_landed_title=k_nubia
 		has_landed_title=k_abyssinia
+		realm_size = 120
 	}
 }
 
@@ -45912,7 +45920,7 @@ e_britannia = {
 				b_newstead = {}
 				b_rufford = {}
 			}
-		}#End d_fiveboroughs
+		}#End d_fivebouroughs
 		d_york = {
 			color={ 207 192 167 }
 			color2={ 255 255 255 }
@@ -52198,12 +52206,13 @@ e_britannia = {
 					religion_group = christian
 					religion_group = pagan_group
 				}
+				realm_size = 120
 				ruled_years = 5
 				war = no
 				is_adult = yes
 				NOT = { tier = emperor }    
 			}
-		} # END e_albion
+		} # END: e_britannia
 
 		e_mali = {
 			color={ 223 139 40 }
@@ -52664,7 +52673,9 @@ e_britannia = {
 					}
 				}
 			} # END k_songhay
-			allow = { ruled_years = 5
+			allow = {
+				realm_size = 120
+				ruled_years = 5
 				war = no
 				is_adult = yes
 				NOT = { tier = emperor }
@@ -53652,10 +53663,6 @@ e_britannia = {
 			foa = "HIGH_CHIEF_FOA"
 			title_prefix = "TRIBE_OF"
 		}
-		#d_turkmens = {
-		#	color={ 143 121 33 }
-		#	culture = turkish
-		#}
 		d_ural = {
 			color = { 208 178 78 }
 		}
@@ -53898,7 +53905,7 @@ e_britannia = {
 			color = { 173 150 43 }
 			color2 = { 0 128 128 }
 			
-			capital = 807 # c_Senoussi
+			capital = 807 # c_senoussi
 			
 # 			tribe = yes
 			culture = bedouin_arabic
@@ -54334,7 +54341,7 @@ e_britannia = {
 			color = { 144 171 225 }
 			culture = turkish
 		}
-		k_seljuk_turks = { # Seljuk Turks
+		e_seljuk_turks = { # Seljuk Turks
 			color={ 99 168 74 }
 			capital = 646 # Esfahan
 			culture = turkish

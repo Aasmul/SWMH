@@ -6,7 +6,7 @@ title = c_karachev
 # Settlements
 max_settlements = 3
 
-b_karachev = castle
+b_karachev = tribal
 #b_kromy = castle
 #b_orel = castle
 

@@ -6,7 +6,7 @@ title = c_bur
 # Settlements
 max_settlements = 3
 b_matara = castle
-b_qohaito = city
+b_kohaito = city
 
 #b_saho = temple
 
