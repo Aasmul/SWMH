@@ -6,7 +6,7 @@ title = c_asosa
 # Settlements
 max_settlements = 4
 
-b_asosa = tibal
+b_asosa = tribal
 
 #b_bambasi = city
 #b_genetemariam = temple

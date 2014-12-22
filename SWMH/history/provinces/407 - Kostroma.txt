@@ -20,6 +20,6 @@ religion = finnish_pagan
 1120.1.1 = { religion = orthodox } 
 1250.1.1 = {
 	b_soligalich = city
-	b_kostrama = castle
+	b_kostroma = castle
 	b_sudislavl = castle
 }

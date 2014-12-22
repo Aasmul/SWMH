@@ -28,5 +28,5 @@ religion = sunni
 
 # History
 
-1187.1.1 = { b_sidiakacha = castle }
+1187.1.1 = { b_elachour = castle }
 

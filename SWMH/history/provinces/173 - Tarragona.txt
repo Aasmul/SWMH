@@ -21,8 +21,8 @@ religion = sunni
 # History
 
 1066.1.1 = { 
-	b_tortosa = ca_keep_1
-	b_tortosa = ca_wall_1
+	b_spantortosa = ca_keep_1
+	b_spantortosa = ca_wall_1
 }
 1081.1.1 = { trade_post = b_fieschi }
 1131.1.1 = { culture = catalan }

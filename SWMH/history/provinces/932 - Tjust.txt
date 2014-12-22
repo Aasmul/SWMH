@@ -15,8 +15,7 @@ b_vaxjo = temple
 culture = norse
 religion = norse_pagan
 
-# History
-1047.10.25 = { culture = gothic } 
+# History 
 800.1.1 = {
 	b_kronoberg = tb_shipyard_1
 }
@@ -24,6 +23,7 @@ religion = norse_pagan
 	b_kronoberg = castle
 	b_kronoberg = ca_shipyard_1
 }
+1047.10.25 = { culture = gothic }
 1130.1.1 = {
 	religion = catholic
 }

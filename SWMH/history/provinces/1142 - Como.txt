@@ -28,4 +28,4 @@ religion = catholic
 1127.1.1 = { capital = b_lugano }
 1193.12.25 = { capital = b_como }
 1240.1.1 = { capital = b_lugano }
-1240.1.1 = { b_chiavenna = castle }
+1240.1.1 = { b_castellodibaradello = castle }

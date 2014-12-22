@@ -25,7 +25,3 @@ religion = catholic
 	b_porto = ca_wall_1
 	b_porto = ca_wall_2
 }
-1147.1.1 = { trade_post = b_spinola }
-1255.1.1 = { b_braga = castle }
-1255.1.1 = { capital = b_braga }
-1255.1.1 = { b_porto = temple }

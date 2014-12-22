@@ -24,6 +24,6 @@ religion = catholic
 }
 1000.1.1 = {
 	b_wexford = castle
-	b_wexford = cb_shipyard_1
+	b_wexford = ca_shipyard_1
 }
 1047.10.25 = { culture = norsegaelic }
