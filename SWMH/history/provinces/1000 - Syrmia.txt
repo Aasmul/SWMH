@@ -18,7 +18,7 @@ religion = tengri_pagan
 
 # History
 988.1.1 = {religion = catholic }
-1000.1.1 = ( b_slankamen = castle }
+1000.1.1 = { b_slankamen = castle }
 1150.1.1 = { culture = hungarian }
 1282.1.1 = { culture = serbian }
 1282.1.1 = { religion = orthodox }

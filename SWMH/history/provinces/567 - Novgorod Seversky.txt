@@ -23,7 +23,7 @@ religion = slavic_pagan
 	b_novgorodseversky = castle
 	b_glukhov = city
 	b_sevsk = city
-	b_putivl = castle
+	b_putyvl = castle
 }
 1187.1.1 = { b_sosnytsia = city }
 1239.1.1 = { remove_settlement = b_sosnytsia } #Mongol invasion

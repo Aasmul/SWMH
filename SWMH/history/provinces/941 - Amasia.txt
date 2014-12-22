@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_phadisane = castle
 b_amasia = city
-#b_eupatoria = caslte
+#b_eupatoria = castle
 
 
 
@@ -23,4 +23,4 @@ terrain = mountain
 
 1214.1.1 = { culture = turkish }
 1214.1.1 = { religion = sunni }
-1291.1.1 = { b_dazimon = castle } 
+1291.1.1 = { b_eupatoria = castle } 

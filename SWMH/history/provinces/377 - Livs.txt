@@ -21,6 +21,6 @@ religion = finnish_pagan
 
 # History
 1202.1.1 = { capital = b_karksi }
-1290.1.1 = { b_biljandi = castle }
+1290.1.1 = { b_viljandi = castle }
 1290.1.1 = { b_newpernau = city }
 1290.1.1 = { religion = catholic }

@@ -29,6 +29,3 @@ religion = slavic_pagan
 }
 
 1130.1.1 = { b_caslav = castle }
-
-
-1240.1.1 = { b_jihlava = city }

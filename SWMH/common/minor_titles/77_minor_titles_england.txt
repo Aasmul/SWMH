@@ -76,7 +76,7 @@ title_marcher_earl = {
 			has_landed_title = d_hereford
 			has_landed_title = d_powys
         }
-	
+	}
 	gain_effect = {
 	}
 	lose_effect = {
@@ -84,6 +84,7 @@ title_marcher_earl = {
 
 	message = yes
 }
+
 title_marcher_earl_scotland = {
 	dignity = 3
 	grant_limit = 1
@@ -97,26 +98,25 @@ title_marcher_earl_scotland = {
 		FROM = {
 			is_feudal = yes
 			has_landed_title = k_scotland
-                        NOT={ OR = {
-			culture = cumbric
-			culture = cornish
-			culture = breton
-			culture = welsh
-			culture = irish
-			culture = anglonorse
-                        culture = norse
-                        culture = norsegaelic
-                        culture = saxon
-                        }
+            NOT = {
+				culture = cumbric
+				culture = cornish
+				culture = breton
+				culture = welsh
+				culture = irish
+				culture = anglonorse
+				culture = norse
+				culture = norsegaelic
+				culture = saxon
+			}
 		}
-                }
-		OR = { has_landed_title = d_lancaster
-                       has_landed_title = d_northumberland
-                       has_landed_title = d_lothian
-                       has_landed_title = d_galloway           
+		OR = {
+			has_landed_title = d_lancaster
+			has_landed_title = d_northumberland
+			has_landed_title = d_lothian
+			has_landed_title = d_galloway
+		}
 	}
-        }
-	
 	gain_effect = {
 	}
 	lose_effect = {
@@ -124,7 +124,8 @@ title_marcher_earl_scotland = {
 
 	message = yes
 }
-title_earl_of_arundel= {
+
+title_earl_of_arundel = {
 	dignity = 3
 	grant_limit = 1
 	opinion_effect = 15
@@ -138,13 +139,11 @@ title_earl_of_arundel= {
 			is_feudal = yes
 			has_landed_title = k_england
 		}
-				OR = {
-					has_landed_title = b_arundel
-					any_vassal = { has_landed_title = b_arundel }
-				}
-           
-        }
-	
+		OR = {
+			has_landed_title = b_arundel
+			any_vassal = { has_landed_title = b_arundel }
+		}
+	}
 	gain_effect = {
 	}
 	lose_effect = {

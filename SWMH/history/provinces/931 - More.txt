@@ -23,7 +23,7 @@ religion = norse_pagan
 	b_kalmarslott = castle
 	b_kalmar = city
 	
-	b_kalmar_hus = ca_shipyard_1
+	b_kalmarslott = ca_shipyard_1
 	b_kalmar = ct_port_1
 }
 1047.10.25 = { culture = gothic } 

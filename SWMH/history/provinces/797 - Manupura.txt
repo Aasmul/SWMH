@@ -26,12 +26,12 @@ religion = shiite
 # History
 
 1066.1.1 = { 
-	b_bahnasa = ca_keep_1
-	b_bahnasa = ca_training_grounds_1
-	b_bahnasa = ca_stable_1
-	b_bahnasa = ca_wall_1
-	b_bahnasa = ca_wall_2
-	b_bahnasa = ca_militia_barracks_1
+	b_manuf = ca_keep_1
+	b_manuf = ca_training_grounds_1
+	b_manuf = ca_stable_1
+	b_manuf = ca_wall_1
+	b_manuf = ca_wall_2
+	b_manuf = ca_militia_barracks_1
 }
 
 1171.1.1 = { religion = sunni }

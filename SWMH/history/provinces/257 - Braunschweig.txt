@@ -20,4 +20,4 @@ religion = catholic
 
 # History
 
-1127.1.1 = { b_waldeck = castle }
+1127.1.1 = { b_wolfenbuttel = castle }
