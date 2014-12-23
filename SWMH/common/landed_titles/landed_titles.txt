@@ -30197,6 +30197,389 @@ e_mali = {
 
 
 ## START:A
+
+
+d_nikomedeia = {
+	color = { 209 108 174 }
+}
+d_pechenegs = {
+	# OBSOLETE
+	color = { 173 150 43 }
+	color2 = { 0 128 128 }
+	
+	capital = 542 # Olvia
+	
+#	tribe = yes
+	culture = pecheneg
+	
+	allow = {
+		always = no
+	}
+}
+d_pressburg = {
+	color = { 218 70 70 }
+}
+d_pronsk = {
+	color = { 23 132 81 }
+}
+d_pruthenians = {
+	color = { 159 195 75 }
+	
+#	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	capital	= 370 # Marienburg
+	culture = prussian
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	
+}
+d_qom = {
+	color = { 188 229 116 }
+}
+d_romagna = {
+	color = { 243 234 157 }
+}
+d_salamanca = {
+	color = { 251 229 34 }
+}
+
+d_sames = {
+	# Actually Samoyeds
+	color = { 101 70 34 }
+	
+#	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = samoyed
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+d_sandomiersk = {
+	color = { 253 137 137 }
+}
+d_satakunta = {
+	color = { 117 47 47 }
+	
+#	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = finnish
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	
+}
+d_shiraz = {
+	color = { 155 189 97 }
+}
+d_sinope = {
+	color = { 255 6 172 }
+}
+d_slovakia = {
+	color = { 209 61 61 }
+}
+d_sweden = {
+	color={ 55 112 170 }
+
+#	tribe = yes
+	
+	dignity = 10
+	
+	capital	= 290 # Uppland
+	
+	allow = {
+		always = no
+	}
+	
+	culture = norse
+}
+d_swiss = {
+	color = { 255 1 1 }
+}
+d_tavasts = {
+	color = { 131 21 21 }
+	
+#	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = finnish
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+d_meryas = {
+	color = { 131 41 41 }
+	
+	capital = 574 # Rostov / Merya
+	
+#	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = mordvin
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+d_veps = {
+	color = { 120 90 40 }
+	
+#	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = mordvin
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+d_meshcheras = {
+	color = { 151 71 41 }
+	
+	capital = 580 # Ryazan
+	
+#	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = mordvin
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+d_ural = {
+	color = { 208 178 78 }
+}
+d_varna = {
+	color = { 208 93 251 }
+}
+d_wielkopolska = {
+	color = { 252 144 144 }
+}
+d_vlachs = {
+	color = { 239 193 70 }
+}
+d_volga = {
+	color = { 168 135 47 }
+}
+d_votes = {
+	color = { 0 193 119 }
+	
+#	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	culture = finnish
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	
+}
+d_zara = {
+	color = { 203 217 255 }
+}
+d_zaragoza = {
+	color = { 80 220 10 }
+}
+d_zemigalians = {
+	color = { 183 21 21 }
+	culture = lettigallish
+#	tribe = yes
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_lendians = { # aka Ledzianie or Lechs
+	color={ 245 163 176 }
+	color2={ 255 255 255 }
+	culture = polish
+#	tribe = yes
+	
+	capital = 527 # Krakowskie
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_kryvians = { # aka Krivichi
+	color = { 128 133 104 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+#	tribe = yes
+	
+	capital = 419 # Polotsk
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_ilmenians = { # aka Ilmen Slavs
+	color = { 70 120 40 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+#	tribe = yes
+	
+	capital = 414 # Novgorod
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_severians = { # aka Severiane
+	color = { 120 155 40 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+#	tribe = yes
+	
+	capital = 567 # Novgorod Seversky
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_vyatichi = {
+	color={ 169 183 125 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+#	tribe = yes
+	
+	capital = 570 # Tver
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_dregovichi = { 
+	color={ 100 100 20 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+#	tribe = yes
+	
+	capital = 548 # Pinsk
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_radimichi = { 
+	color={ 110 136 68 }
+	color2={ 255 255 255 }
+	
+	culture = russian
+#	tribe = yes
+	
+	capital = 551 # Mstislavl
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_glomacze = { # Aka Dolomici
+	color={ 215 143 156 }
+	color2={ 255 255 255 }
+	
+	culture = pommeranian
+#	tribe = yes
+	
+	capital = 312 # Meissen
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_sorbs = {
+	color={ 170 205 110 }
+	color2={ 255 255 255 }
+	
+	culture = pommeranian
+#	tribe = yes
+	
+	capital = 364 # Luzycka
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+d_obotrites = {
+	color={ 100 110 20 }
+	color2={ 255 255 255 }
+	
+	culture = pommeranian
+#	tribe = yes
+	
+	capital = 260 # Mecklenburg
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+}
+
+# <--- C
+
 # TITULAR EMPIRES
 
 e_latin_empire = {
