@@ -53896,9 +53896,9 @@ e_seljuk_turks = { # Seljuk Turks
 	capital = 646 # Esfahan
 	culture = turkish
 	
-	tribe=yes
+#	tribe=yes
 	
-	landless = yes
+#	landless = yes
 	
 	allow = {
 		always = no
@@ -53929,6 +53929,28 @@ k_zirid = {
 k_ziyanids = {
 	color = { 5 76 194 }
 }
+k_avaria = {
+	color={ 250 120 90 }  # Only for the CoA
+	culture = avar
+	
+	capital = 444
+	
+	allow = {
+		always = no
+	}
+}
+k_lombardy = {
+	color={ 234 217 110 }  # Only for the CoA
+	culture = lombard
+	
+	capital = 234
+	
+	allow = {
+		always = no
+	}
+}
+
+
 k_makuria = {
 	color={ 165 180 95 }
 }
