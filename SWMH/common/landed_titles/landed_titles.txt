@@ -133,6 +133,246 @@ e_shiite = {
 	caliphate = yes
 }
 
+d_sunni = {
+	color={ 40 160 40 }
+	color2={ 220 220 0 }
+	
+	capital = 719 # Mecca
+	
+	creation_requires_capital = no
+	
+	dignity = 100 # Counted as having this many more counties than it does
+	
+	title = "CALIPH"
+	title_female = "CALIPHA"
+	foa = "CALIPH_FOA"
+	short_name = yes
+	
+	religion=sunni
+	
+	# Controls a religion
+	controls_religion = sunni
+	
+	allow = {
+		custom_tooltip = {
+			text = sunni_creation_independent
+			hidden_tooltip = {
+				in_revolt = no
+				OR = {
+					independent = yes
+					NOT = {
+						any_liege = {
+							OR = {
+								in_revolt = yes
+								NOT = { religion = sunni }
+							}
+						}
+					}
+				}
+			}
+		}
+	
+		OR = {
+			trait = mirza
+			trait = sayyid
+			piety = 1000
+		}
+		OR = {
+			AND = {
+				trait = sayyid
+				piety = 1000
+			}
+			custom_tooltip = { 
+				text = controls_mecca_medina
+				hidden_tooltip = {
+					719 = { # Mecca
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+					718 = { # Medina
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+				}
+			}
+			custom_tooltip = {
+				text = controls_jerusalem_damascus_baghdad
+				hidden_tooltip = {
+					774 = { # Jerusalem
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+					728 = { # Damascus
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+					693 = { # Baghdad
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	caliphate = yes
+	
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 3 0 2 2
+		}
+		religion=sunni
+	}
+}
+
+d_shiite = {
+	color={ 60 190 60 }
+	color2={ 220 220 0 }
+}
+
+k_shiite = {
+	color={ 60 190 60 }
+	color2={ 220 220 0 }
+	
+	capital = 719 # Mecca
+	
+	creation_requires_capital = no
+	
+	dignity = 100 # Counted as having this many more counties than it does
+	
+	title = "CALIPH"
+	title_female = "CALIPHA"
+	foa = "CALIPH_FOA"
+	short_name = yes
+	
+	religion=shiite
+	
+	# Controls a religion
+	controls_religion = shiite
+	
+	allow = {
+		custom_tooltip = {
+			text = shia_creation_independent
+			hidden_tooltip = {
+				in_revolt = no
+				OR = {
+					independent = yes
+					NOT = {
+						any_liege = {
+							OR = {
+								in_revolt = yes
+								NOT = { religion = shiite }
+							}
+						}
+					}
+				}
+			}
+		}
+		
+		OR = {
+			trait = mirza
+			trait = sayyid
+			piety = 1000
+		}
+		custom_tooltip = {
+			text = not_shia_caliphate_revolt_ongoing
+			hidden_tooltip = {
+				NOT = { has_global_flag = shia_caliphate_revolt_ongoing }
+			}
+		}
+		
+		OR = {
+			AND = {
+				trait = sayyid
+				piety = 1000
+			}
+			custom_tooltip = {
+				text = controls_mecca_medina
+				hidden_tooltip = {
+					719 = { # Mecca
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+					718 = { # Medina
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+				}
+			}
+			custom_tooltip = {
+				text = controls_jerusalem_damascus_baghdad
+				hidden_tooltip = {
+					774 = { # Jerusalem
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+					728 = { # Damascus
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+					693 = { # Baghdad
+						owner = {
+							OR = {
+								is_liege_or_above = ROOT
+								character = ROOT
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	caliphate = yes
+	
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 9 1 7 7
+		}
+		religion=shiite
+	}
+}
+
 e_golden_horde = {
 	color = { 243 180 17 }
 	
