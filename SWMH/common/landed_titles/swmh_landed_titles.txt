@@ -51735,6 +51735,258 @@ d_amalfi = {
 	}
 }	
 
+### INDIA ###
+
+e_india = {                      # Titular, created by special decision only if entire India is united
+	color = { 255 110 0 }
+
+	title = "SAMRAT_CHAKRAVARTIN"
+	title_female = "SAMRAJNI_CHAKRAVARTIN"
+
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	allow = {
+		always = no # Only created through special decision
+	}
+}
+######################################
+# Historical Merchant Republic Palaces
+######################################
+
+# VENICE:
+
+b_dandolo = {
+	culture = venetian
+	religion = catholic
+}
+
+b_contarini = {
+	culture = venetian
+	religion = catholic
+}
+
+b_faliero = {
+	culture = venetian
+	religion = catholic
+}
+
+b_morosini = {
+	culture = venetian
+	religion = catholic
+}
+
+b_ziani = {
+	culture = venetian
+	religion = catholic
+}
+
+b_candiano = {
+	culture = venetian
+	religion = catholic
+}
+
+b_orsoleo = {
+	culture = venetian
+	religion = catholic
+}
+
+b_participazio = {
+	culture = venetian
+	religion = catholic
+}
+
+b_tribuno = {
+	culture = venetian
+	religion = catholic
+}
+
+b_tradonico = {
+	culture = venetian
+	religion = catholic
+}
+
+
+b_antenoreo = {
+	culture = venetian
+	religion = catholic
+}
+
+b_galbaio = {
+	culture = venetian
+	religion = catholic
+}
+
+b_monegario = {
+	culture = venetian
+	religion = catholic
+}
+
+b_gaulo = {
+	culture = venetian
+	religion = catholic
+}
+
+# GENOA:
+
+b_doria = {
+	culture = ligurian
+	religion = catholic
+}
+
+b_spinola = {
+	culture = ligurian
+	religion = catholic
+}
+
+b_grimaldi = {
+	culture = ligurian
+	religion = catholic
+}
+
+b_fieschi = {
+	culture = ligurian
+	religion = catholic
+}
+
+b_embriaco = {
+	culture = ligurian
+	religion = catholic
+}
+
+# PISA:
+
+b_dappiano = {
+	culture = tuscan
+	religion = catholic
+}
+
+b_della_gherardesca = {
+	culture = tuscan
+	religion = catholic
+}
+
+b_visconti = {
+	culture = tuscan
+	religion = catholic
+}
+
+b_alliata = {
+	culture = tuscan
+	religion = catholic
+}
+
+b_caetani = {
+	culture = tuscan
+	religion = catholic
+}
+
+# LÜBECK:
+
+b_bardewik = {
+	culture = german
+	religion = catholic
+}
+
+b_vorrade = {
+	culture = german
+	religion = catholic
+}
+
+b_warendorp = {
+	culture = german
+	religion = catholic
+}
+
+b_pat_luneburg = {
+	culture = german
+	religion = catholic
+}
+
+b_wittenborg = {
+	culture = german
+	religion = catholic
+}
+
+# GOTLAND:
+
+b_stenkyrka = {
+	culture = gothic
+	religion = catholic
+}
+
+b_guldsmed = {
+	culture = gothic
+	religion = catholic
+}
+
+b_hejnum = {
+	culture = gothic
+	religion = catholic
+}
+
+b_gildehusen = {
+	culture = gothic
+	religion = catholic
+}
+
+b_strabain = {
+	culture = gothic
+	religion = catholic
+}
+
+# AMALFI:
+
+b_konstantios = {
+	culture = greek
+	religion = catholic
+}
+
+b_mauro = {
+	culture = southern_italian
+	religion = catholic
+}
+
+b_musco = {
+	culture = southern_italian
+	religion = catholic
+}
+
+b_polkarios = {
+	culture = greek
+	religion = catholic
+}
+
+b_urso = {
+	culture = southern_italian
+	religion = catholic
+}
+
+b_amalfinos = {
+	culture = greek
+	religion = catholic
+}
+
+b_manginos = {
+	culture = greek
+	religion = catholic
+}
+
+b_kanakares = {
+	culture = greek
+	religion = catholic
+}
+
+b_sorrenti = {
+	culture = southern_italian
+	religion = catholic
+}
+
+b_ravelli = {
+	culture = southern_italian
+	religion = catholic
+}
+
+
 # Needs to exist
 e_germany = {
 	color={ 155 155 155 }
