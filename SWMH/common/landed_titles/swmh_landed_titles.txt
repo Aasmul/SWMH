@@ -49658,13 +49658,13 @@ e_britannia = {
 					welsh = "Cille Chuithbeirt"
 					english = "Kirkcudbright"
 					saxon = "Kirkcudbright"
-					anglonorse = "kirkjucudbright"
-					norwegian = "kirkjucudbright"
-					danish = "kirkjucudbright"
-					swedish = "kirkjucudbright"
-					gothic = "kirkjucudbright"
-					norse = "kirkjucudbright"
-					icelandic = "kirkjucudbright"
+					anglonorse = "Kirkjucudbright"
+					norwegian = "Kirkjucudbright"
+					danish = "Kirkjucudbright"
+					swedish = "Kirkjucudbright"
+					gothic = "Kirkjucudbright"
+					norse = "Kirkjucudbright"
+					icelandic = "Kirkjucudbright"
 				}
 				b_dundrennan = {
 					irish = "Dundrennan"
@@ -54156,6 +54156,27 @@ b_tradonico = {
 	culture = venetian
 	religion = catholic
 }
+
+b_antenoreo = {
+	culture = venetian
+	religion = catholic
+}
+
+b_galbaio = {
+	culture = venetian
+	religion = catholic
+}
+
+b_monegario = {
+	culture = venetian
+	religion = catholic
+}
+
+b_gaulo = {
+	culture = venetian
+	religion = catholic
+}
+
 # GENOA:
 
 b_doria = {
@@ -54291,6 +54312,30 @@ b_urso = {
 	religion = catholic
 }
 
+b_amalfinos = {
+	culture = greek
+	religion = catholic
+}
+
+b_manginos = {
+	culture = greek
+	religion = catholic
+}
+
+b_kanakares = {
+	culture = greek
+	religion = catholic
+}
+
+b_sorrenti = {
+	culture = southern_italian
+	religion = catholic
+}
+
+b_ravelli = {
+	culture = southern_italian
+	religion = catholic
+}
 
 # Needs to exist
 e_germany = {
