@@ -6,9 +6,9 @@ title = c_cadiz
 # Settlements
 max_settlements = 4
 
-b_osuna = castle
 b_carmona = temple
 b_ecija = city
+b_osuna = castle
 #b_lora_del_rio = castle
 #b_sevimoron = city
 
