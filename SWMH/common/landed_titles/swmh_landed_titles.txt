@@ -51804,28 +51804,6 @@ b_tradonico = {
 	culture = venetian
 	religion = catholic
 }
-
-
-b_antenoreo = {
-	culture = venetian
-	religion = catholic
-}
-
-b_galbaio = {
-	culture = venetian
-	religion = catholic
-}
-
-b_monegario = {
-	culture = venetian
-	religion = catholic
-}
-
-b_gaulo = {
-	culture = venetian
-	religion = catholic
-}
-
 # GENOA:
 
 b_doria = {
@@ -51957,31 +51935,6 @@ b_polkarios = {
 }
 
 b_urso = {
-	culture = southern_italian
-	religion = catholic
-}
-
-b_amalfinos = {
-	culture = greek
-	religion = catholic
-}
-
-b_manginos = {
-	culture = greek
-	religion = catholic
-}
-
-b_kanakares = {
-	culture = greek
-	religion = catholic
-}
-
-b_sorrenti = {
-	culture = southern_italian
-	religion = catholic
-}
-
-b_ravelli = {
 	culture = southern_italian
 	religion = catholic
 }
