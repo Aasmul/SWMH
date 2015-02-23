@@ -114,8 +114,7 @@ guiTypes = {
 		### era windows
 		windowType = {
 			name = "dark_ages_window"
-			#position = { x=75 y=121 }
-			position = { x=75 y=-1121 }
+			position = { x=75 y=121 }
 			moveable = 0
 			fullScreen = no
 			Orientation = "UPPER_LEFT"
@@ -141,8 +140,7 @@ guiTypes = {
 			}
 			instantTextBoxType = {
 				name = "label"
-				#position = { x = 10 y = 9 }
-				position = { x = 10 y = 1251 }
+				position = { x = 10 y = 9 }
 				font = "vic_18"
 				text = "DARK_AGES"
 				maxWidth = 150
@@ -164,7 +162,7 @@ guiTypes = {
 		###
 		windowType = {
 			name = "viking_era_window"
-			position = { x=256 y=121 }
+			position = { x=75 y=121 }
 			moveable = 0
 			fullScreen = no
 			Orientation = "UPPER_LEFT"
@@ -212,7 +210,7 @@ guiTypes = {
 		###
 		windowType = {
 			name = "early_med_window"
-			position = { x=437 y=121 }
+			position = { x=317 y=121 }
 			moveable = 0
 			fullScreen = no
 			Orientation = "UPPER_LEFT"
@@ -260,7 +258,7 @@ guiTypes = {
 		###
 		windowType = {
 			name = "high_med_window"
-			position = { x=618 y=121 }
+			position = { x=558 y=121 }
 			moveable = 0
 			fullScreen = no
 			Orientation = "UPPER_LEFT"
