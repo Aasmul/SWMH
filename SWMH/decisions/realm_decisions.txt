@@ -462,6 +462,8 @@ decisions = {
 	make_rome_capital = {
 		is_high_prio = yes
 		potential = {
+			has_global_flag = HIP
+			had_global_flag = { flag = HIP days = 1 }
 			ai = no
 			has_dlc = "Legacy of Rome"
 			has_landed_title = e_roman_empire
@@ -477,7 +479,7 @@ decisions = {
 			any_realm_lord = { 
 				AND = {
 					ai = yes
-					has_landed_title = b_tivoli
+					has_landed_title = b_castelsantangelo
 				}
 			}
 		}
@@ -489,14 +491,14 @@ decisions = {
 			custom_tooltip = {
 				text = rome_capital
 				hidden_tooltip = {
-					b_tivoli = { province_capital = yes }
+					b_castelsantangelo = { province_capital = yes }
 					ROOT = {
-						b_tivoli = {
+						b_castelsantangelo = {
 							usurp_title = PREV
 						}
 					}
 					#b_roma = { set_name = Lateran }
-					b_tivoli = { 
+					b_castelsantangelo = { 
 						set_name = Rome 
 						ROOT = { capital = PREV }
 					}
@@ -1208,178 +1210,12 @@ decisions = {
 			}
 		}
 	}
-	
-	become_samrat_chakravartin = {
-		is_high_prio = yes
-		potential = {
-			has_dlc = "Rajas of India"
-			is_playable = yes
-			is_feudal = yes
-			religion_group = indian_group
-			primary_title = {
-				OR = {
-					title = e_rajastan
-					title = e_bengal
-					title = e_deccan
-					AND = {
-						tier = KING
-						OR = {
-							empire = { title = e_rajastan }
-							empire = { title = e_bengal }
-							empire = { title = e_deccan }
-						}
-					}
-				}
-			}
-			e_india = {
-				has_holder = no
-			}
-		}
-		allow = {
-			is_adult = yes
-			prisoner = no
-			NOT = {	trait = incapable }
-			war = no
-			prestige = 1000
-			wealth = 500
-			OR = {
-				has_landed_title = e_rajastan
-				e_rajastan = { has_holder = no }
-			}
-			OR = {
-				has_landed_title = e_bengal
-				e_bengal = { has_holder = no }
-			}
-			OR = {
-				has_landed_title = e_deccan
-				e_deccan = { has_holder = no }
-			}
-			completely_controls = k_sindh
-			completely_controls = k_punjab
-			completely_controls = k_delhi
-			completely_controls = k_rajputana
-			completely_controls = k_gujarat
-			completely_controls = k_malwa
-			completely_controls = k_kosala
-			completely_controls = k_bihar
-			completely_controls = k_bengal
-			completely_controls = k_kamarupa
-			completely_controls = k_orissa
-			completely_controls = k_gondwana
-			completely_controls = k_maharastra
-			completely_controls = k_telingana
-			completely_controls = k_karnata
-			completely_controls = k_andhra
-			completely_controls = k_tamilakam
-			completely_controls = k_lanka
-		}
-		effect = {
-			wealth = -500
-			prestige = 500
-			activate_title = { title = e_india status = yes }
-			hidden_tooltip = {
-				k_sindh = { de_jure_liege = e_india }
-				k_punjab = { de_jure_liege = e_india }
-				k_delhi = { de_jure_liege = e_india }
-				k_rajputana = { de_jure_liege = e_india }
-				k_gujarat = { de_jure_liege = e_india }
-				k_malwa = { de_jure_liege = e_india }
-				k_kosala = { de_jure_liege = e_india }
-				k_bihar = { de_jure_liege = e_india }
-				k_bengal = { de_jure_liege = e_india }
-				k_kamarupa = { de_jure_liege = e_india }
-				k_gondwana = { de_jure_liege = e_india }
-				k_maharastra = { de_jure_liege = e_india }
-				k_telingana = { de_jure_liege = e_india }
-				k_karnata = { de_jure_liege = e_india }
-				k_andhra = { de_jure_liege = e_india }
-				k_tamilakam = { de_jure_liege = e_india }
-				k_lanka = { de_jure_liege = e_india }
-				k_orissa = { de_jure_liege = e_india }
-				if = {
-					limit = { has_landed_title = e_rajastan } # In case of titles outside India having been assimilated de jure already
-					e_rajastan = {
-						any_direct_de_jure_vassal_title = {
-							de_jure_liege = e_india
-						}
-					}
-				}
-				if = {
-					limit = { has_landed_title = e_bengal }
-					e_bengal = {
-						any_direct_de_jure_vassal_title = {
-							de_jure_liege = e_india
-						}
-					}
-				}
-				if = {
-					limit = { has_landed_title = e_deccan }
-					e_deccan = {
-						any_direct_de_jure_vassal_title = {
-							de_jure_liege = e_india
-						}
-					}
-				}
-			}
-			primary_title = {
-				e_india = {
-					grant_title = ROOT
-					copy_title_laws = PREV
-					copy_title_history = PREV
-				}
-			}
-			hidden_tooltip = { e_india = { make_primary_title = yes } }
-			if = {
-				limit = {
-					OR = {
-						has_landed_title = e_rajastan
-						e_rajastan = { has_holder = no }
-					}
-				}
-				e_rajastan = { destroy_landed_title = THIS }
-				activate_title = { title = e_rajastan status = no }
-			}
-			if = {
-				limit = {
-					OR = {
-						has_landed_title = e_bengal
-						e_bengal = { has_holder = no }
-					}
-				}
-				e_bengal = { destroy_landed_title = THIS }
-				activate_title = { title = e_bengal status = no }
-			}
-			if = {
-				limit = {
-					OR = {
-						has_landed_title = e_deccan
-						e_deccan = { has_holder = no }
-					}
-				}
-				e_deccan = { destroy_landed_title = THIS }
-				activate_title = { title = e_deccan status = no }
-			}
-			if = {
-				limit = { has_nickname = no }
-				give_nickname = nick_the_magnificent
-			}
-			set_character_flag = achievement_my_very_own_subcontinent
-			chronicle = {
-				entry = CHRONICLE_UNITED_INDIA
-				picture = GFX_evt_throne_room
-			}
-		}
-		revoke_allowed = {
-			always = no
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 
 	form_the_hre = {
 		is_high_prio = yes
 		potential = {
+			has_global_flag = HIP
+			had_global_flag = { flag = HIP days = 1 }
 			has_global_flag = charlemagne_hre
 			is_playable = yes
 			independent = yes
@@ -1404,11 +1240,20 @@ decisions = {
 			NOT = { trait = incapable }
 			prestige = 1000
 			realm_size = 180
-			has_landed_title = k_germany
-			any_demesne_title = {
-				tier = KING
-				NOT = {
-					title = k_germany
+			or = {
+				has_landed_title = e_germany
+				and = {
+					has_landed_title = k_germany
+					any_demesne_title = {
+						tier = king
+						or = {
+							de_jure_liege = e_germany
+							de_jure_liege = e_hre # SWMH
+						}
+						not = {
+							title = k_germany
+						}
+					}
 				}
 			}
 			scaled_wealth = 2
@@ -1424,310 +1269,33 @@ decisions = {
 					grant_title = ROOT
 					copy_title_laws = PREV
 					add_law = succ_feudal_elective
+					make_primary_title = yes
 				}
 			}
 			any_demesne_title = {
 				limit = {
-					tier = KING
-					NOT = {
+					tier = emperor
+					not = { title = e_hre }
+				}
+				hidden_tooltip = {
+					any_direct_de_jure_vassal_title = {
+						de_jure_liege = e_hre
+					}
+				}
+				destroy_landed_title = THIS
+				hidden_tooltip = { activate_title = { title = THIS status = no } }
+			}
+			any_demesne_title = {
+				limit = {
+					tier = king
+					de_jure_liege = e_hre
+					not = {
 						title = k_germany
 					}
 				}
 				destroy_landed_title = THIS
 			}
-		}
-		revoke_allowed = {
-			always = no
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-
-	form_the_hre_early = {
-		is_high_prio = yes
-		potential = {
-			NOT = { has_global_flag = charlemagne_hre }
-			NOT = { has_global_flag = rome_restored }
-			is_playable = yes
-			independent = yes
-			OR = {
-				religion = catholic
-				religion = fraticelli
-			}
-			NOT = { has_landed_title = e_byzantium }
-		}
-		allow = {
-			is_adult = yes
-			prisoner = no
-			NOT = { trait = incapable }
-			prestige = 1000
-			realm_size = 220
-			custom_tooltip = {
-				text = form_the_hre_early_tooltip_1
-				hidden_tooltip = {
-					OR = {
-						has_landed_title = k_italy
-						has_landed_title = e_italy
-					}
-				}
-			}
-			custom_tooltip = {
-				text = form_the_hre_early_tooltip_2
-				hidden_tooltip = {
-					any_demesne_title = {
-						OR = {
-							title = e_france
-							title = e_germany
-							title = e_britannia
-							title = e_spain
-							AND = {
-								tier = KING
-								NOT = {	title = k_italy	}
-								OR = {
-									empire = { title = e_france }
-									empire = { title = e_germany }
-									empire = { title = e_britannia }
-									empire = { title = e_spain }
-								}
-							}
-						}
-					}
-				}
-			}
-			custom_tooltip = {
-				text = form_the_hre_early_tooltip_3
-				hidden_tooltip = {
-					OR = {
-						has_landed_title = e_italy
-						e_italy = {	has_holder = no	}
-						e_italy = { holder_scope = { NOT = { religion_group = christian } } }
-					}
-					OR = {
-						has_landed_title = e_germany
-						e_germany = {	has_holder = no	}
-						e_germany = { holder_scope = { NOT = { religion_group = christian } } }
-					}
-					OR = {
-						has_landed_title = e_france
-						e_france = { has_holder = no	}
-						e_france = { holder_scope = { NOT = { religion_group = christian } } }
-					}
-					OR = {
-						has_landed_title = e_spain
-						e_spain = {	has_holder = no	}
-						e_spain = { holder_scope = { NOT = { religion_group = christian } } }
-					}
-					OR = {
-						has_landed_title = e_britannia
-						e_britannia = {	has_holder = no	}
-						e_britannia = { holder_scope = { NOT = { religion_group = christian } } }
-					}
-				}
-			}
-			religion_head = {
-				opinion = { who = ROOT value = 100 }
-			}
-			scaled_wealth = 2
-		}
-		effect = {
-			set_global_flag = charlemagne_hre
-			activate_title = { title = e_hre status = yes }
-			scaled_wealth = -2
-			if = {
-				limit = { has_nickname = no }
-				give_nickname = nick_the_great
-			}
-			any_demesne_title = {
-				limit = { tier = KING }
-				de_jure_liege = e_hre
-			}
-			hidden_tooltip = {
-				primary_title = {
-					if = {
-						limit = { tier = EMPEROR }
-						any_direct_de_jure_vassal_title = {
-							de_jure_liege = e_hre
-						}
-					}
-				}
-			}
-			primary_title = {
-				e_hre = {
-					grant_title = ROOT
-					copy_title_laws = PREV
-					set_coa = PREV
-				}
-			}
-			any_demesne_title = {
-				limit = {
-					tier = EMPEROR
-					NOT = { title = e_hre }
-				}
-				destroy_landed_title = THIS
-				hidden_tooltip = { activate_title = { title = THIS status = no } }
-			}
-#			any_demesne_title = {
-#				limit = { tier = KING }
-#				destroy_landed_title = THIS
-#			}
-			# Give lands to the Pope
-			if = {
-				limit = {
-					any_realm_title = {
-						title = c_roma
-						holder_scope = {
-							OR = {
-								ai = yes
-								any_demesne_title = {
-									tier = COUNT
-									NOT = { title = c_roma }
-								}
-							}
-						}
-					}
-				}
-				c_roma = {
-					ROOT = {
-						religion_head = {
-							grant_title = PREVPREV
-						}
-					}
-				}
-			}
-			if = {
-				limit = {
-					any_realm_title = {
-						title = c_ravenna
-						holder_scope = {
-							OR = {
-								ai = yes
-								any_demesne_title = {
-									tier = COUNT
-									NOT = { title = c_ravenna }
-								}
-							}
-						}
-					}
-				}
-				c_ravenna = {
-					ROOT = {
-						religion_head = {
-							grant_title = PREVPREV
-						}
-					}
-				}
-			}
-			if = {
-				limit = {
-					any_realm_title = {
-						title = c_ferrara
-						holder_scope = {
-							OR = {
-								ai = yes
-								any_demesne_title = {
-									tier = COUNT
-									NOT = { title = c_ferrara }
-								}
-							}
-						}
-					}
-				}
-				c_ferrara = {
-					ROOT = {
-						religion_head = {
-							grant_title = PREVPREV
-						}
-					}
-				}
-			}
-			if = {
-				limit = {
-					any_realm_title = {
-						title = c_urbino
-						holder_scope = {
-							OR = {
-								ai = yes
-								any_demesne_title = {
-									tier = COUNT
-									NOT = { title = c_urbino }
-								}
-							}
-						}
-					}
-				}
-				c_urbino = {
-					ROOT = {
-						religion_head = {
-							grant_title = PREVPREV
-						}
-					}
-				}
-			}
-			if = {
-				limit = {
-					any_realm_title = {
-						title = c_spoleto
-						holder_scope = {
-							OR = {
-								ai = yes
-								any_demesne_title = {
-									tier = COUNT
-									NOT = { title = c_spoleto }
-								}
-							}
-						}
-					}
-				}
-				c_spoleto = {
-					ROOT = {
-						religion_head = {
-							grant_title = PREVPREV
-						}
-					}
-				}
-			}
-			e_byzantium = {
-				holder_scope = {
-					opinion = {
-						who = ROOT
-						modifier = opinion_unhappy
-						months = 1200
-					}
-					hidden_tooltip = {
-						k_papal_state = {
-							holder_scope = {
-								reverse_opinion = {
-									who = PREVPREV
-									modifier = opinion_unhappy
-									months = 1200
-								}
-							}
-						}
-					}
-				}
-			}
-			if = {
-				limit = {
-					OR = {
-						NOT = {	has_character_flag = is_charlemagne }
-						has_character_flag = charlemagne_coronation
-					}
-				}
-				hidden_tooltip = { narrative_event = { id = CM.510 } }        # Spread the news
-			}
-			if = {
-				limit = {
-					has_character_flag = is_charlemagne
-					NOT = { has_character_flag = charlemagne_coronation }
-				}
-				hidden_tooltip = { narrative_event = { id = CM.1500 } }        # Charlemagne coronation
-			}
-			set_character_flag = achievement_holy_and_roman
-			chronicle = {
-				entry = CHRONICLE_FOUNDED_HRE
-				picture = GFX_evt_coronation
-			}
+			prestige = 500
 		}
 		revoke_allowed = {
 			always = no
