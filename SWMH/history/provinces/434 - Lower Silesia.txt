@@ -7,6 +7,7 @@ title = c_upper_silesia
 # Settlements
 max_settlements = 5
 b_wroclaw = tribal
+b_sleza = temple
 #b_ostrow_tumski = temple
 #b_olesnica = castle
 #b_nysa = city
@@ -22,9 +23,7 @@ religion = slavic_pagan
 	religion = catholic 
 	b_wroclaw = castle
 	b_brzeg = city
-	b_sleza = temple
 }
-1165.1.1 = { remove_settlement = b_sleza } 
 1165.1.1 = { b_ostrow_tumski = temple }
 1187.1.1 = { b_henrykow = temple }
 1250.1.1 = { culture = german } #German settlers
