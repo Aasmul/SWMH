@@ -187,7 +187,7 @@ b_tienen;Tienen;Tienen;Tienen;;Tienen;;;;;;;;;x
 b_horstcastle;Horst;Horst;Horst;;Horst;;;;;;;;;x
 b_diestcity;Diest;Diest;Diest;;Diest;;;;;;;;;x
 b_bonletz;Bonletz;Bonletz;Bonletz;;Bonletz;;;;;;;;;x
-b_dongleberg ;Dongleberg;Dongleberg;Dongleberg;;Dongleberg;;;;;;;;;x
+b_dongleberg;Dongleberg;Dongleberg;Dongleberg;;Dongleberg;;;;;;;;;x
 b_gembloux;Gembloux;Gembloux;Gembloux;;Gembloux;;;;;;;;;x
 b_beersel;Beersel;Beersel;Beersel;;Beersel;;;;;;;;;x
 b_gassbeck;Gassbeck;Gassbeck;Gassbeck;;Gassbeck;;;;;;;;;x
@@ -296,7 +296,7 @@ b_montfaucon;Montfaucon;Montfaucon;Montfaucon;;Montfaucon;;;;;;;;;x
 b_hericourtm;Héricourt;Héricourt;Héricourt;;Héricourt;;;;;;;;;x
 b_chatelotm;Châtelot;Châtelot;Châtelot;;Châtelot;;;;;;;;;x
 b_sainmaurice;Saint-maurice;Saint-maurice;Saint-maurice;;Saint-maurice;;;;;;;;;x
-b_montecheroux;Montécheroux ;Montécheroux ;Montécheroux ;;Montécheroux ;;;;;;;;;x
+b_montecheroux;Montécheroux;Montécheroux;Montécheroux;;Montécheroux;;;;;;;;;x
 b_clemontm;Clémont;Clémont;Clémont;;Clémont;;;;;;;;;x
 b_montmelian;Montmélian;Montmélian;Montmélian;;Montmélian;;;;;;;;;x
 b_moutiers;Moutiers;Moutiers;Moutiers;;Moutiers;;;;;;;;;x
@@ -693,7 +693,7 @@ b_sassari;Thàthari;Thàthari;Thàthari;;Thàthari;;;;;;;;;x
 b_ardara;Aldara;Aldara;Aldara;;Aldara;;;;;;;;;x
 b_bosa;Bosa;Bosa;Bosa;;Bosa;;;;;;;;;x
 b_lugosauto;Locusantu;Locusantu;Locusantu;;Locusantu;;;;;;;;;x
-b_serravallesardinia; Casteddu de Malaspina; Casteddu de Malaspina; Casteddu de Malaspina;; Casteddu de Malaspina;;;;;;;;;x
+b_serravallesardinia;Casteddu de Malaspina;Casteddu de Malaspina;Casteddu de Malaspina;;Casteddu de Malaspina;;;;;;;;;x
 b_osilio;Osile;Osile;Osile;;Osile;;;;;;;;;x
 b_castelsardo;Casteddu Sardu;Casteddu Sardu;Casteddu Sardu;;Casteddu Sardu;;;;;;;;;x
 b_alghero;S'Alighèra;S'Alighèra;S'Alighèra;;S'Alighèra;;;;;;;;;x
@@ -770,7 +770,7 @@ b_altofonte;Capaci;Capaci;Capaci;;Capaci;;;;;;;;;x
 b_campofelicedifitalia;Cifalà Diana;Cifalà Diana;Cifalà Diana;;Cifalà Diana;;;;;;;;;x
 b_carini;Carini;Carini;Carini;;Carini;;;;;;;;;x
 b_collesano;Gulisanu;Gulisanu;Gulisanu;;Gulisanu;;;;;;;;;x
-b_casalearianum;Casale Arianum;Casale Arianum;Casale Arianum;;Casale Arianum ;;;;;;;;;x
+b_casalearianum;Casale Arianum;Casale Arianum;Casale Arianum;;Casale Arianum;;;;;;;;;x
 b_zisa;Zisa;Zisa;Zisa;;La Zisa;;;;;;;;;x
 b_castellodellacuba;Castiddu di Cuba;Castiddu di Cuba;Castiddu di Cuba;;Casteddu della Cuba;;;;;;;;;x
 b_ypsigro;Ypsigro;Ypsigro;Ypsigro;;Casali du Ypsigro;;;;;;;;;x
@@ -793,7 +793,7 @@ b_munforti;Munfotti;Munfotti;Munfotti;;Munfotti;;;;;;;;;x
 b_syracusa;Sarausa;Sarausa;Sarausa;;Sarausa;;;;;;;;;x
 b_catania;Catania;Catania;Catania;;Catania;;;;;;;;;x
 b_paterno;Patennò;Patennò;Patennò;;Patennò;;;;;;;;;x
-b_centuripe;Centuorbi ;Centuorbi ;Centuorbi ;;Centorbi ;;;;;;;;;x
+b_centuripe;Centuorbi;Centuorbi;Centuorbi;;Centorbi;;;;;;;;;x
 b_augusta;Aùsta;Aùsta;Aùsta;;Aùsta;;;;;;;;;x
 b_castellonormanno;Castello Normanno;Castello Normanno;Castello Normanno;;Casteddu di Nurmanni;;;;;;;;;x
 b_jachium;i Benaccussi;i Benaccussi;i Benaccussi;;Casteddu;;;;;;;;;x
@@ -842,7 +842,7 @@ b_gagghianu;Gagghianu;Gagghianu;Gagghianu;;Gagghianu;;;;;;;;;x
 ########################################;;;;;;;;;;;;;;
 #Calabria;;;;;;;;;;;;;;
 ########################################;;;;;;;;;;;;;;
-b_catanzaro;Catanzaru ;Catanzaru ;Catanzaru ;;Catanzaru ;;;;;;;;;x
+b_catanzaro;Catanzaru;Catanzaru;Catanzaru;;Catanzaru;;;;;;;;;x
 b_corigliano;Curgghjeni;Curgghjeni;Curgghjeni;;Curgghjeni;;;;;;;;;x
 b_crucoli;San Màuru;San Màuru;San Màuru;;San Màuru;;;;;;;;;x
 b_acri;Eakri;Eakri;Eakri;;Eakri;;;;;;;;;x
@@ -853,7 +853,7 @@ b_santaniceto;Castiellu di Santu Niceto;Castiellu di Santu Niceto;Castiellu di S
 b_scilla;U Scigghiju;U Scigghiju;U Scigghiju;;U Scigghiju;;;;;;;;;x
 b_tarsia;Tarsia;Tarsia;Tarsia;;Tarsia;;;;;;;;;x
 b_cosenza;Cusenza;Cusenza;Cusenza;;Cusenza;;;;;;;;;x
-b_malvito;Marvitu ;Marvitu ;Marvitu ;;Marvitu ;;;;;;;;;x
+b_malvito;Marvitu;Marvitu;Marvitu;;Marvitu;;;;;;;;;x
 b_roa;Roa;Roa;Roa;;Roa;;;;;;;;;x
 b_argentano;Santu Marcu;Santu Marcu;Santu Marcu;;Santu Marcu;;;;;;;;;x
 b_scalea;Scalea;Scalea;Scalea;;Scalea;;;;;;;;;x
@@ -913,7 +913,7 @@ b_castellotramontano;Castello Tramontano;Castello Tramontano;Castello Tramontano
 b_matera;Matàërë;Matàërë;Matàërë;;Matàere;;;;;;;;;x
 b_santagostinomatera;Convento di Sant'Agostino;Convento di Sant'Agostino;Convento di Sant'Agostino;;Convento di Sant'Agostino;;;;;;;;;x
 b_valsinni;Mundalbàn;Mundalbàn;Mundalbàn;;Mundalbàn;;;;;;;;;x
-b_sannicandro;Sant' L'càndr;Sant' L'càndr;Sant' L'càndr;;Sannicandro ;;;;;;;;;x
+b_sannicandro;Sant' L'càndr;Sant' L'càndr;Sant' L'càndr;;Sannicandro;;;;;;;;;x
 b_terlizzi;Terrèzze;Terrèzze;Terrèzze;;Terrèzze;;;;;;;;;x
 b_valenzanobari;Valenzano;Valenzano;Valenzano;;Valenzano;;;;;;;;;x
 b_spinazzola;Spenazzòle;Spenazzòle;Spenazzòle;;Spenazzòle;;;;;;;;;x
@@ -1013,7 +1013,7 @@ b_torredelgreco;Torre 'o Grieco;Torre 'o Grieco;Torre 'o Grieco;;Torre 'o Grieco
 b_bacoliaversa;Vàcule;Vàcule;Vàcule;;Vàcule;;;;;;;;;x
 b_baiaaversa;Santu Nicole;Santu Nicole;Santu Nicole;;Santu Nicole;;;;;;;;;x
 b_volturnum;Casal 'e Prencepe;Casal 'e Prencepe;Casal 'e Prencepe;;Casal 'e Prencepe;;;;;;;;;x
-b_maranoaversa;Fauciano ;Fauciano ;Fauciano ;;Fauciano ;;;;;;;;;x
+b_maranoaversa;Fauciano;Fauciano;Fauciano;;Fauciano;;;;;;;;;x
 b_giuglianoincampania;Fràtt;Fràtt;Fràtt;;Fràtt;;;;;;;;;x
 b_napoli;Napule;Napule;Napule;;Napule;;;;;;;;;x
 b_castellamare;Castiellammare 'e Stabia;Castiellammare 'e Stabia;Castiellammare 'e Stabia;;Castiellammare 'e Stabia;;;;;;;;;x
@@ -1076,7 +1076,7 @@ b_avellino;Avellino;Avellino;Avellino;;Avellino;;;;;;;;;x
 b_montemarano;Montemarano;Montemarano;Montemarano;;Montemarano;;;;;;;;;x
 b_frigento;Frigento;Frigento;Frigento;;Frigento;;;;;;;;;x
 b_trevico;Trevico;Trevico;Trevico;;Trevico;;;;;;;;;x
-b_conza;Conza ;Conza;Conza;;Conza;;;;;;;;;x
+b_conza;Conza;Conza;Conza;;Conza;;;;;;;;;x
 b_santangeloascala;Sant'Angelo a Scala;Sant'Angelo a Scala;Sant'Angelo a Scala;;Sant'Angelo a Scala;;;;;;;;;x
 ########################################;;;;;;;;;;;;;;
 #Latium;;;;;;;;;;;;;;
@@ -1152,7 +1152,7 @@ b_barrea;Barrea;Barrea;Barrea;;Barrea;;;;;;;;;x
 b_pescasseroli;Pescasseroli;Pescasseroli;Pescasseroli;;Pescasseroli;;;;;;;;;x
 b_atinaalvito;Atina;Atina;Atina;;Atina;;;;;;;;;x
 b_casoli;Carseoli;Carseoli;Carseoli;Carsoli;Carseoli;;;;;;;;;x
-b_guardiagrele;Uardiagrélë ;Uardiagrélë ;Uardiagrélë ;;Uardiagrélë ;;;;;;;;;x
+b_guardiagrele;Uardiagrélë;Uardiagrélë;Uardiagrélë;;Uardiagrélë;;;;;;;;;x
 b_bomba;Bomba;Bomba;Bomba;;Bomba;;;;;;;;;x
 b_montazzoli;Montazzoli;Montazzoli;Montazzoli;;Montazzoli;;;;;;;;;x
 b_castiglionemessermarino;Lù Cuašt'gliaun';Lù Cuašt'gliaun';Lù Cuašt'gliaun';;Lù Cuašt'gliaun';;;;;;;;;x
@@ -1215,11 +1215,11 @@ b_castellodellarancia;Castello della Rancia;Castello della Rancia;Castello della
 b_portosangiorgio;Porto San Giorgio;Porto San Giorgio;Porto San Giorgio;;Porto San Giorgio;;;;;;;;;x
 b_tortoreto;Tortoreto;Tortoreto;Tortoreto;;Tortoreto;;;;;;;;;x
 b_santelpidioamare;Sallupijo;Sallupijo;Sallupijo;;Sallupijo;;;;;;;;;x
-b_guilianova;Gigljie ;Gigljie ;Gigljie ;;Gigljie ;;;;;;;;;x
+b_guilianova;Gigljie;Gigljie;Gigljie;;Gigljie;;;;;;;;;x
 b_ponzanodifermo;Ponzà;Ponzà;Ponzà;;Ponzà;;;;;;;;;x
 b_ascolipiceno;Ascule;Ascule;Ascule;;Ascule;;;;;;;;;x
 b_sanbenedettodeltronto;Sammenedètte;Sammenedètte;Sammenedètte;;Sammenedètte;;;;;;;;;x
-b_civitanovamarche;Citanò ;Citanò ;Citanò ;;Citanò ;;;;;;;;;x
+b_civitanovamarche;Citanò;Citanò;Citanò;;Citanò;;;;;;;;;x
 b_camerino;Cammerinu;Cammerinu;Cammerinu;;Cammerinu;;;;;;;;;x
 b_castelraimondo;Castrimonno;Castrimonno;Castrimonno;;Castrimonno;;;;;;;;;x
 b_ancona;Ancona;Ancona;Ancona;;Ancona;;;;;;;;;x
@@ -1243,10 +1243,10 @@ b_fossombrone;Fossombrón;Fossombrón;Fossombrón;;Fossombrón;;;;;;;;;x
 b_roccatorrinone;Rocca Torrione;Rocca Torrione;Rocca Torrione;;Rocca Torrione;;;;;;;;;x
 b_cagliurbino;Cài;Cài;Cài;;Cài;;;;;;;;;x
 b_acqualagna;Acqualagna;Acqualagna;Acqualagna;;Acqualagna;;;;;;;;;x
-b_fermignanourbino;Fermignan ;Fermignan ;Fermignan ;;Fermignan ;;;;;;;;;x
+b_fermignanourbino;Fermignan;Fermignan;Fermignan;;Fermignan;;;;;;;;;x
 b_urbania;Orbègnia;Orbègnia;Orbègnia;;Orbègnia;;;;;;;;;x
 b_albornoz;Fortezza Albornoz;Fortezza Albornoz;Fortezza Albornoz;;Fortezza Albornoz;;;;;;;;;x
-b_urbino;Urbìn ;Urbìn ;Urbìn ;;Urbìn ;;;;;;;;;x
+b_urbino;Urbìn;Urbìn;Urbìn;;Urbìn;;;;;;;;;x
 b_sanmarino;San Maroin;San Maroin;San Maroin;;San Maroin;;;;;;;;;x
 b_montegiardino;Montgiardin;Montgiardin;Montgiardin;;Montgiardin;;;;;;;;;x
 b_serravallesanmarino;Saravâl;Saravâl;Saravâl;;Saravâl;;;;;;;;;x
@@ -1256,9 +1256,9 @@ b_gubbio;Gubbio;Gubbio;Gubbio;;Gubbio;;;;;;;;;x
 ########################################;;;;;;;;;;;;;;
 #Ravenna;;;;;;;;;;;;;;
 ########################################;;;;;;;;;;;;;;
-b_forli;Furlè ;Furlè ;Furlè ;;Furlè ;;;;;;;;;x
-b_bologna;Bulåggna ;Bulåggna ;Bulåggna ;;Bulåggna ;;;;;;;;;x
-b_gradara;Gradèra ;Gradèra ;Gradèra ;;Gradèra ;;;;;;;;;x
+b_forli;Furlè;Furlè;Furlè;;Furlè;;;;;;;;;x
+b_bologna;Bulåggna;Bulåggna;Bulåggna;;Bulåggna;;;;;;;;;x
+b_gradara;Gradèra;Gradèra;Gradèra;;Gradèra;;;;;;;;;x
 b_roccamalatestiana;Ròca Malatestiana;Ròca Malatestiana;Ròca Malatestiana;;Ròca Malatestiana;;;;;;;;;x
 b_raffanara;Castèl d Raffanara;Castèl d Raffanara;Castèl d Raffanara;;Castèl d Raffanara;;;;;;;;;x
 b_castellocortina;Castèl d Cortina;Castèl d Cortina;Castèl d Cortina;;Castèl d Cortina;;;;;;;;;x
@@ -1402,7 +1402,7 @@ b_fivizzano;Fiuzàn;Fiuzàn;Fiuzàn;;Fiuzàn;;;;;;;;;x
 b_mulazzo;Mulàs;Mulàs;Mulàs;;Mulàs;;;;;;;;;x
 b_carrara;Carrara;Carrara;Carrara;;Carrara;;;;;;;;;x
 b_sarzana;Sarzàna;Sarzàna;Sarzàna;;Sarzàna;;;;;;;;;x
-b_aulla;Aùla ;Aùla ;Aùla ;;Aùla ;;;;;;;;;x
+b_aulla;Aùla;Aùla;Aùla;;Aùla;;;;;;;;;x
 ########################################;;;;;;;;;;;;;;
 #Pisa;;;;;;;;;;;;;;
 ########################################;;;;;;;;;;;;;;
@@ -1424,7 +1424,7 @@ b_sanvincenzo;San Vincenzo;San Vincenzo;San Vincenzo;;San Vincenzo;;;;;;;;;x
 ########################################;;;;;;;;;;;;;;
 #Reggio e Modena;;;;;;;;;;;;;;
 ########################################;;;;;;;;;;;;;;
-b_carpi;Chèrp ;Chèrp ;Chèrp ;;Chèrp ;;;;;;;;;x
+b_carpi;Chèrp;Chèrp;Chèrp;;Chèrp;;;;;;;;;x
 b_abbaziadinonantola;Badéia ed Nunàntla;Badéia ed Nunàntla;Badéia ed Nunàntla;;Badéia ed Nunàntla;;;;;;;;;x
 b_vignola;Ròca d Vgnóla;Ròca d Vgnóla;Ròca d Vgnóla;;Ròca d Vgnóla;;;;;;;;;x
 b_finalemodena;Finèl;Finèl;Finèl;;Finèl;;;;;;;;;x
@@ -1437,9 +1437,9 @@ b_pratofontana;Prêfuntana;Prêfuntana;Prêfuntana;;Prêfuntana;;;;;;;;;x
 b_rubiera;Rubera;Rubera;Rubera;;Rubera;;;;;;;;;x
 b_roccadeiboiardo;Ròca ed Boiardo;Ròca ed Boiardo;Ròca ed Boiardo;;Ròca ed Boiardo;;;;;;;;;x
 b_correggio;Curèz;Curèz;Curèz;;Curèz;;;;;;;;;x
-b_carpineti;Carpnéda ;Carpnéda ;Carpnéda ;;Carpnéda ;;;;;;;;;x
+b_carpineti;Carpnéda;Carpnéda;Carpnéda;;Carpnéda;;;;;;;;;x
 b_castellodibianello;Castèl ed Bianèl;Castèl ed Bianèl;Castèl ed Bianèl;;Castèl ed Bianèl;;;;;;;;;x
-b_frignanomodena;Pavóll ;Pavóll ;Pavóll ;;Pavóll ;;;;;;;;;x
+b_frignanomodena;Pavóll;Pavóll;Pavóll;;Pavóll;;;;;;;;;x
 b_serramazzoni;La Sèra;La Sèra;La Sèra;;La Sèra;;;;;;;;;x
 b_castelnovo;Castelnóv;Castelnóv;Castelnóv;;Castelnóv;;;;;;;;;x
 b_salamedifelina;Salâm ed Flèina;Salâm ed Flèina;Salâm ed Flèina;;Salâm ed Flèina;;;;;;;;;x
@@ -1461,7 +1461,7 @@ b_cavriana;Cavriàna;Cavriàna;Cavriàna;;Cavriàna;;;;;;;;;x
 b_villimpenta;Vilipénta;Vilipénta;Vilipénta;;Vilipénta;;;;;;;;;x
 b_redondesco;Redundèsch;Redundèsch;Redundèsch;;Redundèsch;;;;;;;;;x
 b_marianamantovana;Mariàna;Mariàna;Mariàna;;Mariàna;;;;;;;;;x
-b_suzzara;Süsèra ;Süsèra;Süsèra;;Süsèra;;;;;;;;;x
+b_suzzara;Süsèra;Süsèra;Süsèra;;Süsèra;;;;;;;;;x
 b_luzzara;Lusêra;Lusêra;Lusêra;;Lusêra;;;;;;;;;x
 b_guastalla;Guastâla;Guastâla;Guastâla;;Guastâla;;;;;;;;;x
 b_mantova;Mantua;Mantua;Mantua;;Mantua;;;;;;;;;x
@@ -1488,13 +1488,13 @@ b_fidenza;Burägh San Dunén;Burägh San Dunén;Burägh San Dunén;;Burägh San Dunén;;
 b_bardipiacenza;Bàrdi;Bàrdi;Bàrdi;;Bàrdi;;;;;;;;;x
 b_roccabianca;Rocabiànca;Rocabiànca;Rocabiànca;;Rocabiànca;;;;;;;;;x
 b_roccadeirossi;Ròca ed Rós;Ròca ed Rós;Ròca ed Rós;;Ròca ed Rós;;;;;;;;;x
-b_agazzano;Gasàn ;Gasàn ;Gasàn ;;Gasàn ;;;;;;;;;x
+b_agazzano;Gasàn;Gasàn;Gasàn;;Gasàn;;;;;;;;;x
 b_castellodellaboffalora;Castèl ed Bufalora;Castèl ed Bufalora;Castèl ed Bufalora;;Castèl ed Bufalora;;;;;;;;;x
 b_borgonovovaltidone;Burgnöv;Burgnöv;Burgnöv;;Burgnöv;;;;;;;;;x
 b_calendasco;Calindàsch;Calindàsch;Calindàsch;;Calindàsch;;;;;;;;;x
-b_carpanetopiacentino;Carpané ;Carpané ;Carpané ;;Carpané ;;;;;;;;;x
+b_carpanetopiacentino;Carpané;Carpané;Carpané;;Carpané;;;;;;;;;x
 b_castellodirezzanello;Castèl ed Rezzanello;Castèl ed Rezzanello;Castèl ed Rezzanello;;Castèl ed Rezzanello;;;;;;;;;x
-b_gazzola;Gasöla ;Gasöla ;Gasöla ;;Gasöla ;;;;;;;;;x
+b_gazzola;Gasöla;Gasöla;Gasöla;;Gasöla;;;;;;;;;x
 b_castellodirivalta;Castèl ed Rivêlta;Castèl ed Rivêlta;Castèl ed Rivêlta;;Castèl ed Rivêlta;;;;;;;;;x
 b_abbaziadisansavino;Badéia ed Savëin;Badéia ed Savëin;Badéia ed Savëin;;Badéia ed Savëin;;;;;;;;;x
 b_gropparello;Gruparél;Gruparél;Gruparél;;Gruparél;;;;;;;;;x
@@ -1504,7 +1504,7 @@ b_castellodimonteventano;Castèl ed Monteventano;Castèl ed Monteventano;Castèl ed
 b_castellodiriva;Castèl ed Riva;Castèl ed Riva;Castèl ed Riva;;Castèl ed Riva;;;;;;;;;x
 b_pontenure;Pontnür;Pontnür;Pontnür;;Pontnür;;;;;;;;;x
 b_castellodipaderna;Castèl ed Padêrna;Castèl ed Padêrna;Castèl ed Padêrna;;Castèl ed Padêrna;;;;;;;;;x
-b_rivargo;Arvargär ;Arvargär ;Arvargär ;;Arvargär ;;;;;;;;;x
+b_rivargo;Arvargär;Arvargär;Arvargär;;Arvargär;;;;;;;;;x
 b_castellodisarmato;Castèl ed Sàrmat;Castèl ed Sàrmat;Castèl ed Sàrmat;;Castèl ed Sàrmat;;;;;;;;;x
 b_castellodistatto;Castèl ed Statto;Castèl ed Statto;Castèl ed Statto;;Castèl ed Statto;;;;;;;;;x
 b_castellodivigoleno;Castèl ed Vigoleno;Castèl ed Vigoleno;Castèl ed Vigoleno;;Castèl ed Vigoleno;;;;;;;;;x
@@ -1529,7 +1529,7 @@ b_castelappio;Castel d'Appio;Castel d'Appio;Castel d'Appio;;Castel d'Appio;;;;;;
 b_castelsangiovannifinale;Castel San Giovanni;Castel San Giovanni;Castel San Giovanni;;Castel San Giovanni;;;;;;;;;x
 b_castelgavone;Castel Gavone;Castel Gavone;Castel Gavone;;Castel Gavone;;;;;;;;;x
 b_caliceligure;Carxi Ligure;Carxi Ligure;Carxi Ligure;;Carxi Ligure;;;;;;;;;x
-b_finaleligure;Finô ;Finô ;Finô ;;Finô ;;;;;;;;;x
+b_finaleligure;Finô;Finô;Finô;;Finô;;;;;;;;;x
 b_tovosangiacomo;O Tô;O Tô;O Tô;;O Tô;;;;;;;;;x
 b_bormida;Bormia;Bormia;Bormia;;Bormia;;;;;;;;;x
 b_osiglia;Oseria;Oseria;Oseria;;Oseria;;;;;;;;;x
@@ -1545,7 +1545,7 @@ b_noliligure;Nöi;Nöi;Nöi;;Nöi;;;;;;;;;x
 b_castellodimonteursino;Castello di Monte Ursino;Castello di Monte Ursino;Castello di Monte Ursino;;Castello di Monte Ursino;;;;;;;;;x
 b_pontinvre;O Ponte;O Ponte;O Ponte;;O Ponte;;;;;;;;;x
 b_casteldelfinoligure;Castello di Finô;Castello di Finô;Castello di Finô;;Castello di Finô;;;;;;;;;x
-b_stellaligure;Steja ;Steja ;Steja ;;Steja ;;;;;;;;;x
+b_stellaligure;Steja;Steja;Steja;;Steja;;;;;;;;;x
 b_castellodistella;Castello di Steja;Castello di Steja;Castello di Steja;;Castello di Steja;;;;;;;;;x
 b_cogoleto;Coghêuo;Coghêuo;Coghêuo;;Coghêuo;;;;;;;;;x
 b_varazze;Väze;Väze;Väze;;Väze;;;;;;;;;x
@@ -1615,7 +1615,7 @@ b_cuneo;Coni;Coni;Coni;;Coni;;;;;;;;;x
 b_abbziadisandalmass;Abassìa ëd San Dalmassi;Abassìa ëd San Dalmassi;Abassìa ëd San Dalmassi;;Abassìa ëd San Dalmassi;;;;;;;;;x
 b_susapiemonte;Susa;Susa;Susa;;Susa;;;;;;;;;x
 b_moncalieri;Moncalé;Moncalé;Moncalé;;Moncalé;;;;;;;;;x
-b_pinerolo;Pinareul ;Pinareul ;Pinareul ;;Pinareul ;;;;;;;;;x
+b_pinerolo;Pinareul;Pinareul;Pinareul;;Pinareul;;;;;;;;;x
 b_abbadiaalpina;La Badìa;La Badìa;La Badìa;;La Badìa;;;;;;;;;x
 b_sanpietrovallemina;San Pé;San Pé;San Pé;;San Pé;;;;;;;;;x
 b_rivoli;Rìvole;Rìvole;Rìvole;;Rìvole;;;;;;;;;x
@@ -1623,7 +1623,7 @@ b_torino;Turén;Turén;Turén;;Turén;;;;;;;;;x
 b_settimo;Ël Seto;Ël Seto;Ël Seto;;Ël Seto;;;;;;;;;x
 b_sangiorgiocanavese;San Giòrs Canavèis;San Giòrs Canavèis;San Giòrs Canavèis;;San Giòrs Canavèis;;;;;;;;;x
 b_meanadisusa;Meana;Meana;Meana;;Meana;;;;;;;;;x
-b_novara;Noara ;Noara ;Noara ;;Noara ;;;;;;;;;x
+b_novara;Noara;Noara;Noara;;Noara;;;;;;;;;x
 b_nibbiola;Nibiola;Nibiola;Nibiola;;Nibiola;;;;;;;;;x
 b_borgosesia;Ël Borgh;Ël Borgh;Ël Borgh;;Ël Borgh;;;;;;;;;x
 b_biandrate;Biandrà;Biandrà;Biandrà;;Biandrà;;;;;;;;;x
@@ -1668,7 +1668,7 @@ b_lodi;Lod;Lod;Lod;;Lod;;;;;;;;;x
 b_milano;Milan;Milan;Milan;;Milan;;;;;;;;;x
 b_monza;Monscia;Monscia;Monscia;;Monscia;;;;;;;;;x
 b_roccadiorino;Roca de Orin;Roca de Orin;Roca de Orin;;Roca de Orin;;;;;;;;;x
-b_castellodivarese;Castell de Masnagh ;Castell de Masnagh ;Castell de Masnagh ;;Castell de Masnagh ;;;;;;;;;x
+b_castellodivarese;Castell de Masnagh;Castell de Masnagh;Castell de Masnagh;;Castell de Masnagh;;;;;;;;;x
 b_arona;Aruna;Aruna;Aruna;;Aruna;;;;;;;;;x
 b_varese;Varés;Varés;Varés;;Varés;;;;;;;;;x
 b_gallarate;Gallaraa;Gallaraa;Gallaraa;;Gallaraa;;;;;;;;;x
@@ -1727,12 +1727,12 @@ b_sancolombanoallambro;San Culumban al Làmbor;San Culumban al Làmbor;San Culumba
 b_castellodizavattarello;Castell Dal Verme;Castell Dal Verme;Castell Dal Verme;;Castell Dal Verme;;;;;;;;;x
 b_zavattarello;Zavataré;Zavataré;Zavataré;;Zavataré;;;;;;;;;x
 b_cremona;Cremùna;Cremùna;Cremùna;;Cremùna;;;;;;;;;x
-b_sospiro;Suspir ;Suspir ;Suspir ;;Suspir ;;;;;;;;;x
+b_sospiro;Suspir;Suspir;Suspir;;Suspir;;;;;;;;;x
 b_crema;Crèma;Crèma;Crèma;;Crèma;;;;;;;;;x
 b_casalmaggiore;Casalmagiur;Casalmagiur;Casalmagiur;;Casalmagiur;;;;;;;;;x
-b_soncino;Suncin ;Suncin ;Suncin ;;Suncin ;;;;;;;;;x
+b_soncino;Suncin;Suncin;Suncin;;Suncin;;;;;;;;;x
 b_soresina;Suresina;Suresina;Suresina;;Suresina;;;;;;;;;x
-b_trigolo;Trìgul ;Trìgul ;Trìgul ;;Trìgul ;;;;;;;;;x
+b_trigolo;Trìgul;Trìgul;Trìgul;;Trìgul;;;;;;;;;x
 b_isano;Misà;Misà;Misà;;Misà;;;;;;;;;x
 b_bellinzona;Belinzona;Belinzona;Belinzona;;Belinzona;;;;;;;;;x
 b_locarno;Locarn;Locarn;Locarn;;Locarn;;;;;;;;;x
@@ -1774,7 +1774,7 @@ b_castellodicini;Castelo Cini;Castelo Cini;Castelo Cini;;Castelo Cini;;;;;;;;;x
 b_sanmartino;San Martin Bon Albergo;San Martin Bon Albergo;San Martin Bon Albergo;;San Martin Bon Albergo;;;;;;;;;x
 b_malcesine;Malcexine;Malcexine;Malcexine;;Malcexine;;;;;;;;;x
 b_castelloscaligero;Castelo Scaligero;Castelo Scaligero;Castelo Scaligero;;Castelo Scaligero;;;;;;;;;x
-b_castelvecchioverona; Vecio; Vecio; Vecio;; Vecio;;;;;;;;;x
+b_castelvecchioverona;Vecio;Vecio;Vecio;;Vecio;;;;;;;;;x
 b_castellodicalmano;Castelo de Calmano;Castelo de Calmano;Castelo de Calmano;;Castelo de Calmano;;;;;;;;;x
 b_abbaziadisanzeno;Abasia de San Zeno;Abasia de San Zeno;Abasia de San Zeno;;Abasia de San Zeno;;;;;;;;;x
 b_zevioverona;Zevio;Zevio;Zevio;;Zevio;;;;;;;;;x
@@ -2140,7 +2140,7 @@ b_serbkaolivia;Serbka;Serbka;Serbka;;Serbka;;;;;;;;;x
 ########################################;;;;;;;;;;;;;;
 #Moldavia;;;;;;;;;;;;;;
 ########################################;;;;;;;;;;;;;;
-b_cetateaneamt;Cetatea Neamt ;Cetatea Neamt ;Cetatea Neamt ;;Cetatea Neamt ;;;;;;;;;x
+b_cetateaneamt;Cetatea Neamt;Cetatea Neamt;Cetatea Neamt;;Cetatea Neamt;;;;;;;;;x
 b_tazlau;Tazlau;Tazlau;Tazlau;;Tazlau;;;;;;;;;x
 b_varzarestimoldavia;Vazaresti;Vazaresti;Vazaresti;;Vazaresti;;;;;;;;;x
 b_orheimoldavia;Orhei;Orhei;Orhei;;Orhei;;;;;;;;;x
@@ -2549,12 +2549,12 @@ b_stflour;Saint Flour;Saint Flour;Saint Flour;;Saint Flour;;;;;;;;;x
 ########################################;;;;;;;;;;;;;;
 #Limousin;;;;;;;;;;;;;;
 ########################################;;;;;;;;;;;;;;
-b_chalus;Chasluç ;Chasluç ;Chasluç ;;Chasluç ;;;;;;;;;x
+b_chalus;Chasluç;Chasluç;Chasluç;;Chasluç;;;;;;;;;x
 b_limotges;Limòtges;Limòtges;Limòtges;;Limòtges;;;;;;;;;x
-b_rochechouart;Rechoard ;Rechoard ;Rechoard ;;Rechoard ;;;;;;;;;x
-b_stleonard;Sent Liunard ;Sent Liunard ;Sent Liunard ;;Sent Liunard ;;;;;;;;;x
+b_rochechouart;Rechoard;Rechoard;Rechoard;;Rechoard;;;;;;;;;x
+b_stleonard;Sent Liunard;Sent Liunard;Sent Liunard;;Sent Liunard;;;;;;;;;x
 b_thiviers;Tivier;Tivier;Tivier;;Tivier;;;;;;;;;x
-b_turenne;Torrna ;Torrna ;Torrna ;;Torrna ;;;;;;;;;x
+b_turenne;Torrna;Torrna;Torrna;;Torrna;;;;;;;;;x
 b_donzenac;Domzenac;Domzenac;Domzenac;;Domzenac;;;;;;;;;x
 b_ventadour;Ventadorn;Ventadorn;Ventadorn;;Ventadorn;;;;;;;;;x
 b_tulle;Tula;Tula;Tula;;Tula;;;;;;;;;x
@@ -2564,7 +2564,7 @@ b_comborn;Combòrn;Combòrn;Combòrn;;Combòrn;;;;;;;;;x
 ########################################;;;;;;;;;;;;;;
 b_stbertrand;Sent Bertran;Sent Bertran;Sent Bertran;;Sent Bertran;;;;;;;;;x
 b_stgaudens;Sent Gaudenç;Sent Gaudenç;Sent Gaudenç;;Sent Gaudenç;;;;;;;;;x
-b_aspet;Aspèth ;Aspèth ;Aspèth ;;Aspèth ;;;;;;;;;x
+b_aspet;Aspèth;Aspèth;Aspèth;;Aspèth;;;;;;;;;x
 b_barousse;Varossa;Varossa;Varossa;;Varossa;;;;;;;;;x
 b_barbazan;Barbasan;Barbasan;Barbasan;;Barbasan;;;;;;;;;x
 b_aurignac;Aurinhac;Aurinhac;Aurinhac;;Aurinhac;;;;;;;;;x
@@ -3167,7 +3167,7 @@ b_smederevo;Kalemegdan;Kalemegdan;Kalemegdan;;Kalemegdan;;;;;;;;;x
 b_kufstein;Ottensheim;Ottensheim;Ottensheim;;Ottensheim;;;;;;;;;x
 b_kitzbuhel;Garsten;Garsten;Garsten;;Garsten;;;;;;;;;x
 b_schwaz;Wels;Wels;Wels;;Wels;;;;;;;;;x
-b_jenbach ;Aschach;Aschach;Aschach;;Aschach;;;;;;;;;x
+b_jenbach;Aschach;Aschach;Aschach;;Aschach;;;;;;;;;x
 b_fugen;Kremmünster;Kremmünster;Kremmünster;;Kremmünster;;;;;;;;;x
 b_trepca;Ras;Ras;Ras;;Ras;;;;;;;;;x
 b_maglizh;Boruy;Boruy;Boruy;;Boruy;;;;;;;;;x
@@ -4167,7 +4167,7 @@ b_tikhvin;Prechistensky;Prechistensky;Prechistensky;;Prechistensky;;;;;;;;;x
 b_pikalyovo;Voskresensly Luchensky;Voskresensly Luchensky;Voskresensly Luchensky;;Voskresensly Luchensky;;;;;;;;;x
 b_borovichi;Borovichi;Borovichi;Borovichi;;Borovichi;;;;;;;;;x
 b_lyubytino;Beloye;Beloye;Beloye;;Beloye;;;;;;;;;x
-b_sanktsophia;St-Sophia ;St-Sophia ;St-Sophia ;;St-Sophia ;;;;;;;;;x
+b_sanktsophia;St-Sophia;St-Sophia;St-Sophia;;St-Sophia;;;;;;;;;x
 b_yurievmonestary;Yuriev;Yuriev;Yuriev;;Yuriev;;;;;;;;;x
 b_antonievmonestary;Antoniev;Antoniev;Antoniev;;Antoniev;;;;;;;;;x
 b_novgorodkremlin;Novgorodskiy Detinets;Novgorodskiy Detinets;Novgorodskiy Detinets;;Novgorodskiy Detinets;;;;;;;;;x
@@ -4312,7 +4312,7 @@ b_bogorodsk;Bogorodichnoye;Bogorodichnoye;Bogorodichnoye;;Bogorodichnoye;;;;;;;;
 b_kstovo;Kstovo;Kstovo;Kstovo;;Kstovo;;;;;;;;;x
 b_knyaginino;Knyaginin;Knyaginin;Knyaginin;;Knyaginin;;;;;;;;;x
 b_rastyapino;Rastyapino;Rastyapino;Rastyapino;;Rastyapino;;;;;;;;;x
-b_balakhna;Sol-na-Gorodtse ;Sol-na-Gorodtse ;Sol-na-Gorodtse ;;Sol-na-Gorodtse ;;;;;;;;;x
+b_balakhna;Sol-na-Gorodtse;Sol-na-Gorodtse;Sol-na-Gorodtse;;Sol-na-Gorodtse;;;;;;;;;x
 b_nizhnynovgorod;Nizhny Novgorod;Nizhny Novgorod;Nizhny Novgorod;;Nizhny Novgorod;;;;;;;;;x
 b_gorbatovo;Mesecersk;Mesecersk;Mesecersk;;Mesecersk;;;;;;;;;x
 #Ustyg;;;;;;;;;;;;;;
@@ -4321,7 +4321,7 @@ b_solvychegodsk;Usolsk;Usolsk;Usolsk;;Usolsk;;;;;;;;;x
 b_troitsegledenskymonastery;Troitse-Gledensky;Troitse-Gledensky;Troitse-Gledensky;;Troitse-Gledensky;;;;;;;;;x
 b_gledenustyg;Gleden;Gleden;Gleden;;Gleden;;;;;;;;;x
 b_dymkovskaya;Dymkovskaya;Dymkovskaya;Dymkovskaya;;Dymkovskaya;;;;;;;;;x
-b_gradmersky;Grad Mersky ;Grad Mersky ;Grad Mersky ;;Grad Mersky ;;;;;;;;;x
+b_gradmersky;Grad Mersky;Grad Mersky;Grad Mersky;;Grad Mersky;;;;;;;;;x
 b_chukholma;Chukholma;Chukholma;Chukholma;;Chukholma;;;;;;;;;x
 b_buy;Vui;Vui;Vui;;Vui;;;;;;;;;x
 #Murom;;;;;;;;;;;;;;
@@ -4453,7 +4453,7 @@ b_eletskymonestary;Eletsky Pechersk Lavra;Eletsky Pechersk Lavra;Eletsky Pechers
 b_menachernigov;Mena;Mena;Mena;;Mena;;;;;;;;;x
 b_syvolozh;Vsevoloz;Vsevoloz;Vsevoloz;;Vsevoloz;;;;;;;;;x
 b_borzna;Borzna;Borzna;Borzna;;Borzna;;;;;;;;;x
-b_kozelets;Kozlohrad ;Kozlohrad ;Kozlohrad ;;Kozlohrad ;;;;;;;;;x
+b_kozelets;Kozlohrad;Kozlohrad;Kozlohrad;;Kozlohrad;;;;;;;;;x
 b_lyubech;Ljubec;Ljubec;Ljubec;;Ljubec;;;;;;;;;x
 b_horodnya;Horobor;Horobor;Horobor;;Horobor;;;;;;;;;x
 b_brahin;Brjagin;Brjagin;Brjagin;;Brjagin;;;;;;;;;x
@@ -4571,7 +4571,7 @@ b_turiisk;Turijsk;Turijsk;Turijsk;;Turijsk;;;;;;;;;x
 b_stepan;Stepan';Stepan';Stepan';;Stepan';;;;;;;;;x
 b_ustyluh;Oustylouh;Oustylouh;Oustylouh;;Oustylouh;;;;;;;;;x
 b_luboml;Luboml;Luboml;Luboml;;Luboml;;;;;;;;;x
-b_ivanichy;Ivanitchi ;Ivanitchi ;Ivanitchi ;;Ivanitchi ;;;;;;;;;x
+b_ivanichy;Ivanitchi;Ivanitchi;Ivanitchi;;Ivanitchi;;;;;;;;;x
 b_dorohobuzh;Dorogobuz-Volynskij;Dorogobuz-Volynskij;Dorogobuz-Volynskij;;Dorogobuz-Volynskij;;;;;;;;;x
 b_rovno;Rovno;Rovno;Rovno;;Rovno;;;;;;;;;x
 b_ostroh;Ostrog;Ostrog;Ostrog;;Ostrog;;;;;;;;;x
@@ -4634,7 +4634,7 @@ b_onut;Onut;Onut;Onut;;Onut;;;;;;;;;x
 #Polotsk;;;;;;;;;;;;;;
 b_velizh;Veliz;Veliz;Veliz;;Veliz;;;;;;;;;x
 b_rudnya;Rodnya;Rodnya;Rodnya;;Rodnya;;;;;;;;;x
-b_haradok ;Gorodoc-Polockskij;Gorodoc-Polockskij;Gorodoc-Polockskij;;Gorodoc-Polockskij;;;;;;;;;x
+b_haradok;Gorodoc-Polockskij;Gorodoc-Polockskij;Gorodoc-Polockskij;;Gorodoc-Polockskij;;;;;;;;;x
 b_vitebsk;Vitebesk;Vitebesk;Vitebesk;;Vitebesk;;;;;;;;;x
 b_polotsk;Polock;Polock;Polock;;Polock;;;;;;;;;x
 b_obol;Obol';Obol';Obol';;Obol';;;;;;;;;x
@@ -5311,7 +5311,7 @@ b_anyksciai;Anykšciai;Anykšciai;Anykšciai;;Anykšciai;;;;;;;;;x
 b_kurkliai;Kurkliai;Kurkliai;Kurkliai;;Kurkliai;;;;;;;;;x
 b_balninkai;Balninkai;Balninkai;Balninkai;;Balninkai;;;;;;;;;x
 b_sesuoliai;Šešuoliai;Šešuoliai;Šešuoliai;;Šešuoliai;;;;;;;;;x
-b_giedraiciai;Giedraiciai ;Giedraiciai ;Giedraiciai ;;Giedraiciai ;;;;;;;;;x
+b_giedraiciai;Giedraiciai;Giedraiciai;Giedraiciai;;Giedraiciai;;;;;;;;;x
 b_dubingiai;Dubingiai;Dubingiai;Dubingiai;;Dubingiai;;;;;;;;;x
 b_svencionys;Svencionys;Svencionys;Svencionys;;Svencionys;;;;;;;;;x
 b_utena;Utena;Utena;Utena;;Utena;;;;;;;;;x
@@ -5567,7 +5567,7 @@ b_eldenaabbey;Hilda;Hilda;Hilda;;Hilda;;;;;;;;;x
 #Gützkow/Wolgast;;;;;;;;;;;;;;
 b_wolgast;Wolgast;Wolgast;Wolgast;;Wolgast;;;;;;;;;x
 b_stolpemonestary;Stolpe;Stolpe;Stolpe;;Stolpe;;;;;;;;;x
- b_demmin;Demmin;Demmin;Demmin;;Demmin;;;;;;;;;x
+b_demmin;Demmin;Demmin;Demmin;;Demmin;;;;;;;;;x
 b_anklam;Anklam;Anklam;Anklam;;Anklam;;;;;;;;;x
 b_ueckermunde;Ukermunde;Ukermunde;Ukermunde;;Ukermunde;;;;;;;;;x
 b_zinnowitz;Zitz;Zitz;Zitz;;Zitz;;;;;;;;;x
@@ -5694,7 +5694,7 @@ b_borgeby;Borgaby;Borgaby;Borgaby;;Borgaby;;;;;;;;;x
 b_trollenaes;Næs;Næs;Næs;;Næs;;;;;;;;;x
 b_gyllebo;Gyllebo;Gyllebo;Gyllebo;;Gyllebo;;;;;;;;;x
 b_tostrup;Tostrup;Tostrup;Tostrup;;Tostrup;;;;;;;;;x
-b_hamrum ;Hamrum;Hamrum;Hamrum;;Hamrum;;;;;;;;;x
+b_hamrum;Hamrum;Hamrum;Hamrum;;Hamrum;;;;;;;;;x
 b_ulfborg;Ulfburg;Ulfburg;Ulfburg;;Ulfburg;;;;;;;;;x
 b_esrum;Esrum;Esrum;Esrum;;Esrum;;;;;;;;;x
 b_heddinge;Hæddyng;Hæddyng;Hæddyng;;Hæddyng;;;;;;;;;x
@@ -5836,7 +5836,7 @@ b_dunlough;Dunlough;Dunlough;Dunlough;;Dunlough;;;;;;;;;x
 #Kent;;;;;;;;;;;;;;
 b_dover;Dover;Dover;Dover;;Dover;;;;;;;;;x
 b_canterbury;Canterbury;Canterbury;Canterbury;;Canterbury;;;;;;;;;x
-b_lympne ;Lympne;Lympne;Lympne;;Lympne;;;;;;;;;x
+b_lympne;Lympne;Lympne;Lympne;;Lympne;;;;;;;;;x
 b_rochester;Rochester;Rochester;Rochester;;Rochester;;;;;;;;;x
 b_faversham;Faversham;Faversham;Faversham;;Faversham;;;;;;;;;x
 b_sandwich;Sandwich;Sandwich;Sandwich;;Sandwich;;;;;;;;;x
@@ -5911,7 +5911,7 @@ b_ramsbury;Ramsbury;Ramsbury;Ramsbury;;Ramsbury;;;;;;;;;x
 b_marlborough;Marlborough;Marlborough;Marlborough;;Marlborough;;;;;;;;;x
 b_clarendon;Claredon;Claredon;Claredon;;Claredon;;;;;;;;;x
 b_devizes;Devizes;Devizes;Devizes;;Devizes;;;;;;;;;x
-b_ludgershall; Ludgershall; Ludgershall; Ludgershall;; Ludgershall;;;;;;;;;x
+b_ludgershall;Ludgershall;Ludgershall;Ludgershall;;Ludgershall;;;;;;;;;x
 b_wardour;Wardour;Wardour;Wardour;;Wardour;;;;;;;;;x
 #Somerset;;;;;;;;;;;;;;
 b_somerton;Somerton;Somerton;Somerton;;Somerton;;;;;;;;;x
@@ -5982,7 +5982,7 @@ b_maldon;Maldon;Maldon;Maldon;;Maldon;;;;;;;;;x
 b_havering;Havering;Havering;Havering;;Havering;;;;;;;;;x
 b_pleshey;Pleshey;Pleshey;Pleshey;;Pleshey;;;;;;;;;x
 b_dunmow;Dunmow;Dunmow;Dunmow;;Dunmow;;;;;;;;;x
-b_walden; Walden; Walden; Walden;; Walden;;;;;;;;;x
+b_walden;Walden;Walden;Walden;;Walden;;;;;;;;;x
 b_rayleigh;Rayleigh;Rayleigh;Rayleigh;;Rayleigh;;;;;;;;;x
 b_hadleigh;Hadleigh;Hadleigh;Hadleigh;;Hadleigh;;;;;;;;;x
 b_watford;Watford;Watford;Watford;;Watford;;;;;;;;;x
@@ -6001,7 +6001,7 @@ b_thetford;Thetford;Thetford;Thetford;;Thetford;;;;;;;;;x
 b_lynn;Lynn;Lynn;Lynn;;Lynn;;;;;;;;;x
 b_norwich;Norwich;Norwich;Norwich;;Norwich;;;;;;;;;x
 b_elmham;Elmham;Elmham;Elmham;;Elmham;;;;;;;;;x
-b_castle_rising;Castle Rising ;Castle Rising ;Castle Rising ;;Castle Rising ;;;;;;;;;x
+b_castle_rising;Castle Rising;Castle Rising;Castle Rising;;Castle Rising;;;;;;;;;x
 b_weeting;Weeting;Weeting;Weeting;;Weeting;;;;;;;;;x
 b_castle_acre;Castle Acre;Castle Acre;Castle Acre;;Castle Acre;;;;;;;;;x
 b_horsford;Horsford;Horsford;Horsford;;Horsford;;;;;;;;;x
@@ -6103,7 +6103,7 @@ b_leicester;Leicester;Leicester;Leicester;;Leicester;;;;;;;;;x
 b_sapcote;Sapcote;Sapcote;Sapcote;;Sapcote;;;;;;;;;x
 b_castle_donington;Donington;Donington;Donington;;Donington;;;;;;;;;x
 b_belvoir_leicester;Belvoir;Belvoir;Belvoir;;Belvoir;;;;;;;;;x
-b_leicester_abbey;St Mary de Pratis ;St Mary de Pratis ;St Mary de Pratis ;;St Mary de Pratis ;;;;;;;;;x
+b_leicester_abbey;St Mary de Pratis;St Mary de Pratis;St Mary de Pratis;;St Mary de Pratis;;;;;;;;;x
 b_ashby_de_la_zouch;Ashby;Ashby;Ashby;;Ashby;;;;;;;;;x
 b_melton_mowbray;Melton;Melton;Melton;;Melton;;;;;;;;;x
 b_market_harborough;Harborough;Harborough;Harborough;;Harborough;;;;;;;;;x
@@ -6204,7 +6204,7 @@ b_preston;Preston;Preston;Preston;;Preston;;;;;;;;;x
 b_liverpool;Liverpool;Liverpool;Liverpool;;Liverpool;;;;;;;;;x
 b_bolton;Bolton;Bolton;Bolton;;Bolton;;;;;;;;;x
 b_penworthham;Penworthham;Penworthham;Penworthham;;Penworthham;;;;;;;;;x
-b_clitheroe;Clitheroe ;Clitheroe ;Clitheroe ;;Clitheroe ;;;;;;;;;x
+b_clitheroe;Clitheroe;Clitheroe;Clitheroe;;Clitheroe;;;;;;;;;x
 b_blackburn;Blackburn;Blackburn;Blackburn;;Blackburn;;;;;;;;;x
 #Cheshire;;;;;;;;;;;;;;
 b_chester;Chester;Chester;Chester;;Chester;;;;;;;;;x
@@ -6310,7 +6310,7 @@ b_sanktveit;Sanktveit;Sanktveit;Sanktveit;;Sanktveit;;;;;;;;;x
 b_klagenfurt;Klagenfurt;Klagenfurt;Klagenfurt;;Klagenfurt;;;;;;;;;x
 b_karnburg;Karnburg;Karnburg;Karnburg;;Karnburg;;;;;;;;;x
 b_gurk;Gurk;Gurk;Gurk;;Gurk;;;;;;;;;x
-b_ossiach ;Ossiach;Ossiach;Ossiach;;Ossiach;;;;;;;;;x
+b_ossiach;Ossiach;Ossiach;Ossiach;;Ossiach;;;;;;;;;x
 b_eberndorf;Eberndorf;Eberndorf;Eberndorf;;Eberndorf;;;;;;;;;x
 b_millstatt;Millstatt;Millstatt;Millstatt;;Millstatt;;;;;;;;;x
 b_friesach;Friesach;Friesach;Friesach;;Friesach;;;;;;;;;x
@@ -6513,7 +6513,7 @@ b_akershus;Akershus;Akershus;Akershus;;Akershus;;;;;;;;;x
 b_oslo;Óslo;Óslo;Óslo;;Óslo;;;;;;;;;x
 b_bergheim;Bergheimr;Bergheimr;Bergheimr;;Bergheimr;;;;;;;;;x
 b_isegran;Isegran;Isegran;Isegran;;Isegran;;;;;;;;;x
-b_thorso;Þórshof ;Þórshof ;Þórshof ;;Þórshof ;;;;;;;;;x
+b_thorso;Þórshof;Þórshof;Þórshof;;Þórshof;;;;;;;;;x
 b_onsoy;Óðinssalr;Óðinssalr;Óðinssalr;;Óðinssalr;;;;;;;;;x
 b_hovedoeya;Hofudey;Hofudey;Hofudey;;Hofudey;;;;;;;;;x
 #;;;;;;;;;;;;;;
@@ -7256,7 +7256,7 @@ c_lika;Lika;Lika;Lika;;Lika;;;;;;;;;x
 b_udbina_krbava;Udbina;Udbina;Udbina;;Udbina;;;;;;;;;x
 b_senj;Senj;Senj;Senj;;Senj;;;;;;;;;x
 b_bihac;Bihac;Bihac;Bihac;;Bihac;;;;;;;;;x
-b_kaseg ;Kaseg ;Kaseg ;Kaseg ;;Kaseg ;;;;;;;;;x
+b_kaseg;Kaseg;Kaseg;Kaseg;;Kaseg;;;;;;;;;x
 b_brinje;Brinje;Brinje;Brinje;;Brinje;;;;;;;;;x
 #;;;;;;;;;;;;;;
 b_vrbaski_grad;Vrbaški Grad;Vrbaški Grad;Vrbaški Grad;;Vrbaški Grad;;;;;;;;;x

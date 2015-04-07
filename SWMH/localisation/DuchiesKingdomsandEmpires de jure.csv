@@ -30,7 +30,7 @@ k_norway;Norégr;Norégr;Norégr;;Norégr;;;;;;;;;x
 k_norway_adj;Norskr;Norskr;Norskr;;Norskr;;;;;;;;;x
 k_brittany;Breizh;Breizh;Breizh;;Breizh;;;;;;;;;x
 k_brittany_adj;Brezhoneg;Brezhoneg;Brezhoneg;;Brezhoneg;;;;;;;;;x
-k_poland;Polska ;Polska ;Polska ;;Polska ;;;;;;;;;x
+k_poland;Polska;Polska;Polska;;Polska;;;;;;;;;x
 k_poland_adj;Polski;Polski;Polski;;Polski;;;;;;;;;x
 k_lithuania;Lietuva;Lietuva;Lietuva;;Lietuva;;;;;;;;;x
 k_lithuania_adj;Lietuvos;Lietuvos;Lietuvos;;Lietuvos;;;;;;;;;x
@@ -42,7 +42,7 @@ k_serbia;Srbija;Srbija;Srbija;;Srbija;;;;;;;;;x
 k_serbia_adj;Srbi;Srbi;Srbi;;Srbi;;;;;;;;;x
 k_croatia;Hrvatska;Hrvatska;Hrvatska;;Hrvatska;;;;;;;;;x
 k_croatia_adj;Hrvatski;Hrvatski;Hrvatski;;Hrvatski;;;;;;;;;x
-k_bulgaria;Balgariya ;Balgariya ;Balgariya ;;Balgariya ;;;;;;;;;x
+k_bulgaria;Balgariya;Balgariya;Balgariya;;Balgariya;;;;;;;;;x
 k_bulgaria_adj;Bâlgarski;Bâlgarski;Bâlgarski;;Bâlgarski;;;;;;;;;x
 k_saxony;Sachsen;Sachsen;Sachsen;;Sachsen;;;;;;;;;x
 k_saxony_adj;Sächsische;Sächsische;Sächsische;;Sächsische;;;;;;;;;x
@@ -347,7 +347,7 @@ d_aquitaine;Aquitània;Aquitània;Aquitània;;Aquitània;;;;;;;;;x
 d_aquitaine_adj;Occitan;Occitan;Occitan;;Occitan;;;;;;;;;x
 d_lithuanians;Lietuva;Lietuva;Lietuva;;Lietuva;;;;;;;;;x
 d_lithuanians_adj;Lietuvos;Lietuvos;Lietuvos;;Lietuvos;;;;;;;;;x
-d_upper_burgundy;Haute Bourgogne ;Haute Bourgogne ;Haute Bourgogne ;;Haute Bourgogne ;;;;;;;;;x
+d_upper_burgundy;Haute Bourgogne;Haute Bourgogne;Haute Bourgogne;;Haute Bourgogne;;;;;;;;;x
 d_upper_burgundy_adj;Bourguigon;Bourguigon;Bourguigon;;Bourguigon;;;;;;;;;x
 d_silesia;Slask;Slask;Slask;;Slask;;;;;;;;;x
 d_silesia_adj;Slaski;Slaski;Slaski;;Slaski;;;;;;;;;x
@@ -1454,7 +1454,7 @@ d_syrmia_adj_alan;Syrmian;Syrmian;Syrmian;;Syrmian;;;;;;;;;x
 d_syrmia_adj_arberian;Syrmian;Syrmian;Syrmian;;Syrmian;;;;;;;;;x
 d_syrmia_adj_roman;Syrmian;Syrmian;Syrmian;;Syrmian;;;;;;;;;x
 d_syrmia_adj_german;Syrmische;Syrmische;Syrmische;;Syrmische;;;;;;;;;x
-d_syrmia_adj_hungarian;Szeréman ;Szeréman ;Szeréman ;;Szeréman ;;;;;;;;;x
+d_syrmia_adj_hungarian;Szeréman;Szeréman;Szeréman;;Szeréman;;;;;;;;;x
 d_syrmia_adj_turkish;Sireman;Sireman;Sireman;;Sireman;;;;;;;;;x
 d_syrmia_adj_moravian;Srieman;Srieman;Srieman;;Srieman;;;;;;;;;x
 d_hum;Zahumlje;Zahumlje;Zahumlje;;Zahumlje;;;;;;;;;x

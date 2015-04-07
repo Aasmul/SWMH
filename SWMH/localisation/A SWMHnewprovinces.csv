@@ -92,7 +92,7 @@ PROV996;Lublin;Lublin;Lublin;;Lublin;;;;;x;;;;
 PROV997;Nalshia;Nalshia;Nalshia;;Nalshia;;;;;x;;;;
 PROV998;Voigtland;Voigtland;Voigtland;;Voigtland;;;;;x;;;;
 PROV999;Legnica;Legnica;Legnica;;Legnica;;;;;x;;;;
-PROV1000;Szerém ;Szerém ;Szerém ;;Szerém ;;;;;x;;;;
+PROV1000;Szerém;Szerém;Szerém;;Szerém;;;;;x;;;;
 PROV1001;Zavrsje;Zavrsje;Zavrsje;;Zavrsje;;;;;x;;;;
 PROV1002;Donji Kraji;Donji Kraji;Donji Kraji;;Donji Kraji;;;;;x;;;;
 PROV1003;Primorje;Primorje;Primorje;;Primorje;;;;;x;;;;
@@ -736,7 +736,7 @@ PROV1640;Ionian Sea;Mer Ionienne;Ionisches Meer;;Mar Jónico;;;;;;;;;x
 PROV1641;Strait of Otranto;Détroit d'Otranto;Straße von Otranto;;Estrecho de Otranto;;;;;;;;;x
 PROV1642;Adriatic Sea;Mer Adriatique;Adria;;Mar Adriático;;;;;;;;;x
 PROV1643;Gulf of Venice;Golfe de Venise;Golf von Venedig;;Golfo de Venecia;;;;;;;;;x
-PROV1644;Aegean Sea;Mer Egée;Ägäis;;Mar Egeo  ;;;;;;;;;x
+PROV1644;Aegean Sea;Mer Egée;Ägäis;;Mar Egeo;;;;;;;;;x
 PROV1645;Cyclades;Cyclades;Kykladen;;Cícladas;;;;;;;;;x
 PROV1646;Sea of Crete;Mer de Crète;See von Kreta;;Mar de Creta;;;;;;;;;x
 PROV1647;Coast of Egypt;Côte d'Égypte;Ägyptische Küste;;Costa de Egipto;;;;;;;;;x
@@ -830,7 +830,7 @@ PROV1734;Western Mediterranean;Méditerranée Occidentale;Westliches Mittelmeer;;M
 PROV1735;Golfo de Valencia;Golfe de Valence;Golf von Valencia;;Golfo de Valencia;;;;;;;;;x
 PROV1736;Islas Baleares;Îles Baléares;Balearen;;Islas Baleares;;;;;;;;;x
 PROV1737;Ponant;Ponant;Ponant;;Ponant;;;;;;;;;x
-PROV1738;Mediterranean Sea;Mer Méditerranée;Mittelmeer;;Mar Mediterráneo  ;;;;;;;;;x
+PROV1738;Mediterranean Sea;Mer Méditerranée;Mittelmeer;;Mar Mediterráneo;;;;;;;;;x
 PROV1739;Golfe du Lion;Golfe du Lion;Golfe du Lion;;Golfo de León;;;;;;;;;x
 PROV1740;Lake Léman;Lac Léman;Léman-See;;Lago Lemán;;;;;;;;;x
 PROV1741;Cote d Azur;Côte d Azur;Cote d Azur;;Costa Azul;;;;;;;;;x
@@ -915,7 +915,7 @@ PROV1819;Don;Don;Don;;Don;;;;;;;;;x
 PROV1820;Don;Don;Don;;Don;;;;;;;;;x
 PROV1821;Smolnya;Smolnya;Smolnya;;Smolnya;;;;;;;;;x
 PROV1822;Smolnya;Smolnya;Smolnya;;Smolnya;;;;;;;;;x
-PROV1823;Smolnya ;Smolnya ;Smolnya ;;Smolnya ;;;;;;;;;x
+PROV1823;Smolnya;Smolnya;Smolnya;;Smolnya;;;;;;;;;x
 PROV1824;Pripjat;Pripjat;Pripjat;;Pripjat;;;;;;;;;x
 PROV1825;Dneiper;Dneiper;Dneiper;;Dneiper;;;;;;;;;x
 PROV1826;Dneiper;Dneiper;Dneiper;;Dneiper;;;;;;;;;x
@@ -940,7 +940,7 @@ PROV1844;Seine;Seine;Seine;;Seine;;;;;;;;;x
 PROV1845;Yonne;Yonne;Yonne;;Yonne;;;;;;;;;x
 PROV1846;Marne;Marne;Marne;;Marne;;;;;;;;;x
 PROV1847;Marne;Marne;Marne;;Marne;;;;;;;;;x
-PROV1848;Oise ;Oise ;Oise ;;Oise ;;;;;;;;;x
+PROV1848;Oise;Oise;Oise;;Oise;;;;;;;;;x
 PROV1849;Oise;Oise;Oise;;Oise;;;;;;;;;x
 PROV1850;Aisne;Aisne;Aisne;;Aisne;;;;;;;;;x
 PROV1851;Loire;Loire;Loire;;Loire;;;;;;;;;x
@@ -991,7 +991,7 @@ PROV1895;Lake Tana;Lake Tana;Lake Tana;;Lake Tana;;;;;;;;;x
 PROV1896;Lake Ghoubet;Lake Ghoubet;Lake Ghoubet;;Lake Ghoubet;;;;;;;;;x
 PROV1897;Lake Assal;Lake Assal;Lake Assal;;Lake Assal;;;;;;;;;x
 PROV1898;Lake Namak;Lake Namak;Lake Namak;;Lake Namak;;;;;;;;;x
-PROV1899;Redsea ;Redsea ;Redsea ;;Redsea ;;;;;;;;;x
+PROV1899;Redsea;Redsea;Redsea;;Redsea;;;;;;;;;x
 PROV1900;Redsea;Redsea;Redsea;;Redsea;;;;;;;;;x
 PROV1901;Redsea;Redsea;Redsea;;Redsea;;;;;;;;;x
 PROV1902;Gulf of Aden;Gulf of Aden;Gulf of Aden;;Gulf of Aden;;;;;;;;;x
