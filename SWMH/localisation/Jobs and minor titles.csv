@@ -3,7 +3,7 @@
 #JOBS;;;;;;;;;;;;;;
 ########################################;;;;;;;;;;;;;;
 job_chancellor_greek;Logothetes tou Dromou;Logothetçs tou Dromou;Logothetçs tou Dromou;;Logothetçs tou Dromou;;;;;;;;;x
-job_marshal_greek;Megas Domestikos ;Megas Domestikos ;Megas Domestikos ;;Megas Domestikos ;;;;;;;;;x
+job_marshal_greek;Megas Domestikos;Megas Domestikos;Megas Domestikos;;Megas Domestikos;;;;;;;;;x
 job_treasurer_greek;Megas Logothetes;Megas Logothetes;Megas Logothetes;;Megas Logothetes;;;;;;;;;x
 job_chancellor_welsh;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
 job_marshal_welsh;Penteulu;Penteulu;Penteulu;;Penteulu;;;;;;;;;x
@@ -40,9 +40,9 @@ job_spiritual_catalan;Confessor;Confessor;Confessor;;Confessor;;;;;;;;;x
 job_viceroy name_catalan;Virrei;Virrei;Virrei;;Virrei;;;;;;;;;x
 job_treasurer_norman;Bailli;Bailli;Bailli;;Bailli;;;;;;;;;x
 job_chancellor_polish;Kanclerz;Kanclerz;Kanclerz;;Kanclerz;;;;;;;;;x
-job_marshal_polish;Marszalek ;Marszalek ;Marszalek ;;Marszalek ;;;;;;;;;x
-job_treasurer_polish;Podkomorzy ;Podkomorzy ;Podkomorzy ;;Podkomorzy ;;;;;;;;;x
-job_spymaster_polish;Podkanclerzy ;Podkanclerzy ;Podkanclerzy ;;Podkanclerzy ;;;;;;;;;x
+job_marshal_polish;Marszalek;Marszalek;Marszalek;;Marszalek;;;;;;;;;x
+job_treasurer_polish;Podkomorzy;Podkomorzy;Podkomorzy;;Podkomorzy;;;;;;;;;x
+job_spymaster_polish;Podkanclerzy;Podkanclerzy;Podkanclerzy;;Podkanclerzy;;;;;;;;;x
 job_spiritual_polish;Kapelan;Kapelan;Kapelan;;Kapelan;;;;;;;;;x
 job_marshal_serbian;Vojvoda;Vojvoda;Vojvoda;;Vojvoda;;;;;;;;;x
 job_chancellor_russian;Dyak;Dyak;Dyak;;Dyak;;;;;;;;;x
