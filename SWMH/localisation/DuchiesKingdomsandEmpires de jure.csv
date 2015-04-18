@@ -521,7 +521,7 @@ d_acre;Acre;Acre;Acre;;Acre;;;;;;;;;x
 d_acre_adj;Acrean;Acrean;Acrean;;Acrean;;;;;;;;;x
 d_ascalon;Jaffa-Ascalon;Jaffa-Ascalon;Jaffa-Ascalon;;Jaffa-Ascalon;;;;;;;;;x
 d_ascalon_adj;Jaffan;Jaffan;Jaffan;;Jaffan;;;;;;;;;x
-d_galilee;Principauté  de Galilée;Principauté  de Galilée;Principauté  de Galilée;;Principauté  de Galilée;;;;;;;;;x
+d_galilee;Principauté de Galilée;Principauté de Galilée;Principauté de Galilée;;Principauté de Galilée;;;;;;;;;x
 d_galilee_adj;Galiléen;Galiléen;Galiléen;;Galiléen;;;;;;;;;x
 k_georgia;Sakartvelo;Sakartvelo;Sakartvelo;;Sakartvelo;;;;;;;;;x
 k_georgia_adj;Sakartvelo;Sakartvelo;Sakartvelo;;Sakartvelo;;;;;;;;;x
@@ -768,9 +768,9 @@ k_tuat_adj;Tuatian;Tuatian;Tuatian;;Tuatian;;;;;;;;;x
 k_hoggar;Hoggar;Hoggar;Hoggar;;Hoggar;;;;;;;;;x
 k_hoggar_adj;Hoggarian;Hoggarian;Hoggarian;;Hoggarian;;;;;;;;;x
 k_air;Air;Air;Air;;Air;;;;;;;;;x
-k_air-adj;Airian;Airian;Airian;;Airian;;;;;;;;;x
+k_air_adj;Airian;Airian;Airian;;Airian;;;;;;;;;x
 k_kawar;Kawar;Kawar;Kawar;;Kawar;;;;;;;;;x
-k_kawar-adj;Kawarian;Kawarian;Kawarian;;Kawarian;;;;;;;;;x
+k_kawar_adj;Kawarian;Kawarian;Kawarian;;Kawarian;;;;;;;;;x
 k_mzab;Mzab;Mzab;Mzab;;Mzab;;;;;;;;;x
 k_mzab_adj;Mzabian;Mzabian;Mzabian;;Mzabian;;;;;;;;;x
 k_tibesti;Tibesti;Tibesti;Tibesti;;Tibesti;;;;;;;;;x
