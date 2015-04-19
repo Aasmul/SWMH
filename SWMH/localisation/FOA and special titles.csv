@@ -17,7 +17,7 @@ PALATINE;Pfalzgraf;Pfalzgraf;Pfalzgraf;;Pfalzgraf;;;;;;;;x;
 PALATINEA;Pfalzgräfin;Pfalzgräfin;Pfalzgräfin;;Pfalzgräfin;;;;;;;;x;
 PALATINE_FOA;Your Right Honourableness;Your Right Honourableness;Your Right Honourableness;;Your Right Honourableness;;;;;;;;x;
 PALATINE_OF;Pfalzgrafschaft bei Rhein;Pfalzgrafschaft bei Rhein;Pfalzgrafschaft bei Rhein;;Pfalzgrafschaft bei Rhein;;;;;;;;x;
-ARCHDUKE;ArchDuke;ArchDuke;ArchDuke;;ArchDuke;;;;;;;;x;
+ARCHDUKE;Archduke;Archduke;Archduke;;Archduke;;;;;;;;x;
 ARCHDUKE_OF;Archduchy of;Archduchy of;Archduchy of;;Archduchy of;;;;;;;;x;
 GRANDDUKE;Didžioji Kunigaikštyste;Didžioji Kunigaikštyste;Didžioji Kunigaikštyste;;Didžioji Kunigaikštyste;;;;;;;;x;
 GRANDDUKE_FOA;Your Grace;Your Grace;Your Grace;;Your Grace;;;;;;;;x;
@@ -131,8 +131,8 @@ HANSE_female;Hochmeisterin;Hochmeisterin;Hochmeisterin;;Hochmeisterin;;;;;;;;;x
 HANSE_title_ruler_consort_female;Our Lady;Our Lady;Our Lady;;Our Lady;;;;;;;;;x
 HANSE_FOA;Your Grace;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
 HANSE_OF;Hochmeister of;Hochmeister of;Hochmeister of;;Hochmeister of;;;;;;;;;x
-Grand_Duke;Grand Duke;Grand Duke;Grand Duke;;Grand Duke;;;;;;;;;x
-Grand_Duke_foa;Grand Duke;Grand Duke;Grand Duke;;Grand Duke;;;;;;;;;x
+Grand_duke;Grand Duke;Grand Duke;Grand Duke;;Grand Duke;;;;;;;;;x
+Grand_duke_foa;Grand Duke;Grand Duke;Grand Duke;;Grand Duke;;;;;;;;;x
 Grand_duchy_of;Grand Duchy of;Grand Duchy of;Grand Duchy of;;Grand Duchy of;;;;;;;;;x
 title_female_child;Her Highness;Her Highness;Her Highness;;Her Highness;;;;;;;;;x
 title_male_child;His Highness;His Highness;His Highness;;His Highness;;;;;;;;;x
