@@ -3472,7 +3472,7 @@ e_hre = {
 		color={ 78 98 40 }
 		color2={ 220 220 20 }
 		
-		capital = 258 #LEeburg
+		capital = 258 #Lüneburg
 		culture = german
 		name_tier = duke
 		
