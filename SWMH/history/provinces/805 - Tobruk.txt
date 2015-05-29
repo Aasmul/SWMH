@@ -4,12 +4,12 @@
 title = c_tobruk
 
 # Settlements
-max_settlements = 3
+max_settlements = 7
 
 b_tobruk = castle
 b_lakka = city
+b_bardia = temple
 
-#b_bardia = temple
 #b_alqardabah = castle
 
 #b_acroma = castle
