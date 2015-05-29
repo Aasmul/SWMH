@@ -6103,11 +6103,7 @@ e_hre = {
 		dignity = 30 # One more than Burgundy
 	}
 	allow = {
-		realm_size = 120
-		ruled_years = 5
-		war = no
-		is_adult = yes
-		NOT = { tier = emperor }
+		FROM = { has_holder = yes } # Only allow usurp. Should only be created by decision.
 	}
 } # END e_hre
 
