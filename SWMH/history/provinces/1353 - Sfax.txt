@@ -4,11 +4,10 @@
 title = c_sfax
 
 # Settlements
-max_settlements = 7
+max_settlements = 2
 
 b_sfax = castle
 b_alhamma = temple
-b_manziljamal = city
 
 # Misc
 culture = maghreb_arabic
